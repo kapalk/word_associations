@@ -19,7 +19,7 @@ def create_cleaned_files(src_dir, dest_dir):
 
     for filename in os.listdir(src_dir):
 
-        fname, ext = os.path.splitext(filename)
+        fname, _ = os.path.splitext(filename)
 
         src = os.path.join(src_dir, filename)
         dest = os.path.join(dest_dir, fname + '.txt')
