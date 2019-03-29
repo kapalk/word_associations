@@ -107,7 +107,7 @@ class WikitravelClient:
 def main():
     
     crawler = WikitravelClient()
-    crawler.get_countries(crawler.countries[:10])
+    crawler.get_countries(crawler.countries)
     
 if __name__ == '__main__':
     main()

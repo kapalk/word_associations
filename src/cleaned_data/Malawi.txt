@@ -1,0 +1,321 @@
+{{pagebanner|Malawi banner.jpg}}
+
+{{quickbar
+| image=MalawiHerding.jpg
+| caption=a herder in Malawi
+| location=Malawi in its region.svg
+| flag=Flag of Malawi.svg
+| capital=[[Lilongwe]]
+| government=Multiparty democracy
+| currency=Malawian kwacha (MWK)
+| area=94,080km²
+| population=13,013,926 (July 2006 est.)
+| language=English (official), [[Nyanja phrasebook|Chichewa]] (official), other languages important regionally
+| religion=Protestant 55%, Roman Catholic 20%, Muslim 20%, indigenous beliefs 3%, other 2%
+| electricity=230V/50Hz (UK plug)
+| callingcode=+265
+| tld=.mw
+| timezone=UTC+2
+}}
+[http://www.guide2malawi.com/ '''Malawi'''] (Chichewa: ''Malaŵi'') is a country in [[Africa]], bordered by [[Mozambique]] to the south and east, [[Tanzania]] to the north, [[Zambia]] to the west. Lake Malawi, the third largest lake in Africa, runs along most of its eastern border. It's often described as the "''Warm Heart of Africa''", referring to the friendliness of the people.
+
+==Understand==
+
+===History===
+Established in 1891, the British protectorate of Nyasaland became the independent nation of Malawi on 6 July 1964. Hastings Kamuzu Banda (born in March or April 1898 and died 25 November 1997) was the leader of Malawi and its predecessor state, Nyasaland, from 1961 to 1994. After three decades of one-party rule, the country held multi-party elections in 1994 under a provisional constitution, which took full effect the following year. National multi-party elections were held again in 1999 and 2004 electing Bingu wa Mutharika as president. President Bingu died in office on 5 April 2012 and was succeeded by Mrs Joyce Banda. The next elections are due in 2014.
+
+===Climate=== 
+Much of Malawi is plateau, often reaching to 1,000m (3,000&nbsp;ft), and the temperature in these highlands is moderate, with the hottest period occurring during the autumn rainy season and the coolest and chilliest in winter. The hottest region in the country is the lower Shire River Valley well south of Blantyre. Temperatures along scenic Lake Malawi are generally warm, but with a cooling breeze, especially in the evenings. Winters (May till July) are dry. The rainy season begins in mid-October to early November and generally runs until March.
+
+===Culture===
+Malawi’s people are its greatest asset - friendly, welcoming, colourful and vibrant. It's impossible to visit and not become engaged with the people, but there are now opportunities to spend time in real villages (including staying overnight) for a first-hand experience of the cultures, traditions and daily life. This is an option pretty much everywhere in Malawi, and one well worth taking.
+
+There’s also much to see of Malawi’s history, beginning with the pre-history remains of the Karonga district and the Stone Age rock paintings near Dedza. The Cultural & Museum Centre at Karonga is well worth a visit. Elsewhere, the colonial period is preserved in buildings dating from the David Livingstone era and the defeat of the Arab slave trade is well documented in the museums of Blantyre. Among other museums around the country are a Lake Museum at Mangochi, a mission museum at Livingstonia and a postal services museum near Zomba
+
+==Regions==
+{{Regionlist|
+regionmap=Malawi map.png |
+regionmapsize=400px |
+
+region1name=[[Northern Malawi]]   |
+region1color=#b5d29f  |
+region1items= |
+region1description= |
+
+region2name=[[Central Malawi]]   |
+region2color=#c87b82  |
+region2items=  |
+region2description= |
+
+region4name=[[Southern Malawi]] |
+region4color=#d5dc76 |
+region4items= |
+region4description= |
+}}
+
+==Cities==
+<!-- Only 9 cities in this list, put the others in the appropriate region article -->
+*[[Lilongwe]] - the political capital of Malawi and seat of government
+*[[Blantyre]] - economic capital and largest city; Blantyre's a large and thriving city with an interesting downtown, decent nightlife and music, a range of hotels from the elegant to rest houses, and a vibrant street and market culture
+* [[Mzuzu]] - largest town in the Northern Region and a staging-post for transport to [[Tanzania]]
+* [[Karonga]] - quickly growing spurred on by the recent development of a uranium mine and a charming town, not far from the intriguing Misuku Hills and a short distance from Lake Malawi
+* [[Mangochi]] - medium-sized town, formerly known as Fort Johnston, at the southern end of Lake Malawi where it empties into the Shire River and a jumping-off point for the resorts and hostels up the coast of Lake Malawi, on the way to peninsular Cape Maclear
+* [[Monkey Bay]] - a popular large village as you head up the Lake Road from Mangochi toward Cape Maclear
+* [[Nkhata Bay]] - a rocky bay towards the north of the lake - check into one of the lodges and you could be here for a while.
+* [[Nkhotakota]] on the shores of Lake Malawi in the Central Region, is where the explorer David Livingston sat down with the Swahili Arab slave traders to attempt to negotiate an end to the slave trade. Nkhotakota was a slave entrepot, from which slaves were ferried across Lake Malawi to the eastern shore to resume their travel over land to what is now the Tanzanian coast. Nkhotakota is a compact and fascinating town, old in its way and true to the ethnic diversity of this region of Malawi. The place is renowned amongst the tourists for its unspoilt golden sandy beaches north of Nkhotakota. It is home to several small family-run resorts.
+* [[Zomba]] is the old colonial capital of Malawi and is noted for its British colonial architecture, the University of Malawi, and the remarkable Zomba Plateau which rises immediately west of the city. While in Zomba, visit the extensive market, purchase fabric and handicrafts.
+
+==Other destinations==
+* [[Cape Maclear]] - laid back fishing village on the tip of a peninsula jutting out into the southern portion of Lake Malawi. The Cape has excellent, sandy beaches and crystal-clear water perfect for swimming, and is a favourite among backpackers, boaters, and sun-seekers.
+* [[Likoma Island|Likoma]] and [[Chisumulu Island]]s - great sea life and a backdoor to [[Mozambique]].
+* [[Liwonde National Park]] - 550km² of unspoiled forest along the shores of the Shire River. The national park is best approached from the town of Liwonde.  A half-hour boat ride up the Shire will show some of the remarkable wildlife of the region, especially hippo's, elephant, and fish eagles.
+* [[Ntchisi Forest Reserve]] - stunning rainforest in rural, untouched area
+* [[Majete Wildlife Park]]
+* [[Mount Mulanje]] is the highest peak south of Kilimanjaro and a favourite among climbers attempting to reach Sapitwa Peak, the tallest of Mulanje's peaks.
+* [[Nyika National Park]] - Malawi's biggest national park is on the 1800m high Nyika Plateau
+* [[Zomba Plateau]]
+<!--
+* [[Thyolo Tea Estates]]
+* [[Kasungu National Park]]  
+* [[Lake Malawi National Park]]
+* [[Lengwe National Park]]
+* [[Viphya Plateau]]
+* [[Shire Valley]]
+* [[Lake Chilwa]]
+* [[Mua]]
+Kuti community Wildlife Park - 90km from Lilongwe on Salima Road where you will get closer to zebra than anywhere else in Africa.
+-->
+
+See also [[African National Parks]]
+
+==Get in==
+
+====Visa-free====
+
+Nationals of [[Antigua and Barbuda]], the [[Bahamas]], [[Barbados]], [[Belize]], [[Botswana]], [[Dominica]], [[Fiji]], the [[Gambia]], [[Grenada]], [[Ireland]], [[Israel]], [[Jamaica]], [[Kenya]], [[Kiribati]], [[Lesotho]], [[Malaysia]], [[Mauritius]], [[Mozambique]], [[Namibia]], [[Nauru]], [[Saint Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]], [[Samoa]], [[Seychelles]], [[South Africa]], [[Swaziland]], [[Tanzania]], [[Trinidad and Tobago]], [[Tuvalu]], [[Uganda]], [[Zambia]] and [[Zimbabwe]] may enter Malawi visa-free for up to 90 days.
+
+Nationals of [[Hong Kong]] may enter Malawi visa-free for up to 30 days.
+
+====Visas====
+
+Nationals of [[Afghanistan]], [[Bangladesh]], [[Burkina Faso]], [[Burundi]], [[Cameroon]], [[Central African Republic]], [[Chad]], [[Egypt]], [[Ethiopia]], [[Iran]], [[Iraq]], [[Kazakhstan]], [[Lebanon]], [[Libya]], [[Mali]], [[Nigeria]], [[Pakistan]], [[Palestine]], [[Russia]], [[Rwanda]], [[Somalia]], [[South Sudan]], [[Sudan]], [[Syria]], [[Tunisia]], [[Turkey]], [[Ukraine]], [[Uzbekistan]] and [[Yemen]] must apply for a visa from a Malawian embassy prior to departure at a cost of $100 for a 90 day visa, and $70 for a 7 day transit visa. 
+
+Nationals of all other nations not specified above may obtain a visa on arrival valid for 90 days. A single entry visa on arrival is good for 90 days and costs US $75, a 7 day transit visa costs $50. Visas on arrival have to be paid for in US dollars.
+
+===By plane===
+
+Malawi's largest international airport is in [[Lilongwe]], although there are also some flights from [[Blantyre]] to regional destinations.
+Most travellers connect via [[Johannesburg]] ([[South Africa]]), [[Addis Ababa]] ([[Ethiopia]]) or [[Nairobi]] ([[Kenya]]).  
+
+State carrier [http://www.flyairmalawi.com Air Malawi] claims to be "Africa's Friendliest Airline", but its limited network covers only nearby countries. They have flights from Blantyre to Lilongwe and back, 7 days a week. Three times a week they fly from both Lilongwe and Blantyre to Johannesburg (Su, W & F). Two times a week there is a flight to [[Dar es Salaam]] (Tanzania), from Blantyre and Lilongwe (sun, thu). [[Lusaka]] (Zambia) is three times a week (Su, W & F) and [[Harare]] (Zimbabwe) is also three times a week (Su, W & Sa).
+
+[http://www.swiftairmalawi.com/ Swift Air] is a privately owned airline operating flights between Johannesburg, Blantyre and Lilongwe. It operates a Boeing 737 aircraft. 
+
+The previous international departure tax of USD30 is now included in the air fare.
+
+[http://www.nyassa.mw/''Nyassa Air Taxi''] has a shuttle service from USD280 per person from [[Mfuwe]] to [[Lilongwe]].
+
+Budget carrier, FastJet, used to offer cheap airfares from Lilongwe to Dar es Salaam. But it has stopped flying this route.
+
+===By train===
+There are trains twice a week from [[Blantyre]] to [[Cuamba]] and [[Nampula]] in northern [[Mozambique]], although a 77km stretch of track between the Mozambique border and Cuamba is out of commission and must be covered by truck.
+
+Trains are no longer running in Malawi. Minibuses are doing all the stretches of road, and you can catch trains in Mozambique.
+
+===By boat===
+A ferry runs twice a week from [[Likoma Island]] to [[Cobuè]] and Metangula in Mozambique.
+
+===By car===
+The main road (M1) runs from the northern border (Kaporo) through Karonga, Mzuzu, Lilongwe and finally to Mchinji and is in excellent shape. There is an excellent road from [[Lilongwe]] to [[Mchinji]] on the Zambian border (120km).
+
+===By bus===
+To get into Malawi from Mozambique, in the south, one can take the bus from Tete (north-west [[Mozambique]]) to Zobwe. After crossing, take another bus from the border to [[Blantyre]]. This crossing is quite hectic, and it is closed at night, so one should plan on getting there early, and trying to keep it cool with all the border-hawkers.
+
+Direct buses run from [[Lusaka]], Zambia to [[Lilongwe]], but are best avoided (or done in stretches) if 18-20 hours on a bus doesn't sound like your idea of a good time. There is also minibus from [[Mbeya]] in [[Tanzania]] to the border. From the border in Malawi Side, take a taxi to [[Karonga]]. The cost is around MWK400-500 depending on negotiation. From Karonga bus station, take a bus or minibus to other destinations in Malawi. Bus is cheaper than minibus. The easiest way take direct bus from Dar Es Salaam in [[Tanzania]] to [[Mzuzu]] or [[Lilongwe]].
+
+Note that there are NO direct buses from Mbeya to Malawi although scammers in Mbeya bus station will tell you so, and sell you tickets. You must take a bus to the border and walk across.
+
+===By thumb===
+It is very easy to get into Malawi from the border with Tanzania by thumb. Because of the enormous amount of people importing cars from Dar es Salaam, and the fact that there is only one good road south, all cars and trucks are going the same way. As always with hitchhiking in Africa, most people will expect some kind of payment, but it will most likely be cheaper than public transport. If coming from [[Dar es Salaam]], get a bus that goes to Malawi, like the Taqwa, and buy a ticket to the Kasumulu Border only. If you don't manage to get a ride onwards you can always jump back on the bus which waits the whole day at the border for Customs checks. The best place to wait is the entry gate at left side of the building (coming from Tanzania) where all cars have to pass through. That's the same side where you have to get your visa. A lot of friendly people, people waiting for their cars to be allowed in or even the police will be very friendly and offer to help you finding a ride. Lilongwe will probably cost around MWK4000-5000 (€10 / USD13). Just don't tell any police checkpoints that you are paying your driver. They will see it as illegal taxi business on the drivers part and fine him between MWK5000-10000 on the spot.
+
+==Get around==
+Compared to its neighbours, the main roads in Malawi are in surprisingly good shape and travel times between major destinations should be reasonable.  The volume of traffic is low and most people drive reasonably slowly.  Road travel after dark is not advisable as road markings are poor to non-existent and not all cars have headlights.
+
+The Malawian police force have check points along many of the major roadways.  By and large, they are looking for illegal activities and bribes - but aren't too much of a problem. Expect to be stopped on occasion and asked where you are going. You should not have any problems if you are polite and have the correct documentation (passport, driving licence, permission to use the vehicle, etc.) available if they ask
+
+===By car===
+Like most other former British colonies, traffic moves on the left in Malawi with most cars having their steering wheel on the right. Drink-driving is prohibited in Malawi. It has a zero-tolerance rule meaning that a driver must not consume any alcohol at all.
+
+Local car rental companies:
+
+*<listing name="Apex Rent-a-Car Malawi" alt= url="http://www.apexrentacarmw.com">Sedans, 4x4s, even buses.</listing>
+
+*<listing name="SS Rent-a-Car" alt= url="http://www.malawitourism.com/pages/content/index.asp?PageID=112">4x4s, 16 and 26 seat buses, Motorbikes</listing>
+
+*<listing name="Sputnik Car Hire" alt= url="http://www.malawitourism.com/pages/content/index.asp?PageID=102">4x4s,buses,trucks</listing>
+
+Transfers
+You can book a transfer online to or from the airports and between main tourist points.
+
+Unfortunately many car rentals in Southern Africa do not allow you to enter Malawi with their cars. You might have the best chances if you rent a car in [[Zambia]].
+
+===By boat===
+Travelling by boat is surely the most enjoyable mode of getting around in Malawi. The ''Ilala'' ferry runs north from Monkey Bay to Chilumba (departs F 10:00, arrives Su 18:30), and back southbound on the same route (departure Chilumba on Monday 02:00, arriving at Monkey Bay on Wednesday at 14:00). Prices are rising with every year, but so is the ferry's reliability: some years back (before its privatization) it was perfectly normal to arrive a day late sometimes. The ''Ilala'' thus connects [[Likoma Island]] twice a week with the mainland, and the much closer [[Cobuè]] in [[Mozambique]], respectively. 
+Prices in January 2006 were about 6000 Malawian kwacha from Monkey Bay to Likoma, and MWK1600 from Likoma to [[Nkatha Bay]]. If you are on a schedule and don't mind a more uncomfortable ride, you might be able to catch the Malungo ferry from Nhkata Bay to Likoma on Saturday morning, but make sure to check at the harbor the day before. 
+
+===By plane===
+[http://www.airmalawi.com'''Air Malawi'''] flies small propeller planes between the three big cities of [[Lilongwe]], [[Mzuzu]] and [[Blantyre]].
+
+[http://www.nyassa.mw/'''Nyassa Air Taxi'''] is by far the preferred choice to fly guests in and around Malawi.
+
+[http://www.swiftairmalawi.com '''Swiftair'''] operates scheduled domestic flights between Lilongwe, Mzuzu, Karonga and Blantyre on a twin engine, dual crew Beechcraft 1900 
+
+===By bus===
+"Luxury" buses, medium-sized buses, and minibuses all service Malawi. They vary in comfort and price. Vehicle condition can be very poor and road accidents are relatively common.
+
+Probably the best national coach services are provided by AXA Bus Company. They have their main office building very close the the immigration department in Lilongwe. They are also the only company with some sort of a timetable which they follow very well for Malawian standards. AXA coaches go to the bigger cities of Malawi and generally don't stop in small towns.
+
+Other bus companies include UDK Passenger Services, National Bus Company and Restoration Express (Mostly northern region of Malawi). These buses go on a full is go basis. They wait for a full bus and then depart. Not much of a timetable. National Bus Company seems to have the most extensive network in the country, and stops in every small town if required. UDK seems to be the fastest option, after AXA. Prices for Zomba - Lilongwe with UDK are MWK2,500 as of February 2013. Whereas AXA charges you double, for only a little more comfort.
+
+Medium-sized buses tend to be big minibuses, coasters, that stop everywhere just like minibuses. Their seats offer more comfort than minibus seats, although when they fill up, they fill up good and most of your comfort will be squeezed out of you by your neighbours, and their speed will drop incredibly.
+
+===By minibus===
+The cheapest way to get around [[Lilongwe]] is by minibus. The cost to get from the old town to suburbs is MWK250-400 depending on time of the day.
+
+Unlike the general idea that minibuses fly over the road, ignoring every traffic sign. They are the slowest mode of transportation. In general, transport in Malawi is slow, but it's not unheard of doing Lilongwe to Zomba in 7 or 8 hours on a minibus whereas most big buses do it in 5 to 6 hours. Also, minibuses are more expensive than the big buses on longer distances.
+
+===By taxi===
+'''Taxis''' are available in any city, whether they are licensed or not. Be prepared to negotiate as quoted prices to tourists are generally two to three times the actual going rate. Ask a friendly local or expat what the price should be. '''Rental cars''' are also available in these towns.  Costs vary depending on vehicle type, but expect a compact car to run about USD60/day.
+
+==Talk==
+The official languages of Malawi are '''English''' and '''[[Nyanja phrasebook|Chichewa]]'''. English is widely spoken in urban areas and by the well-educated upper class, though outside of that, a few words in Chichewa will go a long way. Chichewa is the first language of the majority of the population, and knowing Chichewa will get you by in most of Malawi though in some very remote areas, learning the local tongue might be essential. Locals always appreciate any attempts by foreigners to speak Chichewa and learning at least a few basic greetings would do well to ingratiate yourself to the locals. [[Tumbuka phrasebook|Tumbuka]] is the first language for many people in the north of the country. Chiyao is spoken by the Yao people who live mostly in the Southern District of the country. A multi-cultural country, Malawi has over a dozen indigenous ethnic groups, each with its own distinct language. However, even in those areas, many younger people will be bilingual in the local language and Chichewa. In the northernmost region of the country, Chitipa district, two additional languages are predominant: Chindali and Chilambya. Many people in the rural areas of Chitipa outside of the boma, or towncenter, are not even familiar with Chitumbuka, the language of the northern region.
+
+==See==
+Malawi has a massive diversity of beautiful landscapes. The highest peaks in Malawi touch 10,000&nbsp;ft (3,000m) while the lowest point is barely above sea level. This range of altitudes in a small area help to make the landscape of Malawi one of the most varied in all Africa. It is generally a green, lush country, with plateaux, highlands, forests, mountains, plains, escarpments and dramatic river valleys.
+
+The Rift Valley is the dominant feature, providing the vast chasm that Lake Malawi fills, and extending to te south of the country following the Shire River that drains the Lake. The flatter areas of the Rift Valley in South Malawi are home to some important wetlands, including Elephant Marsh, down in the Lower Shire Valley.
+
+To the west of the Lake and either side of the Shire Valley in the south is the Central African Plateau. The transition from Rift Valley floor up to the Central African Plateau is characterised by a series of dramatic escarpments, such as at Nkhotakota Wildlife Reserve, a protected area of rugged, unspoiled wilderness. The Central African Plateau itself is gently undulating land between 1,600&nbsp;ft (490m) and 5,000&nbsp;ft (1,500m), with the occasional lake (such as Lake Chilwa) and punctuated by more dramatic hills and forests.
+
+It is the widespread highlands and forests that provide the most impressive of the Malawi's varied scenery. Up where the air is fresh and cool are clear mountain streams, heaths, rolling montane grassland and evergreen forests.
+
+The southern part of Malawi has the best known highlands - Mulanje Massif and Zomba Plateau. The former is a massive wilderness plateau of syenite granite rising from the Phalombe Plains. It has a number of peaks, including the highest in both the country and the whole of central Africa: Sapitwa, at 3,000m (10,000 feet). The tea estates that stretch west of Mulanje as far as Thyolo, are also wonderfully scenic. Zomba Plateau is not as high as Mulanje, but none the less impressive. It is slab-like with a gently undulating plateau top which is accessible by road.
+
+The Dedza-Kirk Highlands extend the rise from the Rift Valley on its western edge between Blantyre and Lilongwe. The northern part of these highlands is marked by the Dedza-Salima Forest Reserve and then the Thuma Forest Reserve. South-west of Lilongwe, the Dzalanyama Forest Reserve covers a range of hills at the border with Mozambique. The Dowa Highlands, north of Lilongwe, have their most notable peaks at Dowa and the Ntchisi Forest Reserve.
+
+The Viphya Highlands - undulating hills swathed in evergreen forests - stretch north-south in north Malawi and reach the edge of the Rift Valley. Finally, in north Malawi is the Nyika Plateau, a rolling whaleback grassland plateau unique in Africa. Much of this highest and most extensive high plateau surface in central Africa is gazetted as the Nyika National Park.
+
+==Do==
+For a small country, Malawi has a quite remarkable array of activities to offer its visitors. The magnificent Lake Malawi is a haven for boat activities and water-sports, as well as having some of the best freshwater diving sites in the world, right in Nkhata Bay. Eight land-based national parks and wildlife reserves offer all type of safaris in a wide variety of natural wilderness environments. Liwonde National Park, along the Shire River, has hippos (including an albino one!), crocodiles, lions, elephants and even leopards (apparently). The mixed terrain and varied landscapes also provide for excellent outdoor activities, including trekking and mountain biking, particularly in the highland areas. Those seeking cultural experiences are also well served by sites of historical interest and simple village visits to meet the ever-smiling Malawians in their daily life. You can visit the Carlsberg factory in Blantyre, climb Mt. Mulanje (a series of high hills, mountains - making a good trek), drive up or climb Zomba Plateau, go horseback riding in Kande or Nyika, or just relax on the beaches of Cape Maclear.
+
+Specialist tours/activities include yoga holidays, tea factory tours and art safaris. Pottery classes are available at two centres in Dedza and Nkhotakota. In the summer months of Malawi (September/October) there is the Lake of Stars international music festival on the beaches of Sunbird Nkopola Lodge in Mangochi. 2011's festival included Foals, Freshlyground, The Black Missionnaries, Lucius Banda, Beverley Knight and Chris Baio from Vampire Weekend. 2010's festival included The Noisettes, Get Cape. Wear Cape. Fly. and Oliver Mtukudzi. This is a good festival, where you can relax in the sun on the beach having a few drinks and listening to some good music. Camping is the prominent form of accommodation, however many people do chose to stay in Sunbird Nkopola rooms themselves, or in rooms or cottages of nearby lodges.
+
+One of the most interesting ways to get to know a country and its people, and which has become increasingly popular,  is to  '''volunteer'''. As  volunteer you can support Malawi in terms of community development, wildlife conservation or education.
+To get a broad overview of all the organizations that offer volunteer opportunities in Malawi, you can search and compare the projects on a comparison platform[https://www.volunteerworld.com/en/volunteer-abroad/malawi] for international volunteer work.
+
+==Buy==
+The local currency is the '''Malawi kwacha''', symbolised '''MWK'''. The currency is freely convertible (but impossible to get rid of outside Malawi) and, as of September 2016, trades at around MWK729 to the US dollar, MWK819 to the euro and MWK971 to the pound sterling. Forex will also be accepted by almost everybody, particularly for larger purchases. 
+
+You can exchange Malawian kwacha into Zambian kwacha at the border, either at the banks or on the black market too.
+
+Larger foreign bills are favoured and can get much higher rates. At times, it can be easier to not even go to the black market and simply make purchases with the foreign currency. 
+
+'''Credit card''' acceptance is improving. Visa and MasterCard are accepted by larger hotels, and some ATMs. ATMs are becoming much more common and can be used at many banks in major cities, though most notably, Master card and VISA is the card of choice.
+
+'''Travellers' cheques''' can be changed in banks, forex bureaus and in some high-end hotels. The number of hotels accepting payment by travellers' cheque seems to be shrinking. Don't rely on them unless you have spoken to the hotel. Also, banks often want to see your original paperwork from your bank when you purchased the traveller's cheques.  Without it, you may not be able to exchange them.  US dollars '''cash''' is your best bet, and it gives a better exchange rate.
+
+Handmade wood and soapstone carvings, wood and cane furniture, colourful textiles, pottery, beadwork have high standards - especially at the Mua Mission to the south of Salima. They have their own shop and traditional musical instruments make good souvenirs throughout Malawi. Australians and New Zealanders will need to factor in the fumigation and quarantine charges when they return home, though.
+
+==Eat==
+[[Image:Nsima Relishes.JPG|thumb|upright=1.3|''Nsima'' with three relishes: rape and peanut (top left), cabbage (bottom left) and ''kapenta'' (bottom right)]]
+
+Traditional Malawian food revolves around one staple, '''maize''', served in one form, '''''nsima''''' (n'SEE-ma).  Nsima is basically a type of thick porridge, rolled into balls with your right hand and dipped into a variety of stews known as '''relishes'''.  Those who can afford them eat relishes of beef, chicken or fish, but the many who can't make do with beans, tiny dried fish (''usipa''), pumpkin leaves (''chibwabwa'') and other vegetables.  At breakfast, nsima can be served watered down into a soup, maybe with a little sugar.  Local restaurants will serve nsima and relish for less than MWK2000 (USD3).
+
+Food options in the major cities of [[Lilongwe]] and [[Blantyre]] are good.  Fast food &mdash; to include burgers, pizza, and fried chicken &mdash; is very popular in Malawi.  For sit-down meals, ethnic eateries (thanks to a significant ex-pat population) are popular.  Do note that, in many restaurants, '''pork''' products are not served to accommodate the Muslim population.
+
+Outside the larger cities, however, you might be a little underwhelmed with food options.  Along the major roadways, you will find "tuck shops" featuring packaged cookies or Take Away Meals &mdash; meat pies or sausage rolls, for instance &mdash; which may or may not satisfy you.
+
+Finally, in terms of '''hygiene''' outside the major cities, you are unlikely to find a proper washroom with running water.  You will probably be given a bowl of water, a piece of soap, and a (damp) towel.  Therefore, some travellers bring small bottles of anti-bacterial hand soap with them.
+
+==Drink==
+Tap water in major cities like Lilongwe, Blantyre, Zomba and Mzuzu is generally safe. Ask at the lodge/house you're at. Some travellers with weaker stomachs may be advised to avoid this drinking water. Bottled water is plentiful in all the major shops.
+
+===Soft drinks===
+A traditional local drink worth trying is '''''maheu''''', a somewhat gritty and vaguely yogurty but refreshing beverage made from maize meal. Factory-produced maheu is sweet, comes in plastic bottles and is available in a variety of flavors including banana, chocolate and orange, while homemade versions are usually unflavored and less sweet.
+
+The variety of soft drinks in Malawi is very popular - there's Coke, Sprite, Tonic, Ginger Ale, Soda Water, Cherry Plum, Cocopina and the very tasty, sugary Fantas (coming in Orange, Grape, Exotic, Passion and Pineapple flavours). These are manufactured by SOBO, the glass bottles are on a deposit system. Expect to pay MK100 extra per bottle unless you bring some 'empties' with you.
+
+===Alcohol===
+The only beers you will generally find are brewed in Blantyre by '''Carlsberg''', and it's products are available in restaurants and stores throughout the country. A normal Carlsberg is known as a 'green', but also come as Special Brew, Stout, Classic, Elephant, Light or Kuche Kuche. You can also buy imported drinks such as Heineken, Kronenbourg, Smirnoff Ice, Barcadi Breezer and some ciders in certain bars. Malawi also produces it's own spirits - notably Malawi Vodka, Malawi Gin, Malawi Rum, Gold Label Brandy and the cane spirit Powers. Malawi Gin & Tonic is a very nice, popular expat drink in the country.
+
+==Sleep==
+Western-standard hotels can be found in [[Blantyre]], [[Lilongwe]], [[Zomba]] and [[Mzuzu]], as well as along the shores of Lake Malawi.  The Lake Malawi resort hotels cater primarily to international tourists.
+
+There are high-level five-star resort hotels in some rural areas charging western prices. Typical 5 star in Blantyre/Malawi would cost upwards of $220/night if booked at the hotel itself (Oct 2017); even though some of them would run out of power on a hot night.
+
+Organized five star hotels are few and far between. But Malawi has a concept of Bungalow Hotels (and there are a LOT of them in all the top cities). In these, typically 1-4 acre plots are designed as hotels with all basic amenities (except WiFi). Costing around $50/day for the good ones, including breakfast. Most of these are not available online, but easily arranged with a local taxi. When in doubt, go to Shoprite in Lilongwe for currency exchange, logistics, accommodation guidance and Western/Indian food.
+
+==Learn==
+Malawi's largest tertiary education structure at present is the University of Malawi which is made up of Chancellor College located in the heart of [[Zomba]], Blantyre Polytechnic in [[Chichiri]] and College of Medicine.  Bunda College of Agriculture and Kamuzu College of Nursing are located in Lilongwe. There is also Mzuzu University in the Northern part of Malawi.
+
+==Work==
+
+==Stay safe==
+Malawi has been known for years as "The Warm Heart of Africa", and Malawians are known for their friendliness and hospitality.  Malawi is not known as a particularly dangerous travel destination for western foreigners and expatriates. 
+
+Muggings and robberies have occurred in the larger cities, most especially Lilongwe, as well as in some notorious places along the main tourist routes. It is advisable to avoid walking alone at night. If you go out for the evening, make sure you know how you're going back home. Car-jackings happen occasionally so be sure to keep windows shut and doors locked during evening and night journeys (though night driving is not advised - most cars have broken headlights and Malawians tend to walk in the middle of the road at night) and exercise reasonable caution as in any foreign city or rural area.  Roads are less safe because many drivers are unlicensed and inexperienced and many vehicles are not inspection-ready; there is also the factor of drunk driving, especially in the evenings so be on the side of caution. 
+
+More recently there has been a lot of pickpockets operating in nightclubs and bars. Just exercise caution, don't bring too much money and cameras etc. 10 beers is no more than MWK10000, so don't bring hordes of cash with you.
+
+Homosexuality is officially banned by the law, and homosexual and transgender couples should exercise discretion when traveling to Malawi. It took a presidential pardon to release a couple recently arrested for "homosexuality" (in reality, one of the persons involved was transgender) and sentenced to 14 years of hard prison labour.
+
+==Stay healthy==
+As with its neighbouring countries [[malaria]] can be a problem. The lake is freshwater and is prone to [[bilharzia]], especially in the [[Cape Maclear]] area. Symptoms of bilharzia can take months to surface, and neither treatment nor tests will have any effect until around two months after being exposed. The treatment for bilharzia is often one dose of praziquantel following blood, urine and fecal tests confirming infection.
+
+The adult '''HIV''' prevalence in the country is at '''14%''' or '''1 in 7''' adults.
+
+==Respect==
+Malawi has both patriarchal and matriarchal ethnicities and cultures.  In the cities, men tend to be more respected than women, but the reverse might be true in the rural villages depending on ethnicity. Whites tend to be well-respected, a holdover from colonial times, but this is largely a Malawian's way of being courteous. Accept their hospitality. They are an exceptionally friendly people.
+
+Malawians, especially those from very rural areas where they don't see many whites, can be quite curious when they do come upon a white traveller.  To a Western mindset, this might be interpreted as unnecessarily staring at you or talking about you in front of you.  Be prepared to be greeted by kids yelling ''mzungu, mzungu!'' and to answer lots of questions about yourself.  Even relatively mundane items like mechanical pencils can draw a crowd of onlookers.
+
+Malawians are in general extremely courteous, and a part of that courtesy is shaking hands, speaking softly, and referring to travellers and others with respect. Malawians avoid rudeness. It is common for Malawi men to hold hands when they've gathered together to chat, and this shouldn't be given a sexual interpretation when it is encountered.    
+
+Culturally, women should not wear shorts or mini-skirts, especially when travelling outside the lodge/camp. A woman in shorts or a short skirt is considered to be provocative, as well as rude. Many female visitors wear wraps that are available in the stores and markets of major cities. These are generally made of bright, coloured patterns and can be extremely attractive. Low-cut tops on women, while discouraged, are not nearly as provocative. Men in the cities tend to wear slacks and not shorts, as shorts are generally worn only by school-age children, so when a man wears shorts it can be viewed by Malawians as rather silly. 
+
+Finally, when meeting a Malawian &mdash; even to ask a question &mdash; you should always say hello and ask how they are.  Properly greeting a Malawian is very important.  They are uncomfortable with the Western notion of simply "getting to the point." Courtesy is a must, at all times, because not to be courteous is to show disrespect.
+
+==Contact==
+*[http://www.embassymalawi.be/ Embassy of the Republic of Malawi to Belgium, the Netherlands, Luxembourg, Switzerland and France].
+
+[http://www.malawitourism.com Malawi Travel Marketing Consortium] for advice. 
+
+==Get out==
+* [[Tanzania]]
+* [[South Luangwa National Park]] &mdash; Kiboko Camp and some other travel agencies run roundtrip safaris from [[Lilongwe]] to this fantastic national park in [[Zambia]].
+* [[Mozambique]]
+
+{{isPartOf|Southern Africa}}
+{{outline}}
+{{countryguide}}
+
+[[ca:Malawi]]
+[[de:Malawi]]
+[[eo:Malavio]]
+[[es:Malawi]]
+[[fi:Malawi]]
+[[fr:Malawi]]
+[[hu:Malawi]]
+[[it:Malawi]]
+[[ja:マラウィ]]
+[[nl:Malawi]]
+[[pl:Malawi]]
+[[pt:Maláui]]
+[[ro:Malawi]]
+[[ru:Малави]]
+[[sv:Malawi]]
+[[wts:Category:Malawi]]
+
+[[WikiPedia:Malawi]]
+[[Dmoz:Africa/Malawi/]]
+[[World66:africa/malawi]]

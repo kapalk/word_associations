@@ -1,0 +1,498 @@
+{{pagebanner|Mozambique Banner.jpg}}
+
+{{quickbar
+| image=800px-Inharrime.jpg
+| caption=Inharrime, Inharrime Province
+| location=Mozambique in its region.svg
+| flag=Flag of Mozambique.svg
+| capital=[[Maputo]]
+| government=Republic
+| currency=Metical (MZN)
+| area=''total:'' 801,590&nbsp;km²<br />''water:'' 17,500&nbsp;km²<br />''land:'' 784,090&nbsp;km²
+| population=19,406,703 (July 2006 est.)
+| language=[[Portuguese phrasebook|Portuguese]] (official), indigenous dialects
+| religion=Indigenous beliefs 50%, Christian 30%, Muslim 20%
+| electricity=220V/50Hz (European plug)
+| callingcode=258
+| tld=.mz
+| timezone=UTC +2
+}}
+
+
+[http://www.visitmozambique.net/ '''Mozambique'''] (Portuguese: ''Moçambique'') is a country on the Indian Ocean coast of [[Southern Africa|Southern]] [[Africa]] bordered by [[South Africa]] to the south, [[Tanzania]] to the north and with inland borders with [[Malawi]], [[Zambia]],  [[Zimbabwe]] and [[Swaziland]]. 
+
+Mozambique's eastern coastline along the Indian Ocean is more than 1,000&nbsp;km long, a fantastic draw for scuba divers, fishermen, sailors and beach lovers.
+
+==Understand==
+From the 2,436&nbsp;m Monte Binga peak to the stunning beaches along the coast, Mozambique is a country of contrasts. As well as some of the best colonial era architecture and relics to be found on the continent, Mozambique has also preserved its African cultural heritage, which can be experienced through art, music and food.
+
+===Geography===
+Mozambique stretches for 1,535&nbsp;mi (2,470&nbsp;km) along Africa's southeast coast. It is nearly twice the size of California. Tanzania is to the north; Malawi, Zambia, and Zimbabwe to the west; and South Africa and Swaziland to the south. The country is generally a low-lying plateau broken up by 25 sizeable rivers that flow into the Indian Ocean. The largest is the Zambezi, which provides access to central Africa. In the interior, several chains of mountains form the backbone of the country.
+
+===History===
+In 1500, the Portuguese established a string of forts and posts up and down the coast, starting with present day Ilha de Mozambique (at that time simply known as Mozambique and where the country gets its modern name), where the Portuguese plied the spice and slave routes from Mozambique up until 1891.
+
+After World War 1, Portuguese investment in commercial, industrial, agricultural, educational, transportation, and health care infrastructure for the indigenous population started providing for better social and economic possibilities and these continued to gain pace up until independence in 1975.
+
+In 1962, several anti-colonial political groups formed the Front for the Liberation of Mozambique (FRELIMO), which initiated an armed campaign against Portuguese colonial rule. Mozambique became independent after ten years of sporadic warfare on June 25, 1975. FRELIMO took complete control of the territory after a transition period and within a year of independence, almost all the Portuguese population had left Mozambique – some expelled by the new government of Mozambique, some fleeing in fear.
+
+Upon independence, Mozambique had less than 5 engineers in the entire country and the previous colonial infrastructure investments stopped entirely resulting in the rapid disintegration of much of Mozambique's infrastructure. FRELIMO responded to their lack of resources and the Cold War politics of the mid-1970s by moving into alignment with the Soviet Union and its allies. FRELIMO established a one-party Socialist state, and quickly received substantial international aid from Cuba and the Soviet bloc nations.
+
+In 1975, the Mozambican National Resistance (RENAMO), an anti-communist group sponsored by the Rhodesian Intelligence Service, the apartheid government in South Africa and the United States after Zimbabwe's independence, was founded and launched a series of attacks on transport routes, schools and health clinics, and the country descended into civil war.
+
+In 1990, with apartheid crumbling in South Africa, and support for RENAMO drying up in South Africa and in the United States, the first direct talks between the FRELIMO government and Renamo were held. In November 1990, a new constitution was adopted. Mozambique was now a multiparty state, with periodic elections, and guaranteed democratic rights. With the signing of the Rome General Peace Accords, the civil war ended on October 15, 1992.
+
+===Climate===
+{{Climate
+| units = Metric
+| janhigh =   30
+| febhigh =   30
+| marhigh =   30
+| aprhigh =   29
+| mayhigh =   27
+| junhigh =   25
+| julhigh =   25
+| aughigh =   26
+| sephigh =   27
+| octhigh =   28
+| novhigh =   29
+| dechigh =   30
+| janlow =   22
+| feblow =   22
+| marlow =   21
+| aprlow =   19
+| maylow =   16
+| junlow =   14
+| jullow =   14
+| auglow =   15
+| seplow =   16
+| octlow =   18
+| novlow =   20
+| declow =   21
+| janprecip =  130
+| febprecip =  124
+| marprecip =  97
+| aprprecip =  64
+| mayprecip =  28
+| junprecip =  27
+| julprecip =  13
+| augprecip =  13
+| sepprecip =  38
+| octprecip =  46
+| novprecip =  86
+| decprecip =  103
+}}
+
+Almost all of Mozambique falls within the tropics and as such, Mozambique features a mostly tropical climate.
+
+Along the coast, Mozambique has a warm, tropical climate. Evenings are rarely cold, except for a few nights in June and July and the rainfall isn't too high. In summer, temperatures can soar and the humidity levels rise. Temperatures are typically higher in the north, around Pemba and the Zambezi.
+
+The interior plains generally have a higher temperature than that of the coast and have higher rainfall throughout the year. The mountainous regions generally remain cool throughout the year.
+For up-to date  weather forecasts and tide tables visit http://www.climateandweather.com/weather-in-mozambique
+
+===Public Holidays===
+The public holidays in Mozambique are:
+* '''1 January''' New Year's Day.
+* '''3 February''' Heroes' Day.
+* '''7 April''' Woman's Day.
+* '''1 May''' Workers' Day.
+* '''25 June''' Independence Day.
+* '''7 September''' Lusaka Agreement Day.
+* '''25 September''' Armed Forces Day.
+* '''4 October''' Peace Day.
+* '''25 December''' Family Day.
+
+City Specific Public Holidays are[http://www.mozambicanhotels.com/tourist-information]:
+* '''21 March''' Tete
+* '''17 Julho''' Chimoio
+* '''12 August''' Inhambane
+* '''20 August''' Beira
+* '''21 August''' Quelimane
+* '''22 August''' Nampula
+* '''23 September''' Lichinga
+* '''7 October''' Xai Xai
+* '''18 October''' Pemba
+* '''10 November''' Maputo
+
+===Smoking===
+Smoking in all public places was banned in Mozambique in 2007. However, many restaurants and bars have ignored this ban as it is almost entirely unenforced.
+
+==Regions==
+Mozambique has 10 provinces that can be grouped into the following three regions:
+
+{{Regionlist|
+regionmap=Mozambique regions.png |
+regionmapsize=400px |
+
+region1name=[[Northern Mozambique]]   |
+region1color=#71b37b  |
+region1items= |
+region1description=Cabo Delgado, Nampula and Niassa provinces.|
+
+region2name=[[Central Mozambique]]   |
+region2color=#8a84a3  |
+region2items=  |
+region2description=Manica, Sofala, Tete and Zambézia provinces.|
+
+region4name=[[Southern Mozambique]] |
+region4color=#d09440 |
+region4items= |
+region4description=Gaza, Inhambane Vilankulo and the Bazaruto National Sea Park, and Maputo provinces.|
+
+}}
+
+==Cities==
+*[[Maputo]] - the thriving capital in the far south of the country.
+
+*[[Beira]] - a busy port town and capital of Sofala Province.
+*[[Vilanculos]] Bazaruto Archipelago the largest sea park on the African coast
+
+* [[Inhambane]] - a pretty historic town on a bay.
+
+*[[Nampula]] - an industrial city in the north and capital of Nampula Province.
+
+==Other destinations==
+* [[Bazaruto Archipelago]] - a beautiful island resort and underwater marine park with great diving, geared to high-end tourism.
+* [[Cahora Bassa]] dam - Hydro-electric dam on the Zambezi river and the second largest man-made lake in Africa.
+* [[Gorongosa National Park]]
+* [[Quirimbas Islands|Quirimbas Archipelago & Quirimbas National Park]] - at the North of the country, a scenic and secluded holiday destination off the beaten track with lush African bush on the mainland and white sand beaches/crustal blue water in the Archipelago and on the coast.  Accessible through Pemba.
+* [[Ilha de Mozambique]] - a UNESCO World Heritage Site and the former capital under Portuguese rule.
+* [[Pemba]] - in Northern Mozambique, a popular holiday destination for Mozambicans, although its isolation has kept it off the tourist route for most Western visitors.
+* [[Ponta d'Ouro]] - a great dive spot, more easily accessible from South Africa than from Maputo.
+* [[Tofo Beach]] - a backpacker haven on the coastline east of Inhambane with excellent diving.
+* [[Vamizi Island]] - a tropical island having beautiful private villas on it. Amazing place for world class fishing and deep sea diving.
+* [[Vilanculos]] - also known as Vilankulo is a popular holiday destination. The gateway to the Bazaruto Archipelago the largest Sea Park in africa  with excellent scuba diving and snorkelling also well known for it's deep sea fishing.
+
+==Get in==
+As it is impossible to exchange Meticais outside of Mozambique it is advisable to change a small amount of currency if arriving at a land border in mid to late afternoon to cover taxis and meals for the first night, currency exchanges generally close at 6PM and due to sporadic ATM failures access to currency is by no means guaranteed out of hours. When accepted by merchants foreign currency has an extremely poor exchange rate.
+
+===Visas and border fees===
+All visitors (except citizens of Swaziland, South Africa, Tanzania, Botswana, Malawi, Mauritius, Zambia and Zimbabwe) need a visa. While the US Department of State continues to advice getting a visa ahead of time, tourist visas are available on arrival at country's airports and border crossings. After some confusion earlier this year, as of summer 2017 the visa on arrival process appears to be working properly. As per Expertflyer: "Visa Issuance: Visa required, except for Nationals of USA [and most others] can obtain a visa on arrival at Beira (BEW), Nampula (APL), Maputo (MPM), Pemba (POL), Tete (TET) and Vilankulo (VNX) for a maximum stay of 30 days. Some Mozambique consulates seem to be muddying up the waters around the issue by falsely advising people to obtain visas ahead of time as they stand to lose a lot of operational funding without visa applications.
+
+A visa can be picked up at the Mozambique embassy in Pretoria or the consulate in Cape Town, South Africa, costing R750 for US citizens and issued the same day-often even within minutes. As of December 2016, the Mozambican High Consulate in Mbabane issues single entry visas for US/UK for E700/R700. One person from UK was told 3days however I received my visa same day.  Posted hours are M-Th 9-1 & F 9-11. On the day I went they opened late (11am), but they stayed late.  Also, they are strict about having printed confirmation of accommodation, so have at least something to show for your first few days in Mozambique.
+ 
+If you require a Mozambican visa, you might be able to apply for one at a British embassy, high commission or consulate in the country where you legally reside if there is no Mozambican diplomatic post. For example, the British embassy and consulates in Jeddah, Riyadh and Al-khobar[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null] accept Mozambican visa applications (this list is '''not''' exhaustive). British diplomatic posts charge £50 to process a Mozambican visa application and an extra £70 if the authorities in Mozambique require the visa application to be referred to them. The authorities in Mozambique can also decide to charge an additional fee if they correspond with you directly.
+
+Land borders may also charge a stamping fee on entry, which is generally US$2, but is often waived if you buy your visa at the border. In addition, you must use the visa forms provided at the consulate or border as self-printed versions will not be accepted; at borders, these are free, but Mozambican embassies/consulates generally charge US$1 for the form. If applying at a British embassy, high commission or consulate, the application form is available free of charge from the UK Border Agency website [http://ukinguatemala.fco.gov.uk/resources/en/pdf/form-cc].
+
+A tourist visa is valid for 90 days after issue and permits a 30 day stay. Visas can no longer be extended.
+
+There is a USD $100 a day fine for overstaying a visa.
+
+===By plane===
+Most international flights arrive from [[South Africa]], although direct international routes also exist between Mozambique and [[Swaziland]], [[Zimbabwe]], [[Tanzania]], [[Kenya]], [[Ethiopia]], [[Qatar]], and [[Portugal]].
+
+There are several flights daily from [[Johannesburg]] to [[Maputo]], operated by South African Airways (SAA) [http://www.flysaa.com] and the Mozambican flag-carrier Linhas Aereas de Moçambique (LAM) [http://www.lam.co.mz]. Federal Air fly daily direct to Vilanculos International airport [http://www.fedair.com/mozambique-vilanculos-scheduled-flights] .  These and other airlines such as Kenya Airways [http://www.kenya-airways.com], Swazi Express Airways [http://www.swaziexpress.com], TAP Portugal [http://www.tap.pt], Qatar Airways [http://www.qatarairways.com] also fly from [[Durban]], [[Swaziland]], [[Dar es Salaam]], [[Harare]], [[Nairobi]] and [[Lisbon]] and [[Doha]]. In addition, local carrier Air Corridor [http://www.aircorridor.co.mz/] may start operating one or more international routes soon.
+
+There are also regular flights to regional airports including [[Tete]], [[Nampula]], [[Pemba]], [[Beira]], [[Vilanculos]] and [[Inhambane]] from from [[Johannesburg]], [[Dar es Salaam]] and [[Nairobi]], operated by South African Airlink (SAA), LAM and Kernya Airways. If you make a telephone booking with LAM and will not be paying for your flight until check-in you must reconfirm the flight 72 hours before departure or they are liable to cancel it.
+
+Airport tax in generally included in your ticket at the time of booking.
+
+===By train===
+
+==== From Malawi====
+
+There is only one train line in Mozambique, which connects [[Nampula]] with [[Cuamba]] (near the Malawi border). The train carries first, second and third class passengers and is usually packed.
+
+From Nampula, the train leaves around 5-6AM, although you should arrive earlier to buy tickets from the booking office at the station. The area is packed with people traveling towards Malawi so expect queues. Once on board the journey is long and slow but fairly efficient and will get to Cuamba mid-afternoon. From here ''chapas'' will take you to the border (Entre Lagos) as only freight trains use this bit of the line. Be warned that even hardened African travelers will likely find this stretch of road very rough - expect it to take a fair amount of time.
+
+Once at Entre Lagos, the border formalities are located within the station building (easy to find as the town is a typical small border town). The process can take some time as this is a little used crossing. From here it is about a 1km walk to the Malawi side of the border. '''BE WARNED''' - the Malawi border closes before the Mozambique one, although there is a guesthouse if you get trapped. The easiest way to get from here to Liwonde is by train - sweet-talk the guards and they may let you share their compartment.
+
+===By car===
+
+In order to enter Mozambique by car you will need the original registration documents and if it is not your vehicle a letter from the owner granting permission to take the vehicle in to Mozambique. All foreign vehicles are required to have 3rd party insurance, which is available at many borders for R280, and also to pay road tax which is currently 26.50 Mts. 
+
+====From South Africa====
+
+* <listing name="Johannesburg (Lebombo/Ressano Garcia)" alt="" address="" directions="N4 towards Nelspruit, follow it until you reach the border just after Komatipoort" phone="" url="" hours="Open 6AM to 7PM (Occasionally open 24 hours during busy periods)" price="" lat="" long="">On the Mozambican side follow the EN4 for a further 100km to reach Maputo. The stretch of the EN4 after the border leading up to the border has two toll stations that can be paid in USD, EUR, ZAR or MZN. Change is provided in Mts.</listing>
+* <listing name="Kruger Park  (Great Limpopo Transfrontier Park)" directions="Enter Kruger Park from Phalaborwa Gate and follow the signs for 95km to the Giriyondo Border Post." hours="Open 08:00 to 15:00 from April to September and 08:00 to 16:00 from October to March">'''Caution 4WD only.''' On entering Mozambique you will be charged a conservation fee for entering Parque Nacional do Limpopo which is currently 200Mts/R67/USD10 per person and per vehicle. You do not need 3rd party insurance unless you exit Parque Nacional do Limpopo but this can be purchased at the park exit gate to Massingir.</listing>
+* <listing name="Kosi Bay" directions="Follow the R22 from Kosi Bay to the Mozambique border (signed as Ponta d'Ouro) and then take the right road as you leave the border then keep left until Ponta d'Ouro" hours="Open 7:30AM to 5:30PM">'''Caution 4WD only.''' Due to the use of seasonal dirt roads after the border it is advisable to use a GPS route provided by someone who has recently completed the journey. Access to Maputo is via a ferry service (R45) in Catembe.</listing>
+
+====From Swaziland====
+
+* <listing name="Mhlumeni" hours="Open 7AM - 6PM">Easily one the quietest and easiest of all the Mozambique borders to pass through, it is deserted most of the time. Getting a visa and 3rd party insurance at this border can be problematic so arrange ahead of time. If coming from Johannesburg and traveling over the weekend or during South African holidays you can expect to save at least an hour transiting via Swaziland to this border compared to using Ressano Garcia.</listing>
+* <listing name="Namaacha" hours="Open 7AM - 8PM">The busier of the two Swaziland/Mozambique border posts and is very busy over weekend and holiday periods.</listing>
+
+===By bus===
+
+====From Malawi====
+
+There are a number of border crossings to/from Malawi.  By far the easiest and most frequently plied is at [[Zobue|Zóbuè]].  The road is in good condition.  Daily ''chapas'' run to/from [[Tete]] to the border, where you will have to walk about 300 m to get to Malawian transport.  Daily through buses from [[Chimoio]] and [[Beira]] also use this crossing.
+
+There is another border crossing to the north, at [[Dedza]], which may be more convienient for [[Lilongwe]] but the public transport on either side can be sporadic.
+
+To leave/enter Malawi to the east, there are two crossings, [[Milange]] and [[Mandimba]].  Milange is in the south-east of Malawi, and to get there you need to catch one of the daily vehicles that run between [[Mocuba]] and Milange.  At Milange there is a 2 km walk to the border, and then another 1km to where Malawian transport leaves.
+
+Mandimba is further north, used mainly to get to Malawi from [[Lichinga]].  Several vehicles run daily between Lichinga and Mandimba, from where it is another 7km to the border.  Hitching is relatively easy, or bicycle-taxis do the trip for about $1.
+
+It is also possible to cross the Lake - see BY BOAT below.
+
+====From South Africa====
+
+You can take the '''Intercape Mainliner''' [http://www.intercape.co.za/], ''+27'' 861 287 287, from [[Johannesburg]] to [[Maputo]]. These buses run in both directions on a regular basis, one in the morning, and another overnight, and are safe and affordable. Other carriers include '''Greyhound''' [http://www.greyhound.co.za] and '''Translux''' [http://www.translux.co.za]. If you intend on obtaining a visa at the border you should only purchase a ticket as far as the border, bus companies will not permit you to board with a ticket to Maputo if you are not in possession of a visa. If you ask the bus conductor they will help you obtain a visa a the border and avoid the usually extremely long wait at the Mozambique side. Once through immigration either re-board the bus and pay the fare to Maputo on board, or pick up a minibus taxi to Maputo from the border.
+
+Three times per week there are bus connections to and from [[Durban]] (via [[Big Bend]], [[Swaziland]]). There is also a service from [[Nelspruit]] and [[Komatipoort]] to Maputo.
+
+There are the "taxis" to and from any destination in South Africa at affordable prices, now from 4AM to 12AM.
+
+====From Swaziland====
+Chapas leave from both [[Manzini]] and [[Mbabane]] to Maputo via Goba typically around 11AM. Usefuly they arrive in to Baixa (and can drop you at 24 de Julho) so you are within walking distance of both Fatima's and Base. The fare is R80.
+
+====From Tanzania====
+The border between Mozambique and Tanzania is formed by the River Rovuma.  Daily pick-ups connect [[Moçimboa da Praia]] with [[Palma]] and [[Namiranga]], the border post on the Mozambique side.  The main route runs from [[Moçimboa da Praia]] (on the Mozambiquan side), via [[Palma]] (Mozambique), to [[Mtwara]] (on the Tanzanian side) and vica versa. It is recommended to take 2 days over this trip due to the low quality of the roads on the Mozambique side, and the low level of traffic.  When coming from Tanzania, lifts depart from [[Mtwara]] and [[Kilambo]] to the Rovuma river. [[Kilambo]] is a small place with one road running through it, so lifts should be easy to find. Mtwara is much larger however, so ask the locals where and when lifts leave from. When coming from Mozambique, your lift to the river will normally start from either Palma (more likely), or - if you're lucky - [[Moçimboa da Praia]] and go to the border post at Namiranga. It will generally wait for you to have your passport stamped at the border post (a mud hut in Namiranga). During the wet season, your lift will then probably drive to the banks of the Rovuma. During the dry season it will drive you to the end of the road, from which there is a walk of between 1 and 2km's (depending on the water level that day) to the Rovuma river.  At the moment there is an unreliable ferry that goes across the river. Typically however, the crossing is done by dugout canoes or slightly larger wooden motorboats. The trip across the river shouldn't cost more than around 8USD, but can only normally be paid for using Tanzanian shillings, although if you find yourself without these, there are plenty of locals who will offer you "generous" exchange rates for your hard-earned Dollars and Meticais. If water levels are low you may have to wade to get to and from your boat on the Tanzanian side, so possessing a heavy-duty waterproof sack may be a good idea, but it is by no means essential.  On the Tanzanian side you will often find yourself mobbed by people offering you transport. Pick-pocketing is common on both sides of the river, so care must be taken whilst finding transport to the nearby towns, a good method of reducing your trouble is to befriend a local on the boatride over, you will find most of your fellow travellers are willing to help you in one way or another. Transport then carries you on to the Tanzanian border post at [[Kilambo]], and normally, further on to Mtwara, the capital of Southern Tanzania.
+For further information and up-to-date news on this crossing, go to "Russell's Place" (also known as Cashew Camp) in Pemba. 
+
+There are other crossings to Tanzania, but these all require long walks.  Ask around for local information.
+
+====From Zambia====
+
+The main crossing is at [[Cassacatiza]], north-west of [[Tete]].  This border is in good condition, but lightly traveled.  Daily chapas run between Tete and Matema, from there the public transport is sporadic.  The best way to travel from Mozambique to Zambia is to go via Malawi.
+
+====From Zimbabwe====
+
+There are two crossings - [[Nyamapanda]] (south-west of [[Tete]]), and [[Machipanda]] (west of [[Chimoio]]).  Both are heavily traveled, especially Machipanda due to its location at the end of the Beira Corridor.
+
+===By boat===
+
+Currently there is no scheduled sea travel to and from Mozambique.
+
+====Tanzania====
+Outside of monsoon season it may be possible to hire a dhow from [[Tanzania]] down to Mozambique but this will generally be extremely expensive. The Tanzanian ports of [[Mikindani]], [[Mtwara]] and [[Msimbati]] are all within range of Mozambique and will be the best places to secure dhow transport. In reverse the ports of [[Moçimboa da Praia]] and [[Palma]] are the two best ports on the Mozambique side to find a dhow to Tanzania.
+
+====Malawi====
+The MV Ilala operates across [[Lake Malawi]] from [[Monkey Bay]], [[Chilumba]], [[Nkhata Bay]] to [[Likoma Island]]. From [[Likoma Island]] it is a 3km boat ride to the Mozambique border at [[Cobue]].
+
+It is possible to travel across Lake Malawi, though international travelers must legally enter through a border post and have the appropriate documentation (visas, etc. depending on nationality). Once on the Mozambique side, local transport would need to be arranged.
+
+Taking the Ilala ferry is certainly a once in a life time experience. Sleeping on the upper deck of this second world war ferry and watching the sunrise over far rolling hills along the Mozambican and Malawian coast is breath taking. You can enter the ferry from any of the harbors where the ferry arrives.
+
+IF you plan to travel on to Malawi, you should get on the ferry at the harbor in Metangula.
+
+==Get around==
+
+===Road===
+The EN1 runs the length of the country generally staying close to the coast from Maputo up. Roads throughout the country are generally in poor condition, especially when compared to South Africa, although the stretch of the EN1 between Maputo and Inchope is in decent condition with the exception of the 120 km directly north of Vilankulo, which is still in decrepit condition and poses a serious challenge to any driver in a low clearance vehicle. The EN6 between the Machipanda border crossing with Zimbabwe and Inchope is in good condition, but deteriorates considerably between Inchope and Beira, becoming almost impassable at points. Note also that north of Vilankulo service stations are scarce - motorists may go 150 km between service stations so fill up at every opportunity.
+
+===Chapas and Buses===
+'''Buses''' and '''chapas''' leave early in Mozambique - 4AM is not unusual, particularly as you go further north. Chapas take the form of both mini & midi buses but often pick up trucks and cargo trucks will offer a ride for the same fare as a chapa. Government and privately owned buses ply the same routes as Chapas but typically stop a great deal more often so are inadvisable for anything other than short journeys.
+
+The chapas themselves, particularly on shorter routes, are generally in shockingly poor condition. Expect seats, doors and interiors falling apart. Having said that since 2007/2008 the Mozambican government has been regulating prices on key routes which means chapa travel in Mozambique is extremely good value. In larger cities this translates to signs with destinations and prices in chapa stations (EG - Junta in Maputo), these prices will not come down no matter how hard you negotiate but many an enterprising chapa conductor/navigator/bouncer will try to extort you if you are silly enough to ask what a price is. If in doubt ask at your hotel, a local or as a last resort simply hand them a large note; often they will asume you know the correct fare and give you the correct change.
+
+Since about the beginning of 2011, there are now government registered chapas and unregistered chapas. While both are unsafe and are in many accidents each year, always take the governemnt chapas. These can be recognized by being the large buses. These buses are newer and thus slightly safer. They cost slightly more (at the time this was written they were 10 mets a journey, and unregistered were 5). Unregsitered chapas though are extremely dangerous and overcrowded and should never be used if you can help it.
+
+===Taxis===
+Once only found in [[Maputo]] taxis can now be found in many cities throughout the country. They never have meters so you must negotiate regarding cost before your journey. Taxis are often in as perilous condition as chapas (from balding tires to someone sitting in the passenger seat holding a plastic gas can with the cars fuel line going in to it) and breakdowns should be considered likely. Never pay for your journey until you reach your destination. If you are female, never take a taxi alone, especially not one found on the side of the road. If you must, ask around for the number of a trusted taxi driver who will come pick you up and can usually be there in under half an hour depending on how far away they are. Always add ten minutes or more to how long they say they will take to collect you though.
+
+In Maputo there is a flat rate of 200Mts for any journey in the city center. Longer journeys (EG to Junta) cost 400Mts and up. In the early morning they will often attempt to gouge you, doubling the price to 400Mts, as there are often very few taxi's about at this time.
+
+Chapas can also be rented as taxis but are typically more expensive and far less comfortable.
+
+===Air===
+Domestic '''flights''' are the fastest and most sane way to get around the country if you can afford it. Linhas Aereas de Moçambique [http://www.lam.co.mz] flies between the major cities. A detailed timetable for domestic flights is available as a PDF file here: [http://www.lam.co.mz/en/downloads/pdf_timetable]. 
+
+LAM operates a small and diverse fleet, some of which are brand new, others much less so (the Embraer 120s flying to Inhambane are 25 years old).  Maintenance is generally good, although it should be noted that LAM is on the EU blacklist.  Due to the small fleet, delays can occur and can be long.  There are no passenger protection rights in such cases, and you will be at the whim of the staff as to any compensation/amenities during the delay.
+
+The majority of flights include a free snack box, plus a variety of soft drinks. On the larger 737 aircraft, alcohol (beer and whiskey) is available for purchase. All cabin crew speak English.
+
+LAM operates an old-style booking system where you can reserve a flight over the telephone and then pay for it on check-in. If you use this facility, ensure that you confirm your flight 72 hours before departure or your reservation will likely be canceled.
+
+Whilst all LAM offices in towns and airports can book and receive payment for flights throughout the country, the best fares are only bookable online.  The LAM website is in Portuguese and English and can be navigated easily. 
+
+The domestic terminal in Maputo is clean, efficient and modern, and is connected to the international terminal. Wi-Fi is available (15 minutes free).  On the upper level are two cafés and a pay-to-enter lounge, although at the time of writing, all boarding is from the lower level (where you enter).  Check-in desks open around 2 hours before the flight.  There is no online check-in.
+
+===Rail===
+There are three train lines: one in the far north, traveling from [[Nampula]] to [[Cuamba]] (near the [[Malawi]] border); another running from [[Maputo]] to [[Chicualacuala]] at the border with Zimbabwe; and the last one connecting [[Maputo]] with [[Pretoria]]. This makes [[Maputo]] an important stop in the [[Tanzania]]-[[South Africa]] train conection. See ''Get in'' above for more details.
+
+Mine clearance from the old coastal railway running the length of the country has been finished in many areas, but with the costs involved and the level of corruption in the country, it will be decades before any rail service with reasonable coverage arrives.
+
+==Talk==
+
+The official language of Mozambique is [[Portuguese phrasebook|Portuguese]], though many people speak English in the capital Maputo and in touristy areas. The further north you travel the less likely you are to encounter English speakers, and as you enter more rural areas even Portuguese is limited.
+
+[[Swahili phrasebook|Swahili]] is useful in the far north of the country as you get close to Tanzania, especially along the coast, and [[Nyanja phrasebook|Nyanja]] is spoken near the border with Malawi and Zambia. Some native words from the Shona language can be useful if you are traveling near Cabora Bassa.
+
+==See==
+The sights in Mozambique range from historical attractions to natural wonders that will take your breath away. The beautiful clear blue ocean is the perfect setting for a range of water sports. The coastline stretches for 2500 km, providing an abundance of unspoiled beaches to explore. Mozambique is a vibrant country from the bustling cities to the fishing villages. The African wildlife at the reserves is amazing and provides great photographic opportunities.
+
+* [[Gorongosa National Park]] - At Gorongosa National Park you can see a variety of animal species and vegetation. Visitors can watch the majestic elephants roam across the landscape and if you are lucky, you can even see lion. The park is also home to buffalo, zebra and buck. Near water sources there are hippos and crocodiles. This is a bird watcher's paradise with over 400 species of birds. Visiting this park is a way of traveling responsibly and giving back to the local community as it aids in conservation programs. Chitengo Safari Camp is open most of the year and it provides accommodations including swimming pools and a restaurant. Photographic safaris can also be arranged. 
+
+* '''Niassa Reserve''' - Niassa Reserve is a nature reserve with an area of 42,000 square km. The vegetation consists of Miombo forest, savannah and wetlands. The reserve is home to the African wild dog which is an endangered species. Elephant, sable antelope, buffalo, wildebeest and zebra can also be found in the reserve. There is a variety of species of birds. Located on the reserve is the Meculas Mountain which has a height of 1,441 meters.
+
+* [[Pemba]] - Pemba is a popular tourist destination. It is a port city founded in 1904. Nestled in the heart of Pemba is a local market where you can buy handmade crafts and souvenirs. There is also colorful art sold at this market. Pemba is a good site for water sports and the nearby coral reef means that it is a good diving spot.
+
+==Do==
+* '''Dive''', see [[Diving in Mozambique]] for details.
+* '''Tours and Safaris''', a number of tour operators can help you reach Mozambique's highlights. Well recommended  travel agents include Tours Maputo [http://www.toursmaputo.com], Mozaic Travel [http://www.mozaictrave.com] and Dana Tours in the south, and Kaskazini in the north.
+
+==Buy==
+[[Image:Mozambique200Metical.jpg|right|thumbnail|A '''new Metical''' 200 note]]
+The currency of Mozambique is the '''new Metical''' (''Meticais Nova Família'', '''MZN'''), plural ''meticais'' (Mts, pronounced 'meta-caysh'), divided into 100 centavos.  In March 2018, one US Dollar was worth about 61 meticais and one Euro was worth about 76 meticais.
+
+Three zeroes were dropped from the currency in 2006.  Old currency could have been exchanged at banks up to the end of December 2012.  People will occasionally still refer to the old currency, so if someone asks for "1 million", they generally mean one thousand new meticais.
+
+Note that many businesses in the tourist centers are run by [[South Africa]]ns and prices are often quoted in Rand (for which the usual abbreviation is ZAR). In this guide we've also quoted in Rand when applicable.
+
+US$, ZAR, British pounds and Euros are freely convertible at commercial rates at any bank or exchange. Other currencies such as Canadian or Australian dollars or Japanese Yen, are not accepted anywhere, even at official banks and exchanges. 
+
+There is very little black market currency exchange, since the commercial exchanges offer the best market rate.  You cannot exchange meticais outside Mozambique, but you can convert them back at exchanges prior to leaving the country.  Also you cannot buy meticais outside Moçambique.  
+
+'''ATMs''' are present throughout the country; Standard, Millennium Bim, BCI, ProCredit and Barclays are the brands you are most likely to run in to. Standard accepts Visa & Mastercard, Millennium accepts all international cards including Maestro/Cirrus cards while Barclays doesn't seem to accept any cards with great regularity. 
+
+ATMs have transaction limits on withdrawals, which vary with the bank. Millennium Bim limits withdrawals to 3,000 Mts, BCI to 5,000 and Standard Bank to 10,000; you can always insert your card again to withdraw more money. Some banks will charge you a 150 or 200 Mts withdrawal fee for international cards. 
+
+Since not all banks accept both Visa and Mastercard if possible bring both cards as some hotels may only take Visa.
+
+'''Paypal''' is also accepted at many hotels and dive stores particularly in tourist areas like [[Tofo Beach]] and [[Vilanculos]]. Setting up a Paypal account with your credit card takes minutes and is a convenient way to pay.
+
+Everything in Mozambique that does not have a price attached can be bargained down to whatever you consider a reasonable price to be. Remember that while laughing when they give you an insane price is perfectly OK you should not get outwardly angry or hostile, you will be unlikely to get a reasonable price if you do. If in doubt about what a fair price is ask your hotel.
+
+No one in Mozambique, including often backpacker lodges, have change. The 1000Mzn and 500Mzn are almost impossible to use day to day, so change them down in to more manageable notes in any bank. The one exception to this rule is chapa drivers, if you find yourself running low on small bills pay for your 15Mzn fare with a 100Mzn note.
+
+[[Maputo]]is the metropolitan area in Mozambique and you will find many shops/restaurants open on weekends. However, outside the capital, most of these will close at noon on Saturday, only to open on Monday at 8 am. It can be quite inconvenient to shop after business hours as shops remain open only from 0800 to noon and then 1400-1730 hours, closing during lunch hours and afterwards. The exception to this is beer, you can buy beer anywhere and at anytime. Just listen to loud music blaring and follow it to find Mozambicans enjoying the brew and dancing.
+
+It is very difficult to find 3-pin sockets for electrical appliances (including travel gear, laptops etc). A 2-pin hole-in-the-wall electric connection is the standard around Mozambique. Make sure you carry a 3-pin to a 2-pin converter for your electronic items. You will find converters of poor quality and high price in some markets, and only in the official hours. Almost all of the lodges/hotels have no 3-pin appliance support.
+
+==Eat==
+As a country the [[portugal|Portuguese ]] occupation has a profound impact on local foods that has produced some of the most unique and interesting cuisine within Southern Africa. Towards the coast a great deal of seafood is used within even the most basic of dishes, however, in land the maize based porridges common throughout Africa becomes staple but with some [[portugal|Portuguese ]] flair.
+
+* '''Piri-Piri''', also known as the '''African bird's-eye chili''' this extremely strong chili is common is sauce form throughout the country.
+* '''Pãozinho ''', also known as '''Portuguese rolls''' or '''Prego (beef) no pão''' and '''bifana (pork)'''. A floury and often semi-sweet bread roll, typically served with meat in the center.
+* '''Matapa''', a seafood (clam, crab or prawn)stew  made with Casave leaves and generally served over rice. This is one of the Mozambique staples.
+* '''Camarão National''', are Mozambican prawns marinaded in  a Piri-Piri, garlic, onion, lemon and vinegar.
+* '''Cray fish''' and '''other seafood'''. These are caught off the beach throughout the country and will generally be prepared with a piri-piri marinade, served with rice and matapa.
+* '''Kakana''' This is a bitter tasting local vegetable.
+
+==Drink==
+<!--DO NOT add any bar or club listings to the country article. They belong in the relevant city  article--->
+The legal drinking/purchasing age of alcoholic beverages is '''18'''.
+
+All tap water in Mozambique should be assumed to be unsafe to drink, even if it is not harmful it usually has some sediment that your stomach will not be used to. Most western oriented lodgings either provide a fresh water source or sell bottled water.
+
+===Beer===
+In Mozambique '''Cervejas de Mocambique''' who are owned by '''SABMiller''' [http://www.sabmiller.com/index.asp?pageid=1184] have a virtual monopoly on beer brewing. The three most popular brands are 2M (remember to pronounce it doysh-em or you will end up with an extra beer), Laurentina Clara and Manica. Other local African beers such as Castle and Windhoek are reasonably widely available but are not as popular as in neighboring countries due to the high quality of the local brews.
+
+===Liquors===
+Locally produced spirits such as vodka and gin are relatively common throughout the country and are relatively inexpensive.
+The local drink is Cashu made of the peel from the cashew nut. According to the locals it's very good for a man's libido. It has a sour taste.
+<!--DO NOT add any bar or club listings to the country article. They belong in the relevant city  article--->
+
+==Sleep==
+Accommodation ranges from inexpensive guesthouses and backpacker orientated accommodation through to some of the most expensive resort accommodation in the region.
+
+===Hotels===
+Hotels in Mozambique are generally ungraded and, particularly in the less traveled parts of the country, have not been updated since independence. In some cases you can pay up to $50USD a night for a hotel room that should be in the $5 - $10 range based on facilities. On the other end of the scale Mozambique hosts some of the most incredible, and expensive, hotels and resorts in the world.
+
+===Backpacker Lodges===
+[[Maputo]], [[Tofo Beach]], [[Vilanculos]] and [[Pemba]] have several backpacker lodges each and are geared up for the budget traveler. There are some backpacker options elsewhere in the country but often the only option for a budget traveler will be transient labor guesthouses or cheap hotels.
+
+===Self Catering===
+
+Many self-catering options exist in most major tourist areas.
+
+If you do bring your own gas-based cooking equipment, keep in mind the typical backpacker lindal valve gas canisters are not available anywhere in the country.
+
+===Camping and caravaning===
+Dedicated camp sites with security are available in almost all coastal towns and you can often camp in rural areas with a village chief's blessing (If you do decide to use this option a small offering such as food, liquor or cigarettes can be very useful).
+
+If taking a caravan keep in mind that a great deal of roads in Mozambique degenerate in to sandy paths that require 4WD, it is advisable to only stick to popular areas along the EN1.
+
+Camping Vilanculos Inhambane (Prov.),main camp sites Blue waters may require 4WD and Chibububo lodge (all year access)for more information contact url="http://www.beachchalets.co.za" email="mailto:ïnfo@beachchalets.co.za"
+
+===Purchasing land or property===
+If someone offers to "sell" you land in Mozambique walk away immediately, it is a scam. Private ownership of land in Mozambique is impossible, all land is owned by the government and will only be provided for foreign use, under a 99 year lease, under very specific circumstances.
+
+==Learn==
+
+* '''Universidade Eduardo Mondlane''', [http://www.uem.mz] is the oldest and largest university in the country.
+
+==Work==
+
+* You may be able to find work '''teaching''' at a school such as  The American International School of Mozambique [http://www.aism-moz.com/?Page=Employment].
+
+* If you're a certified divemaster or instructor you could try helping out at one of the '''dive shops''' in [[Tofo Beach]], [[Vilanculos]] or [[Ponta d'Ouro]].
+
+==Stay safe==
+Risks are much the same as many other countries in Africa (and significantly less than some, including parts of South Africa). Nevertheless muggings, robberies, rape and murder do occur, so the normal precautions should be taken.  Women absolutely should never walk alone on beaches, in recent years, attacks on women have grown in tourist areas. In particular it's worth checking with local hostels and other travellers as to where dangerous areas are. 
+
+But in general the Mozambican people are extremely warm and friendly and you will encounter far less hassle than in almost all of the countries surrounding it.
+
+Violence between FRELIMO and RENAMO has erupted recently, with many South African tourists having been attacked. The violence is only evident north of Vilanculos. If you stay south of this, you should be clear of any violence. Consult your local Ministry of Foreign Affairs for further information and to ensure that travel to Mozambique is still safe. It is advised that your report your presence to your country's embassy in Maputo or consulate in another major city upon your arrival in Mozambique.
+
+
+===Police===
+The police in Mozambique should be looked at with a wary eye, and placing trust in them should only be done as a very last resort.
+
+Insisting on being taken to a police station is unlikely to improve your situation, with the exception of Maputo.  The police have been known to rob tourists blind and throw them in a cell. Instead, mention contacting your embassy or the anti-corruption hot line to verify a fine, and always ask for a receipt.
+
+If you have cause to go to a police station (e.g., filing a police report for insurance purposes after a theft) do not take any valuables or excessive currency with you, and try to always go with someone else.
+Police use the Mozambique shotgun to shoot bank robbers and other bad guys
+====Speed limits====
+In Mozambique the speed limit in town is 60km/h (unless contrary road signs) and 100km/h or 120km/h elsewhere. There are numerous mobile speed traps on the EN1, often in areas where you don't imagine the speed limit has dropped. Be very alert to speed limits on this highway as the police are very effective in stopping motorists who do not reduce speed quick enough, or who started accelerating too early coming out of a small town before the increased speed limit. It is a challenge to drive from Maputo to Vilanculos without getting stopped at least once, even if you try your best to obey the speed limits.
+
+====Bribery====
+When dealing with the Mozambican police never suggest a bribe; simply listen to whatever lecture they care to give, and ask "What can we do about this?". Often they will simply let you go.  If they do ask for a bribe, the amount is entirely negotiable and can range from a bottle of cola (for carrying no identification) up to several hundred USD (for minor drug infractions).
+
+====Identification====
+By law you must carry a form of identification with you at all times and present it to the police on request. As a result you should carry a notarized copy of your passport photo page, visa and entry stamp with you at all times. Ask your hotel where to locate a notary or contact your local embassy as soon as you enter the country. In Maputo, there is one on Av. Lenine, close to Mimmo's, and another on Av. Armando Tivane (one block west of Av. Nyerere) between Av. Mao Tse-Tung and Av. 24 de Julho. They are not particularly easy to find; ask around.
+
+If you are asked for identification by the police and you do not have a notarized copy, under no circumstances give them your passport.  If you do, then it will likely cost you a great deal of money to get it back.  Often simply talking to them a while will get them to go away.
+
+===Land mines===
+While most of the country has been cleared there is still an on-going risk in rural areas away from the EN1 in Sofala, Tete, Manica, Gaza, Inhambane and Maputo provinces. It should be noted that only 2 or 3 incidents a year occur with landmines and they are all well outside the tourist trail.
+
+===Prostitution===
+Prostitution is legal throughout the country, however because of the high rate of HIV/AIDS, it should be in best interest to avoid it, as it is not regulated well. If you choose to indulge in it, its best to avoid prostitutes that are below the legal age of consent, as raping children is wrong. Prostitution among children is a major problem in Mozambique.
+
+==Stay healthy==
+
+* '''Malarial prophylaxis''' is essential in all parts of Mozambique. Chloroquine/Paludrine are now as ineffective as in other parts of east Africa, and it's worth going to see your doctor to get decent protection. If you are in country and suspect you have malaria, there are clinics in every town that will administer a test for approximately 50Mts. The treatment also costs 50Mts if the test comes out positive.
+* '''Get all your vaccine shots before arriving.'''  Medical facilities in Mozambique are now generally reasonably stocked, but it is always worth getting a range of vaccinations before you leave; prevention is better than the cure. It is worth considering carrying some clean needles if you are visiting out-of-the-way areas, as remote medical facilities may have problems getting hold of them.
+* '''Mind what you eat.'''  As is common in most countries, if you are concerned about the standards of hygiene in a place, don't eat there.
+* '''Do not have unprotected sex.'''  As in many parts of sub-Saharan Africa, there is a very high HIV incidence, currently at '''12%''' (preliminary data from National HIV Survey, 2010). 
+* '''Do not drink tap water or use any ice.''' South of the Zambezi river that divides the country, Mozambique is much more developed, especially around Maputo, tourist areas such as Inhambane and the industrial city of Beira. Here, especially in built-up areas, it is safe to drink the tap water, hence water in this area is marketed as "mineral water" and not "drinking water" and is sold at an inflated price as a semi-luxury item (sometimes for as much as 50 or 60 Meticais in backpackers lodges and restaurants). The infrastructure in the north of the country is much less developed and, as such, caution must be exercised, especially in rural areas and the area near Palma and bordering Tanzania. The tap water is usually safe to drink in the main cities such as Nampula and Pemba, and on Mozambique Island. If you are ever unsure about the quality of the tap water, water-purifying liquids (normally chlorine-based) are widely available and very cheap, costing around 40 cents for a large bottle.  The most popular brand is "Certeza", and it is easy to find. You could also consider bringing puri-tabs if you are planning on going well off the beaten track.
+* '''Private clinics.''' There are a few private health clinics in Maputo that will also arrange repatriation in emergencies. Clinica da Sommerschield (tel: 21 493924) Clinica Suedoise (tel: 21 492922).
+*'''Electric showers'''. In any accommodation, check the shower fitting.  A rather dangerous type manufactured in Brazil is popular, which contains an ungrounded 4kW electric heater. DO NOT touch the fitting when in use, they have been known to give severe electric shocks.  Better still, switch the power off (there should be a nearby circuit breaker) and have a cold shower.  Be similarly cautious with any other type of electrical shower heater.
+
+==Contact==
+===Mobile phones===
+'''mCel''' [http://www.mcel.co.mz/] is the state-owned provider, and there are two other telecom service providers in the country, the South-African owned '''Vodacom Mozambique''' [http://www.vm.co.mz/] and Movitel. GPRS (data and internet) are available on mCel, with 3G in Maputo and other main cities. The APN for Internet is isp.mcel.mz and for WAP it is wap.mcel.mz with an IP address 10.1.4.35. Vodacom have 3G in many towns and GPRS Edge elsewhere.  The APN is internet.  Movitel has the best network (by far) in the bush and if you are looking to travel off-the-track, then a prepaid Movitel SIM card will definitely be handy. Check your phone manual for setting instructions. The mCel service is not entirely reliable, especially outside Maputo. Vodacom is generally very good in most areas except North Mozambique - where it is present in towns only.  While it is OK to buy credit from the hundreds of vendors roaming the streets wearing mCel or Vodacom shirts you should never buy SIM cards / starter packs, in many cases they sell them at hugely inflated prices and often they will be from one of the many recalled batches that no longer work. Any mobile phone store can sell you a working starter pack for around 50Mts. As of August 2013, the prices of SIM Cards had come down to 10 Mzn retail, and issues with old SIM cards not working had almost entirely vanished. You could buy a few of them as the companies wait 15-30 days to organize and verify the documentation.
+
+===Internet===
+Internet is widely available in Maputo, with many internet cafes and all major hotels having internet access. All service providers mCel, Vodacom and Movitel have introduced internet to cellphone and USB modems. However, Movitel USB modems are the most widespread and you will find 3G speeds in most areas, however frequent disconnection is an issue. See above for further information.  Outside Maputo internet coverage is sporadic and mostly available in places frequented by tourists. Local Telecommunication de Mozambique (TDM) offices almost always have internet although speed and availability can be problematic.
+
+===Radio===
+
+There are many FM stations in Maputo, offering a variety of music and speech.  Away from the capital, Radio Mozambique will be heard in many places and BBC World Service have their English/Portuguese service in the main cities.  There are numerous small community radio stations serving smaller towns/villages.
+
+A new radio station called LM Radio (Lifetime Music Radio), broadcasts in English on 87.8 FM in Maputo and Matola. The radio station offers a wide range of music from the 60s, 70s and 80s together with a blend of modern day music in the same style and flavor. The radio station also provides regular travel and safety tips for visitors to Mozambique. Don't expect too much to do with your radio once outside Southern Mozambique's Maputo area.
+
+
+{{isPartOf|Southern Africa}}
+{{outline}}
+{{countryguide}}
+
+[[ca:Moçambic]]
+[[de:Mosambik]]
+[[eo:Mozambiko]]
+[[es:Mozambique]]
+[[fi:Mosambik]]
+[[fr:Mozambique]]
+[[hu:Mozambik]]
+[[it:Mozambico]]
+[[ja:モザンビーク]]
+[[nl:Mozambique]]
+[[pl:Mozambik]]
+[[pt:Moçambique]]
+[[ro:Mozambic]]
+[[ru:Мозамбик]]
+[[sv:Moçambique]]
+[[zh:莫桑比克]]
+[[wts:Category:Mozambique]]
+
+[[WikiPedia:Mozambique]]
+[[Dmoz:Africa/Mozambique/]]
+[[World66:africa/mozambique]]
+
+{{related|African_National_Parks}}
+{{related|African_flora_and_fauna}}
+{{related|Discount_airlines_in_Africa}}
