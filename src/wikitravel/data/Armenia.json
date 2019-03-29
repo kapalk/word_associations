@@ -1,0 +1,990 @@
+{
+    "parse": {
+        "title": "Armenia",
+        "pageid": 185,
+        "revid": 2589528,
+        "text": {
+            "*": "<div class=\"mw-parser-output\"><div class=\"noprint\">\n<div id=\"mf-pagebanner\" style=\"position:relative;\">\n<div class=\"topbanner\">\n<div class=\"name\">Armenia</div>\n<div class=\"topbanner-wrapper\">\n<div class=\"ct-widget&#95;_container\">\n<div id=\"ctWidget\" class=\"ct-sidebar ct-sidebar--hotel\">\n<div class=\"ct-widget&#95;_widget\">\n<div class=\"ct-widget&#95;_body\"></div>\n</div>\n</div>\n</div>\n</div>\n<p><a href=\"/en/File:Armenia_Banner.jpg\" class=\"image\"><img alt=\"Armenia Banner.jpg\" src=\"https://wikitravel.org/upload/shared//9/94/Armenia_Banner.jpg\" width=\"1800\" height=\"450\" data-file-width=\"1800\" data-file-height=\"450\" /></a>\n</p>\n</div>\n<div class=\"topbanner-toc\">\n<div class=\"hlist tocbox-b\"><div id=\"toc\" class=\"toc\"><div class=\"toctitle\"><h2>Contents</h2></div>\n<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Understand\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Understand</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-2\"><a href=\"#History\"><span class=\"tocnumber\">1.1</span> <span class=\"toctext\">History</span></a></li>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Armenian_Genocide\"><span class=\"tocnumber\">1.2</span> <span class=\"toctext\">Armenian Genocide</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Soviet_Armenia\"><span class=\"tocnumber\">1.3</span> <span class=\"toctext\">Soviet Armenia</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Modern_Armenia\"><span class=\"tocnumber\">1.4</span> <span class=\"toctext\">Modern Armenia</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Culture\"><span class=\"tocnumber\">1.5</span> <span class=\"toctext\">Culture</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-7\"><a href=\"#Religion\"><span class=\"tocnumber\">1.5.1</span> <span class=\"toctext\">Religion</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Geography\"><span class=\"tocnumber\">1.6</span> <span class=\"toctext\">Geography</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#Regions\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Regions</span></a></li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Cities\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Cities</span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Get_in\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Get in</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Visas\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Visas</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#By_plane\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">By plane</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#By_train\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">By train</span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#By_car\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">By car</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#By_bus\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">By bus</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-17\"><a href=\"#Georgia\"><span class=\"tocnumber\">4.5.1</span> <span class=\"toctext\">Georgia</span></a></li>\n<li class=\"toclevel-3 tocsection-18\"><a href=\"#Iran\"><span class=\"tocnumber\">4.5.2</span> <span class=\"toctext\">Iran</span></a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-19\"><a href=\"#Get_around\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Get around</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#By_day_tour\"><span class=\"tocnumber\">5.1</span> <span class=\"toctext\">By day tour</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#By_mini-bus_or_bus\"><span class=\"tocnumber\">5.2</span> <span class=\"toctext\">By mini-bus or bus</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#By_taxi_or_car\"><span class=\"tocnumber\">5.3</span> <span class=\"toctext\">By taxi or car</span></a></li>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#By_thumb\"><span class=\"tocnumber\">5.4</span> <span class=\"toctext\">By thumb</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#By_bicycle\"><span class=\"tocnumber\">5.5</span> <span class=\"toctext\">By bicycle</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#By_train_2\"><span class=\"tocnumber\">5.6</span> <span class=\"toctext\">By train</span></a></li>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#By_plane_2\"><span class=\"tocnumber\">5.7</span> <span class=\"toctext\">By plane</span></a></li>\n<li class=\"toclevel-2 tocsection-27\"><a href=\"#By_tour_operator\"><span class=\"tocnumber\">5.8</span> <span class=\"toctext\">By tour operator</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-28\"><a href=\"#Talk\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Talk</span></a></li>\n<li class=\"toclevel-1 tocsection-29\"><a href=\"#See\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">See</span></a></li>\n<li class=\"toclevel-1 tocsection-30\"><a href=\"#Do\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Do</span></a></li>\n<li class=\"toclevel-1 tocsection-31\"><a href=\"#Buy\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Buy</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-32\"><a href=\"#Currency\"><span class=\"tocnumber\">9.1</span> <span class=\"toctext\">Currency</span></a></li>\n<li class=\"toclevel-2 tocsection-33\"><a href=\"#Exchange_rates\"><span class=\"tocnumber\">9.2</span> <span class=\"toctext\">Exchange rates</span></a></li>\n<li class=\"toclevel-2 tocsection-34\"><a href=\"#Costs\"><span class=\"tocnumber\">9.3</span> <span class=\"toctext\">Costs</span></a></li>\n<li class=\"toclevel-2 tocsection-35\"><a href=\"#Trading_hours\"><span class=\"tocnumber\">9.4</span> <span class=\"toctext\">Trading hours</span></a></li>\n<li class=\"toclevel-2 tocsection-36\"><a href=\"#Tax\"><span class=\"tocnumber\">9.5</span> <span class=\"toctext\">Tax</span></a></li>\n<li class=\"toclevel-2 tocsection-37\"><a href=\"#Purchasing_customs\"><span class=\"tocnumber\">9.6</span> <span class=\"toctext\">Purchasing customs</span></a></li>\n<li class=\"toclevel-2 tocsection-38\"><a href=\"#Markets\"><span class=\"tocnumber\">9.7</span> <span class=\"toctext\">Markets</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-39\"><a href=\"#Eat\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Eat</span></a></li>\n<li class=\"toclevel-1 tocsection-40\"><a href=\"#Drink\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">Drink</span></a></li>\n<li class=\"toclevel-1 tocsection-41\"><a href=\"#Sleep\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">Sleep</span></a></li>\n<li class=\"toclevel-1 tocsection-42\"><a href=\"#Learn\"><span class=\"tocnumber\">13</span> <span class=\"toctext\">Learn</span></a></li>\n<li class=\"toclevel-1 tocsection-43\"><a href=\"#Work\"><span class=\"tocnumber\">14</span> <span class=\"toctext\">Work</span></a></li>\n<li class=\"toclevel-1 tocsection-44\"><a href=\"#Stay_safe\"><span class=\"tocnumber\">15</span> <span class=\"toctext\">Stay safe</span></a></li>\n<li class=\"toclevel-1 tocsection-45\"><a href=\"#Stay_healthy\"><span class=\"tocnumber\">16</span> <span class=\"toctext\">Stay healthy</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-46\"><a href=\"#Smoke\"><span class=\"tocnumber\">16.1</span> <span class=\"toctext\">Smoke</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-47\"><a href=\"#Respect\"><span class=\"tocnumber\">17</span> <span class=\"toctext\">Respect</span></a></li>\n<li class=\"toclevel-1 tocsection-48\"><a href=\"#Contact\"><span class=\"tocnumber\">18</span> <span class=\"toctext\">Contact</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-49\"><a href=\"#Mobile_phone_providers\"><span class=\"tocnumber\">18.1</span> <span class=\"toctext\">Mobile phone providers</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-50\"><a href=\"#Get_out\"><span class=\"tocnumber\">19</span> <span class=\"toctext\">Get out</span></a></li>\n</ul>\n</div>\n</div>\n<div style=\"clear:both\"></div>\n</div>\n</div>\n</div>\n<div id=\"moved_title\">  </div>\n<p><br />\n</p>\n<dl><dd><i>For other places with the same name, see <a href=\"/en/Armenia_(disambiguation)\" title=\"Armenia (disambiguation)\">Armenia (disambiguation)</a>.</i></dd></dl>\n<div id=\"quickbar\" style=\"float: right; margin: 0 0 1em 1em\">\n<table cellpadding=\"2\" cellspacing=\"0\" style=\"border: 1px solid #9866FF; font-size:85%; background-color: #f3f3ff\" width=\"250\">\n\n<tr>\n<td colspan=\"2\" style=\"text-align: center; padding: 2px\"> <a href=\"/en/File:Tatev-raffi_kojian-DCP_3721.JPG\" class=\"image\" title=\"Tatev\"><img alt=\"Tatev\" src=\"https://wikitravel.org/upload/shared//thumb/3/3c/Tatev-raffi_kojian-DCP_3721.JPG/250px-Tatev-raffi_kojian-DCP_3721.JPG\" width=\"250\" height=\"165\" srcset=\"https://wikitravel.org/upload/shared//thumb/3/3c/Tatev-raffi_kojian-DCP_3721.JPG/375px-Tatev-raffi_kojian-DCP_3721.JPG 1.5x, https://wikitravel.org/upload/shared//thumb/3/3c/Tatev-raffi_kojian-DCP_3721.JPG/500px-Tatev-raffi_kojian-DCP_3721.JPG 2x\" data-file-width=\"896\" data-file-height=\"592\" /></a>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align: center; border-bottom: 1px solid #C9AFFF; border-top: 1px solid #C9AFFF; background-color: #ddddff\"> <b>Location</b>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align: center; padding: 2px\"> <a href=\"/en/File:Armenia_in_its_region.svg\" class=\"image\"><img alt=\"Armenia in its region.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Armenia_in_its_region.svg/250px-Armenia_in_its_region.svg.png\" width=\"250\" height=\"141\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Armenia_in_its_region.svg/375px-Armenia_in_its_region.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Armenia_in_its_region.svg/500px-Armenia_in_its_region.svg.png 2x\" data-file-width=\"409\" data-file-height=\"230\" /></a>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align: center; border-bottom: 1px solid #C9AFFF; border-top: 1px solid #C9AFFF; background-color: #ddddff\"> <b>Flag</b>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align: center; padding: 2px\"> <a href=\"/en/File:Flag_of_Armenia.svg\" class=\"image\"><img alt=\"Flag of Armenia.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/108px-Flag_of_Armenia.svg.png\" width=\"108\" height=\"54\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/162px-Flag_of_Armenia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/216px-Flag_of_Armenia.svg.png 2x\" data-file-width=\"1200\" data-file-height=\"600\" /></a>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align: center; border-bottom: 1px solid #C9AFFF; border-top: 1px solid #C9AFFF; background-color: #ddddff\"> <b>Quick Facts</b>\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Capital</b>\n</td>\n<td> <a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a>\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Government</b>\n</td>\n<td> Semi-presidential republic\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Currency</b>\n</td>\n<td> Armenian dram\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Area</b>\n</td>\n<td> 29,743&#160;km<sup>2</sup>\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Population</b>\n</td>\n<td> 2,976,372 (July 2006 est.)\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Language</b>\n</td>\n<td> Armenian\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Religion</b>\n</td>\n<td> Armenian Orthodoxy 94%, other Christian 4%, Yezidi (Zoroastrian/animist) 2%\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b><a href=\"/en/Electrical_systems\" title=\"Electrical systems\">Electricity</a></b>\n</td>\n<td> 220V/50Hz (European plug)\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b><a href=\"/en/List_of_country_calling_codes\" title=\"List of country calling codes\">Country code</a></b>\n</td>\n<td> +374\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Internet TLD</b>\n</td>\n<td> .am\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b><a href=\"/en/Time_zones\" title=\"Time zones\">Time Zone</a></b>\n</td>\n<td> UTC +4\n</td></tr>\n<tr>\n<td valign=\"top\" style=\"padding-left:5px; padding-right:5px; white-space:nowrap;\"> <b>Emergencies</b>\n</td>\n<td> dial <b>102</b> for police<br />\n<p>&#160; &#160; &#160; <b>101</b> for fire<br />\n&#160; &#160; &#160; <b>103</b> for medical\n</p>\n</td></tr></table>\n</div> \n<p><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://armenia.travel/en\"><b>Armenia</b></a>  (Armenian <i>\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576</i>, <i>Hayastan</i>) is the only country remaining from 3,000 year old maps of Anatolia. It became the world's first Christian country more than 1,700 years ago in 301 AD and has a large Diaspora all over the world. As a former Soviet republic lying in the <a href=\"/en/Caucasus\" title=\"Caucasus\">Caucasus</a> region straddling <a href=\"/en/Asia\" title=\"Asia\">Asia</a> and <a href=\"/en/Europe\" title=\"Europe\">Europe</a>, Armenia has a rich and ancient culture.\n</p><p>Landlocked, Armenia is bordered by <a href=\"/en/Turkey\" title=\"Turkey\">Turkey</a> to the west, <a href=\"/en/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a> to the north, <a href=\"/en/Iran\" title=\"Iran\">Iran</a> to the south, <a href=\"/en/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a> to the east, and Azerbaijan's Naxcivan exclave to the southwest. Five percent of the country's surface area consists of Lake Sevan (<i>Sevana Lich</i>), the largest lake in the Lesser Caucasus mountain range. Armenia's many mountains and mountain valleys create a great number of microclimates, with scenery changing from arid to lush forest at the top of a mountain ridge.\n</p>\n<h2><span class=\"mw-headline\" id=\"Understand\">Understand</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=1\" title=\"Edit section: Understand\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Although there are more and more road signs in Latin script, especially in Yerevan, English is not widely spoken in Armenia. Many taxi drivers and salespeople in grocery stores and malls do not speak or understand English. Russian has remained the most important foreign language.\n</p><p>You will be reminded frequently when visiting Armenia that it was the world's first officially Christian country, since countless monasteries are among Armenia's premier tourist attractions. Fortunately for those who might otherwise suffer monastery fatigue, many of these monasteries are built in places of incredible natural beauty, making the sites of monasteries like Tatev, Noravank, Haghartsin, Haghpat and Geghard well worth a visit even without the impressive, millennium old monasteries found there.\n</p><p>Since 2001 when Armenia celebrated the 1,700th anniversary of the nation\u2019s conversion to Christianity, the number of tourists visiting the country has grown by about 25% every year. Straddling Europe and Asia in the lesser Caucasus Mountains, an ex-Soviet state with a culture over 3,000 years old and examples of ancient architecture and art all over the countryside, this beautiful country offers something exotic for many tourists.\n</p>\n<h3><span class=\"mw-headline\" id=\"History\">History</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=2\" title=\"Edit section: History\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Armenian history extends for over 3,000 years. Armenians have historically inhabited the \"Armenian Highlands\", a vast section of mountains and valleys across eastern Anatolia and the Southern Caucasus. Armenian vassal states, principalities, kingdoms and empires have risen and fallen in different parts of this highland throughout history. They were only unified once, just before the time of Christ in the empire of Tigran the Great, an empire that stretched from the Caspian to the Mediterranean Sea. Much of Armenia's history has been spent under the domination of the great powers of the region. The western parts of Armenia were under Byzantine or Ottoman Turkish rule for long periods, while the eastern parts were under Persian or Russian rule. These empires often fought their wars on Armenian territory, using Armenian soldiers. It was a rough neighborhood, but Armenians managed to hold onto their language and church and prosper whenever given a chance. Armenia was located on the silk road, and Armenians built a network of merchant communities and ties extending from eastern Asia to Venice. Eventually, with the rise of nationalism, Armenians paid a heavy price for their religion and their envy-inducing wealth.\n</p>\n<h3><span class=\"mw-headline\" id=\"Armenian_Genocide\">Armenian Genocide</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=3\" title=\"Edit section: Armenian Genocide\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>The Armenian Genocide was the Ottoman government's systematic extermination of about 1.5 million of its minority Armenian subjects inside their historic homeland, which lies within the present-day Republic of Turkey. The starting date is conventionally held to be 24 April 1915, the day that Ottoman authorities rounded up, arrested, and deported 235 to 270 Armenian intellectuals and community leaders from Constantinople to Ankara, the majority of whom were eventually murdered. The genocide was carried out during and after World War I and implemented in two phases: the wholesale killing of the able-bodied male population through massacre and subjection of army conscripts to forced labour, followed by the deportation of women, children, the elderly and infirm on death marches leading to the Syrian desert. Driven forward by military escorts, the deportees were deprived of food and water and subjected to periodic robbery, rape, and massacre. The Armenian Diaspora, which is larger than the number of Armenians within Armenia, was created. \n</p><p>The Armenian Genocide is still actively denied by Turkey.\n</p>\n<h3><span class=\"mw-headline\" id=\"Soviet_Armenia\">Soviet Armenia</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=4\" title=\"Edit section: Soviet Armenia\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>In many ways, the Soviet period was a golden one for Armenians. The price they paid for it was extraordinarily high, though, with arbitrary borders being drawn between Armenia and Azerbaijan (setting the stage for future conflict)). The country boomed economically, and there were heavily subsidized cultural education and activities. Yerevan mushroomed from a dusty garrison town of 20,000 to a metropolis of 1 million.\n</p>\n<h3><span class=\"mw-headline\" id=\"Modern_Armenia\">Modern Armenia</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=5\" title=\"Edit section: Modern Armenia\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>In the early 1990s, the Armenians in Karabakh fought for independence from Azerbaijan with support from Armenia and the Armenian Diaspora. The war was won militarily, resulting in Azerbaijan losing control of 20% of its territory, but no diplomatic solution was reached. A ceasefire has been in place since 1994, although it remains weak due to frequent skirmishes alongside the Armenia-Azerbaijan border. As a result, Azerbaijan has closed their borders with Armenia, and Turkey has also closed their borders with Armenia in support of their Azeri-Turk kinsmen. \n</p><p>Both countries have since imposed sanctions against Armenia, putting the local economy in a delicate situation because Armenia depends on outside supplies of energy and most raw materials. Land routes through Georgia and Iran are inadequate and unreliable. As a result, the economy relies heavily on investment and support from Armenians abroad. The economic situation has also been beset due to widespread corruption and poverty. \n</p><p>In 2008, diplomatic efforts to normalize relations with Turkey were initiated but were later suspended due to intense internal pressure on both sides, and disagreements between the two countries. Diplomatic efforts to normalize relations with Azerbaijan over the Nagorno-Karabakh territory have since been initiated and moderated by <a href=\"/en/Russia\" title=\"Russia\">Russia</a>, but these efforts have often proved ineffective due to frequent skirmishes alongside the border separating Armenia and Azerbaijan. Although highly unlikely, the government of  <a href=\"/en/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a> regularly threatens to launch an invasion against Armenia if mediation over the Nagorno-Karabakh territory fails. \n</p><p>Until or unless the Armenians can resolve their differences with Turkey and Azerbaijan, the prospects of change seem remote at present.\n</p>\n<h3><span class=\"mw-headline\" id=\"Culture\">Culture</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=6\" title=\"Edit section: Culture\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>As Armenia straddles Europe and Asia, East and West, so does Armenian culture. Many Armenians refer to Armenia as a European nation, but their social conservatism in some realms hasn't been seen in Europe proper for a few decades. The collapse of the Soviet Union has opened up many channels with the West again and change is coming rapidly, although much more so in Yerevan than in the rest of the country. Armenia's small, very homogeneous population (about 99% Armenian) is strongly family-oriented. All across the land, people place a lot of pride in their hospitality. Show up in a village without a penny, and food and a place to stay will come to you along with drinks and endless toasts.\n</p>\n<h4><span class=\"mw-headline\" id=\"Religion\">Religion</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=7\" title=\"Edit section: Religion\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h4>\n<p>In 301 AD, Armenia became the first country in the world to adopt Christianity as a state religion. One can find thousands of churches and monasteries in Armenia. Armenians are Apostolic Christians and have their own Catholicos (religious leader, like the Pope for Roman Catholics).\n</p>\n<h3><span class=\"mw-headline\" id=\"Geography\">Geography</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=8\" title=\"Edit section: Geography\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Armenia is a small, mountainous, landlocked country whose geography almost never fails to surprise foreign visitors. Mountain passes, valleys and canyons make Armenia feel much larger than it really is, and when you're on its southern shores, Lake Sevan provides the sight of endless water. In addition to its geographic variation, Armenia's climate varies a great deal as well; be ready for everything from barren lunar landscapes to rain forests to snow-capped peaks and a vast alpine lake. There are some places in Armenia where several of these can be experienced at once.\n</p>\n<h2><span class=\"mw-headline\" id=\"Regions\">Regions</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=9\" title=\"Edit section: Regions\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:512px;\"><a href=\"/en/File:Armenia_regions_map.png\" class=\"image\"><img alt=\"\" src=\"https://wikitravel.org/upload/shared//thumb/b/bf/Armenia_regions_map.png/510px-Armenia_regions_map.png\" width=\"510\" height=\"492\" class=\"thumbimage\" srcset=\"https://wikitravel.org/upload/shared//thumb/b/bf/Armenia_regions_map.png/765px-Armenia_regions_map.png 1.5x, https://wikitravel.org/upload/shared//thumb/b/bf/Armenia_regions_map.png/1020px-Armenia_regions_map.png 2x\" data-file-width=\"1239\" data-file-height=\"1196\" /></a>  <div class=\"thumbcaption\"><div class=\"magnify\"><a href=\"/en/File:Armenia_regions_map.png\" class=\"internal\" title=\"Enlarge\"></a></div>Map of Armenia's regions and the breakaway Nagorno-Karabakh region</div></div></div>\n<div id=\"region_list\">\n<table>\n\n<tr>\n<td width=\"32px\" bgcolor=\"#33cc99\"> </td>\n<td> <b><a href=\"/en/Central_Armenia\" title=\"Central Armenia\">Central Armenia</a></b> <br />The political center of <a class=\"mw-selflink selflink\">Armenia</a> contains much of the country's museums and cultural venues in <a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a>, the religious center of <a href=\"/en/Echmiadzin\" title=\"Echmiadzin\">Echmiadzin</a>, the 4100 m high volcano <a href=\"/wiki/en/index.php?title=Aragats&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Aragats (page does not exist)\">Aragats</a> and the Monasteries of Geghard and Khor Virap. Much of this region consists of the flat and dry Ararat valley, though the hidden beauty of Khosrov Preserve is rarely visited.\n</td></tr></table>\n<table>\n\n<tr>\n<td width=\"32px\" bgcolor=\"#336699\"> </td>\n<td> <b><a href=\"/en/Lake_Sevan_Region\" title=\"Lake Sevan Region\">Lake Sevan Region</a></b> <br />This region is centered around beautiful, 2,000&#160;m high Lake Sevan, which itself is surrounded by ancient monuments, churches, and monasteries, as well as popular beaches. Highlights include the largest khachkar cemetery in the world, the beaches near Sevanavank Monastery, and the countless fish and crayfish restaurants along the shores. Recently, windsurfing was reintroduced to the list of recreational activities.\n</td></tr></table>\n<table>\n\n<tr>\n<td width=\"32px\" bgcolor=\"#cc66cc\"> </td>\n<td> <b><a href=\"/en/Northern_Armenia\" title=\"Northern Armenia\">Northern Armenia</a></b> <br />Bordering <a href=\"/en/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a> to the north, this mountainous region includes numerous, wonderfully beautiful, and isolated churches and monasteries. The Debed River Canyon contains many of these, and the remote Shamshadin region is a glimpse of a virtually unvisited and beautiful Armenia.\n</td></tr></table>\n<table>\n\n<tr>\n<td width=\"32px\" bgcolor=\"#99cc33\"> </td>\n<td> <b><a href=\"/en/Southern_Armenia\" title=\"Southern Armenia\">Southern Armenia</a></b> <br />A particularly beautiful section of Armenia stretching south to the Iranian border with interesting caves and more remote, beautiful Christian monuments. Highlights include Tatev Monastery, Noravank Monastery, Mozrov Cave, Selim Caravanserai and the thousands of petroglyphs atop Ughtasar Mountain.\n</td></tr></table>\n<table>\n\n<tr>\n<td width=\"32px\" bgcolor=\"#009966\"> </td>\n<td> <b><a href=\"/en/Nagorno-Karabakh\" title=\"Nagorno-Karabakh\">Nagorno-Karabakh</a></b> <br />Although internationally recognized as part of <a href=\"/en/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a>, Nagorno-Karabakh is de facto independent from Azerbaijan, comprised mostly by ethnic Armenians and only accessible via Armenia. Aside from the rolling green hills, high mountains, hiking trails and excellent monasteries, tourists are drawn to the vast ruined city of Aghdam, and the partially repopulated city of Shushi - both ruined during and after the Karabakh war. Its capital is Stepanakert, home to approximately 40,000 of the region's 140,000 residents.\n</td></tr></table>\n</div>\n<div style=\"width:95%; float:center; border: none; margin: 0.5em 0 0 1em; padding: 0.4em;\">\n<table cellpadding=\"5\" cellspacing=\"1\" border=\"0\">\n\n<tr>\n<td align=\"left\" width=\"100%\" style=\"background-color:#f3fff3; border:1px solid; padding-left: 0.5em; padding-right: 0.5em\">\n<p>The inclusion of <a href=\"/en/Nagorno-Karabakh\" title=\"Nagorno-Karabakh\">Nagorno-Karabakh</a> is not an endorsement of any faction in the dispute; it is merely a practical distinction, since travel conditions in this region differ radically from those in the rest of Azerbaijan and it is only accessible via Armenia.\n</p>\n</td></tr></table></div>\n<p><br />\n</p>\n<h2><span class=\"mw-headline\" id=\"Cities\">Cities</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=10\" title=\"Edit section: Cities\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:332px;\"><a href=\"/en/File:Am-map.png\" class=\"image\"><img alt=\"\" src=\"https://wikitravel.org/upload/shared//d/d8/Am-map.png\" width=\"330\" height=\"354\" class=\"thumbimage\" data-file-width=\"330\" data-file-height=\"354\" /></a>  <div class=\"thumbcaption\">Map of Armenia</div></div></div>\n<ul><li><a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a> - The capital, and by far the largest city</li>\n<li><a href=\"/en/Gyumri\" title=\"Gyumri\">Gyumri</a> (Shirak Marz) - Second city</li>\n<li><a href=\"/en/Vanadzor\" title=\"Vanadzor\">Vanadzor</a> (Lori Marz) - Third city</li>\n<li><a href=\"/en/Dilijan\" title=\"Dilijan\">Dilijan</a> (Tavush Marz) - Popular forest resort known as the \"Little Switzerland\" of Armenia.</li>\n<li><a href=\"/en/Jermuk\" title=\"Jermuk\">Jermuk</a> (Vayots Dzor Marz) - famous for its mineral waters, which come out at very high temperature and can be enjoyed at the spas. Ski lifts are under construction.</li>\n<li><a href=\"/en/Tsaghkadzor\" title=\"Tsaghkadzor\">Tsaghkadzor</a> (Kotayk Marz) - Armenia's ski destination.</li></ul>\n<h2><span class=\"mw-headline\" id=\"Get_in\">Get in</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=11\" title=\"Edit section: Get in\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:302px;\"><a href=\"/en/File:Sanahin-raffi_kojian-DCP_4513.JPG\" class=\"image\"><img alt=\"\" src=\"https://wikitravel.org/upload/shared//thumb/a/a0/Sanahin-raffi_kojian-DCP_4513.JPG/300px-Sanahin-raffi_kojian-DCP_4513.JPG\" width=\"300\" height=\"198\" class=\"thumbimage\" srcset=\"https://wikitravel.org/upload/shared//thumb/a/a0/Sanahin-raffi_kojian-DCP_4513.JPG/450px-Sanahin-raffi_kojian-DCP_4513.JPG 1.5x, https://wikitravel.org/upload/shared//thumb/a/a0/Sanahin-raffi_kojian-DCP_4513.JPG/600px-Sanahin-raffi_kojian-DCP_4513.JPG 2x\" data-file-width=\"896\" data-file-height=\"592\" /></a>  <div class=\"thumbcaption\"><div class=\"magnify\"><a href=\"/en/File:Sanahin-raffi_kojian-DCP_4513.JPG\" class=\"internal\" title=\"Enlarge\"></a></div>Sanahin Monastery in <a href=\"/en/Northern_Armenia\" title=\"Northern Armenia\">Northern Armenia</a>.</div></div></div>\n<h3><span class=\"mw-headline\" id=\"Visas\">Visas</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=12\" title=\"Edit section: Visas\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>European Union passport holders and nationals of <a href=\"/en/EEA#Understand\" class=\"mw-redirect\" title=\"EEA\">Schengen Agreement</a> member states <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://www.mfa.am/en/visa/\">can now enter Armenia without a visa</a> and stay for a period of up to 180 days per year. Together with other countries, that means the list of passports that don't need a visa now includes: Argentina, Austria, Azerbaijan, Belarus, Belgium, Brazil, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Georgia, Greece, Hungary,  Iceland, Ireland, Italy, Japan, Kazakhstan, Kyrgyzstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, Ukraine, United Kingdom, Uruguay, Uzbekistan.\nIranian passport holders don't need a visa to enter and  stay 90 days .\nU.S. passport holders don't need a visa to enter Armenia.\n</p><p>Citizens of most other countries may obtain single-entry tourist visas at any border control point. 21/120 day tourist visas <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://www.mfa.am/en/visa/\">cost</a> 3000/15000 dram. Alternatively, those eligible for a visa on arrival can arrange an <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://evisa.mfa.am/\">e-Visa</a> beforehand. They cost US$40 and are generally approved within two business days. Travelers arriving with an e-Visa can enter Armenia at Ayrum railway station, Bavra, Bagratashen, and Gogavan land borders with the Republic of Georgia, Zvartnots International Airport, and Meghri land border with Iran.\n</p><p>Passport holders of Afghanistan, Algeria, Bangladesh, Cameroon, C\u00f4te d'Ivoire, Egypt, Ghana, Iraq, Libya, Mauritania, Morocco, Nepal, Niger, Nigeria, Pakistan, Saudi Arabia, Somalia, Sri Lanka, Sudan, Syria, Sierra Leone, Tunisia, and Vietnam require an invitation and must apply for a visa at the nearest embassy/consulate <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://www.mfa.am/u_files/file/consulate/Visa/Invitation%20Only%20-Eng.pdf\">before arriving</a>. Holders of Indian passports are eligible to apply for e-visa and/or visa on arrival, however, e-visa is recommended, as per Ministry of Foreign Affairs of Armenia. Chinese passports are now exempt from the invitation requirement, but the e-visa facility is not available to them.\n</p><p>Although border guards at land crossings do accept non-Armenian currencies, they may not give you a good exchange rate, so it is best to have Armenian dram before you arrive at the border.  Some travelers have been charged as much as US$20 to purchase a visa. Border guards and customs officials cannot give change for large foreign notes. \n</p><p>Visas bought at the Yerevan airport must be paid for in local currency. There is a change booth and an ATM at the Yerevan airport before immigration control. There is a hefty surcharge of approximately US$10 for changing traveler's cheques, which are not widely used in Armenia.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_plane\">By plane</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=13\" title=\"Edit section: By plane\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p><b>Zvartnots International Airport</b> (<a href=\"http://en.wikipedia.org/wiki/IATA\" class=\"extiw\" title=\"wikipedia:IATA\">IATA</a>: <b>EVN</b>) <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external autonumber\" href=\"http://www.zvartnots.aero/\">[2]</a>, 10&#160;km west of Yerevan is the country's main airport.\n</p><p>The national carrier was Armavia (now defunct), and served destinations across the CIS, Europe and the Middle East. Some West Asian airlines (Syrian, Iranian, etc.) also serve the airport. \n</p><p>There are very frequent flights from across the <a href=\"/en/CIS\" class=\"mw-redirect\" title=\"CIS\">CIS</a>. Russian airlines include: Aeroflot, S7, Ural, Polet, Kuban Airlines, Saravia, Tatarstan, UTAir and Yamal. Others include Belevia (Belarus), Dniproavia (Dnepropetrovsk, Ukraine) and SCAT (Kazakhstan).\n</p><p>Several European airlines also serve Yerevan: Czech Airlines, Air France, Austrian, LOT and Atlasglobal from Istanbul Turkey.\n</p><p><b>Shirak Airport</b> (<a href=\"http://en.wikipedia.org/wiki/IATA\" class=\"extiw\" title=\"wikipedia:IATA\">IATA</a>: <b>LWN</b>) in <a href=\"/en/Gyumri\" title=\"Gyumri\">Gyumri</a> has a few flights from Russia.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_train\">By train</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=14\" title=\"Edit section: By train\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>There is an overnight train once every other day to <a href=\"/en/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>, <a href=\"/en/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a>. The train links with <a href=\"/en/Turkey\" title=\"Turkey\">Turkey</a> and <a href=\"/en/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a> are severed.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_car\">By car</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=15\" title=\"Edit section: By car\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>It is possible to drive to Armenia via Iran or Georgia. The borders with Turkey and Azerbaijan are closed. Local travel agents can arrange transport to the border; some Georgian agents can arrange transport all the way through to Tbilisi. Although more expensive than a train or bus, a private car may be more comfortable and can be used for some sightseeing along the way.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_bus\">By bus</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=16\" title=\"Edit section: By bus\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<h4><span class=\"mw-headline\" id=\"Georgia\">Georgia</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=17\" title=\"Edit section: Georgia\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h4>\n<p>As of 2014 there is a comfortable Mercedes Vito minibus (marshrutka) service from <a href=\"/en/Tbilisi\" title=\"Tbilisi\">Tbilisi</a> to Yerevan for about US$17 (30GEL). Marshrutkas leave from the parking lot in front of the railway station (old name: vagzlis moadeni; new name and name of the metro stop: sadguris moedani) at 9am, 11am, 1pm, 3pm and 5pm. Reservations can be made under +995 598 57 12 12 in Russian, Georgian and possibly basic English, too. From this service, it is also possible to get out at Alaverdi (closest major town to Haghpat and Sanahin monasteries).\n</p><p>Marshrutka also leave from \"Ortachala\" bus station in Tbilisi , at least in the mornings before 11am, 30GEL.\n</p><p>As of Oct 2018, the price was 35 GEL and the minibus departed only in front of the railway station.\n</p>\n<h4><span class=\"mw-headline\" id=\"Iran\">Iran</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=18\" title=\"Edit section: Iran\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h4>\n<p>There is a daily modern bus service to <a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a> available from <a href=\"/en/Tehran\" title=\"Tehran\">Tehran</a> or <a href=\"/en/Tabriz\" title=\"Tabriz\">Tabriz</a> for about $60/$50; check travel agencies for that. \nOtherwise, the only Iran/Armenia land border at Norduz/<a href=\"/wiki/en/index.php?title=Agarak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Agarak (page does not exist)\">Agarak</a> is very badly served by public transport. On the Armenian side, you can get as far as Meghri by one Marshrutka a day from <a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a>. It leaves from the Sasuntsidavit bus stop that is near/behind the main train station. It leaves when it's full, so be there by 7:30 or 8:00 at the latest. Also be prepared for the marshrutka to be packed with luggage and people. That marshrutka might head down to Agarak after passing Meghri, though it's best to confirm this with the driver. The driver might also be able to set you up with a sleepover option close to the border in Agarak for about 10 \u20ac per night. In both directions, the marshrutka leaves quite early in the morning. \n</p><p>Kapan and Kajaran are more frequently served by marshrutkas, but it is a long and mountainous (and therefore expensive) stretch to the border from there. From Meghri, it is around 8 km to the border, and hitching or taking a taxi is the only option if your marshrutka didn't take you all the way to Agarak in the first place. On the Iranian side, the closest public transport can be found around 50 km to the west in <a href=\"/en/Jolfa\" title=\"Jolfa\">Jolfa</a>, so a taxi (around 10-15$) again is the only (commercial) choice. The border is not busy at all, so when hitching, you have to mainly stick with the truck drivers and knowing some Russian, Persian or Azeri/Turkish helps a lot here. Many truck drivers go from Norduz to <a href=\"/en/Tabriz\" title=\"Tabriz\">Tabriz</a>. Consider for yourself whether this is a safe option.\n</p>\n<h2><span class=\"mw-headline\" id=\"Get_around\">Get around</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=19\" title=\"Edit section: Get around\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:302px;\"><a href=\"/en/File:Armenia-noravank-portal.jpg\" class=\"image\"><img alt=\"\" src=\"/upload/en/thumb/b/b5/Armenia-noravank-portal.jpg/300px-Armenia-noravank-portal.jpg\" width=\"300\" height=\"199\" class=\"thumbimage\" srcset=\"/upload/en/thumb/b/b5/Armenia-noravank-portal.jpg/450px-Armenia-noravank-portal.jpg 1.5x, /upload/en/b/b5/Armenia-noravank-portal.jpg 2x\" data-file-width=\"581\" data-file-height=\"385\" /></a>  <div class=\"thumbcaption\"><div class=\"magnify\"><a href=\"/en/File:Armenia-noravank-portal.jpg\" class=\"internal\" title=\"Enlarge\"></a></div>Noravank Monastery in <a href=\"/en/Southern_Armenia\" title=\"Southern Armenia\">Southern Armenia</a>.</div></div></div>\n<h3><span class=\"mw-headline\" id=\"By_day_tour\">By day tour</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=20\" title=\"Edit section: By day tour\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>One of the best options for getting to the major tourist sites - some of which have infrequent public transport - are the many day tours advertised throughout Yerevan. Starting at $6, you can choose from a variety of half to full day trips which include a good number of the country\u2019s major attractions. Some of the more remote and exotic destinations such as the Petroglyphs of Ughtasar and many of the caves require special planning.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_mini-bus_or_bus\">By mini-bus or bus</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=21\" title=\"Edit section: By mini-bus or bus\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Public transportation is very good and inexpensive in Armenia, but it can be tough to get to more remote sites outside of populated areas. The system could be described as a hub and spoke system, with each city offering local transportation to its surrounding villages as well as connections to Yerevan. Most inter-city travel is by 14-seat minibuses or buses. Yerevan has several bus interchange stations that serve the whole country, so you should find out which bus interchange station services the area of your destination. Note that unlike many countries in Eastern Europe, Armenian minibuses do not sell tickets beforehand and, in fact, do not issue tickets at all. You simply pay the driver at any point during the trip (though some will collect at the beginning). Exact change is never required, but a 20,000 note for a 1,000 dram ride might present a problem. Tips are unheard of on public transportation.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_taxi_or_car\">By taxi or car</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=22\" title=\"Edit section: By taxi or car\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>The average Western tourist can hire a taxi to go almost anywhere in the country on very short notice. If you are traveling with a lot of big or heavy bags, then going by taxi is the best option. Prices are about 100 drams (33 US cents) per km. Most taxis do not have meters, though, so you should negotiate a price before you leave. A taxi is a good option for longer trips, especially if you don't like waiting for hours for a minibus.\nTip. Before arriving have \"GG\" taxi or \"Yandex\" taxi on your phone. They are cheap, fast and reliable.\n</p><p>If you are used to driving in the West and have not driven outside of America or Western or Central Europe, you should hire a driver when you rent your car, as driving in Armenia is often a difficult undertaking for the average tourist. A growing number of car rental companies may be used, including SIXT (office at Zvartnots airport), Europacar, Hertz, and Naniko.\n</p><p>Most main roads around Yerevan are in decent to fair shape, with some being in unusually good condition. When you travel north (Dilidjan) or south (Jermuk), roads are less well-maintained and rather bumpy, and you can feel this especially when using public transport! (Minibuses are often in bad condition, too.) Potholes are very much a part of the experience and can test your driving skills. Be careful and consider getting an all-wheel drive or sport utility vehicle when renting.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_thumb\">By thumb</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=23\" title=\"Edit section: By thumb\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Not as common as in the days of the post-Soviet collapse, hitchhiking is still perfectly safe and acceptable. Drivers often don't expect anything in the way of compensation, but offer anyway and sometimes they'll take the marshutni fare. Flag cars down by holding your arm in front of you and patting the air; this is how taxis, buses and marshutnis are flagged. Don't be too surprised if you befriend a driver during your ride and eventually end up staying at his house for a few days with his family!\n</p>\n<h3><span class=\"mw-headline\" id=\"By_bicycle\">By bicycle</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=24\" title=\"Edit section: By bicycle\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Due to the mountainous terrain, bicycling is not as common a mode of transport in Armenia as it is in the rest of Europe. It can be a great way to see and experience much of the countryside, though, if you can handle the inclines.\n</p><p>Recommended Reading: \"Tour De Armenia\", a cycling travel book\n</p>\n<h3><span class=\"mw-headline\" id=\"By_train_2\">By train</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=25\" title=\"Edit section: By train\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Trains in Armenia are Soviet-style and a little slow as a means of moving around the country. Trains can be taken up to Gyumri and from there on to Alaverdi and Georgia, or they can be taken up to Lake Sevan all the way to the far side.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_plane_2\">By plane</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=26\" title=\"Edit section: By plane\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Domestic flights are not an option as there are only two working airports and no internal flights in this small country. Intermittent service to Karabakh has been available in the past and scheduled flights from Yerevan to Stepanakert <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external autonumber\" href=\"http://armenpress.am/eng/news/704496/technical-issues-being-regulated-in-stepanakert-airport.html\">[3]</a> may start up again - if passengers can be assured that Azerbaijan will not shoot them down.\n</p>\n<h3><span class=\"mw-headline\" id=\"By_tour_operator\">By tour operator</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=27\" title=\"Edit section: By tour operator\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Aside from the plentiful day tours, you can take a package tour of Armenia.\n</p>\n<h2><span class=\"mw-headline\" id=\"Talk\">Talk</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=28\" title=\"Edit section: Talk\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><a href=\"/en/Armenian\" class=\"mw-redirect\" title=\"Armenian\">Armenian</a> is the only official language in Armenia and forms its own language group in the Indo-European language family. However, almost all  Armenians can speak some <a href=\"/en/Russian\" class=\"mw-redirect\" title=\"Russian\">Russian</a> because <a class=\"mw-selflink selflink\">Armenia</a> was part of the <a href=\"/en/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>. English is becoming more widely spoken, particularly in <a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a>; however, very few people outside the capital speak any English.\n</p><p>Remember that issues pertaining to Turkey and Azerbaijan remain tense - A visitor speaking Turkish or Azerbaijani may attract unwanted attention from the locals.\n</p>\n<h2><span class=\"mw-headline\" id=\"See\">See</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=29\" title=\"Edit section: See\">edit</a><span class=\"mw-editsection-bracket\">]</span></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"#See\" title=\"click to add a see listing\" onclick=\"addListing(this, '29', 'see', 'Armenia');\">add listing</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Consider seeing some of the churches and other religious buildings in Armenia  built more than 1700 years ago. One particularly interesting church is located a short drive from Yerevan in Khor Virap; close to the Armenian-Turkish border, this ancient monastery is a perfect place to observe <a href=\"/en/Mt_Ararat\" title=\"Mt Ararat\">Mt Ararat</a> in its full beauty. And of course one should visit the famous Etchmiadzin Monastery, a World Heritage Site.\n</p>\n<h2><span class=\"mw-headline\" id=\"Do\">Do</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=30\" title=\"Edit section: Do\">edit</a><span class=\"mw-editsection-bracket\">]</span></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"#Do\" title=\"click to add a do listing\" onclick=\"addListing(this, '30', 'do', 'Armenia');\">add listing</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:302px;\"><a href=\"/en/File:Garni-raffi_kojian-DCP_1758.JPG\" class=\"image\"><img alt=\"\" src=\"https://wikitravel.org/upload/shared//thumb/7/73/Garni-raffi_kojian-DCP_1758.JPG/300px-Garni-raffi_kojian-DCP_1758.JPG\" width=\"300\" height=\"198\" class=\"thumbimage\" srcset=\"https://wikitravel.org/upload/shared//thumb/7/73/Garni-raffi_kojian-DCP_1758.JPG/450px-Garni-raffi_kojian-DCP_1758.JPG 1.5x, https://wikitravel.org/upload/shared//thumb/7/73/Garni-raffi_kojian-DCP_1758.JPG/600px-Garni-raffi_kojian-DCP_1758.JPG 2x\" data-file-width=\"896\" data-file-height=\"592\" /></a>  <div class=\"thumbcaption\"><div class=\"magnify\"><a href=\"/en/File:Garni-raffi_kojian-DCP_1758.JPG\" class=\"internal\" title=\"Enlarge\"></a></div>Garni Temple in <a href=\"/en/Central_Armenia\" title=\"Central Armenia\">Central Armenia</a>.</div></div></div>\n<ul><li> Hiking</li>\n<li> Rock Climbing</li>\n<li> Wind Surfing</li>\n<li> Sun Baking</li>\n<li> Camping</li>\n<li> Skiing</li>\n<li> Monastery hopping</li></ul>\n<p>For a sample tour itinerary of Armenia, see <b><a href=\"/en/Armenia_in_9_Days\" title=\"Armenia in 9 Days\">Armenia in 9 Days</a></b>\n</p>\n<h2><span class=\"mw-headline\" id=\"Buy\">Buy</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=31\" title=\"Edit section: Buy\">edit</a><span class=\"mw-editsection-bracket\">]</span></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"#Buy\" title=\"click to add a buy listing\" onclick=\"addListing(this, '31', 'buy', 'Armenia');\">add listing</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:302px;\"><a href=\"/en/File:Yerevan-carpets-vernissage-raffi_kojian.jpg\" class=\"image\"><img alt=\"\" src=\"https://wikitravel.org/upload/shared//thumb/6/63/Yerevan-carpets-vernissage-raffi_kojian.jpg/300px-Yerevan-carpets-vernissage-raffi_kojian.jpg\" width=\"300\" height=\"225\" class=\"thumbimage\" srcset=\"https://wikitravel.org/upload/shared//thumb/6/63/Yerevan-carpets-vernissage-raffi_kojian.jpg/450px-Yerevan-carpets-vernissage-raffi_kojian.jpg 1.5x, https://wikitravel.org/upload/shared//thumb/6/63/Yerevan-carpets-vernissage-raffi_kojian.jpg/600px-Yerevan-carpets-vernissage-raffi_kojian.jpg 2x\" data-file-width=\"800\" data-file-height=\"600\" /></a>  <div class=\"thumbcaption\"><div class=\"magnify\"><a href=\"/en/File:Yerevan-carpets-vernissage-raffi_kojian.jpg\" class=\"internal\" title=\"Enlarge\"></a></div>Carpets for sale at a <a href=\"/en/Yerevan\" title=\"Yerevan\">Yerevan</a> market.</div></div></div>\n<p>Armenian carpets, cognac, fruits, handicrafts and Soviet memorabilia are some of the most popular things people take home from Armenia. Most of these are plentiful at Vernissage, a seemingly never-ending weekend flea market next to Republic Square (the more touristy stuff can be found in the back half, farther from Republic Square). Another gift is a duduk, or traditional flute, which is part of the Unesco immaterial heritage.\n</p>\n<h3><span class=\"mw-headline\" id=\"Currency\">Currency</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=32\" title=\"Edit section: Currency\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>The Armenian currency is known as  the \"dram\", and the currency code often used in exchange rate terminology is AMD. The dram is accepted everywhere. The dollar is often accepted for larger purchases, though the dram is the only legal currency for commerce. Dollars, euros and rubles can be exchanged almost anywhere in the country, with other major currencies also easy to exchange. Exchange booths do not charge a commission, and rates are almost always quite competitive.\n</p><p>ATMs (Bankomats) are widely available in larger towns. Outside of Yerevan, though, you should have a major system such as Visa Electron on your card for it to work.\n</p><p>Credit cards are not widely accepted yet, though they will get you pretty far in Yerevan.\n</p>\n<h3><span class=\"mw-headline\" id=\"Exchange_rates\">Exchange rates</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=33\" title=\"Edit section: Exchange rates\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Exchange rates (approximate, August 2018):\n</p>\n<ul><li> \u20ac1 = 550 dram</li>\n<li> US$1 = 480 dram</li>\n<li> \u00a31 = 615 dram</li>\n<li> RUB 1 = 7,20 dram</li></ul>\n<p><br />\n<a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://rates.am/en/\">Armenian dram exchange rates</a>\n</p>\n<h3><span class=\"mw-headline\" id=\"Costs\">Costs</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=34\" title=\"Edit section: Costs\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<h3><span class=\"mw-headline\" id=\"Trading_hours\">Trading hours</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=35\" title=\"Edit section: Trading hours\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Most shops and restaurants are open every day. Offices and schools are open Monday to Saturday. Mornings are usually slow, and places don't tend to open early, or even on time.\n</p>\n<h3><span class=\"mw-headline\" id=\"Tax\">Tax</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=36\" title=\"Edit section: Tax\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Included in prices (except sometimes hotels)\n</p>\n<h3><span class=\"mw-headline\" id=\"Purchasing_customs\">Purchasing customs</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=37\" title=\"Edit section: Purchasing customs\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Bargaining is uncommon in Armenian stores, though when purchasing expensive items or in bulk, merchants may be amenable to it. In markets, however, bargaining is a must! \n</p><p>Tipping is increasingly common in Armenia, especially at cafes and restaurants. Many Armenians will simply round up their checks or else leave ten percent. Some caf\u00e9 staff are only compensated with the tips they earn, though you cannot always tell by the service they provide. Many restaurants have begun to charge a ten percent \u201cservice fee\u201d which they usually do not share with the waiters, and it is not clear what it is used for. This fee is often not clearly stated on the menu, so you should ask if you want to know. Tipping is usually not expected in taxis, but again, rounding up is not uncommon.\n</p>\n<h3><span class=\"mw-headline\" id=\"Markets\">Markets</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=38\" title=\"Edit section: Markets\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Vernissage - every Saturday near Republic Square, there is an open market with great shopping for tourists and locals alike. You can buy everything from a 300 year-old carpet to a 1970s Soviet phone to Russian nesting dolls.  \n</p><p>For Armenian- and Russian-speaking visitors, a visit to the underground book market can be quite interesting. Located in an underground passageway under Abovyan Street, close to the medical school and the Yeritasardakan Metro Station, vendors sell thousands upon thousands of books. Bargaining is a must!\n</p>\n<h2><span class=\"mw-headline\" id=\"Eat\">Eat</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=39\" title=\"Edit section: Eat\">edit</a><span class=\"mw-editsection-bracket\">]</span></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"#Eat\" title=\"click to add a eat listing\" onclick=\"addListing(this, '39', 'eat', 'Armenia');\">add listing</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Khorovats (BBQ) can be pork, lamb, chicken or beef and is flavored with onions and other Armenian spices. Tomatoes, eggplant (aubergine) and bell peppers are also part of the khorovats meal. \n</p><p>Borscht is a vegetable soup traditionally made with beetroot as a main ingredient, which gives it a strong red color. It is usually served warm with fresh sour cream.\n</p><p>Khash is a traditional dish that originated in the Shirak region. Formerly a nutritious winter food for the rural poor, it is now considered a delicacy and is enjoyed as a festive winter meal.\n</p><p>Dolma (stuffed grape leaves; a variety with stuffed cabbage leaves, bell peppers and eggplants) also exists.\n</p><p>Armenian fruits and vegetables are special. One should definitely try them and will never forget the taste of Armenian apricot, peach, grapes, pomegranate, etc.\n</p><p>Armenian bread is very tasty as well. There is a wide range of different types of bread, starting from black and white till lavash (a soft, thin flatbread) and matnaqash.\n</p><p>Don\u2019t miss trying milk products! Along with ordinary milk products, there are some traditional and really tasty and refreshing ones. Matsun (yogurt) is a traditional Armenian dairy product that has centuries of history. It contains a number of natural microelements, which have high biochemical activity. It\u2019s really refreshing, especially when you try it cold during hot summers. Okroshka, cold soup with kefir and cucumber and dill, is a healthy and refreshing dairy dish. Spas is really tasty hot kefir soup with grains in it.\n</p><p>Caf\u00e9 culture rules in Armenia, and the best places to have a cup of coffee and people-watch are sidewalk caf\u00e9s. Any place near the Opera is certain to be jumping late into the summer nights. A popular chain is \"Jazzve\" (several locations throughout the city, including near the Opera and off Mesrop Mashtots Avenue), which offers many varieties of tea and coffee as well as great desserts.\n</p>\n<h2><span class=\"mw-headline\" id=\"Drink\">Drink</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=40\" title=\"Edit section: Drink\">edit</a><span class=\"mw-editsection-bracket\">]</span></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"#Drink\" title=\"click to add a drink listing\" onclick=\"addListing(this, '40', 'drink', 'Armenia');\">add listing</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Alcoholic: Vodka, tutti oghi (mulberry vodka), honi oghi (cornelian cherry vodka), Tsirani oghi (apricot vodka), local beer (Kilikia, Kotayk, Gumri), wine (can also be made of pomegranate), and brandy.\n</p><p>Other: Tan (yogurt combined with water and salt), Jermuk (mineral water), masuri hyut (rose hip juice),  chichkhani hyut (sea buckthorne juice), bali hyut (sour cherry juice), Armenian coffee, and herbal teas.\n</p>\n<h2><span class=\"mw-headline\" id=\"Sleep\">Sleep</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=41\" title=\"Edit section: Sleep\">edit</a><span class=\"mw-editsection-bracket\">]</span></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"#Sleep\" title=\"click to add a sleep listing\" onclick=\"addListing(this, '41', 'sleep', 'Armenia');\">add listing</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Across Armenia, it is possible to find pleasant bed and breakfasts that will give you a true taste of Armenian culture. The language barrier will be significant in rural areas of Armenia if you do not speak <a href=\"/en/Armenian\" class=\"mw-redirect\" title=\"Armenian\">Armenian</a> or <a href=\"/en/Russian\" class=\"mw-redirect\" title=\"Russian\">Russian</a>, but if you take a phrase dictionary with you, you shouldn't have a lot of trouble, as people are patient. If you don't personally know any Armenians, one way to access the true Armenia away from the Westernized hotels and \"Armenian branded\" hotels is to find a reliable travel agent based in Armenia.\n</p><p>There are a couple of hostels in Yerevan. Outside Yerevan, there are a few main recreational areas that offer very reasonable accommodations, but you will be required to live without some conveniences. At the high end are some hotels on Lake Sevan and in Northern Lori Marz (50&#160;km from the Georgian border). You won't miss anything here, but you will pay Western prices for the accommodations. Around Lake Sevan, there are numerous types of cottages and hotels. Prices are reasonable and start at about US$10 per day for a cottage with electricity and within walking distance from the lake. The city of Sevan, because of its proximity to Yerevan, is the most popular place on Lake Sevan. The history, culture and non-Western feel of the accommodations change as you go south along the lake.\n</p><p>Tavush Marz is a wonderful place to spend time during the summer. Dilijan and Ijevan are wonderful towns to be based in, as day trips are possible to the many ancient churches that pepper this remote region. Costs are very reasonable. Dilijan is known for its sanatoriums from the Soviet era. Don't expect hot water all hours of the day, but you can have a lovely room that will accommodate a family and include food for about US$20 a day. Take another US$20 to hire a car for the day to visit the surrounding historical sites.\n</p><p>Lori Marz is the second most beautiful region after Vayots Dzor. It has many health resort areas such as Stepanavan and Dendropark (Sojut) next to village Gyulagarak. Lori is considered to be the Armenian Switzerland. It has numerous churches, monasteries, medieval bridges and monuments. The Stepanavan area is great for hiking, tasting fresh dairy products, etc. Small hotels and B&amp;Bs are available in Stepanavan, Odzun, Tumanian, etc.\n</p><p>Tzaghkadzor is a well-known winter retreat. It has many lovely hotels and is popular year-round. Check with a travel agent to find the best deal for the activity you are interested in. Jermuk, made famous by the bottled water of the same name, is a wonderful getaway, but will require you to leave your Western expectations behind.\n</p>\n<ul><li><span class='vcard' id = 'JRs_House_hostel'><span class=\"fn org\">JR\u2019s House hostel</span>, <span class=\"adr\"><span class=\"street-address\">4/1 James Bryce Street 0019 Yerevan Armenia</span></span> (<span class=\"note directions\">4/1 James Bryce Street 0019 Yerevan Armenia right(Bagramyan Avenue) Close to the American University of Armenia and UK Embassy</span>), <span class=\"tel\"><abbr class=\"type\" title=\"voice\">\u260e</abbr> <span class=\"phone value\">+374 93 378889</span></span>, <a class=\"url external autonumber\" href=\"http://www.jrshouse.com\" rel=\"nofollow\">[1]</a>. <span class=\"description\">An easy walk from down town Yerevan, JR\u2019S HOUSE hostel is excellent value for money accommodation in the heart of Armenia. Spacious rooms, leafy terraces, and a shared lounge and kitchen allow guests to relax and socialize in a friendly atmosphere. Organised and friendly staff are on hand around the clock to extend our guests welcoming Armenian hospitality and make you feel like a member of the family. Breakfast and WIFI included, we pride ourselves in our relaxed and welcoming air. An excellent base for exploring the rich culture and history of the country we can assist in organizing tours and giving insider tips of things to do and see in the capital. From JR\u2019s House, Armenia is at your doorstep.</span> <span class=\"geo\">(<span class=\"latitude\">40.192725</span>,<span class=\"longitude\">44.497611</span>)</span>&#160;<a class=\"listing-edit\" href=\"#JRs_House_hostel\" onclick=\"editListing('JRs_House_hostel', 'sleep', 'Armenia');return false;\" title=\"click to edit JR\u2019s House hostel\" rel=\"nofollow\">edit</a></span></li></ul>\n<p><br />\n</p>\n<h2><span class=\"mw-headline\" id=\"Learn\">Learn</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=42\" title=\"Edit section: Learn\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"external text\" href=\"http://en.wikipedia.org/wiki/Armenian_language\">The Armenian language</a> and <b>history</b>. Since Armenians are very proud to be citizens of the first nation to adopt Christianity as a state religion, nearly everyone is somewhat of an expert in Armenian history, which goes back more than 3,000 years. <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://www.matenadaran.am\">The Museum of Ancient scripts</a>,  In \"<i>Matenadaran</i>\" , which is located in central Yerevan, one can learn about history and see really ancient manuscripts.\n</p>\n<h2><span class=\"mw-headline\" id=\"Work\">Work</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=43\" title=\"Edit section: Work\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Online job sites are popular among employers and job seekers.  For volunteer work see these links: <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external autonumber\" href=\"http://www.armenianvolunteer.org\">[4]</a>, <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external autonumber\" href=\"http://www.birthrightarmenia.org/\">[5]</a>, <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external autonumber\" href=\"http://www.fullercenterarmenia.org/\">[6]</a>.\n</p>\n<h2><span class=\"mw-headline\" id=\"Stay_safe\">Stay safe</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=44\" title=\"Edit section: Stay safe\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:302px;\"><a href=\"/en/File:Sevanavank-raffi_kojian-DCP_4892.JPG\" class=\"image\"><img alt=\"\" src=\"https://wikitravel.org/upload/shared//thumb/e/ed/Sevanavank-raffi_kojian-DCP_4892.JPG/300px-Sevanavank-raffi_kojian-DCP_4892.JPG\" width=\"300\" height=\"198\" class=\"thumbimage\" srcset=\"https://wikitravel.org/upload/shared//thumb/e/ed/Sevanavank-raffi_kojian-DCP_4892.JPG/450px-Sevanavank-raffi_kojian-DCP_4892.JPG 1.5x, https://wikitravel.org/upload/shared//thumb/e/ed/Sevanavank-raffi_kojian-DCP_4892.JPG/600px-Sevanavank-raffi_kojian-DCP_4892.JPG 2x\" data-file-width=\"896\" data-file-height=\"592\" /></a>  <div class=\"thumbcaption\"><div class=\"magnify\"><a href=\"/en/File:Sevanavank-raffi_kojian-DCP_4892.JPG\" class=\"internal\" title=\"Enlarge\"></a></div>Sevanavank in <a href=\"/en/Lake_Sevan_Region\" title=\"Lake Sevan Region\">Lake Sevan Region</a>.</div></div></div>\n<p>Overall, Yerevan is not a dangerous city. However, theft and pickpocketing targeting foreigners are not unheard of, and utmost care is essential. Use common sense when walking on the street at night, especially after drinking. There are well known scams operating on some ATM machines, particularly those accepting VISA cards, where no money is issued but cash is withdrawn from the account nevertheless.\n</p><p>Female visitors should be aware that unaccompanied women are an unusual sight after dark. In the outskirts of the city, a single woman walking alone at night may attract unwanted attention.\n</p><p>There are people at the Zvartnots International Airport who ask tourists if they need a taxi. These people escort tourists to a car and claim that it is an airport taxi which costs two or three times more than a regular taxi. Never trust such people, even if they have already put your luggage in the trunk! You can find a taxi which costs 2,000-3,000 dram instead of the c.10,000 dram they are asking. That's definitely a scam, and many tourists have been tricked in this way. If you want to know whether a car is a real taxi, look at the number plate: if it is yellow or the first are 3 digit numbers (NOT 2 digit), then it is a taxi you want to take a ride in! And keep in mind that in almost every taxi 1km is 100 drams, but you must pay 500 drams for the first km (even if you only ride 2km).\n</p>\n<h2><span class=\"mw-headline\" id=\"Stay_healthy\">Stay healthy</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=45\" title=\"Edit section: Stay healthy\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>As with any travel experience, eat well, but do not overeat. If you are dining with Armenians, they will feed you until you cannot eat anymore. The food is generally safe, even food from the roadside khorovats stands. There is little to worry about where food safety in Armenia is concerned.\n</p><p>The tap water is generally safe as it comes directly from mountains, but you may also purchase bottled water. You can get both mineral water and spring water on almost every street corner in both rural areas and the capital.\n</p>\n<h3><span class=\"mw-headline\" id=\"Smoke\">Smoke</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=46\" title=\"Edit section: Smoke\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Smoking is illegal in many public places. But bear that in mind that Armenia has the highest rate of cigarette smoking in Asia. Open air cafes will generally have a smoking area; if you see an ashtray on the table, you can smoke there.\n</p>\n<h2><span class=\"mw-headline\" id=\"Respect\">Respect</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=47\" title=\"Edit section: Respect\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Avoid discussing Azerbaijan and Nagorno-Karabakh because it is an extremely sensitive subject due to the frozen but still very bitter ongoing conflict with Azerbaijan over Nagorno-Karabakh. In order to avoid financial expenses to run paid professional army based on contract, the government forces male citizens to serve in army sending them to war zones, which results in death of many innocent young men. Bitterness and hatred against Azerbaijanis (because of Karabakh conflict) and Turks (because of the Armenian Genocide) run very high.\n</p><p>History is more than a science in Armenia; it is a part of Armenian nationalistic ideology. So the issue of the Armenian Genocide, in which most of the Armenian people and a majority of Western scholars believe up to one and a half million Armenians were killed by the Young Turk government during World War One, is an extremely sensitive one, and caution and great respect should be shown when discussing the subject. One can find out more about the Armenian Genocide by visiting the Genocide Memorial 'Tzitzernakabert'. There is also a museum near the memorial.<a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external autonumber\" href=\"http://www.the-american-times.com/armenia-photos/2013/04/14?nggpage=2/\">[7]</a> \n</p><p>Having been liberated by the then-Russian Empire in 1828, Armenians are partly Slavophiles; ask as many questions as you like about soccer and Soviet TV programs. Respect is generally shown for Slavs, including Russians. People often have no problem talking about the Soviet Union. Most Armenians do not mind if you speak to them in Russian.\n</p><p>It is very common to give up your seat for an elderly passenger on public transport. Usually, men will give up their seat to women, too. The \"ladies first\" rule is considered important, and it is considered polite to let women be the first to board the bus or train or enter a room; you'll find this the case with virtually all other countries within the CIS/CSTO area.\n</p><p>When visiting churches, both men and women are expected to dress modestly (i.e., no shorts, miniskirts, sleeveless shirts or tops, etc.). Lighting a candle is always a nice gesture, but is optional. You should always talk quietly when you are visiting a church.\n</p>\n<h2><span class=\"mw-headline\" id=\"Contact\">Contact</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=48\" title=\"Edit section: Contact\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Yerevan is full of internet cafes and internet phone offices, and these are beginning to pop up in a number of towns outside of Yerevan as well. International calling is available through prepaid mobile phone cards. Short-term mobile phone rental is also possible. Regular calls can always be made from the post office and is cheap within Armenia, but is a bit expensive for international calls. For much cheaper rates, try to find a phone office that uses the internet. Local calls can be made from kiosks or the rare payphone.\n</p>\n<h3><span class=\"mw-headline\" id=\"Mobile_phone_providers\">Mobile phone providers</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=49\" title=\"Edit section: Mobile phone providers\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>There are three 2G, 3G and one 4G service providers operating in Armenia. You're strongly advised to acquire a temporary pre-paid SIM card as they are cheap and convenient, allow both local and international calls, do not charge for incoming calls, and charge no monthly fee. Mobile internet and UTMS are also offered from all companies, as well as the normal full range of wireless services. \n</p><p><b>VivaCell</b> and <b>Ucom</b> have booths offering free SIM-Cards to incoming visitors at the airport. They are also easiest to top-up (at pretty much any store or kiosk in the country) and have better English services, rates and coverage. \n</p><p>The majority of foreign visitors find their unlocked mobile phones compatible with Armenian SIM cards (GSM 900/1800). <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://maps.mobileworldlive.com/network.php?cid=193&amp;cname=Armenia,%20Republic%20of\">GSM coverage maps of Armenia</a>.\n</p>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://www.mts.am/\"><b>VivaCell-MTS</b></a> (Armenian, English and Russian) is the leading GSM service provider in Armenia and offers quality service at reasonable rates (owned by the Russian giant MTS). They have the best coverage outside of Yerevan. A VivaCell pre-paid SIM card (\"ALO\" card) costs 1,100-7,000 dram, depending on how much starting credit you want. At their flagship store off Republic Square, VivaCell is very helpful to foreigners and will make sure that you understand everything in English, French or Russian. They offer very low priced <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://mts.am/en/individual-customers/roaming-and-international-access/calls-to-other-countries/distant-call\">\"Distant Calls\"</a> for international calls from your phone via VoIP (be sure to dial 77001 + country code + the number!); in fact, it is much cheaper per minute to call the US or Canada (13 dram) or Russia (30 dram) than it is to dial Armenian networks!</li></ul>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://www.ucom.am/\"><b>Ucom</b></a> (Armenian, English and Russian) offers a pre-paid card called <b>Let's Talk</b> with complicated, but competitive rates. All networks in Armenia (35 dram) lower rates may apply within the network or for night-time calls, US or Canada (15 dram), Russia (30 dram).</li></ul>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://beeline.am/\"><b>Beeline</b></a> (Armenian, English and Russian) (formerly ArmenTel but have switched to the Russian brand) also have a pre-paid card. This option may no longer be available to those without Armenian residency, although Russians and Ukrainians seem to be exempt.</li></ul>\n<p>All three networks cover 90% of the population with 2G and 70-80% with 3G so having network signal is not often a worry. Orange and Viva Cell MTS are recommended to foreigners or tourists as they have a helpful variety of languages for tourists such as Armenian, English, French and Russian.\n</p><p><br />\n</p>\n<h2><span class=\"mw-headline\" id=\"Get_out\">Get out</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/wiki/en/index.php?title=Armenia&amp;action=edit&amp;section=50\" title=\"Edit section: Get out\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Armenia is bordered by <a href=\"/en/Turkey\" title=\"Turkey\">Turkey</a>, <a href=\"/en/Iran\" title=\"Iran\">Iran</a>, <a href=\"/en/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a>, <a href=\"/en/Nagorno-Karabakh\" title=\"Nagorno-Karabakh\">Nagorno-Karabakh</a>, and <a href=\"/en/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a>, however their land borders are closed to both Turkey and Azerbaijan, so if you want to move between these countries you will first have to travel to Georgia or Iran before you can cross into either Turkey or Azerbaijan\n</p><p><br />\n</p>\n<table class=\"articleState noprint\" style=\"border-style:dotted;border-width:2px;border-color:lightblue\">\n<tr>\n<td><i>This <a href=\"/en/Wikitravel:Geographical_hierarchy#Countries\" title=\"Wikitravel:Geographical hierarchy\">country guide</a> is an <b><a href=\"/en/Wikitravel:Country_guide_status\" title=\"Wikitravel:Country guide status\">outline</a></b> and needs more content. It has a <a href=\"/en/Wikitravel:Country_article_template\" title=\"Wikitravel:Country article template\">template</a>, but there may not be enough <a href=\"/en/Wikitravel:Where_you_can_stick_it\" title=\"Wikitravel:Where you can stick it\">information</a> present. If there are <a href=\"/en/Wikitravel:City_guide_status\" title=\"Wikitravel:City guide status\">Cities</a> and <b>Other destinations</b> listed, they may not all be at <b>usable</b> status or there may not be a <a href=\"/en/Wikitravel:Country_guide_status\" title=\"Wikitravel:Country guide status\">valid regional structure</a> and a \"Get in\" section describing all of the typical ways to get here. Please <a href=\"/en/Wikitravel:Plunge_forward\" title=\"Wikitravel:Plunge forward\">plunge forward</a> and <a href=\"/en/Wikitravel:How_to_edit_a_page\" title=\"Wikitravel:How to edit a page\">help it grow</a>!</i>\n</td></tr></table><a href=\"//wikitravel.org/wiki/en/index.php?title=Category%3ACaucasus&amp;action=edit&amp;preload=Template:IsPartOf/preload\" target=\"_blank\" rel=\"nofollow noreferrer noopener\"><img alt=\"Create category\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Categorisation-hierarchy-top2down.svg/15px-Categorisation-hierarchy-top2down.svg.png\" width=\"15\" height=\"15\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Categorisation-hierarchy-top2down.svg/23px-Categorisation-hierarchy-top2down.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Categorisation-hierarchy-top2down.svg/30px-Categorisation-hierarchy-top2down.svg.png 2x\" data-file-width=\"300\" data-file-height=\"300\" /></a>\n\n<!-- \nNewPP limit report\nCached time: 20190328113852\nCache expiry: 86400\nDynamic content: false\nCPU time usage: 0.450 seconds\nReal time usage: 2.807 seconds\nPreprocessor visited node count: 719/1000000\nPreprocessor generated node count: 3938/1000000\nPost\u2010expand include size: 17281/3145728 bytes\nTemplate argument size: 5899/3145728 bytes\nHighest expansion depth: 6/40\nExpensive parser function count: 1/100\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   42.962      1 -total\n 29.48%   12.667      1 Template:Quickbar\n 25.24%   10.844      1 Template:Regionlist\n 11.33%    4.867      1 Template:Pagebanner\n 10.53%    4.524     12 Template:Quickbar_item\n 10.09%    4.333      5 Template:Regionlistitem\n  9.11%    3.914      1 Template:IsPartOf\n  4.29%    1.842      1 Template:Outlinecountry\n  4.01%    1.724      1 Template:Disclaimerbox\n  3.41%    1.467      2 Template:IATA\n-->\n</div>\n<!-- Saved in parser cache with key wikitravel_org_en:pcache:idhash:185-0!canonical and timestamp 20190328113849 and revision id 2589528\n -->\n"
+        },
+        "langlinks": [
+            {
+                "lang": "wikipedia",
+                "url": "http://en.wikipedia.org/wiki/Armenia",
+                "langname": "Wikipedia",
+                "autonym": "Wikipedia",
+                "*": "Armenia"
+            },
+            {
+                "lang": "world66",
+                "url": "http://www.world66.com/europe/armenia",
+                "langname": "World66",
+                "autonym": "World66",
+                "*": "europe/armenia"
+            },
+            {
+                "lang": "ca",
+                "url": "https://wikitravel.org/ca/Arm%C3%A8nia",
+                "langname": "catal\u00e0",
+                "autonym": "catal\u00e0",
+                "*": "Arm\u00e8nia"
+            },
+            {
+                "lang": "de",
+                "url": "https://wikitravel.org/de/Armenien",
+                "langname": "Deutsch",
+                "autonym": "Deutsch",
+                "*": "Armenien"
+            },
+            {
+                "lang": "eo",
+                "url": "https://wikitravel.org/eo/Armenio",
+                "langname": "Esperanto",
+                "autonym": "Esperanto",
+                "*": "Armenio"
+            },
+            {
+                "lang": "es",
+                "url": "https://wikitravel.org/es/Armenia",
+                "langname": "espa\u00f1ol",
+                "autonym": "espa\u00f1ol",
+                "*": "Armenia"
+            },
+            {
+                "lang": "fi",
+                "url": "https://wikitravel.org/fi/Armenia",
+                "langname": "suomi",
+                "autonym": "suomi",
+                "*": "Armenia"
+            },
+            {
+                "lang": "fr",
+                "url": "https://wikitravel.org/fr/Arm%C3%A9nie",
+                "langname": "fran\u00e7ais",
+                "autonym": "fran\u00e7ais",
+                "*": "Arm\u00e9nie"
+            },
+            {
+                "lang": "hu",
+                "url": "https://wikitravel.org/hu/%C3%96rm%C3%A9nyorsz%C3%A1g",
+                "langname": "magyar",
+                "autonym": "magyar",
+                "*": "\u00d6rm\u00e9nyorsz\u00e1g"
+            },
+            {
+                "lang": "it",
+                "url": "https://wikitravel.org/it/Armenia",
+                "langname": "italiano",
+                "autonym": "italiano",
+                "*": "Armenia"
+            },
+            {
+                "lang": "ja",
+                "url": "https://wikitravel.org/ja/%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%8B%E3%82%A2",
+                "langname": "\u65e5\u672c\u8a9e",
+                "autonym": "\u65e5\u672c\u8a9e",
+                "*": "\u30a2\u30eb\u30e1\u30cb\u30a2"
+            },
+            {
+                "lang": "nl",
+                "url": "https://wikitravel.org/nl/Armeni%C3%AB",
+                "langname": "Nederlands",
+                "autonym": "Nederlands",
+                "*": "Armeni\u00eb"
+            },
+            {
+                "lang": "pl",
+                "url": "https://wikitravel.org/pl/Armenia",
+                "langname": "polski",
+                "autonym": "polski",
+                "*": "Armenia"
+            },
+            {
+                "lang": "pt",
+                "url": "https://wikitravel.org/pt/Arm%C3%A9nia",
+                "langname": "portugu\u00eas",
+                "autonym": "portugu\u00eas",
+                "*": "Arm\u00e9nia"
+            },
+            {
+                "lang": "ru",
+                "url": "https://wikitravel.org/ru/%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F",
+                "langname": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+                "autonym": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+                "*": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+            },
+            {
+                "lang": "sv",
+                "url": "https://wikitravel.org/sv/Armenien",
+                "langname": "svenska",
+                "autonym": "svenska",
+                "*": "Armenien"
+            },
+            {
+                "lang": "wts",
+                "url": "https://wikitravel.org/shared/Category:Armenia",
+                "langname": "Wikitravel Shared",
+                "autonym": "Wikitravel Shared",
+                "*": "Category:Armenia"
+            }
+        ],
+        "categories": [
+            {
+                "sortkey": "",
+                "*": "Has_custom_banner"
+            },
+            {
+                "sortkey": "",
+                "*": "Articles_with_warnings"
+            },
+            {
+                "sortkey": "",
+                "missing": "",
+                "*": "Outline_countries"
+            },
+            {
+                "sortkey": "",
+                "*": "Outline_articles"
+            },
+            {
+                "sortkey": "",
+                "missing": "",
+                "*": "Country_articles"
+            },
+            {
+                "sortkey": "",
+                "*": "Articles_needing_IsPartOf_category"
+            },
+            {
+                "sortkey": "",
+                "*": "All_destination_articles"
+            },
+            {
+                "sortkey": "",
+                "*": "Pages_linked_to_a_data_item_for_a_disambiguation"
+            }
+        ],
+        "links": [
+            {
+                "ns": 14,
+                "*": "Category:Caucasus"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Caucasus"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Central Armenia"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Tsaghkadzor"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Armenia (disambiguation)"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Armenia in 9 Days"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Armenian"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Asia"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Azerbaijan"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "CIS"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Dilijan"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "EEA"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Echmiadzin"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Electrical systems"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Europe"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Georgia (country)"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Gyumri"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Iran"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Jermuk"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Jolfa"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Lake Sevan Region"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "List of country calling codes"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Mt Ararat"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Nagorno-Karabakh"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Northern Armenia"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Russia"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Russian"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Southern Armenia"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Soviet Union"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Tabriz"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Tbilisi"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Tehran"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Time zones"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Turkey"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Vanadzor"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Yerevan"
+            },
+            {
+                "ns": 0,
+                "*": "Aragats"
+            },
+            {
+                "ns": 0,
+                "*": "Agarak"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:City guide status"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:Country article template"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:Country guide status"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:Geographical hierarchy"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:How to edit a page"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:Plunge forward"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikitravel:Where you can stick it"
+            }
+        ],
+        "templates": [
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Pagebanner"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Otheruses"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Quickbar"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Quickbar item"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Regionlist"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Regionlistitem"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Disclaimerbox"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:IATA"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Outlinecountry"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:IsPartOf"
+            }
+        ],
+        "images": [
+            "Armenia_Banner.jpg",
+            "Tatev-raffi_kojian-DCP_3721.JPG",
+            "Armenia_in_its_region.svg",
+            "Flag_of_Armenia.svg",
+            "Armenia_regions_map.png",
+            "Am-map.png",
+            "Sanahin-raffi_kojian-DCP_4513.JPG",
+            "Armenia-noravank-portal.jpg",
+            "Garni-raffi_kojian-DCP_1758.JPG",
+            "Yerevan-carpets-vernissage-raffi_kojian.jpg",
+            "Sevanavank-raffi_kojian-DCP_4892.JPG",
+            "Categorisation-hierarchy-top2down.svg"
+        ],
+        "externallinks": [
+            "//wikitravel.org/wiki/en/index.php?title=Category:Caucasus&action=edit&preload=Template:IsPartOf/preload",
+            "https://armenia.travel/en",
+            "http://www.mfa.am/en/visa/",
+            "https://evisa.mfa.am/",
+            "http://www.mfa.am/u_files/file/consulate/Visa/Invitation%20Only%20-Eng.pdf",
+            "http://www.zvartnots.aero/",
+            "http://armenpress.am/eng/news/704496/technical-issues-being-regulated-in-stepanakert-airport.html",
+            "http://rates.am/en/",
+            "http://en.wikipedia.org/wiki/Armenian_language",
+            "http://www.matenadaran.am",
+            "http://www.armenianvolunteer.org",
+            "http://www.birthrightarmenia.org/",
+            "http://www.fullercenterarmenia.org/",
+            "http://www.the-american-times.com/armenia-photos/2013/04/14?nggpage=2/",
+            "http://maps.mobileworldlive.com/network.php?cid=193&cname=Armenia,%20Republic%20of",
+            "https://www.mts.am/",
+            "http://mts.am/en/individual-customers/roaming-and-international-access/calls-to-other-countries/distant-call",
+            "https://www.ucom.am/",
+            "https://beeline.am/"
+        ],
+        "sections": [
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Understand",
+                "number": "1",
+                "index": "1",
+                "fromtitle": "Armenia",
+                "byteoffset": 1604,
+                "anchor": "Understand"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "History",
+                "number": "1.1",
+                "index": "2",
+                "fromtitle": "Armenia",
+                "byteoffset": 2848,
+                "anchor": "History"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Armenian Genocide",
+                "number": "1.2",
+                "index": "3",
+                "fromtitle": "Armenia",
+                "byteoffset": 4091,
+                "anchor": "Armenian_Genocide"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Soviet Armenia",
+                "number": "1.3",
+                "index": "4",
+                "fromtitle": "Armenia",
+                "byteoffset": 5224,
+                "anchor": "Soviet_Armenia"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Modern Armenia",
+                "number": "1.4",
+                "index": "5",
+                "fromtitle": "Armenia",
+                "byteoffset": 5667,
+                "anchor": "Modern_Armenia"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Culture",
+                "number": "1.5",
+                "index": "6",
+                "fromtitle": "Armenia",
+                "byteoffset": 7475,
+                "anchor": "Culture"
+            },
+            {
+                "toclevel": 3,
+                "level": "4",
+                "line": "Religion",
+                "number": "1.5.1",
+                "index": "7",
+                "fromtitle": "Armenia",
+                "byteoffset": 8186,
+                "anchor": "Religion"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Geography",
+                "number": "1.6",
+                "index": "8",
+                "fromtitle": "Armenia",
+                "byteoffset": 8487,
+                "anchor": "Geography"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Regions",
+                "number": "2",
+                "index": "9",
+                "fromtitle": "Armenia",
+                "byteoffset": 9081,
+                "anchor": "Regions"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Cities",
+                "number": "3",
+                "index": "10",
+                "fromtitle": "Armenia",
+                "byteoffset": 12018,
+                "anchor": "Cities"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Get in",
+                "number": "4",
+                "index": "11",
+                "fromtitle": "Armenia",
+                "byteoffset": 12534,
+                "anchor": "Get_in"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Visas",
+                "number": "4.1",
+                "index": "12",
+                "fromtitle": "Armenia",
+                "byteoffset": 12639,
+                "anchor": "Visas"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By plane",
+                "number": "4.2",
+                "index": "13",
+                "fromtitle": "Armenia",
+                "byteoffset": 15447,
+                "anchor": "By_plane"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By train",
+                "number": "4.3",
+                "index": "14",
+                "fromtitle": "Armenia",
+                "byteoffset": 16262,
+                "anchor": "By_train"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By car",
+                "number": "4.4",
+                "index": "15",
+                "fromtitle": "Armenia",
+                "byteoffset": 16438,
+                "anchor": "By_car"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By bus",
+                "number": "4.5",
+                "index": "16",
+                "fromtitle": "Armenia",
+                "byteoffset": 16826,
+                "anchor": "By_bus"
+            },
+            {
+                "toclevel": 3,
+                "level": "4",
+                "line": "Georgia",
+                "number": "4.5.1",
+                "index": "17",
+                "fromtitle": "Armenia",
+                "byteoffset": 16840,
+                "anchor": "Georgia"
+            },
+            {
+                "toclevel": 3,
+                "level": "4",
+                "line": "Iran",
+                "number": "4.5.2",
+                "index": "18",
+                "fromtitle": "Armenia",
+                "byteoffset": 17606,
+                "anchor": "Iran"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Get around",
+                "number": "5",
+                "index": "19",
+                "fromtitle": "Armenia",
+                "byteoffset": 19264,
+                "anchor": "Get_around"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By day tour",
+                "number": "5.1",
+                "index": "20",
+                "fromtitle": "Armenia",
+                "byteoffset": 19368,
+                "anchor": "By_day_tour"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By mini-bus or bus",
+                "number": "5.2",
+                "index": "21",
+                "fromtitle": "Armenia",
+                "byteoffset": 19823,
+                "anchor": "By_mini-bus_or_bus"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By taxi or car",
+                "number": "5.3",
+                "index": "22",
+                "fromtitle": "Armenia",
+                "byteoffset": 20764,
+                "anchor": "By_taxi_or_car"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By thumb",
+                "number": "5.4",
+                "index": "23",
+                "fromtitle": "Armenia",
+                "byteoffset": 22181,
+                "anchor": "By_thumb"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By bicycle",
+                "number": "5.5",
+                "index": "24",
+                "fromtitle": "Armenia",
+                "byteoffset": 22700,
+                "anchor": "By_bicycle"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By train",
+                "number": "5.6",
+                "index": "25",
+                "fromtitle": "Armenia",
+                "byteoffset": 23012,
+                "anchor": "By_train_2"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By plane",
+                "number": "5.7",
+                "index": "26",
+                "fromtitle": "Armenia",
+                "byteoffset": 23265,
+                "anchor": "By_plane_2"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "By tour operator",
+                "number": "5.8",
+                "index": "27",
+                "fromtitle": "Armenia",
+                "byteoffset": 23708,
+                "anchor": "By_tour_operator"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Talk",
+                "number": "6",
+                "index": "28",
+                "fromtitle": "Armenia",
+                "byteoffset": 23808,
+                "anchor": "Talk"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "See",
+                "number": "7",
+                "index": "29",
+                "fromtitle": "Armenia",
+                "byteoffset": 24351,
+                "anchor": "See"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Do",
+                "number": "8",
+                "index": "30",
+                "fromtitle": "Armenia",
+                "byteoffset": 24773,
+                "anchor": "Do"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Buy",
+                "number": "9",
+                "index": "31",
+                "fromtitle": "Armenia",
+                "byteoffset": 25031,
+                "anchor": "Buy"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Currency",
+                "number": "9.1",
+                "index": "32",
+                "fromtitle": "Armenia",
+                "byteoffset": 25573,
+                "anchor": "Currency"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Exchange rates",
+                "number": "9.2",
+                "index": "33",
+                "fromtitle": "Armenia",
+                "byteoffset": 26323,
+                "anchor": "Exchange_rates"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Costs",
+                "number": "9.3",
+                "index": "34",
+                "fromtitle": "Armenia",
+                "byteoffset": 26511,
+                "anchor": "Costs"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Trading hours",
+                "number": "9.4",
+                "index": "35",
+                "fromtitle": "Armenia",
+                "byteoffset": 26524,
+                "anchor": "Trading_hours"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Tax",
+                "number": "9.5",
+                "index": "36",
+                "fromtitle": "Armenia",
+                "byteoffset": 26722,
+                "anchor": "Tax"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Purchasing customs",
+                "number": "9.6",
+                "index": "37",
+                "fromtitle": "Armenia",
+                "byteoffset": 26778,
+                "anchor": "Purchasing_customs"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Markets",
+                "number": "9.7",
+                "index": "38",
+                "fromtitle": "Armenia",
+                "byteoffset": 27581,
+                "anchor": "Markets"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Eat",
+                "number": "10",
+                "index": "39",
+                "fromtitle": "Armenia",
+                "byteoffset": 28131,
+                "anchor": "Eat"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Drink",
+                "number": "11",
+                "index": "40",
+                "fromtitle": "Armenia",
+                "byteoffset": 30060,
+                "anchor": "Drink"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Sleep",
+                "number": "12",
+                "index": "41",
+                "fromtitle": "Armenia",
+                "byteoffset": 30484,
+                "anchor": "Sleep"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Learn",
+                "number": "13",
+                "index": "42",
+                "fromtitle": "Armenia",
+                "byteoffset": 34200,
+                "anchor": "Learn"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Work",
+                "number": "14",
+                "index": "43",
+                "fromtitle": "Armenia",
+                "byteoffset": 34695,
+                "anchor": "Work"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Stay safe",
+                "number": "15",
+                "index": "44",
+                "fromtitle": "Armenia",
+                "byteoffset": 34916,
+                "anchor": "Stay_safe"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Stay healthy",
+                "number": "16",
+                "index": "45",
+                "fromtitle": "Armenia",
+                "byteoffset": 36417,
+                "anchor": "Stay_healthy"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Smoke",
+                "number": "16.1",
+                "index": "46",
+                "fromtitle": "Armenia",
+                "byteoffset": 36953,
+                "anchor": "Smoke"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Respect",
+                "number": "17",
+                "index": "47",
+                "fromtitle": "Armenia",
+                "byteoffset": 37202,
+                "anchor": "Respect"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Contact",
+                "number": "18",
+                "index": "48",
+                "fromtitle": "Armenia",
+                "byteoffset": 39371,
+                "anchor": "Contact"
+            },
+            {
+                "toclevel": 2,
+                "level": "3",
+                "line": "Mobile phone providers",
+                "number": "18.1",
+                "index": "49",
+                "fromtitle": "Armenia",
+                "byteoffset": 39913,
+                "anchor": "Mobile_phone_providers"
+            },
+            {
+                "toclevel": 1,
+                "level": "2",
+                "line": "Get out",
+                "number": "19",
+                "index": "50",
+                "fromtitle": "Armenia",
+                "byteoffset": 42608,
+                "anchor": "Get_out"
+            }
+        ],
+        "parsewarnings": [],
+        "displaytitle": "Armenia",
+        "iwlinks": [
+            {
+                "prefix": "wikipedia",
+                "url": "http://en.wikipedia.org/wiki/IATA",
+                "*": "wikipedia:IATA"
+            }
+        ],
+        "properties": []
+    }
+}
