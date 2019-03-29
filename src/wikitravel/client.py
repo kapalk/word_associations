@@ -15,6 +15,15 @@ class WikitravelClient:
         self.logger = self._get_logger()
         self.logger.info('Crawler created')
 
+        self.countries = self._read_countries()
+        self.data_dir = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'data'))
+
+        if not os.path.exists(self.data_dir):
+            os.makedirs(self.data_dir)
+            self.logger.info('Created directory {dir}'.format(dir=self.data_dir))
+        
+        self.logger.info('Using {dir} as data directory'.format(dir=self.data_dir))
+
     def get_countries(self, countries):
         for country in countries:
             self.get_country(country)
@@ -24,7 +33,8 @@ class WikitravelClient:
         params = {
             'action': 'parse',
             'page': country,
-            'format': 'json'
+            'format': 'json',
+            'prop': 'wikitext'
         }
 
         response = self._get(self.base_url, params)
@@ -41,9 +51,19 @@ class WikitravelClient:
             )
             return
         
-        with open(os.path.join('data', country + '.json'), 'w') as fp:
-            json.dump(json_obj, fp, indent=4) 
+        self._save_json(json_obj, country)
 
+    def _save_json(self, json_obj, country):
+        path = os.path.join(self.data_dir, country + '.json')
+        with open(path, 'w') as fp:
+            json.dump(json_obj, fp, indent=4)
+    def _read_countries(self):
+
+        path = os.path.join(os.path.dirname(__file__), 'countries.txt')
+        with open(path, 'r') as fp:
+            countries = fp.readlines()
+
+        return [country.strip().replace('{', '').replace('}', '') for country in countries]
 
     def _get_logging_level(self, status_code):
 
@@ -87,12 +107,7 @@ class WikitravelClient:
 def main():
     
     crawler = WikitravelClient()
-
-    with open('countries.txt', 'r') as fp:
-        countries = fp.readlines()
-    countries = [country.strip() for country in countries]
-    
-    crawler.get_countries(countries[:50])
+    crawler.get_countries(crawler.countries[:10])
     
 if __name__ == '__main__':
     main()
