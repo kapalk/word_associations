@@ -1,0 +1,718 @@
+{{pagebanner|Sri lanka banner.jpeg}}
+
+{{quickbar
+| image=Thuparama1.jpg
+| caption=Polonnaruwa, Sri Lanka
+| location=Sri Lanka in its region.svg
+| flag=Flag of Sri Lanka.svg
+| capital=[[Sri Jayewardenepura Kotte]], but [[Colombo]] is the commercial capital
+| government=Republic 
+| currency=Sri Lankan rupee (LKR)
+| area=65,610km²<br />''water: 870km²<br />land: 64,740km²''
+| population=20,064,776 (July 2006 estimate)
+| language=[[Sinhala]] , [[Tamil]] English (Official) [[Arabic Language|Arabic]] is a mirtoy Language 
+| religion=Buddhist 70%, Hindu 15%, Christian 8%, Muslim 8% (1999)
+| electricity=230V, 50Hz British [[Electrical_systems#Plugs_and_adapters|G type plug]] most common + fewer (older) installations of D (round pin plug used in India).
+| callingcode=+94
+| tld=.lk
+| timezone=UTC+5:30
+}}
+[http://srilanka.travel/ '''Sri Lanka'''], formerly known as ''Ceylon'', is in [[South Asia|Southern]] [[Asia]]. It is an island country in the [[Indian Ocean]], south of [[India]].
+
+==Understand==
+
+===History===
+Sri Lanka has more than 2,550 years of continuous written history by means of the Mahawansha, and was also mentioned in several ancient Indian texts. One of the most famous is the '''Ramayana''', in which the island, which was referred to as Lanka, was the island fortress of the king Ravana. And over many centuries Sri Lanka has had many [https://en.wikipedia.org/wiki/Names_of_Sri_Lanka names.]
+
+The Aryans arrived in Sri Lanka late in the 6th century BC, probably from northern India and mixed with locals to make Sinhalese ethnic group. Buddhism was introduced beginning in about the mid-3rd century BC, and a great civilization developed at such cities as Anuradhapura (kingdom from c. 200&nbsp;BC to c. 1000&nbsp;AD) and Polonnaruwa (c. 1070 to 1200). Other notable but relatively more recent kingdoms are Dambadeniya, Yapahuwa, Gampola, Kandy and Jaffna Kingdoms. 
+
+Partially occupied by the Portuguese in the 16th century and by the Dutch in the 17th century, the coastal parts island was ceded to the British in 1796, and became a british colony in 1802. The entire island was ceded to the British in 1815. As Ceylon, it became independent in 1948; the name was changed to Sri Lanka in 1972. 
+
+In May 2009 government military forces defeated the Tamil Tigers' separatist movement and ended a brutal 26 year-long war that began in 1983, thus opening up a new chapter in its history.
+
+===Climate===
+Since Sri Lanka is a tropical country, you can expect the rain anytime of the year in different parts of the country. However, the two major rainy seasons are '''South-West monsoon''' (May to July) which predominantly affects the west & south coast of sri lanka and '''North-East monsoon''' (October to January) predominantly affecting the  east coast.
+
+The climate of Sri Lanka changes dramatically from central highlands to the coastal belt. For example at [[Nuwara Eliya]], in the hills of  [[Central Sri Lanka]], has a temperature around 5-20°C throughout the year, whereas Hambanthota, located in the dry zone, has a temperature consistently around 30-35°C.
+
+===Terrain===
+Mostly low, flat to rolling plain with mountains in the south-central interior rising to 2,524m at ''Piduruthalagala''.
+
+==Talk==
+[[Sinhala]], spoken by the majority Sinhalese, and [[Tamil]], spoken by the minority Tamil and Muslim groups, are Sri Lanka's two official languages. English is commonly used in most cities, especially [[Colombo]], [[Kandy]] and [[Galle]], and by government and tourism officials.  But while most of the people in Colombo can speak English, don't expect everyone, everywhere to be able to speak it fluently.  In the beach and tourist areas you will have no problem with English. Most people in rural villages, however, cannot speak any English, beyond a few simple words.
+
+*'''Sinhala Language''' The greeting in Sinhala is ''Ayubowan'', which means "May you live longer"; "Thank you" is ''Bohoma sthuthi'' and "How are you?" is ''Kohomada'', pronounced "Ko homede""
+*'''Tamil Language''': The greeting in Tamil is ''Vanakkam''; 'Thank you' is ''Nandri''.
+
+Sinhala writing is much more curved than Tamil. After a while, you'll learn how to distinguish between the two.
+
+==Regions==
+[[Image:Sri_Lanka_Regions_Map.png|thumb|upright=1.3|Map of Sri Lanka with provincial regions colour-coded]]
+
+{{Regionlist
+
+| region1name=[[Central Province (Sri Lanka)|Central Province]]
+| region1color=#AE83AE
+| region1items= [[Kandy]], [[Matale]], [[Nuwara Eliya]]
+| region1description=Here are the highlands with a lot of beautiful tea plantations, waterfalls, valleys and streams. The highest mountain of Piduruthalagala and the famous Worlds End are situated in Nuwaraeliya.
+
+| region2name=[[Northern Province (Sri Lanka)|Northern Province]]
+| region2color=#536C53
+| region2items= [[Jaffna]]
+| region2description=After the end of the 30 year civil war this region is slowly returning to its status as an important tourist attraction. Some areas remain unsafe and have yet to be cleared of mines.
+
+| region3name=[[North Central Province]] 
+| region3color=#B0CF98
+| region3items= [[Anuradhapura]], [[Polonnaruwa]], [[Sigiriya]], [[Dambulla]], [[Mihintale]]
+| region3description= The ancient kingdoms of Sri Lanka dating back over 2500 years. Rich in history, the area is known as the cultural triangle.  
+
+| region4name= [[Eastern Province (Sri Lanka)|Eastern Province]]
+| region4color=#4F93C0
+| region4items= [[Trincomalee]], [[Arugam Bay]]
+| region4description= Popular beach resorts including Nilaveli, [[Pasikuda]] and Arugam Bay.
+
+| region5name= [[North Western Province (Sri Lanka)|North Western Province]]
+| region5color=#80B588
+| region5items= [[Kurunegala]]
+| region5description=Rich in wildlife. Wilpattu National Park, the largest national park  in Sri Lanka. Dolphin watching in Kalpitiya.
+
+| region6name= [[Sabaragamuwa]]
+| region6color=#69999F
+| region6items= [[Ratnapura]]
+| region6description=Adam's peak and hundreds of waterfalls.
+
+| region7name= [[Southern Province (Sri Lanka)|Southern Province]]
+| region7color=#E0E67A
+| region7items= [[Galle]], [[Weligama]], [[Matara]], [[Tangalle]], [[Unawatuna]], [[Yala National Park]], [[Hambantota]]
+| region7description= the historic city of Galle and national parks
+
+| region8name= [[Uva]]
+| region8color=#A7B49F
+| region8items=  [[Badulla]], [[Haputale]], [[Bandarawela]]
+| region8description=Cool highland hill retreats
+
+| region9name= [[Western Province (Sri Lanka)|Western Province]]
+| region9color=#C9A16A
+| region9items= [[Sri Jayewardenepura Kotte]], [[Beruwela]], [[Colombo]], [[Gampaha]], [[Negombo]]
+| region9description=The administrative capital and the largest city plus some popular beach resorts
+}}
+
+==Cities==
+<!-- 9 cities to be listed only. Pelae do not change this list without first discussing on the Talk page -->
+* [[Colombo]] — the commercial capital of Sri Lanka
+* [[Kandy]] — the spiritual heart of the country, home to a tooth of the Buddha
+* [[Nuwara Eliya]] — has the coolest climate in Sri Lanka and mountains covered with Tea plants
+* [[Anuradhapura]] — ruins of ancient capitals (partially restored)
+* [[Polonnaruwa]] — ruins of ancient capitals (partially restored)
+* [[Batticaloa]] — the main town in eastern region- Called land of singing fish.
+* [[Jaffna]] — the northern Capital of Sri Lanka
+* [[Galle]] — a home for a Dutch fort, and a a gathering point for travelers from the nearby beach resort villages
+* [[Ratnapura]] — City Of Gems, nothing much for tourists
+<!-- 9 cities to be listed only. Please do not change this list without first discussing on the Talk page -->
+
+==Other destinations==
+<!--This section should only include places one could visit and spend the night.  Sights and attractions should be incorporated into the articles for the destination where they are located.-->
+* [[Negombo]] - Dutch and Portuguese colonial remains
+* [[Kalpitiya]] - Peninsula with isolated remote beaches like Alankuda,Kandakuliya public beach and Kudawa on the west coast. Kalpitiya lagoon is a popular spot for wind & kite surfing.  
+* [[Wilpattu National Park]] - The largest national park in Sri lanka. Known for natural lakes , wildlife including a wide variety of birds 
+* [[Sigiriya]] - The right spot to climb the beautiful Sigiriya rock.
+* [[Trincomalee]] - Beaches along the east coast like Nilaveli, Kuchchaveli, Uppuveli.
+* [[Bentota]] - Popular beach resort town on the south west coast
+* [[Balapitiya]] - Balapitiya is a coastal town located in south west Sri Lanka, The beach is uncrowded and has golden soft sand.
+* [[Hikkaduwa]]  - Highly popular beach village on the south west coast
+* [[Unawatuna]] - Beach resort town on the south coast very close to Galle.
+* [[Ahangama]] - Wide stretched small coastal town in the south coast with beautiful beaches and surf spots.
+* [[Weligama]] - Popular tourist beach on the south coast with several boutique hotels
+* [[Sinharaja Rainforest]] - A world Heritage nature reserve
+* [[Udawalawe National Park]] - One of the best place to see wild elephants in Sri Lanka, with also an Elephant transit home nextdoor
+* [[Adam's Peak‎]] - Pilgrimage mountain towering an impressive landscape, only reachable by foot
+* [[Hatton]] - Hatton is a town in the Nuwara Eliya District , near to some of the beautiful landscapes in Sri lanka
+* [[Kitulgala]] - Pristine wet zone rain forest, white water rafting for adventure seekers- 4 hours from Colombo 
+* [[Haputale]] - Small hill town in the cool highlands
+* [[Horton's Plains and World's End]]
+* [[Dickoya]] -Dickoya is a town in Nuwara Eliya District in the Central Province of Sri Lanka
+* [[Ella]] - Small yet vibrant village in the beautiful midlands. 
+* [[Dikwella]] - Dikwella (long beach) and Kudawella beach have crystal clear waters,nearby Hiriketiya Bay is popular with surfers
+* [[Mirissa]] - Small beach village on the south coast close to Matara with two good surfing spots
+* [[Tangalle]] - Palm tree lined beaches like Mawella,Medaketiya,Rekawa and many others with white soft sand and turquoise water
+* [[ Yala National Park ]] - Wildlife Jeep Safari
+* [[Bolgoda]] -Bolgoda Lake is situated in the South West of Sri Lanka, 19 kilometres from Colombo.
+* [[Pasikuda]]- excellent beaches along East Coast for swimming, snorkel and dive
+* [[Arugam Bay]] - Southeast coast beach town with several top surfing spots for summer season
+See also: [[Sacred sites of the Indian sub-continent]]
+
+==Get in==
+
+Visitors to Sri Lanka having tattoo of Buddha or other tattoos of religious significance may be arrested and deported: if you want to visit despite the warning it is advised to cover up religious tattoos at all times . There are no issues with non-religious tattoos.
+ 
+Smoking in public places is prohibited (including inside buses and trains). Violators can be prosecuted.
+
+Photographing with your back to statues of the Buddha or posing in an inappropriate manner next to them are prohibited. Violators will be booked.
+
+===Visa rules===
+
+Nationals of the [[Maldives]], [[Seychelles]] and [[Singapore]] may obtain a free visa on arrival. Maldivian and Singaporean nationals may enter for 30 days (extendable up to 150), whilst Seychellois nationals may enter for 60 days (but no more than 90 days per calendar year).
+
+Nationals of [[Cameroon]], [[Republic of the Congo]], [[Democratic Republic of the Congo]], [[Cote d'Ivoire]], [[Egypt]], [[Gabon]], [[Ghana]], [[Guinea]], [[Guinea-Bissau]], [[Kenya]], [[Liberia]], [[Mali]], [[Nigeria]], [[Pakistan]], [[Sierra Leone]], [[Sudan]], [[Syria]] and [[Uganda]] must obtain a visa in advance from a Sri Lankan diplomatic mission.
+
+All other nationals not specified above may obtain a visa on arrival, provided that they have completed the [http://www.eta.gov.lk/slvisa/ electronic travel authorization (ETA)] procedure either prior to travel or on arrival in Sri Lanka. This electronic authorization is valid for 3 months, starting from the day it has been approved. It allows for two entries, which means you can enter the country twice during the 30 days entry (allowing for a break in e.g. Maldives). A visitor wishing to stay more than 30 days in Sri Lanka may apply for an extension. The short visit visa may be extended up to 90 days from the date of arrival at the first instance and further 90 days at the second instance.
+
+In the event of a rejection, the system will send a referral notification to the applicant and he/she needs to contact the nearest Sri Lanka Overseas Mission for necessary assistance. If your country doesn’t have a Sri Lanka Overseas Mission please contact the 24 hour emigration hotline on 0094 719 967 888. However, the Department maintains a no refund policy on your visa application fees.
+
+It is '''highly recommended''' that you complete your ETA prior to travel, partially to avoid the queues but also as a safeguard. If a referral notice is given if you complete your ETA on arrival in Sri Lanka, you will be deported. ETA application can be submitted online via [http://www.eta.gov.lk (ETA) official website].
+
+Important note for citizens of '''Taiwan''': in addition to securing ETA approval, citizens of Taiwan need to bring a recent photo (passport sized) with them and fill out a form in the immigration office at the airport. The office is located in the corridor before passport control.
+
+Visa charges are $20 for SAARC countries (Bangladesh, Bhutan, India, Maldives, Nepal and Pakistan) and $35 for others.
+
+IMPORTANT: As of February 2015, immigration authorities at Colombo airport are very demanding with respect to the accuracy of the passport number on your electronic travel authorisation obtained online. A single digit mistake is taken as a reason to force you to buy a new visa and refer you to some obscure government office in Colombo for refunds of your online payments. Be careful about the digit 1 (one) vs. the capital letter I and the digit 0 (zero) vs. the capital letter O. The number should exactly match the machine-readable section of your passport, and not anything else (for example, Russian passports have a non-alphanumeric number sign that should be completely excluded).
+
+Extensions can be made at the [http://www.immigration.gov.lk Department of Immigration] (Hotline: 1962; Phone: 94-11-5329000;  "Suhurupaya", Sri Subhuthipura Road, Battaramulla.; M-F 09:00-16:30), in Battaramulla. Open 08:30 to 15:30. (14:30 as of 01/16)  The department sets the cost in US dollars, but you pay in rupees. A visa extension gives you a full three months in the country and you can apply for your extension almost as soon as you arrive (the 30-day visa given upon entry is included in the three months). A further three-month extension is possible, but you must again pay the extension fee plus another LKR10,000. Extensions beyond this are at the discretion of the department, and incur a LKR15,000 fee plus the extension fee.
+
+See above for fees for the first 90-day extension. (The fee varies greatly. US$20-30 for many most countries listed, US$54 for UK passport holders, US$100 for US passport, and US$200! for  Tanzanian passport holders.  01/16)
+
+The whole process takes 1hr++. Rule #1 applies .. Get There Early. Beat the Colombo gridlock which starts around 7:30am. For directions just ask for "Passport Office". You can download the visa-extension form from the website you got your ETA or get one on arrival.
+Go to the 3rd-floor office. It is open from 08:00. Show your filled-out form (plus photo glued on) at the desk closest to the door and you'll be given a number token. Keep this throughout the process. 
+Interviews commence at 08:30 in the booths marked with numbers and letters. Someone comes out periodically and calls the next token numbers to be processed. The interviewer will take your documents. Return to your seat (if you're lucky) and wait for your number to display on the screen above the counter nearby. 
+Show your token and get your documents back. Take these to the payment counter opposite,  pay fee hand over documents and get fee receipt. Once again wait for your number to show on the same screen as before. 
+Then you wait 30 minutes or so while your passport works its way through the system and is returned to you. Check the visa is correct.
+
+You will need your passport, and maybe onward ticket a credit card or foreign exchange receipts.
+
+Tourist visas for India can be obtained at the High Commission of India (242 1605; info.colombo@mea.gov.in; 36-38 Galle Rd, Col 3). The cost of a six-month visa depends on your nationality, and you’ll need to supply two photos. It takes at least five days to process a tourist visa, but only one day if you are a foreign resident in Sri Lanka. Lines tend to be very long. You can also obtain an Indian visa in Kandy at the Assistant High Commission of India (081-222 4563; ahciknd@mailandnews.com; Box 47, 31 Rajapihilla Mawatha). Kandy makes a good alternative to Colombo because it’s not as busy.
+
+===By plane===
+[http://srilankan.aero/ '''SriLankan Airlines'''] (flight code '''UL''')  is the national flagship carrier operating to and from '''Colombo-Bandaranayake International Airport''' ({{IATA|CMB}}). Flights are available from cities throughout Europe, Southeast Asia, Australia, China, Japan, the Middle East, [[India]], and [[Pakistan]]. SriLankan Air also flies to the nearby destinations such as [[Chennai]], [[Trivandrum]], [[Mumbai]], [[Delhi]], [[Cochin]], [[Bangalore]], [[Coimbatore]] and the [[Maldives]].
+
+[https://www.klm.com/destinations/nl/en/asia/sri-lanka/colombo/flights '''KLM'''] connects many major European cities and others worldwide to Colombo with daily flights from [[Amsterdam]] to Colombo. The airline operates brand new Dreamliner wide body aircraft on these routes.
+
+[http://flyuia.com '''Ukraine International Airlines'''] now has a flight from [[Kyiv]] to [[Colombo]] three times per week and provides convenient connection with many European cities.
+
+[http://emirates.com '''Emirates Airlines'''] connects to Colombo with several flights daily from [[Dubai]] to Colombo. The airline operates 777-300ER wide body aircraft on these routes.
+
+[http://etihad.com '''Etihad Airways'''] connects [[Abu Dhabi]] with Colombo. This flight is also codeshared with other airlines from Etihad group (eg. Air Serbia).
+
+Other options are Jet Airways or its offshoot Jetlite.
+
+'''Qatar Airways''' has 3 daily non-stop flights from [[Doha]] to [[Colombo]]. 
+
+'''Jet Airways''' has many flights a day to [[Colombo]] from [[Bangalore]] and [[Mumbai]]
+
+'''SpiceJet''' have one flight a day to [[Colombo]] from [[Madurai]] and [[Chennai]].
+
+[http://airasia.com/ '''Air Asia'''] now operates from Kuala Lumpur, Malaysia to Colombo, Sri Lanka. This opens ups cheap flight for visitors from South East Asia as well as those who are visiting South Asia and then heading to South-East Asia (or vice-versa). 
+
+'''Singapore Airlines''' flies daily between Colombo and [[Singapore]].
+
+'''Turkish Airlines''' offers direct flight from [[Istanbul]] to Colombo.
+
+[http://omanair.com/ '''Oman Air'''] has announced flights to Colombo via Muscat and Male, they seem to have special prices for their new destinations' start (Frankfurt, Munich, Paris, Male, Colombo).
+
+Other airlines such as Singapore Airlines, Malaysia Airlines, Thai International Airways, Cathay Pacific, Saudi Arabian and Spicejet (India) operate to Colombo-Bandaranayake from their respective home bases.
+
+===From Canada/USA===
+There are no direct flights that reach Sri Lanka from cities outside Asia, the Middle East and Europe. From the American West Coast, the distance is almost half the globe. Depending on your preferences and how much spare time you have, you can consider a stopover in Europe or SE Asia or take a non-stop flight over the North Pole to [[New Delhi]] or [[Mumbai]] from [[Chicago]], [[Newark (New Jersey)|Newark]], [[New York City]] (JFK), or [[Toronto]]. In many cases, this may be the fastest route, but check if an Indian transit visa is required. Another fast and easy idea is to use Middle Eastern Airlines from the US with stopovers in either Qatar, Bahrain, or the UAE (no transit visa required). For example Dubai based airline Emirates offers daily flights from SFO, LAX, Houston (IAH),SEA (Seattle) and Toronto (YYZ) with a very short stopover before the short flight to Colombo. [[Emirates Airlines]] offer non-stop service to Colombo two to three times daily from [[Dubai]]. SriLankan Airlines is a member of Oneworld alliance which allow through passage with American Airlines, as well as several Asian, European, and Middle East airlines.
+
+===By ship===
+The [[Tuticorin]]-[[Colombo]] passenger ferry service, suspended for years due to the civil war, commenced services in June 2011, but this service is currently suspended. The Scotia Prince ran twice a week until November 2011 when the ferry was discontinued indefinitely.[http://www.bbc.co.uk/news/world-asia-india-16044961] The company has yet to announce an official date for resumption of the service.
+[http://srilanka.travel-culture.com/india_srilanka_ferry.shtml]
+
+If you would like to travel via cargo ship, please note that according to the customs office in Tuticorin it is considered illegal for a cargo ship to transport passengers from the Tuticorin Port to Sri Lanka.  
+
+====Cruise ship====
+Sri Lanka has been included in its destinations list for 2011 by American cruise operator Zegrahm Expeditions [http://travel.usatoday.com/cruises/post/2010/12/sri-lanka-cruise-zeghram-expeditions-adventure-clipper-odyssey/133867/1]. The line plans four voyages that stop in Sri Lanka in 2011.Large passenger ships recently docked in Trincomalee and Hambantota harbors.
+
+==Get around==
+
+Driving in Sri lanka  requires great skill and knowledge of local driving attitudes. If you are not an expert driver who can negotiate dense traffic do not try driving.
+
+===Three-Wheeler=== 
+
+====Tuk-Tuk Taxis====
+The most common mode of transport in Sri Lanka is a '''three-wheeler''' (''Tri-Shaw''). Also known as '''Tuk-Tuks''' from the noise of their horns. These operate in a manner similar to taxis, and in many situations are a convenient and highly cost-efficient way to get around. Safety is a concern however, as none of them have seat belts and they are open to the sides.
+
+Three-wheelers are ubiquitous in Sri Lanka. You probably have not experienced everything Sri Lanka has to offer until you travel in one. On any given street, you'll hardly have to wait more than a couple of minutes without one going by that you can wave down. If you're traveling with luggage, there are slightly larger three-wheelers with more space for your bags that you can look for.
+
+Some are metered and some are not. If available then always prefer the metered and make sure they turn the meter on. This trip will cost you much less than an agreed price. If metered are not available (specially in countryside or smaller places) then agree for a total price (which will be a few times more than normal if you are a tourist).
+
+Public transport is cheaper by far, and most three-wheel drivers tend to over-charge foreigners. The best price you can get is about LKR60-75 per km for short journeys and about LKR30-50 for long journeys ( more than 15km). If you do come across a metered Tri-Shaw make sure the meter is switched on.
+
+In Colombo, Tuk Tuks flag down at LKR60 for the first km , and charge LKR50 for each km. There are some Tuk Tuks that charge only LKR35 for each km after the flag down price. 10PM-5PM carries are night surcharge at around 15% (LKR 57.50 flag down and per km).
+
+====Self Drive Tuk-Tuk Hire====
+Hiring and driving your own Tuk-Tuk is possible; rules for insurance and driving license are more or less similar to those for cars, see below.
+
+===By car===
+'''Rented cars''' usually turn out cheaper than three-wheelers, and are less prone to road accidents--and are recommended by most hotels.
+
+With Driver:
+Rented cars often come with their own drivers.  Often the automobile itself is free, whereas the driver will charge a fee for his services. Some drivers/guides are government-licensed; some are extremely knowledgeable and multi-lingual, specializing in historical and cultural knowledge, and environment/natural history for your visits to the ancient sites and the natural reserves. Some of them may charge extra money, if you want switch on the A/C.
+You can book good cars from most of the Colombo hotel reception counters or from special counters located next to it. They will provide hotel Logo marked cars for rental with their own drivers. They are good for airport drops or moving within the city. Check the price first before you book it.
+
+Self Drive:
+First of all you need to have your international licence from your own country with you and also you must get it validated in Sri Lanka licencing centre. You may not drive in Sri Lanka without it! All rental companies will direct you to the right place or even take you there with their driver to help you through the process which can be speeded up if you pay a premium to your Sri Lankan driver who can then expedite the process.
+
+There are several rental companies at the airport before you go out but its cheaper to get another company from town such as Malkey, Kings Rent a Car or Casons - they have a good range of cars and are very customer friendly. Expect to leave a high cash deposit for any vehicle you rent. Check for damage and that everything works prior to accepting the car. Insurance is included (just in case check with your company) and your own responsibility is around 300 EUR. 
+
+Driving in Sri Lanka is on the left side and traffic is quite hectic - recommended only for confident and experienced drivers. There seems to be no rules other than bigger vehicles have the right of way. Don't be surprised to have a big bus coming at you on your side of the road so you have to get out of the way. Honking is common as a friendly "here I come" warning everywhere. Note that central Sri Lanka has a lot of steep mountain roads and difficult to reach hotels so if you plan to have a fully loaded car and drive in central areas then at least rent a vehicle with a minimum of 1,5L engine. 4x4's are the best as you see more and can manage most terrains and transverse small fords.
+
+Night driving requires exceedingly strong concentration especially on the busier highways such as Colombo to Kandy.
+
+===Taxi companies===
+Taxis are a better way of getting around Colombo than three wheelers as, due to the metering, they often turn out to be cheaper.  Rates are about USD0.55 and they have full day packages (approx 8 hours and 80km) for around USD40.
+
+They will also take you outstation for around USD0.30-0.35 per km with no waiting charges. You can also set up your own itinerary and travel around that way as opposed to whatever the tour operator tells you.
+
+In Colombo and suburbs "Budget Taxi" are getting popular. It cost lower than normal taxis but bit higher than tuk-tuks. These are small cars and usually operated by reputed companies. This is a safer and cost efficient way to travel in Colombo. All Budget Taxis are metered.
+
+Uber is now available in Sri Lanka around Colombo providing UberX (slightly expensive, but nicer cars) and UberGo (the inexpensive option, mostly Maruti 800, Alto K10, Suzuki Wagon R, etc). Uber Go cars are plentiful throughout the Colombo region, and works out cheaper if you travel more than 2KM. 
+UberX Base fare Rs. 100 and Rs. 50 per KM plus Rs. 2 per minute. UberGO Base fare Rs. 50 and Rs. 30 per KM plus Rs. 2 per minute.
+
+There is a Sri Lankan taxi service app called Pickme, which you can download from major app stores. It's cheap and safe and you can order tuk tuks and mini cars, too.
+
+===Tour operators===
+Tour Operators are happy to get you a van and a driver who will take you all over the island but most of roads are narrow and slow, Be aware when you are calculating times because you can't drive as per the Navigator time-frame. Also remember max speed limits for highways 100kmh, Main Roads 60kmh (70kmh allowed only if clearly mentioned on the road) and 50kmh city limits.  If you book off-the-cuff when you arrive, ask to be shown on a map where you are going before agreeing to any 'tour' of the island and research before you arrive so that you have a clear idea of where you might like to travel. Senseless backtracking to lengthen the trip and increase the cost is a real danger, as is a driver's wish to take you on unwanted shopping expeditions in an effort to gain commission. Travel websites specializing in Sri Lanka are easily found and have greatly increased the choice that is readily available to independent travelers seeking tailor-made tours. The best of them will produce clearly-stated travel itineraries and some are flexible enough to make late changes to itineraries. Ask to see their Booking Conditions and anti-fraud policies.
+
+===By bus===
+For those on a budget, buses are everywhere. They are a very cheap way to get from the airport into Colombo and it leaves from just outside the terminal. They're sometimes crowded and uncomfortable, but they get you around for almost nothing; it costs about a dollar to get half-way across the island. If you're planning on splashing out, '''AC buses''' run most routes for twice the price, which offer air-conditioning and a guaranteed seat. However, they're still uncomfortable. Bus stations are confusing places, especially the big ones, but almost everyone will be delighted to practice their English and help you. Also, when travelling by bus, it is local etiquette in most buses to provide or give up the very front passenger seats to members of the clergy such as monks or priests if they are present.
+
+The buses, branded ''Lanka Ashok Leyland'', come in three flavours. Red and blue buses are government owned, the colorful buses are privately owned. Red government buses travel vast distances across the country. Blue buses will stay in the region. Both of these are somewhat punctual and generally state their route in Singalese, Tamil and English. Keep in mind that a bus displaying a static "Colombo - Galle" sign, might well be on it's way to Colombo instead of Galle. The colorful buses are privately owned. They are more expensive but also generally more comfortable, as well as less punctual.
+
+There are 4 types of buses that you can take.
+
+'''Normal buses''': This is the most cheapest and most common variant. The bus sign is usually in either dark red (Central province), or yellow (everywhere else). They will usually have a 2-2 or 2-3 seat configuration, and stops several times along the way. To get into the bus, you have to signal the bus (like you would hail a taxi), or the bus will skip the bus stop sometimes. There is a conductor inside that will collect your fare. They are legally required to issue you a ticket, bus this is often not honored for short distances. The minimum charge is LKR 12 (as of Jun 2018), and good enough for 10-15 minute rides. They usually have two doors, and luggage storage overhead. To get off, just tell the conductor, or ring the bell. The bell is either an electric switch, or a string to pull.
+
+'''Semi-luxury buses''': They are supposed to be slightly better than the normal ones above, but in reality, they are worse that the "Normal" buses mentioned above. 2-3 seats, with hardly any space to stand up. These buses are required to offer a seat to every passenger, but the driver will happily jam-pack the bus. In some routes (such as Colombo - Kataragama), almost every bus is a semi-luxury bus, leaving you no other choice. If you do have a choice, opt for the option above, or the ones below. They charge 1.5 times of the normal fair, but the conductor often rounds up the amount to nearest 10. The destination sign of these buses will be in blue color. For above and this category, there is a close luggage compartment at the back of the bus. If you travel long distance, ask the conductor to store your luggage there. No additional charges for luggage.
+
+'''Luxury buses (A/C buses)''': Carrying a green color text in the destination sign, these buses are the most comfortable and widely available ones. They are air-conditioned, charges 2 times of regular fare, and seats only about 30-40 people. Seat configuration is usually 1-2, and rarely, a 2-2. Conductors of these buses can speak better English, and the locals will help you to find your location because there are only a few people. There are no overhead luggage spaces, but you can put your baggage under the seat, near the entrance, or at the back of the bus. Seats are usually smaller, and does not recline, but still, they are quite comfortable compared to the other buses above. 
+
+'''Super luxury buses''': These buses operate only in limited routes. As of now, Colombo-Galle, Colombo-Matara, and Colombo-Kataragama are popular routes. Colombo-Matara and Colombo-Galle buses take the E1 expressway, and fares are fixed (450-550 LKR range). The Colombo-Kataragama bus only has a couple departures, and is often full, and you may need to prebook one by calling the bus company. This bus takes the E1 all the way, and uses normal roads for the rest of the journey. Other than those, there are overnight Colombo-Jaffna (bus routes 48 and 15) buses leaving Jaffna and Colombo from 6-8pm, and reaching the destination at about 4-5am. They are sleeper buses, and are probably the most comfortable buses available in Sri Lanka. Reservation is necessary, and appears to charge about LKR 1000-1500. 
+
+The long distance bus tickets can be purchased from BusSeat.lk, an online bus booking website. This bus reservation facility is available only for inter-provincial buses which are regulated by National Transport Commission of Sri Lanka.
+
+All buses will stop every 4-5 hours for a snack/toilet break. The quality of the toilets is questionable. Stick to packages biscuits, drinks, and other snacks as even the locals find the lack of hygiene at the restaurants that serve the buses that stop for these breaks. After the break, the bus driver will honk as they leave. They will not take a head count or anything, so be sure to note your bus and get back as soon as possible. As the buses leave, there will be some guy shouting in Sinhalese that a particular bus is about to leave. Since Sinhalese names for some cities are different from the English (Kandy is called "Nuwara" in Sinhalese, Negambo is "Meegamuwa", etc), it is easy to miss this notice.
+
+===By train===
+Sri Lanka has an extensive railway system serving most major towns and cities in the island. There are special Observation cars for tourists that like to take in the scenery.
+
+Trains can be slower than buses, depending if you are on a line that offers an express train or not, but more comfortable and even less expensive than buses.
+
+You can look up train schedules on the official site: [https://www.eservices.railway.gov.lk/schedule/searchTrain.action?lang=en]. Be advised, however, that these will only give you results for direct connections between stations.
+
+There are 3 classes of railway cars, although 1st and 2nd class are only available on some Intercity and Express trains. Traveling 3rd class is not as bad as it may sound. Often the difference between 3rd and 2nd class is only a missing arm rest between seats. Intercity and Express trains have reserved cars which can be booked online in advance.
+
+Trains are generally crowded, especially in the morning and late afternoon. Also, observation car seats for the lines popular with tourists (like the Colombo-Kandy line) are often booked out several days in advance in the peak season. So whenever possible you should get a reservation beforehand: see [http://railway.gov.lk/index.php?option=com_content&view=article&id=127&Itemid=156&lang=en].
+
+The Railway system in Sri Lanka is very picturesque when entering the hill country because of the winding tracks along the mountains especially on the Badulla — Nanu Oya line.  Make sure, if you can, to sit on the right side of the train, as it offers the better view. Popular train service with the tourists are Colombo — Kandy and Kandy — Ella. These lines are always fully booked. It is better to book seats for these sectors early.
+
+Travel by Train is itself a journey to remember, be it traveling to Central Sri Lanka or traveling on the coastal line is just amazing. Highly recommended to travel by train if you are traveling outside Colombo. The Hill train to Badulla is an amazing journey. Preferably choose the express trains, and try to get a reservation beforehand, if you can.
+The newly renovated Jaffna railway line is expanded up to Kankesanthurai station in the North. So you can travel in comfort over to the Jaffna town by booking a seat from Colombo Fort. A third class seat can be reserved for just LKR 600/- for the Jaffna and Colombo bound trains. A fully A/C journey in the luxury Express train between Jaffna and Colombo Fort is priced at LKR 1,700/-. This luxury Express A/C train starts from Mt. Lavinia at 5.10 AM and will reach Jaffna by 12.00 noon. A/C Train leaves Jaffna at 01.45 PM and will reach Colombo by 08.00 PM.
+You can book your Train seat up to 30 days in advance from Colombo Fort, Kandy, Wellawatte, Vavuniya, Jaffna and other major railway stations. Keep your ticket with you as they will request you to provide your ticket before you exit from the station.
+
+===By motorbike===
+You can rent motorbikes or join a motorbike tour from several places in Negombo. The roads are generally good, the distances not too far and you have the freedom to go where you want to. The locals are always helpful with directions. Its better to have an existing motorbike license for insurance. [http://www.negombo-motorcycle-tours.com/] offers good bikes in Negombo. If you want to ride motorbike in Sri Lanka, you must have a valid motorbike driving license along with valid third party insurance and must wear helmet including the pillion passenger. It is against the law to ride more than 250 cc capacity motorcycles on the public roads. Also local police requires you to switch on the head light even on day time. Don't give your passport to the rental service providers, just give them the photocopy of it.
+
+Another cheap and good idea to go around Sri Lanka is to ride a Scooter, if you are familiar to ride it and have a license to ride it. It is available for rent in Negombo [http://ceylontusker.com/Scooter-for-Rent.php] and mount Lavania areas. It can be rented on daily basis with unlimited kilometers.
+
+===By plane===
+Cinnamon Air, a partner of Sri Lankan Airlines operates small '''Seaplane''' service to destinations such as Nuwara Eliya, Kandy, Galle and many more locations. This is perfect for Photography trips because you can get a bird's eye view of the island and takes less time to get to a destination than using the road. Also the seaplanes land on picturesque lakes and tanks around the island.
+
+'''Helitours''' operates domestic flights between Colombo City Airport - Ratmalana, Jaffna and Trincomalee
+
+===Responsible travel===
+Ecotourism is a form of alternative travel that aims to tackle social and environmental issues thanks to national and international tourism. As Sri Lanka is a developing country, many communities are glad to benefit from the tourism incomes. 
+
+The Sri Lanka Ecotourism Foundation is a national non-profit organization that is creating a very complete and trustworthy ecotourism network throughout Sri Lanka. They provide ecotourism certifications for local companies and make sure the environment conservation issues and respect for the cultural heritage are managed efficiently. 
+The foundation has received Presidential Tourism Awards For Sri Lanka Tourism 2010 'Outstanding Contribution for Tourism Sri Lanka'. That is possible to make affordable ecotours with the foundation, but also to make "voluntourism" projects (travelling throughout the island while directly helping the local communities).
+
+Several tourism websites such as Responsible Travel, which was established with Body Shop Founder Anita Roddick's support, also promote responsible trips to various countries including Sri Lanka. Several villas and hotels are listed on the site, for example, Templeberg Villa and Sigiriya EcoLodge Tree Houses and Fair Trade and Wildlife Conservation Tours.
+Another dimension of social issues is ethical tourism. Sri Lanka, as developing country with a mixed past in human rights, could not avoid having issues here (but so have many other tourist destinations). Hence for those sensitive to this dimension, some organisations suggest avoiding a nontrivial part of the offerings in the transport and tourism industry. See 
+https://www.srilankacampaign.org/ethical-tourism/avoid/
+
+==See==
+Tourist seasons in different locations in Sri Lanka vary with the monsoon rains.To get into many of the tourist sites in Sri Lanka, you, as a foreigner will be charged up to x10 more than locals. For people of SAARC countries, the price is less than/half for "foreigners". 
+
+Go to [[Kandy]] to see the Sri Dhalada Maligawa and Peradeniya Botanical Gardens. Also don't miss out on the traditional Sri Lanka dance performance held every day at 17:00 in the city hall.
+
+Go to Matale and climb the [[Sigiriya]] or Pidurangala Rock, see the ancient frescoes and enjoy a panoramic view of the area. 
+
+Go to Raththota, Matale and climb Riverstone, see the Mini Worlds' End and directly travel to Wasgamuwa.
+
+Go to [[Anuradhapura]] and [[Polonnaruwa]] to see ancient temples, ruins which are very beautiful.
+
+Go to Nuwara Eliya to see beautiful villages which look like England. There are many tea estates and Hakgala botanical gardens too.
+
+Go to [[Unawatuna]], [[Galle]], [[Trincomalee]] (Nilaweli Beach), [[Pasikuda]] and north areas to see extremely beautiful beaches.
+
+Go to [[Mirissa]] and Kalpitiya and watch whales and dolphins with privately operated boat tours.
+
+Go to [[Jaffna]] to see the Portuguese built Fort (1618) it was later expanded by the Dutch (1795), Nallur Temple, Keerimalai natural fresh water pond just 10 feet from the sea and  the islands in the Northern Province (Delft, Kayts, Leyden, Middlburg and many more) to see unexplored Sri Lanka.
+
+Go to [[Yala National Park]] , Wilpattu , Wasgamuwa for the best wildlife Safari experience.  Udawalawe to see elephants and Kumana (Yala East) for birdwatching.
+
+Go to Kithulgala for whitewater rafting in the Kelaniya River.
+
+Go to  Dehiwala Zoo. Located in the Colombo district. It will take nearly 8 - 10 hours to view all the animals, Aquarium, butterfly park, elephant Show, sea lion show and the snake farm. You have to purchase an entrance ticket. Also has to pay for your camera/video. Ticket prices may vary for foreigners and SAARC citizens from those for the locals. When you get inside the compound follow the guide number posted there, starting 1 and it is nearly 60 routes there. 176 route bus pass this place or on the Galle road, get down at the Dehiwala junction. Agree for LKR100 and Jump in a Trishaw to get in front of the entrance (10 Km from Colombo Fort). It is strictly prohibited to take polythene bags with you. Sundays are crowded day specially on school holidays there may be around 5,000 visitors in a day. On Friday, Saturday and Sunday night's Dehiwala Zoo is kept opened for visitors from 6:00PM till 10:30PM Night time is better to view the Lions and Tigers like animals as they are fully awaken in the Night time.
+
+Go to  Galle Face Terrace . It is located next to Colombo center and next to the old parliament complex on the Galle road near to the sea. It is a place for locals to gather to spend their evening. At the end of the terrace is 150 years old Galle face hotel. In the morning it is a place for walking and jogging. (0.18Km). In the evening it is a place for to see the fantastic sun setting with different colors. Street vendors sale local food, Coca Cola, Pepsi and mineral water. During season you can view different kinds of kites being flown over there. Also you can purchase one of them and can fly it. There is a viewing stage built in to the ocean you can walk up to the guard railing at the end. Also there is a flag post and in the sun rising and setting time you can watch colorful flag ceremony by the armed force. t is a nice place to capture different kinds of images.
+
+Go to  Independence square arcade , Colombo. Fine dining, entertainment and shopping for International brands.
+
+Go to  Floating market  at the Bastian Mawatha (Close to Fort Railway Station), for local products shopping and dining on a floating restaurant.
+
+go to Kalametiya Eco Bird Watching. A lovely and uncrowded wetlands area with a vast variety of bird life. This is a good alternative to the other busy national parks in Sri Lanka. Spend the morning sitting on the boat, drinking coconut milk, and having Buddhi the guide explain to you about all the wildlife. The park itself is a 25 minute tuk-tuk ride north of Tangalle Lagoon. I recommend getting there early as that's when the birds are out. Contact Buddhi (the only official guide)
+mob  : +94 71 355 79 25
+Mail : info@kalametiyabirds.lk
+Web  : kalametiyabirds.lk
+
+==Do==
+
+===Events===
+
+'''The TukTuk Tournament''' 
+Every October, TukTuk Rental Sri Lanka hosts the annual [https://tuktuktournament.com TukTuk Tournament], with over 100 competitors taking part in an island-wide race in authentic Sri Lankan three-wheelers. TukTuks are sourced from local owners, who provide a comprehensive driving lesson before sending the teams out onto the roads. Over the course of the tournament, teams take part in challenges designed to create immersion into the local culture in Sri Lanka. There is no fixed route and teams are encouraged to leave the traditional tourist routes and destinations. The Tournament features a three-day festival at the beginning of the tournament, as well as a Mid-Gathering and End-Gathering for all participants. In addition, a comprehensive range of inclusions (Local Driving Licence, comprehensive insurance, SIM Card etc.) make this a popular choice for those looking to experience the real Sri Lanka as part of a fun, well-organised event.
+
+===Outdoor Activities===
+
+'''Surfing''' from November to April you can surf in the western and southern coast. Best place for the beginners is Weligama and Hikkaduwa on the southern coast. You can rent a board for LKR1500 per day or LKR400 per hour. Lessons cost LKR2500 for 1h, but bargain. From April to October the surf shops move to [[Arugam Bay]] which then is the best place
+
+'''Kite / Wind surfing''' from April to September and from December to March you can kitesurf on the northwestern coast. Best place for the beginners is Kalpitiya (Sethawadi and Kappaladi lagoons), where you can find kite schools.
+
+'''Diving'''
+Scuba Diving can be carried out in Sri Lanka's South coast from Nov - April, and April till October in the East coast.There are many diving stations and schools that offer equipment hire and lessons. Divers can explore many sites with ship wrecks, marine life, coral garden and caves. 
+
+'''Trekking / Hiking'''
+Sri lankan hill country offers excellent opportunities for trekking and hiking .The popular spots are Lakegala , Ella , Bandarawela, Sinharaja forest etc.
+
+'''Rock climbing'''
+Sri lanka has rocky mountains throughout the highlands suitable for climbing ,Popular spots are located in Bambarakanda, Ella, Habarana , Buttala, Pidurangala etc.
+
+'''Hot air ballooning'''
+Hot air ballooning is available in the Dambulla area. It is seasonal, from November to April. Sri-Lankan-certified pilots operates them during the morning time. 
+
+'''White water rafting'''
+White water rafting in scenic flowing waters of Kelani river in Kitulgala rain forests is suitable for adventurous adults and is not recommended for younger kids.
+
+'''Sport fishing/ Game fishing'''  
+
+Sport fishing/ Game fishing tours are conducted by many operators along the coast and lagoons in Negombo ,Bentota,Mirissa etc.Season starts from  November to mid-April.The common fishes found on the coastal and deep waters of Sri lanka are  Grouper, Snapper Emperor, Bonefish,Indian Mackerel, Spanish Mackerel, Seerfish, Kingfish, Barracuda, Baramundi, Jackfish, Trevally, Tuna ,Sailfish, Swordfish, Marlin and Shark.
+
+*<do name="Gamefishing Asia" alt="Lake Fishing" address="26 Ruskin Island, Diggala Road, Panadura, 10400, Sri Lanka" directions="From Colombo head south on Galle Road / A2, turn left at Keselwatta Junction onto Diggala Road, take the ferry to Ruskin Island. Fishing trips are run from Bayou of Bolgoda which is about 650 meters from the ferry landing point on Ruskin Island" phone="+94772274384" url="www.gamefishingasia.com" hours="08:00 - 16:00" price="USD$250" lat="6.751078" long="79.922275">Lake Fishing Trips on Bolgoda Lake. Luring, Float Fishing & Fly Fishing for Barramundi, Mangrove Jack and other lake species. Trips run throughout the year except when the rains are heaviest.</do>
+
+'''Catamaran / Sailboat cruising'''
+A few tour operators offer luxury Catamaran / Sailboat cruising along the coastline of Sri Lanka. The popular season is from October to April(south coast)and May to October(east coast).
+
+===Wildlife===
+
+'''Bentota beach''' is famous for its sea turtles farm and hatchery along with lot of water sports activities.
+
+'''Elephant Ride'''
+Elephant ride is mainly available at Pinnawala close to the elephant orphanage, Sigiriya, Minneriya, and Habarana areas. (riding elephants is more and more becoming controversial)
+
+'''Elephant sanctuary'''
+If you want to see happy elephants who are absolutely not being ridden by tourists you can visit The Sanctuary, home for elephants [http://www.the-sanctuary.org/]. They aim to give captured elephants the best life possible.
+
+'''Elephant transit home''' By far the most ethical and animal-friendly place for captured/orphaned young elephants. Tourists can watch activities like the 4 x per day bottlefeeding but only from a decent distance, as the young ones once grown up will be released in the wildlife park and should not get used to interaction with humans.
+
+<do name="Whale and Dolphin Watching" alt="" address="" directions="" phone="" url="" hours="" price="Rs 6500 for a morning trip" lat="" long="">Sri Lanka has become a major spot for watching Whales and Dolphins.The season starts from December to April along west & south coast of sri lanka and June to September in Trincomalee on the east coast. Sri Lanka is situated within international whaling commission’s protected zone in Indian Ocean. West coast in locations from Alankuda beach in Kalpitiya, Mirissa or Dondra Point of down south, east coast off Trincomalee are the main ports of Whale and Dolphin watching in Sri Lanka.(Not recommended for people with seasickness)</do>
+
+===Spiritual===
+
+'''Ayurveda'''
+Although neighbouring India is the most well known destination for Ayurveda in the world, Ayurveda is also practiced extensively in Sri Lanka. Offerings range from small clinics to large Ayurveda Resorts catering to an international clientele.
+
+'''Monastery Visit'''
+The island is full of Buddhist monasteries, but not all are equipped to welcome international visitors. Many of the large monasteries in the [https://mahamevnawabm.org/monastery-day-visit/ Mahamevnawa tradition] will be able to provide a tour, give instructions on Buddhism and meditation, and answer any questions you may have. There is never any charge for these things and the monks are quite friendly.
+
+===Volunteering=== 
+Sri Lanka offers many different opportunities for volunteering and giving back, such as community or educational work, and wildlife conservation with the gentle giants that have been harmed due to elephant riding. There are many ways to get in contact with the desired volunteer project, one of which is a comparison platform. On <listing name="Volunteer World" alt="" directions="" lat="" long="" address="" phone="" tollfree="" email="" fax="" url="https://www.volunteerworld.com/volunteer-in-sri-lanka/" hours="" price="">for example, you can search and compare all volunteering options in Sri Lanka.</listing>
+
+==Buy==
+The currency is the ''Sri Lankan rupee''. 
+
+Although you will locally often see it symbolised as "Rs" (with and without a full stop and placed both before and after the amount) together with "රු" (and sometimes even "SLRs." in tourist oriented areas), partly for consistency and partly to avoid confusion with other rupees, we use the international symbolisation of '''LKR''' placed before the amount with no intervening space in our guides.
+
+There are coins for 25 and 50 cents (bronze), 1 rupee (old version is big and silver, new version is small and gold,) 2 rupees (silver,) and 5 rupees (gold,) as well as banknotes ranging from LKR10-5000. Coins that are more than a few years old are typically in quite bad condition.
+
+In January 2017: (source XE currency converter)
+*USD1 = LKR180.05
+*€1 = LKR158.78
+*GBP1 = LKR223.62
+*RMB1 = LKR21.67
+*KRW1000 = LKR126.86
+*AUD1 = LKR111.96
+*INR1 = LKR2.4
+
+===Credit cards and ATMs, banking services ===
+[http://www.lankaholidayguide.com/Banks-in-Sri-Lanka.php '''List of Banks in Sri Lanka''']
+
+ATMs are located in many places including the Colombo airport arrival lounge (especially at bank branches) in the cities and suburbs, less so in the countryside. You can withdraw from debit cards too (Cirrus, Maestro, Visa Electron etc) where their logos are displayed.
+
+Be careful of using credit cards, as fraud is on the rise in Sri Lanka. Not every ATM accepts international cards however Hatton National Bank known as HNB accept most of the international cards including China's Union Pay while other bank are accepting limited Nos of Cards. Hatton National Bank (HNB),Commercial bank (Combank), Sampath bank, Bank of Ceylon, HSBC, Pan Asia Bank, National Savings Bank (NSB) are a few leading banks whose ATMs support foreign cards. The ATMs will charge LKR 100-200 for the service. There are some smaller scale banks despite being international (Public bank, Standard Chartered, ICICI, etc) that have presence in Sri Lanka. Check with your bank because you can may be avoid the ATM fee. These banks are, however, available only in Sri Lanka. 
+
+Almost every of these ATMs take the card into the machine (unlike the push and pull type you would see in India for example), and three incorrect PIN attempts will result in the machine keeping your card. You will have to go to the same bank within 3 days with the slip to get it back, and you will need identification for that.
+
+As a precaution always try to cash from the ATM in any of the Bank branches between 9.00 - 15.00 hrs as if any thing goes wrong, you can get the help of that bank staff. 
+
+You can't send money by Western Union or Money Gram from Sri Lanka abroad. One can only receive money via international money transfer while in Sri Lanka.
+On your departure, you can change the remaining Sri Lanka currency to foreign currency at the Colombo airport banks providing your passport and the money change receipt you had made with your foreign currency oat the time of your arrival.
+
+===Shopping===
+Handicrafts Of Sri Lanka. For reed, cane, cotton, paper, leather, wood, clay, metal, and gemstones have been transformed and re-expressed in a array of batiks, toys, curios and jewellery, all exquisite hand made treasures.
+
+==Eat==
+
+The food is generally very affordable, with a cheap meal costing about a dollar. The most expensive tourist-orientated places seldom charge more than ten dollars. The staple food of Sri Lankans is '''rice and curry''' - a massive mound of rice surrounded by various curries and delicacies. If you want to eat a cheap lunch you can follow the Sri Lankan crowds and duck into any of a million small cafes, confusingly called 'Hotels'. These normally sell a rice and curry packet, as well as 'short eats', a collection of spicy rolls. This is ideal for backpackers and those who want to get past the touristy hotels selling burnt chicken and chips - you're charged by how much you eat, and unless you're absolutely ravenous it probably won't cost over a dollar.
+
+If you are taking road trips outside Colombo, there are endless options for places to stop on the road for lunch. Rest houses and hotels along major roads throughout Sri Lanka have good restaurants, and will offer both Sri Lankan and Western menus. If you are less adventurous, you can easily get good sandwiches and soups at these restaurants. These places have excellent rice and curry plates, and you will be served many different types of curries over an extremely generous portion of rice. These meals are extremely delicious and will leave you full and happy at the end of the meal. Eating will definitely be a memorable experience in Sri Lanka. 
+
+
+'''Kottu (Kothu) Roti''' (a medley of chopped roti, vegetables and your choice of meat) is a must-have for anyone - tourist or otherwise - in Sri Lanka. It is uniquely Sri Lankan and tastes best when made fresh by street vendors. However, several kottu roti restaurants have been closed down due to their use of stale and old roti, which made some patrons sick. Use caution, and even better, talk with the locals to figure out where the best kottu roti restaurants are. Use your eyes and ears, public nose picking is common in Sri Lanka and is a good indication of where not to eat.
+
+Sri Lankan food is generally spicy. But you can always ask for less spicy options when you are ordering your food.
+
+Other food that you should try  are ''' String Hoppers ''', ''' Hoppers''', '''Pittu''' & '''Kiribath'''.
+
+Note that Sri Lankans '''eat with their right hands''' - this isn't a major problem, because everywhere will be able to provide cutlery if you can't eat otherwise. But try the Sri Lankan way (tips of fingers only!), it's harder than it looks but strangely liberating.
+
+There are many upscale restaurants to choose from  in the city of Colombo. There are several fine dining restaurants at the 5 star hotels which offer both Local and International cuisine. These establishments are found largely in western Colombo (along Galle Road), though more are located around Colombo and other major cities.
+
+Fast-food outlets such as KFC, Pizza Hut etc. can be found in major cities.
+
+==Drink==
+
+Most locals drink tap water, but the governments travel website states that it is not safe. Should you choose to drink bottled water (1.5 litre for 60-70 LKR in March 2012) please make sure (essentially) that the Health Ministry registration number or SLS (Sri Lanka Standard Institute) label is present. Some bottles are refilled with tap water and then sold again. Also in some parts of the country you'll find hard water due to the high presence of lime in the soil.
+'''Fresh milk''', due to the climate, spoils easily, and so is often very expensive.  Powdered milk, however, is safe and is often substituted.
+
+'''Thambili or King coconut'''  the water of king Coconut, is very refreshing and is a cure for jet lag . It is sold at the side of streets throughout the island, you know it's clean as the coconut is cut open in front of you and it's cheaper than bottled drinks at about LKR30-50 each. You can eat the coconut flesh if you prefer.
+
+'''Tea''' Sri Lankans love tea they drink it all the time. Almost every local cafe will serve tea. There are two varieties plain tea(no milk, sugar plus tea and sometimes a bit of ginger) and milk tea(confusingly also called 'tea'). Cost between Rs 20-150 depending on the place you order. 
+
+'''Soft drinks''' are available almost everywhere, normally in dusty-looking glass bottles. The local producer, Elephant, make a range of interesting drinks - try the ginger beer and cream soda. "Coca Cola" and "Pepsi" also available in large and small sizes (plastic bottles) including several local soft drink brands - all available at rapidly multiplying supermarkets all across the country and grocery shops. Smaller glass bottles go for LKR40-50 for 170ml or 300ml ones. Restaurants will charge as much as LKR100 for the 300ml bottle. Elephant branded drinks are usually cheaper, with 400ml content. You can also sometimes find drink stalls at the side of the road offering lime or lemon drink freshly squeezed while you wait.
+
+The most common local beer is '''Lion Lager''' (160 LKR in "wine shops" or 400-500 LKR in restaurants in February 2019). For something a bit different try '''Lion Stout'''. It is characterized by it's tar-like oiliness of body and chocolate finish. Other brews include '''Three Coins''', which is brewed by the Mt Lavinia hotel chain, allegedly to a Belgian recipe. 
+
+The traditional spirit is '''Arrack''', which costs about 7 USD for a bottle (of 350ml), and is often drunk with club soda. The quality can vary depending on how much you want to pay. However, widely recommended brand would be "Old Reserve" and worth paying 15 USD (750ml) for it.
+
+Generally, alcohol is expensive in Sri Lanka. If you can buy some liquor from the airport duty-free, go for it (you are allowed 1 liter). Whiskeys, Rum, Vodka and such spirits are sold at outrageously expensive prices due to the taxes and profit margins. Further, most of the liquor stores are required to close by 9PM, and on every Poya day on every month. Restaurants, clubs, and even some hotels will have liquor to buy after 9PM. Do not count on buying them at super markets or wine stores after 9PM. Prices go even higher after that time as well. 
+Public drunkenness is highly frowned upon, and try to not get into any arguments with the locals.
+
+==Sleep==
+
+Accommodation in Sri Lanka has been transformed in recent years. What would be recognized as the modern tourist industry began in the 1960s with traditional beach hotels built on the west coast which were aimed primarily at the package holiday crowd and traditional travel operators. But the past decade has brought a major change, with the growth of villas, boutique hotels, and small independent and individualistic properties offering a huge array of choice.
+
+With the end of the civil war, tourist arrivals have steadily increased to Sri Lanka. Featured globally as an 'IT' destination, the country has seen an influx of hotel investors and larger Sri Lankan companies diversifying into hospitality.
+
+If you are a backpacker, hostel and dormitory style accommodation can start as low as US$ 5. In Colombo, Fort YMCA is a good place. Many homeowners in tourist-centric destinations have turned their homes to 'guesthouses', looking to capitalize on the tourism trade. Most offer clean, comfortable accommodation options for under US$ 30. The concept of backpacker hostels is still new to most of the cities in Sri Lanka, but private rooms can be cheaper compared to hostels in the western world. 
+
+As at 2016, the country has over 2,500 listed hotels and guest-houses (a relatively large number considering its 65,610 km2 size). Global brands such as Hyatt, Shangri-La, Anantara, Avani, Hilton, Teardrop Hotels, and Ozo have entered the market. The country also features multiple homegrown brands such as Resplendent Ceylon, Jetwing Hotels (the largest hotel chain in Sri Lanka with over 33 hotels and villas around the country), Serendib Leisure Hotels, Cinnamon Hotels & Resorts and Heritance Hotels that have received recent international fame and are diversifying into neighboring markets such as the Maldives. 
+
+This is important as Sri Lanka's Tourist Development Authority star ratings are dependent on facilities such as the no. of rooms at the hotel. As such, many of Sri Lanka's best reviewed / most popular hotels offering luxury accommodation, may not rate as a '5 star' but remain unclassified or categorized as a boutique hotel.
+
+Accommodation pricing can vary from hostel type accommodation from US$ 5 to luxury hotels and resorts that charge US$ 1,000 a night.
+
+==Learn==
+*'''Buddhist Studies and Pali Language'''. The universities of Peradeniya [http://arts.pdn.ac.lk/pali/] and Kelaniya [http://kln.ac.lk/humanities/department/pali_buddhist/home.html] offer variety of Buddhist studies, and Pali language courses in English.
+
+*'''Meditation'''. You may find monasteries and meditation centres that offer meditation courses (generally free of charge) in the Buddhist Publication Society guide [http://bps.lk/other_library/information_sri Lanka_monasteries_2008_jan.pdf].
+
+*'''Mahamevnawa Meditation Monastery''' is a good place to learn true Buddhism.[http://mahamevnawabm.org/]
+*'''Dancing''' There are many foreign enthusiasts to learn Sri Lankan traditional dance under three categories which are Udarata, Pahatharata and Sabaragamu. And there are distinguished drumming for those categories.
+
+==Stay safe==
+The dangers and annoyances listed in the following are sorted in the order of possible occurrence.
+
+During an emergency: use emergency hot-line numbers '''119 or 118'''
+
+===Avoid these===
+Use your best judgment when breaking ice and be careful when talking about sensitive subjects such as religion,politics etc.
+
+Don't get into drunken arguments with local strangers. 
+
+Using Drone to film government buildings and architectural monuments without securing permission.
+
+Use of certain fishing gears like spear gun is prohibited in Sri lanka
+
+===Religious tattoos / images===
+Tattoos or other images (t-shirt) of religious figures may be considered disrespectful or even illegal. Sri Lankan police will arrest and may deport people sporting tattoo of Buddha or any other tattoos which can be interpreted as having religious significance.
+
+===LGBT Travellers===
+Homosexuality is '''illegal''' in Sri Lanka, penalties may include imprisonment. LGBT should exercise caution when visiting Sri Lanka.
+
+===Female travellers===
+Solo female travel is not recommended. Beware of local males who wish you to accompany after a religious service many local crooks are adept at talking tourists out of their money, and generally prefer this method over violence. They hang around the Galle Face Road area surrounding the tourist hotels, Galle Face Hotel and the Holiday Inn. Their "modus operandi" is to tell you upfront that they don't want anything from you, only to talk. There may be an auspicious day occurring in Sri Lanka and they will use this to coerce you to accompany them to a temple or church. They will wine, dine, and pay for everything, and then, after two days, will begin to extort money from you (a rare occurrence but there have been a few cases )- so beware.
+
+===Scams===
+If you are victim of any of the below mentioned scams don't hesitate reporting to the police,It may help prevent another person from getting scammed. Police in Sri lanka are known for their quick response compared to other third world countries. 
+
+'''Taxi & Tuk tuk scams''' Tuk tuk scams are common in Colombo urban area and nearby regions and is less prevalent in rural Sri Lanka. Tell the driver where you want to go and always agree on the price (for the whole ride, not per person) before the journey and make sure he understands it.
+
+1) Many tuk tuk drivers fool tourists by telling they don't have exact change to to payback the balance and may offer to get it from nearby shops, but many escape with the money. 
+
+2) Do not allow any stranger(s) to sit at the passenger seat along with you.
+
+3) Many drivers overcharge tourists by collecting entire trip cost from each passenger, just like in a passenger bus. Beware of drivers that offer you to take you to the "best thing in town", which is "too far away to walk" or an alternative to where you want to go because "today yours is closed", dangerous, non-existent, etc. Generally, any such (travel) advice is wrong and directions are unsolicited. If you have been told your hotel is closed or full, give them a call. If you want to get out of town, the local buses are a good option - just go to the bus station and ask at the counter or one of the bus guys.
+
+See the Get Around section for Tuk Tuk and Taxi prices. 
+
+4) While availing the services of taxi companies or freelance drivers make sure that all the your belongings inside the car are safe(make sure things are not missing,locks are not tampered with...).
+
+5) If you do get scammed by a taxi or a tuk tuk driver take a picture or note their number listed on their vehicle (on the front of the tuk tuk) as each of them have an individual number that you can report to their companies. Also if you raise your voice some bystanders might come and help you out if you need police assistance. The scammers gets easily scared if any local is joining in the "bargain" and they will usually accept normal price and go on their way.
+
+'''Spice garden & Ayurveda medicine scam''' You may be taken around for visit to a spice garden and afterwards to a shop selling natural products, most of the shops sell these spurious products at inflated prices. Mostly the ride there is for free, but be prepared to find yourself in the middle of nowhere just to be presented with these expensive products. The ayurvedic oils may contain recycled engine oil and other harmful substances which may cause irritation to the skin. No local visits these so called Spice gardens. There are real shops that you can buy Ayurvedic medicine from, and they are properly regulated by the government. 
+
+'''Ayurveda massage scam''' Do not avail the services of unauthorized massage parlours. Many ayurveda massage centers are run by poorly trained staff working in dirty environment. Drivers working in tandem with touts take gullible tourists to these centers operating without any license. Firmly reject such approaches as they are total rip-offs.
+
+'''Con men, touts & pretenders''' First time travelers to Sri Lanka may find themselves the victim of scams. Therefore, if you are a first time visitor to Sri Lanka, don't admit it, and ignore all unnecessary approaches and unsolicited advice from strangers strolling around and offering their help to tourists. They may approach you by saying "You remember me?" or by telling you they work at your guest house or hotel, or they introduce themselves as police, some high official, a professional (e.g. airline pilot) or in charge of a location (like a bus terminal). This is of course all rubbish and just a conversion starter to trick you into buying something or taking an overpriced tour with them. Using the services of a tout for accommodation, local travel, etc. will most likely increase the price steeply. Don't give away money to people on the street. Con men using children to beg for cash from tourists is prevalent in some tourist spots. Some people may approach by saying they have a grievance and ask for monetary help. Don't entertain unnecessary questions and offers, just ignore them without making any eye contact and walk away. Don't trust the fake IDs and certifications.
+
+'''Boat / Jeep Safari scams''' Many international tourist operators rely on the freelance safari tour operators at the national parks. Agree on the pricing before the journey and refuse any detours if you don't like it,  Sometimes tourists are coerced into paying a larger amount upon arrival at the destination.
+
+'''Fish spa scam'''
+Many boat operators near Bentota lake / Madu river force tourists to take a tour of local fish spa,cinnamon garden etc, Most of these visits are conducted by giving the impression of being part of boat safari but tourists are forced to pay a big amount after availing the service. Agree on the pricing before visiting the place.
+
+'''Gem, jewelry shop scams''' Tuk tuk drivers take tourists to gem and jewelry shops while on the way to the requested destination, they will encourage you to take a look because they are paid by the owners of the shop. You may be taken to the workshop to view the process of grinding and polishing. Do not buy with the intention of selling them in your home country for a profit. Unless you are expert on gems don't consider buying. There is a possibility of color altered or heated treated gemstones being sold to you. Purchasers of gems can verify the quality at many centres of Sri Lankan National Gem & Jewellery Authority without paying any fee. Most of the organized tour buses do make a mandatory stop at these "Gem museums", and you will be pressured to at least pay a visit. Insist on not buying anything. If you do really want to buy them, do your research first.Taking uncut raw gemstones out of the country is a punishable offence,If you intend to purchase raw gemstones get it cut at any authorized place .
+
+'''Entry ticket scams''' Tickets for visiting cultural attraction sites should only be purchased from the authorized selling counters, do not give your tickets to your guide, driver or anyone else after exiting the sites. These tickets may be resold to other gullible tourists with the connivance of corrupt officials.Ensure that you have the right amount of money to buy tickets,as ticket sellers most often wont give change. 
+
+'''Credit card scams''' Be very careful when you use credit cards in hotels and stores. Always pay in cash if possible and use credit cards only in emergencies. Withdrawing cash at ATM is much safer and cash can be withdrawn from ATMs in all major towns. Avoid ATM machines situated in isolated areas, as there is a possibility of card skimming. 
+
+'''e-Visa scams''' Many websites offer e-visa to Sri Lanka at exorbitant prices. Make sure that you are applying at the original government website, which is [http://www.eta.gov.lk http://www.eta.gov.lk].
+
+===War & Terrorism===
+Sri Lanka's lengthy and bloody civil war ended in May 2009, when the government forces finally wiped out the LTTE. However, there may be undiscovered land mines in some remote areas, and the facilities in northern (and some parts of the east) cities and towns are war torn. The Sri Lanka Army is currently engaged in rapidly clearing landmines laid out by LTTE separatists.
+
+Bombings and assassinations were a firm part of both sides in the conflict, and there is heavy security in all sensitive locations. While the separatists have never targeted tourists there have been deaths, notably in a landmine explosion at Wilpattu National Wild Park in 2006, and some have been wounded by terrorist actions. In general, though, traffic accidents kill more people than terrorism (although according to statistical estimates, in the year 2005 for example, approximately 2300 people died in Sri Lanka due to road traffic crashes, and while the road traffic death rate in Sri Lanka is considered low when compared with other low-income countries, it has been steadily rising for several years).
+
+Violent crime is not usually any more serious a problem for tourists in Sri Lanka than it is anywhere. There has been an increase in violent crimes involving tourists in the past few years, but it is still very rare.
+
+In June of 2009, the Sri Lankan government lifted travel restrictions after the military defeat of rebel insurgents in the north of the country, though it is advisable to check with the local travel advisory bureau in your country if there is any doubt.
+
+==Stay healthy==
+
+'''Vaccination''' are recommended for Hepatitis A+B and Tetanus. Also, the Typhus vaccination outside of tourist areas especially in the wet season.  The CDC also recommends vaccination against '''[[Japanese encephalitis]]'''[http://wwwnc.cdc.gov/travel/yellowbook/2012/chapter-3-infectious-diseases-related-to-travel/japanese-encephalitis.htm#1938]. Note the qualification that the CDC recommendation contains and decide accordingly:
+
+"The overall incidence of JE among people from nonendemic countries traveling to Asia is estimated to be less than 1 case per 1 million travelers. However, expatriates and travelers who stay for prolonged periods in rural areas with active JEV transmission are likely at similar risk as the susceptible resident population (5–50 cases per 100,000 children per year). Travelers on even brief trips might be at increased risk if they have extensive outdoor or nighttime exposure in rural areas during periods of active transmission. Short-term (<1 month) travelers whose visits are restricted to major urban areas are at minimal risk for JE. In endemic areas there are few human cases among residents because of vaccination or natural immunity. JEV is often still maintained in an enzootic cycle between animal and mosquitoes. Therefore, susceptible visitors may be at risk for infection."
+
+'''[[Dengue fever]]''': During the rainy season use mosquito repellent. When head and joint aches occur get a blood check. There is no vaccination yet.
+
+'''[[Malaria]]''' : As of September 2016, Sri Lanka is officially declared as a Malaria free country by the World Health Organization (WHO). [http://www.searo.who.int/mediacentre/releases/2016/1631/en/]
+
+'''[[Yellow fever]]''': A yellow fever vaccination certificate is required from travelers over 1 year of age coming from infected areas.
+
+'''[[Filaria]]''': Sri Lanka is the first country in the South Asia region to eradicate Filaria [http://dailynews.lk/2010/02/17/news21.asp].
+
+'''[[Polio]]''': Sri Lanka is considered Polio free.
+
+Although snake bites are extremely rare among tourists (comparable to being struck by lightning), anyone bitten should seek prompt medical care. This is true even if the bite doesn't result in any pain and swelling. The National Emergency number is 119. In Colombo, dial either 119 or if you want an emergency ambulance - 110.
+
+There are tiny little flies that live in the sand. Any contact with the dry sand usually results in bites and subsequent painful scratch. So avoid even a little sand on your skin, including legs.
+
+Visitors should avoid drinking water from the tap. It is best to stick to bottled water for both drinking and teeth brushing. Leafy, raw vegetables and salads should also be avoided, as they are washed with tap water.
+
+===Hygiene===
+
+'''Toilet Paper''' cannot be taken for granted in Sri lanka where water is used for cleansing. In public restrooms, and even some houses you may visit may not have toilet paper. Most hotels and resorts provide toilet paper or have a bidet sprayer. Carrying a roll of toilet paper is advised while visiting sri lanka.
+
+During the stay of the guest hotel rooms are cleaned only on request,to avoid unnecessary intrusion of privacy.
+
+==Respect==
+
+There are several customs that (for Westerners) take a bit of getting used to.
+
+*It is '''customary to remove shoes''' and '''wear conservative attire (i.e. no miniskirts, tank tops, short pants etc.)''' when visiting temples. It is also the custom to remove shoes before entering a home, though this is not as strictly followed as in places such as Japan.  
+*'''Never touch or pat the top of the head''' of Buddhist monks, including children who practice at a temple.  
+*Do not '''turn your back''' to (or be alongside) a Buddha statue when within a reasonable distance (observe what others are doing).  This includes posing for photos.  It's OK to photograph a statue, but all persons should be facing it.  
+*'''Public nudity''' is illegal in Sri Lanka - nude/topless sunbathing and skinny dipping should be avoided, except in the private beach resorts which allow it.
+*Although much latitude is given to tourists, it is more polite to '''use your right hand''' when shaking hands, handing money and small objects, etc.  Of course you can use both hands for something big and/or heavy.
+*'''Be respectful to monks'''. There's no particular etiquette for Westerners - just be polite.  Always give them a seat on a crowded bus (unless you're disabled or very elderly). 
+*''' It is highly controversial to discuss politics, particularly the Sinhalese/Tamil divide or the LTTE'''. The 26 year old civil war which ended in 2009 has seen thousands of attacks throughout the country, including suicide bombings and massacres which have killed scores of politicians and civilians on both sides alike.
+*''' No photography''' of sensitive locations (inside and outside), and inside of shopping malls and tea factories (outside OK). Be especially careful in Fort, Colombo (except on the beach).  If soldiers are guarding something, it probably shouldn't be photographed.  Don't rely on signs alone, as sometimes they are old or missing.  For example, one end of a bridge may have a "No Photography" sign, but not the other.
+*Seemingly innocuous '''public displays of affection''' between lovers such as kissing and/or hugging may be culturally frowned upon as it is considered to be private behaviour but it is acceptable in functions and establishments designated for adults such as nightclubs, casinos and beach parties. Much lenience is given to foreigners and holding hands and public affection between parents and their children is not frowned upon.
+
+==Contact==
+
+===Phone===
+
+The country code for Sri Lanka is '''94'''. Remove the intercity prefix ('''0''') before the area code when dialling internationally into the country (ie, 0112 688 688 becomes +94 112 688 688) when dialling from abroad). The two next numbers after 94 represents the area code, they are different for every district for more information see [http://en.wikipedia.org/wiki/Telephone_numbers_in_Sri_Lanka Telephone numbers in Sri Lanka].
+
+===Mobile===
+
+The use of GSM/3G/HSPA/4G LTE cellphones is widespread and the coverage is good.
+ 
+Dialog, Mobitel, Etisalat and Airtel are four operators that have sales offices at the airport inside the arrivals lounge. Dialog Mobile (Market Leader) has the widest coverage in the country including rural areas and has the best quality GSM / 3G / HSPA + / 4G LTE network. Mobitel has 3G/HSPA+/ 4G LTE network where Etisalat,Airtel,Hutch also has 3G/HSPA  networks. Sri Lankan networks use 900 MHz/1800 MHz for GSM while 2100 MHz for UMTS/HSPA/HSPA+/DC-HSPA+ networks. All the mobile operators are having same call rates due to floor rate tariffs. Therefore it is advisable to go to the network which offers you the best quality. All Mobile Operators offers cheap IDD Call rates. You can collect a FREE SIM from the Immigration Counters at the Bandaranaika International Airport.
+
+If you want to surf internet, best way is to buy a HSPA dongle and a Mobile Broadband connection. Dialog Mobile, Mobitel and Airtel offers prepaid Mobile Broadband services which can be activated and used immediately. Internet access is also available with 4G LTE networks including Dialog(Mobile),Mobitel on FD-LTE 1800 MHz band 3 and Dialog(Fixed),SLT,Lanka Bell on TD-LTE 2300 MHz band 40. 
+
+Dialog is the Vodafone Roaming Network in Sri Lanka and offers a range of Value added services for Roamers.Etisalat and Airtel also provide cheap roaming rates specially to India.
+
+===Embassies, high commissions and consulates===
+* [[Image:As-flag.png|20px]] <listing name="Australia" address="Australian High Commission
+21, Gregory's Road, Colombo 7, Sri Lanka" phone="(94) 11 2463200 " fax="(94) (11) 2686453"
+ url="http://srilanka.embassy.gov.au/clmb/home.html"></listing>
+
+* [[Image:ca-flag.png|20px]] <listing name="Canada" address="Canadian High Commission
+33A, 5th Lane, Colpetty, Colombo -03, Sri Lanka" phone="(94) 11 5226232" fax="(94) (11) 522 6296" url="http://canadainternational.gc.ca/sri_lanka/index.aspx?lang=eng"></listing>
+
+* [[Image:ch-flag.png|20px]] <listing name="China" address="Embassy of the People's Republic of China, 381-A Bauddhaloka Mawatha, Colombo 7, Sri Lanka" phone="(94) 11 2688610" fax="(94) (11) 2693799" url="http://lk.china-embassy.org/eng/"></listing>
+
+* [[Image:fr-flag.png|20px]] <listing name="France" address="French Embassy, 89, Rosmead Place, Colombo 7, Sri Lanka" phone="(94) 11 2639400" fax="(94) (11) 2639402" url="http://ambafrance-lk.org/spip.php?rubrique2"></listing>
+
+* [[Image:gm-flag.png|20px]] <listing name="Germany" address="German Embassy, 40 Alfred House Avenue
+Colombo 3, Sri Lanka" phone="(94) 11 2580431" fax="(94) (11) 258 0440" url="http://colombo.diplo.de/Vertretung/colombo/en/Startseite.html"></listing>
+
+* [[Image:in-flag.png|20px]] <listing name="India" address="High Commission of India
+36-38, Galle Road, Colombo 03, Sri Lanka" phone="(94) 11 2327587 / 2422788 / 2421605" fax="(94) (11) 2446403 / 2448166" url="http://hcicolombo.org/"></listing>
+
+* [[Image:it-flag.png|20px]] <listing name="Italy" address="Embassy of Italy, 55, Jawatta Road
+Colombo 5, Sri Lanka" phone="(94) 11 2588388" fax="(94) (11) 2596344" url="http://ambcolombo.esteri.it/Ambasciata_Colombo"></listing>
+
+* [[Image:ja-flag.png|20px]] <listing name="Japan" address="Embassy of Japan, No. 20, Gregory's Road, Colombo 07, Sri Lanka" phone="(94) 11 2693831 /2/3" fax="(94) (11) 2698629" url="http://lk.emb-japan.go.jp/"></listing>
+
+* [[Image:my-flag.png|20px]] <listing name="Malaysia" address="High Commission of Malaysia, No. 33, Bagatalle Road, Colombo 3, Sri Lanka" phone="(94) 11 7557711/ 7557712 / 7557713
+" fax="(94) (11) 7557714" url="http://kln.gov.my/web/lka_colombo/home"></listing>
+
+* [[Image:ru-flag.png|20px]] <listing name="Russia" address="Embassy of the Russian Federaration, 62, Sir Ernest de Silva Mawatha, Colombo 7, Sri Lanka" phone="(94) 11 2573555 / 2574959 " fax="(94) (11) 2574957" url="http://sri-lanka.mid.ru/"></listing>
+
+* [[Image:no-flag.png|20px]] <listing name="Norway" address="Royal Norwegian Embassy, 34 Ward Place, Colombo 7, Sri Lanka" phone="(94) 11 2469611" fax="(94) (11) 2695009" url="http://norway.lk/"></listing>
+
+* [[Image:th-flag.png|20px]] <listing name="Thailand" address="Royal Thai Embassy, 46/46 Nawam Mawatha, 9th Floor, Green lanka Towers, Colombo 2, Sri Lanka" phone="(94) (11) 2302500-3" fax="(94) (11) 2304511-2" url="http://mfa.go.th/web/1340.php?depid=244"></listing>
+
+* [[Image:uk-flag.png|20px]] <listing name="United Kingdom" address="British High Commission
+389 Bauddhaloka Mawatha, Colombo - 7, Sri Lanka" phone="(94) (11) 5390639" fax="(94) (11) 5390694"
+ url="http://ukinsrilanka.fco.gov.uk/en/"></listing>
+
+* [[Image:nl-flag.png|20px]] <listing name="The Netherlands" address="25, Torrington Avenue 
+, Colombo - 7, Sri Lanka" phone="(94) (11) 2510200" fax="(94) (11) 2502855"
+ url="http://srilanka.nlambassade.org/"></listing>
+
+* [[Image:us-flag.png|20px]] <listing name="United States" address="American Embassy
+210 Galle Road, Colombo 3, Sri Lanka" phone="(94) (11) 249-8500" fax="(94) (11) 249-8590"
+ url="http://srilanka.usembassy.gov/"></listing>
+
+
+{{isPartOf|South_Asia}}
+{{outline}}
+{{Countryguide}}
+
+[[WikiPedia:Sri Lanka]]
+[[Dmoz:Asia/Sri Lanka/]]
+[[World66:asia/southasia/srilanka]]
+
+{{related|Sacred_sites_of_the_Indian_sub-continent}}
+
+[[ca:Sri Lanka]]
+[[de:Sri Lanka]]
+[[eo:Sri-Lanko]]
+[[es:Sri Lanka]]
+[[fi:Sri Lanka]]
+[[fr:Sri Lanka]]
+[[hi:श्री लंका]]
+[[hu:Srí Lanka]]
+[[it:Sri Lanka]]
+[[ja:スリランカ]]
+[[nl:Sri Lanka]]
+[[pl:Sri Lanka]]
+[[pt:Sri Lanka]]
+[[ru:Шри-Ланка]]
+[[sv:Sri Lanka]]
+[[wts:Category:Sri Lanka]]

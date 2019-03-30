@@ -1,0 +1,332 @@
+{{pagebanner|El Salvador Banner.jpg}}
+{{cautionbox|The CDC has identified [[El Salvador]] as an affected area of the Zika outbreak. Pregnant women are advised to be cautious as the virus can lead to birth defects. Adults affected by the virus experience fever, rash, joint pain, and conjunctivitis (red eyes) typically lasting a week.  You can learn more by visiting [http://www.cdc.gov/zika/index.html the official CDC website].}}
+
+{{quickbar
+| location=LocationElSalvador.png
+| flag=es-flag.png
+| capital=[[San Salvador]]
+| government=Republic
+| currency=Salvadoran Colon (SVC)
+| area=21,040km²<br />''water: 320km²<br />land: 20,720km²''
+| population=6,704,932 (July 2005 estimate)
+| language=Spanish, English and Nawat (less than 1% of the people, Amerindians)
+| religion=Roman Catholic 52%<br />''note:'' there is extensive activity by Protestant groups throughout the country; by the end of 1992, there were an estimated 1 million Protestant evangelicals in El Salvador
+| electricity=120-240V, 60Hz (US plug)
+| callingcode=+503
+| tld=.sv
+| timezone=UTC-6
+}}
+[http://www.elsalvador.travel/ '''El Salvador'''] is a country in [[Central America]] and, geographically, is part of continental [[North America]]. It is bordered on the southwest by the Pacific Ocean, and lies between [[Guatemala]] and [[Honduras]].
+
+==Understand==
+El Salvador covers an area of about 21,040 square kilometres (the smallest country in Central America), although it is the most densely populated. El Salvador is home to more than 6,500,000 people. It is divided into 14 sections called Departments. It has 25 volcanoes, 14 lakes, and three large cities and is divided in to East, Central and West with the the capital [[San Salvador]] in the central region, [[Santa Ana (El Salvador)|Santa Ana]] in the west and [[San Miguel (El Salvador)|San Miguel]] the largest city in the east.
+
+===History===
+The civilization of El Salvador dates from the pre-Columbian time, around 1500&nbsp;BC, according to evidence provided by the ancient structures of Tazumal in Chalchuapa.
+
+The Spanish Admiral Andrés Niño lead an expedition to Central America and disembarked on the Island Meanguera, located in the Gulf of Fonseca, on 31 May 1522. This was the first Salvadoran territory visited by the Spaniards. In June 1524, Spanish Captain Pedro de Alvarado began a predatory war against the native tribes of Cuzcatlán. During 17 days of bloody battles many natives and Spaniards died. Pedro de Alvarado was defeated and, with an injury to his left hip, abandoned the fight and fled to Guatemala, appointing his brother, Gonzalo de Alvarado, to continue with the conquest of Cuzcatlán. Later, his cousin Diego de Alvarado established the Villa of San Salvador in April 1525. King Carlos I of Spain granted San Salvador the title of City in the year 1546. During the following years, El Salvador developed under Spanish rule. 
+
+Towards the end of 1810, a feeling of a need for freedom arose among the people of Central America and the moment to break the chains of slavery arrived at dawn on November 5th, 1811, when the Salvadoran priest,  Jose Matías Delgado, sounded the bells of the Iglesia La Merced in San Salvador, making a call for insurrection. After many internal fights, the Acta de Independencia (Act of Independence) of Central America was signed in Guatemala on September 15th, 1821. 
+
+In December of 1931, the corrupt and incompetent regime of the Labour Party, headed by Manuel Araujo, was overthrown and General Maximiliano Hernández Martínez assumed the presidency. The fraudulent elections of January 1932 were the detonating factor of the social outbreak. Several voting sites were suspended in populations in which the Communist Party had a strong presence. A new insurrection began. After two frustrated assaults on the Cuartel de Caballería (Cavalry Quarters) were conducted by the rebel forces, the government ordered martial law. Strict censorship of the press was implemented. In the following days thousands of farmers and workers, carrying machetes and some few "Mauser" rifles attacked police stations, municipal offices, telegraph stations, warehouses, and wealthy landowners' properties. This insurrection was crushed. On January 31st, Manuel Antonio Castañeda sentenced Farabundo Martí to death. He was shot and killed on February 1st, 1932. 
+
+Over the next decades, many ''coups d'états'' followed, including the one that overthrew General Maximiliano Hernández Martínez. 
+
+Relations with Honduras deteriorated in the late 1960s. There was a border clash in 1967, and a four-day so-called Football war (Soccer War), as it was named by the international mass media, broke out in July 1969. The war ended with a cease-fire prompted by pressure from the United States and the Organization of American States. The Salvadoran forces that had invaded Honduras were withdrawn. They were just a few kilometres outside Honduras' capital.
+
+A movement of organized leftist guerrillas sprang up in 1974 and 1975, amid increasing political violence. In 1980, three of the leftist organizations united to coordinate a fight against the government. This movement was called FMLN (Frente Farabundo Martí para la Liberación Nacional. English: Farabundo Martí National Liberation Front). In March of the same year Monseñor Oscar Arnulfo Romero, the archbishop of San Salvador, was assassinated while he was celebrating mass. It is widely believed that the order for his execution came from Major Roberto D'Abuisson, the founder and leader of ARENA, a right-wing party. D'Abuisson is best known for his suspected involvement in death squad murders. He died of cancer in 1992. On January 16th, 1992, the government of El Salvador and the Farabundo Martí National Liberation Front (FMLN), signed Los Acuerdos de Paz (Peace Accords) in Chapultepec, Mexico, putting an end to one of the most painful chapters in the history of El Salvador. The 12 years of armed conflict claimed the lives of over 75,000 people and caused the exodus of hundreds of thousands more who fled to the United States, Canada, and other countries in order to escape the violence.
+
+Today, El Salvador is stable and with a growing economy, leaving behind its painful history.
+
+===Climate===
+Tropical; rainy season (May to October); dry season (November to April); tropical on the coast; temperate in the uplands.
+
+===Holidays===
+
+<TABLE border="1" align="center" cellpadding="1" cellspacing="1">
+<tr><th style="background:#efefef;">Date</th><th style="background:#efefef;">English Name</th><th style="background:#efefef;">Local Name</th><th style="background:#efefef;">Remarks</th></tr>
+<tr><td>[[March|March]]/[[April|April]]</td><td>Easter</td><td>Semana Santa</td><td>Celebrated with [[Calendar of events and festivals|carnival-like events]] in different cities by the large Catholic population</td></tr>
+<tr><td>[[May|May 1]]</td><td>Labor Day</td><td>Día del Trabajo</td><td>International Labour Day</td></tr>
+<tr><td>[[May|May 10]]</td><td>Mother's Day</td><TD>Día de la Madre</td><td>.</td></tr>
+<tr><td>[[August|August 1&ndash;7]]</td><td>August Carnival</td><td>Fiestas Agostinas</td><td>Week long festival in celebration of El Salvador del Mundo, patron saint of El Salvador.</td></tr>
+<tr><td>[[September|September 15]]</td><td>Independence Day</td><td>Día de independencia</td><TD>Celebrates independence from Spain, achieved in 1821AD</td></tr>
+<TR><td>[[October|October 12]]</td><td>Columbus Day</td><td>Día de la Raza</td><td>This day commemorates the arrival of Europeans in the Americas</td></tr>
+<TR><td>[[November|November 2]]</td><td>Day of the Dead</td><td>Día de los Difuntos</td><TD>A day on which people usually visit the graves of deceased loved ones.</td></tr>
+<tr><td>[[November|November (final week)]]</td><td>San Miguel's Carnival</td><td>Carnaval de San Miguel</td><TD>Week long carnival in [[San Miguel (El Salvador)|San Miguel]]</td></tr>
+<tr><td>[[December|December 25]]</td><td>Christmas Day</td><td>Navidad</td><td>Salvadorans stay up on December 24th until 12AM to welcome Christmas with a huge "arsenal" of firecrackers</td></tr>
+<tr><td>[[December|December 31]]</td><td>New Year's</td><td>Año nuevo</td><td>Salvadorans stay up on December 31st until 12AM to welcome the New Year the same way as Christmas (You can hear the deafening sound of the firecrackers on both days all over the country).</td></tr>
+</TABLE>
+
+==Regions==
+[[Image:El Salvador Regions map.png|thumb|upright=2|Map of El Salvador with regions colour-coded]]
+
+{{Regionlist
+
+| region1name=[[Western El Salvador]]  
+| region1color=#71B37B
+| region1items=
+| region1description=
+
+| region2name=[[Eastern El Salvador]]
+| region2color=#72AACF
+| region2items=
+| region2description=
+}}
+
+==Cities==
+* [[San Salvador]] - national capital; San Salvador department
+* [[San Miguel (El Salvador)|San Miguel]], San Miguel department
+* [[Acajutla]]
+* [[La Libertad]] 
+* [[Puerto Cutuco]] (''La Union'')
+* [[San Francisco Gotera]], Morazán department
+* [[Santa Ana (El Salvador)|Santa Ana]]   
+* [[Santa Tecla]] 
+* [[Suchitoto]]
+
+==Other destinations==
+*[[Parque Nacional Cerro Verde]]
+*[[Parque Nacional El Imposible]]
+*[[San Miguel (El Salvador)|San Miguel]] beaches - [[Playa Las Flores]], [[Playa El Esteron]], [[Intipuca Beach]] and El Cuco
+[[Image:Playa esterone.jpg|thumb|upright=1.3|[[Playa El Esteron]], [[San Miguel (El Salvador)|San Miguel]] - One of the most beautiful beaches In El Salvador]]
+
+==Get in==
+[[Image:Sanandrezpyramid.jpg|thumb|upright=1.3|A Mayan pyramid at the San Andres Archeological Site]]
+
+===Visa-free===
+Citizens of the [[Europe|European Union/EFTA]], [[Andorra]], [[Antigua and Barbuda]], [[Argentina]], [[Australia]], [[Bahamas]], [[Bahrain]], [[Barbados]], [[Belize]], [[Brazil]], [[Brunei]], [[Canada]], [[Chile]], [[Colombia]], [[Costa Rica]], [[Ecuador]], [[Fiji]], [[Guatemala]], [[Honduras]], [[India]], [[Israel]], [[Japan]], [[Kuwait]], [[Macedonia]], [[Madagascar]], [[Malaysia]], [[Marshall Islands]], [[Mexico]], [[Monaco]], [[New Zealand]], [[Nicaragua]], [[Panama]], [[Paraguay]], [[Qatar]], [[Russia]], [[Saint Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]], [[San Marino]], [[Sao Tome and Principe]], [[Saudi Arabia]], [[Singapore]], [[Solomon Islands]], [[South Africa]], [[South Korea]], [[Taiwan]], [[Turkey]], [[Trinidad and Tobago]], [[Tuvalu]], [[Ukraine]], [[United Arab Emirates]], [[United States]]/[[American Samoa]], [[Uruguay]], [[Vanuatu]], and [[Vatican City]] can visit El Salvador for up to 90 days visa-free. Citizens of the mentioned countries except Belize, Costa Rica, Guatemala, Honduras, Nicaragua, and Panama must have proof of sufficient funds to cover your stay as well as documents stating your next destination.
+
+Holders of diplomatic, official or service passports of [[Belarus]], [[Bolivia]], [[Cuba]], [[Dominica]], [[Dominican Republic]], [[Egypt]], [[Grenada]], [[Guyana]], [[Haiti]], [[Jamaica]], [[Jordan]], [[Kenya]], [[Montenegro]], [[Morocco]], [[Pakistan]], [[Papua New Guinea]], [[Peru]], [[Philippines]], [[Serbia]], [[Suriname]], [[Thailand]], [[Venezuela]] and [[Vietnam]] do not require a visa.
+
+====Tourist card====
+Citizens of the European Union(except [[Bulgaria]], [[Croatia]], and [[Romania]]), [[Argentina]], [[Chile]], [[Colombia]], [[Costa Rica]], [[Guatemala]], [[Honduras]], [[Monaco]], [[New Zealand]], [[Nicaragua]], [[Panama]], [[Paraguay]], [[Saint Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]], [[San Marino]], [[Sao Tome and Principe]], [[South Africa]], [[Switzerland]], [[Turkey]], [[Trinidad and Tobago]], [[Uruguay]] and [[Vatican City]] do not need a tourist card upon arrival. All other citizens of countries/territories not mentioned need a tourist card upon arrival. Tourist cards are usually around $10.
+
+===Visas===
+Immigration requires that visitors entering El Salvador have their passport and one of the following documents: visa or tourist card. Visas are issued by the Consulate of El Salvador accredited in the countries where these type of diplomatic missions exist; and the tourist card is generally issued for 90 days and includes Guatemala, Honduras and Nicaragua (you can travel for 90 days throughout those 4 countries, called the CA-4 and the visa does NOT start over when you cross borders of any of those 4 countries). When arriving by air, your visa can be purchased for US$10 at the airport. [http://www.rree.gob.sv/index.php?option=com_content&view=article&id=443&Itemid=176] Land entrances are not charged for El Salvador as the visas for Guatemala, Nicaragua and Honduras include El Salvador in the CA-4 visa.  Passports of certain countries might need to obtain a visa before entering El Salvador such as Malaysia. Some countries pay a fee for the issuance of the visa.
+
+Visas can be extended once per year for up to another 90 days.  A list of detailed instructions in English can be found [http://www.wtf-elsalvador.com/visas here].
+
+===By plane===
+Visitors travelling by plane arrive at El Salvador International Airport in Comalapa, located on the beach forty-five minutes outside of the capital's city limits. The airport code is SAL.
+
+Avianca is the main airline as of May 2013 after TACA Airlines merged with Avianca. Although it serves in [[Bogota]], Colombia, it now serves Costa Rica, Nicaragua, Honduras, and Guatemala after the TACA Merger and thus, it has now expanded services further to South America and Spain. Avianca flies a fleet of A319s, A320s, A321s (much of them from its former TACA Fleet) and other aircrafts throughout North, Central, and South America.
+
+A US$32 departure tax must be paid upon departure. Depending on the airline, the full amount or part of the tax may already be included in the price of your ticket and the amount you must pay will vary from US$0 - US$32. Avianca has a customer service desk at the airport and can provide information on whether or not the tax is includes in the price of your ticket.
+
+Other airlines that fly into El Salvador include American Airlines (from [[Miami]] and [[Dallas]]), United (from [[Houston]], [[Newark]], and [[Washington, D.C.]]), Delta (from [[Atlanta]]), Spirit (from [[Fort Lauderdale]]), Iberia (from [[Madrid]]), Copa (from [[Panama City]], Aeromexico (from [[Mexico City]]) and Veca between selected Central American Cities.
+
+===By car===
+The Pan-American highway travels through El Salvador and is a safe route for entering the country and travelling between [[San Miguel (El Salvador)|San Miguel]] in the East and San Salvador in the West
+
+===By bus===
+
+Numerous buses also traverse the highways of the country.  Domestic bus services are typically very cheap (not more than two or three dollars for even the longest rides) and difficult to understand.  The buses themselves are often very well painted and adorned with all kinds of posters and trinkets, ranging from the religious to the pop-culture.  Longer bus rides may include a stop in some town where plenty of ''mujeres'', and sometimes their children, too, will board hawking mangos, nuts, water, and even sometimes fried chicken in a box.  There is no central agency that coordinates bus routes and schedules, so it is best to just ask the ''cobrador'' where the bus is going and when.  Most are very friendly and helpful, but do watch out for scams on the buses.
+
+*Note!
+Anyone riding the buses (visitor or local) must take caution in riding the buses and microbuses that are seen around the country. The buses are often crammed and it is very easy to be robbed. The buses are cheap and are a great way to get around, but remember that as a visitor you are at a higher risk of being robbed. If you must ride a bus take extra care of yourself and your belongings.
+
+The following bus companies offer luxury (and safer) bus travel with meals included, between El Salvador and other Central American destinations (incl Mexico):
+
+* Tica Bus [http://www.ticabus.com/eng/index.php]: Mexico, Guatemala, Honduras, Nicaragua, Costa Rica & Panama
+
+* Pullmantur [http://www.pullmantur.com]: Guatemala & Honduras
+
+* Platinum [http://platinumcentroamerica.com/en/]: Guatemala
+
+* Transporte Del Sol [http://transportedelsol.com/]: Guatemala, Nicaragua & Costa Rica
+
+==Get around==
+[[Image:Oficebuildings.jpg|thumb|250px|Office high-rise buildings in [[San Salvador]]]]
+If driving, rental car agencies include Alamo and Hertz. Buses and taxis also provide good ways of getting around. Distances between sights make walking an unpopular option, as does the street layout in the city; San Salvador is not a square city, but has long avenues that are straight and streets that aren't. That said, in some areas walking is a great option, such as in Zona Rosa. 
+
+El Salvador now has a well developed GPS navigation system called QFind [http://www.elsalvadorgps.com/] that can help you move around either in urban or rural areas. This is a fully functional system with thousands of points of interest and turn by turn routing to your destination.
+
+Another option for luxury transportation is Linea Ejecutiva [http://www.lineaejecutiva.com.sv], they bring private transfer. If you want, you can contact the Bureau of Conventions of El Salvador to visit the country.
+
+===By train===
+All rail transport in El Salvador was suspended in October 2002. 
+
+In 2006 a pilot scheme for reviving the rail network commenced and in 2007 a service to between [[San Salvador]] and Apopa was restarted with two return trips each morning and evening aimed at commuter traffic. Whilst this will be of little use to travellers, it is hopefully a sign of future reopening of more of the extensive rail network.
+
+===By Taxi===
+The safest and most comfortable way to travel around El Salvador is by private taxi. The reason being that there is a lack of signs to guide you around, there are areas you don't want to take a bad turn into, the Salvadoreans have a very aggressive driving style. Most hotels/hostels will have their preferred private taxi companies and can organize single trips, long distance trips or day fares. These are set fares (no meter). These private companies are a safer option than the normal yellow ones, and just look like ordinary cars. Example one way fares:
+
+* San Salvador - International Airport:   USD$30-$35
+
+* San Salvador - El Tunco Beach:   USD$30
+
+* San Salvador - El Cuco Beach/San Miguel:   USD$100
+
+==Talk==
+
+The official language in El Salvador is Spanish, however a large population does speak English. Around 1% of people speak [[Izalco phrasebook|Izalco]] or Nahuat, the Pipil language.
+
+==See==
+[[Image:San Miguel Volcano.jpg|thumb|right|300px| Chaparrastique, [[San Miguel (El Salvador)|San Miguel]] - One of the most active volcanoes in El Salvador]]
+The countryside of El Salvador is breathtaking, with volcanoes and mountains offering "green" adventurers exactly what they are looking for. Many of environmentally-oriented community-based organizations promote eco-tourism, and there are a number of beautiful and secluded beaches and forests scattered throughout the country. 
+
+A well-maintained and sparsely populated national park is found in the west at Bosque El Imposible.  Additionally, there is Montecristo Cloud Forest, and a quaint fishing village with incredible local hospitality and remote coconut islands in La Isla de Méndez. Isla de Olomega in the department of [[San Miguel (El Salvador)|San Miguel]] is an excellent eco-tourism destination, as are the beautiful Isla El Cajete in [[Sonsonate]], Isla San Sebastian, Conchagua, Conchaguita, Isla Conejo, Isla Teopan, and Isla Meanguera. 
+
+One should also visit the colonial towns of [[Ataco]], [[Apaneca]], [[Juayua]], [[Panchimalco]], and [[Suchitoto]] as well as the Mayan sites of San Andrés, Joya de Cerén (The Pompeii of Central America and an UNESCO World Heritage Site), and Tazumal, whose main pyramid rises some 75 feet into the air. The on-site museum showcases artifacts from the Pipil culture (the builders of Tazumal), as well as paintings that illustrate life in pre-Hispanic El Salvador. Souvenir hunters will find some of the best artisans in San Juan el Espino and in La Palma (the artisan capital of El Salvador). 
+
+The capital, San Salvador, is a cosmopolitan city with good restaurants highlighting the country’s fresh seafood, as well as plenty of shopping, entertainment and nightlife.
+
+[[San Miguel (El Salvador)|San Miguel]] in the East offers tourists a more authentic way to see El Salvador by getting off the beaten track to see its countryside, coastline and lakes
+
+==Do==
+
+*'''Surfing''' El Salvador has a reputation for having some of the best surfing in the world. Tourists visiting other parts of Central America are increasingly drawn to the surfing meccas of La Libertad (near San Salvador), El Sunzal, El Zonte and El Cuco (near [[San Miguel (El Salvador)|San Miguel]] ), transforming El Salvador into the fastest growing surf tourism hot-spot in Central America. [[Image:Playa Las Flores.jpg|thumb|right|300px|[[Playa Las Flores]], [[San Miguel (El Salvador)|San Miguel]] - One of the best surf spots in the region.]]
+
+*'''Stand Up Paddleboarding''' at El Cuco beach
+*'''Water skiing, Tubing, Wake boarding, Para sailing, Jet skiing''' in [[Playa El Esteron]], one of the most beautiful beaches in El Salvador
+*'''Mayan Ruins''' While not as tall or as famous as the great Mayan Centers in Mexico, Guatemala and Honduras, the ruins are impressive in their own right. The biggest bonus will be that on some days, you may have the ruins entirely to yourself or with very few others. The two sites, '''Tazumal''' and '''San Andrés''' are around one hour from each other (driving) in Western El Salvador. The jewel in the crown however, is '''Joyas de Ceren''' (12km from San Andres), a preserved 1400 year old Mayan village that like Pompeii, was promptly abandoned during a volcanic eruption. While excavation continues to take place, you can walk around the beautifully preserved earth homes and view artifacts and petrified beans, maize, utensils and ceramics that were left locked in time, a small but intriguing snap shot of Mayan life. 
+*'''Volcano hiking''' at '''Parque Nacional Los Volcanes'''. The Ilamatepec (Santa Ana Volcano) hike takes around 2 hours, guided hikes leave at 11am every morning from the Car Park at Cerro Verde. Hike through lush forest & the side of the volcano. The peak offers one of the most spectacular views in Central America - the strikingly turquoise lake in the crater, the nearby Lake Coatepeque (a volcanic caldera lake), the Izalco volcano nearby and on a clear day, the highlands on the Honduran & Guatemalan borders. Entrance fee to the park is USD $6 for foreigners or $3 for nationals (Salvadoran ID card or passport required).      
+*'''Waterfalls and hot springs''' Tamanique is a refreshing and beautiful waterfall close to El Tunco beach, popular with surfers and backpackers. Best to visit with a guide, which can be organised at El Tunco
+*'''Lake Coatepeque''' a stunning volcanic caldera lake with natural hot springs fed from nearby volcanoes, surrounded by lush forests. A playground for El Salvador's upper classes for decades, much of it's shoreline is private property and the shore may be difficult to reach in parts. Accommodation options are very limited, however the lack of commercial development adds to the lakes' air of pristine serenity. Private holiday homes can be booked through online rental websites (such as Airbnb), along with a luxury boutique hotel [http://www.cardedeuelsalvador.com/ Cardedeu], with rooms and suites starting from USD $400 a night. Boat tours of the lake can be arranged.
+*'''Ruta de las Flores''' a route in western El Salvador famous for its coffee,  that winds its way through picturesque villages nestled between lush mountains and coffee  plantations. The lively villages of Juayua and Ataco are popular with Salvadorans on weekends, filled with markets, street entertainments and a weekly food fair. Nahuizalco has recently undergone improvements to its infrastructure and boasts a popular artisan market and local fresh food market with local produce, under the watchful eye of the Izalco volcano nearby. These colourful villages lend themselves splendidly to photography, and accomodation options to suit all budgets are available in the bigger towns. Tours of nearby waterfalls and coffee plantations can be arranged from Juayua and Ataco.
+*'''La Palma''' is a tiny and remote, rainbow-coloured village. It is the birthplace of the country's modern art movement thanks to one of the country's most famous artists (Fernando Llort) and home to native artists and handicraft artisans. Along with the nearby town of '''San Ignacio''', it is a focal point for tourists hiking the nearby challenging peaks around El Pital.   
+*'''El Boqueron National Park''' San Salvador's iconic volcano. A well maintained walk along the rim of the volcano that last erupted in 1917 is well worth a visit. A small entry fee includes entry to the information centre. The highlight is peering down the 500 metre deep crater, as well as the spectacular views of San Salvador itself. Food stalls cater to tourists.
+*'''Parque Nacional Montecristo''' A cloud forest bordering Guatemala and Honduras, it offers some of the most enchanting and refreshing hikes in Central America. The forest is filled with rare animals including spider monkeys, toucans, pumas and exotic plants. Camping is the only option for accommodation, with a few different hikes available. Unless hiking as part of an organized tour group, you will need to bring your own food, water and gear. Temperatures are much cooler than the rest of the country, ranging from 10°C (50°F) to 15°C (59°F).
+*'''Cerro El Pital''' A mountain popular with serious hikers, it is home to rare species of birds and animals. A great place to go camping and wildlife spotting. 12km from the town of La Palma, El Pital is the highest point in El Salvador at 2,730 Meters (8,957 Feet). The average temperature throughout the year is 10 °C (50 °F).
+*'''Furesa Animal Refuge [http://www.furesa.com.sv/]''' a refuge for rare animals from around the world in beautiful surroundings. Activities include forest walks, waterfalls, camping facilities & zip lining. Animals include Toucans, Tapirs, a Bengal Tiger, grey foxes, and Pumas. Entrance from US$8.
+*'''Jiquilisco Bay''' Explore this remarkable biosphere reserve, the largest mangrove estuary in El Salvador. Includes numerous bays, canals, sandy beaches, islands, forests and a freshwater lagoon complex. The bay is one of two Hawksbill Sea Turtle habitats in the Pacific. '''Puerto Barillas [http://www.puertobarillas.com/welcome/lodge/]''' lays at the heart of the reserve, popular with boat owners seeking solitude, and with accommodation and activities available.
+*'''El Tunco''' An increasingly popular destination for backpackers, El Tunco was probably the only destination in the country that continued to be visited by few brave tourists during the civil war that ravaged the country, surfers in search of its famous breaks. While still popular with surfers, the lively bars, restaurants and hostels are a focal point for international backpackers visiting the country.
+*'''El Cuco''' One of nicer swimming beaches in the country, small hostels and hotels abound. A slower pace than El Tunco, there is little activity in the town itself. The Equilibrio festival takes place in March each year, which includes a variety of workshops, yoga classes and dance floor revery. Held at La Tortuga Verde resort. 
+*'''Turtle Conservation''' at various spots along the coast, tourists can volunteer to assist in the hatch and release of baby turtles during hatching season (between June & November)
+
+==Buy==
+
+El Salvador's official currency is the US Dollar (since 2001). Carry only $1, $5, $10 or $20 dollar bills. Most stores, supermarkets and department stores won't accept $50 or $100 bills. If you need to exchange to lower denominations, you can go to any bank. If you are from a country or territory with the US dollar as a official currency, you will not need to worry about understanding prices and currency transferring. Also if you are from [[Bermuda]], [[Panama]], or [[Bahamas]], the official currency(ies) of the mentioned countries and territories have fixed exchange rates to the US Dollar. Meaning what price is said in El Salvador will be understood with your country's/territory's official currency. Example; $150 US Dollars will equal $150 Bermudian dollars, but you will still have to exchange currencies.
+
+El Salvador has the largest malls in the region (MetroCentro - MetroSur), especially in [[San Salvador]], with many upmarket international stores.  Goods can also be purchased from markets, including national and international supermarkets.
+
+San Salvador has a number of large modern shopping malls stocking the latest in international fashion, accessories & cuisine. These are generally found in the city's upscale suburbs such as Escalón, Santa Elena, and their surroundings. These malls include:
+
+* Multiplaza [http://www.multiplazamall.com/]
+* La Gran Vía [http://www.lagranvia.com.sv/]
+* Galerías [http://www.galerias.com.sv/]
+* Plaza Merliot [http://www.plazamerliot.com.sv/]
+
+For those shoppers interested in purchasing fairly traded crafts and organically grown produce, a local alternative market is held every other Saturday in the San José park in the San Luis area just west of the National University.
+
+Expect to pay $30-60 for a room in a hotel, $3-5 for a simple meal, $0.25-0.35 to ride a San Salvador city bus, $1/hour to use the Internet, and $0.25 for a bag of sliced mangos. The one drawback to this is that large bills ($50 & $100) are almost unspendable. Get change wherever you can -- gas stations are always a good bet. A good idea is to visit a bank and ask for small bills and nothing larger than a $20. Take note of the prices that street vendors sell their products because at times they will take advantage of people that look or sound foreign by raising their prices dramatically.
+
+==Eat==
+[[Image:Pupusas.jpg|thumb|Traditional Salvadoran dish, The Pupusa]]
+
+The restaurant scene in El Salvador is influenced by many different cultures. Food options include Italian, Korean, Japanese, French, Chilean, American, Peruvian, Mexican, Spanish, Middle Eastern, German, Chinese, Argentinian and others. You can also easily find American fast food chains such as Burger King, McDonald's, Wendy's, KFC, Subway, Quiznos, Pizza Hut, Little Caesar's, and Domino's, in the largest cities in the country such as San Salvador, Merliot / Santa Tecla, and Santa Ana. Other franchises include Tony Romas', Bennigans and others. Some of the best restaurants are located in Zona Rosa (Paradise, Alo Nuestro, 503). 
+
+The typical Salvadoran diet includes lots of rice and beans, seafood (particularly among those who live on the coast), and the most common Salvadoran dish, the famous '''Pupusa''', a round corn tortilla filled with cheese and other elements, usually chicharon (shredded pork meat). It's widely agreed that the best pupusas in the country can be bought in Olocuilta, which you can get to along the highway on the way to the Comalapa airport. You will find 50+ pupusa stands there, competing for business.
+
+Also Salvadorans eat fried sliced plantains (platanos) usually with beans, sour cream, cheese and sometimes eggs, yuca con chicharron, pastelitos de carne, panes con pavo (turkey sandwiches), hand made tortillas among other very delicious Salvadoran foods.
+
+If you are staying on the coast, make sure you try the cóctel de conchas. It is a mix of black clams, lime juice, onions, tomatoes, cilantro, and chiles in a spicy black sauce. You can find them for about $3/bowl, using freshly harvested clams. A wide range of other seafood dishes can also be found.
+
+Many large modern supermarkets are scattered throughout the capital and in large towns, such as La Despensa de Don Juan and Super Selectos, which sell local produce and a large variety of international products. Like anywhere else in the world, these are a cheaper alternative to eating out every night.
+
+==Drink==
+
+=== Typical beverages and fruits ===
+
+Try the most delicious ''Horchata'' (made from rice and "morro" seeds) and ''Cebada'' (a smooth and sweet pink barley refreshment).  If you prefer (at your own risk) to drink natural juices, such as:  guava, ''jocote'', ''arrayan'', ''chirimoya'', ''granadilla de "moco"'' and marañon.  Furthermore, you should try to savour the local fruit, as: '''jocotes, marañon japones, green mango''' (with salt, lime, ''alhuaiste'' (ground pumpkin seed), ''manzana pedorra'' (orig.from Los Planes de Renderos), '''"nance", "red or yellow almendras"''' salvadorenias, '''"hicaco", "paterna"''' (also try the cooked paterna seed with lime and hot pepper, and don't miss the suave and liquory aroma of '''"carao"'''.
+
+=== Bars & Clubs ===
+
+<!--Information on the country's bars and nightlife. As with most other country information, this as general as possible and save the actual bar or nightclub listings for the city articles where they are. You can and should mention cities or regions with especially good nightlife, or interesting musical traditions. Also give an idea of bar and club etiquette.-->
+
+San Salvador's night life centers around 'Las Terrazas' at Multiplaza Mall in Santa Elena, filled with restaurants, bars and dance clubs that fill up each weekend with people of all ages. The close proximity of the establishments and the secure environment are a major drawcard for young revellers that enjoy partying till the early hours. Dress is smart casual attire.
+
+The Zona Rosa was once the buzzing and eclectic entertainment quarter of the city, until its epicentre gradually established itself at Multiplaza. 
+
+The bars & restaurants at the base of the Plaza Futura Tower in Colonia Escalon are popular with business professionals  on weeknights as well as expats, attracting an older crowd than Multiplaza. Smart Casual dress attire at most venues.
+
+New small bars and restaurants in beautiful surroundings are continuously opening up, some in older mansions around Escalon & San Benito & Circo Bar. These are popular with the well heeled of the city that prefer smaller venues away from the large crowds. These venues are the haunts of the 'beautiful & wealthy' set of the city, strict dress codes will usually apply & entry may be refused to anyone with no reason given.
+
+Paseo El Carmen in the historic centre of Santa Tecla has undergone a renaissance of sorts in recent years, with an increasing number of cafes, bars and restaurants opening up along the colourful street. Once the capital of El Salvador and only a short drive from Santa Elena, Santa Tecla is much safer than San Salvador, and is a beacon of hope and blueprint for the efforts to restore the much larger historic quarter of San Salvador to its former glory. Relaxed casual attire is sufficient at most venues.
+
+El Tunco Beach in La Libertad is only a 30-40 minute drive from San Salvador, with its lively bars and eateries being the focal point and main hangout of backpackers and surfers from around the world. Popular with young Salvadorans from the capital on weekends, El Tunco is a safe and fun destination for travellers, offering a different, more relaxed scene than the capital, with chilled out bohemian vibes.
+
+Bars open to the public can also be found at the luxury hotels. Smart casual attire is necessary.
+
+In [[San Miguel (El Salvador)|San Miguel]] the famous Av. Roosevelt that hosts one of the biggest festivals in Central America in November is where you will find numerous bars and clubs for sexy nightlife.
+
+==Sleep==
+[[San Miguel (El Salvador)|San Miguel]] has high end hotels on Av. Roosevelt by the Metrocentro mall and budget hotels near the bus terminal.
+
+In [http://wikitravel.org/en/San_Salvador San Salvador], there are excellent budget accomodations in Colonia Escalon, Santa Tecla, Antiguo Cuscatlan, and San Luis. 
+<!-- Provide a general overview of accommodation options in the country.  Do not list individual businesses, which belong in city articles. -->
+
+==Work==
+Finding employment in El Salvador is difficult for both Salvadorans and <i>extranjeros</i> (foreigners) alike, although bilingual schools are constantly looking for English speakers, as well as other foreign language teachers. Bilingual/international schools such as [https://www.amschool.edu.sv/ Escuela Americana] and [https://www.abc.edu.sv/ Academia Britanica Cuscatleca (British Academy)] offer competitive salaries for qualified foreign teachers, and in some cases, accommodation included. Current vacancies are posted on the schools' websites. 
+
+Most foreigners find themselves volunteering with one of a number of local community organizations or NGOs.  Below are some organizations looking for volunteers on a regular basis:
+
+[http://www.elsantuario.net/ Urban Dog Sanctuary] Located on the slopes of Volcan San Salvador overlooking the city of the same name, this sanctuary is run by Salvadoran-Scott Georgi McColl and has an excellent reputation for caring for the animals.  She is always looking for volunteers to help maintain and care for the many dogs she has at any one time.  She also runs free veterinarian clinics for locals and their pets and is looking for help there as well.  Volunteers can stay for weeks or months.  Contact her for more information.
+
+[http://hawksbill.org/volunteering_details.html Eastern Pacific Hawksbill Initiative]  There are a lot of organizations claiming to care for the turtles and doing turtle releases around the country.  This is one of the few doing it right, with a mind on the turtles and not on making money off of tourists.  They are working hard to protect and grow the Hawksbill Turtle populations in El Salvador, which, with its 300 km of coastline, is where most of them come to nest.  You can volunteer for as little as one week for a nominal fee.
+
+[http://permacultura.com.sv/ Permaculture Institute of El Salvador]  Just outside of Suchitoto, the Permaculture Institute focuses on teaching local farmers the theory of organic gardening.  It often draws on knowledge of the local indigenous and uses the farmer-to-farmer method of teaching.  They are always looking for new volunteers.  There is a small fee to participate, usually around $400 a month to cover costs.
+
+[http://www.teachingyou.org/ Teaching You - El Salvador] A volunteer program focus on Teaching English in Santa Tecla City, the program is runing from monday to thrusday, from January to November, you can apply for 2 weeks to 24 weeks, volunteers pay a fee that cover their accommodation, cooking classes, and other stuff.
+
+[http://www.cis-elsalvador.org Centro de Intercambio y Solidaridad] is often looking to hire bi-lingual project managers and liaisons, and offers both Spanish classes and numerous volunteer and cultural opportunities. 
+
+The recent incursion of the call center business has raised the bar in the need for a bi-lingual workforce.
+
+==Stay safe==
+
+El Salvador has a bad reputation due to the civil war of the 80s. The Consular sheet from the US State Department indicates that El Salvador has the highest homicide rates in the world. Crime is an issue, most of it is attributed to street gangs, though statistics from official sources do not support that claim. You must use common sense and avoid entering into a zone that does not appear safe, just like you do in any country of the world. Avoid carrying fancy items such as jewelry, expensive cameras, and watches if you are walking on the public streets. Females should avoid traveling alone as they may catch the occasional cat-calling and perhaps get sexually assaulted on tightly packed buses. As a foreigner the kind of response you might get from the police is "hit or miss." If you have been pick-pocketed or otherwise robbed without harm to your person, a visit to the police station will almost certainly be an exercise in frustration. Police officers have also been known to whistle or cat-call female travelers.  
+
+It is a good idea for any person visiting El Salvador to keep only necessary forms of identification, such as a driver's license, when exploring the city or tourist locales. If you must keep your passport on you at all times, a traveler's pouch would allow you to have it safely with you. Police officers routinely ask tourists to present their passports, most can be convinced that a copy of the passport and the visa page is sufficient. Others will infrequently insist on accompanying you back to your hotel to retrieve your actual document. 
+
+In 1996 San Salvador was considered the second most dangerous city in the Western Hemisphere, according to statistics. Since the end of the civil war in 1992 El Salvador has not seen a reduction in crime rates. Today San Salvador, and El Salvador in general, experience some of the highest homicide rates in the world, it is also considered an epicenter of the gang crisis, along with [[Guatemala]] and [[Honduras]]. The homicides reported in 2006 reached up to 3,906, in 2005 3,779 were reported; 57.2 violent deaths per every 100,000 people. Crime rates in general have been steadily growing throughout the years, from 2005-2006 crime rose 7.5%.El Salvador is the most dangerous and violent country in Central America. The government tried controlling the gangs with a tactic called "Super Mano Dura" which means "Super Strong Hand", however it has not been successful.
+
+In 2012, the Catholic Church has orchestrated a "gang truce" which has significantly reduced the number of homicides in the country - from 14 a day to 5 a day.  The church (and now the government) have worked with gang leaders to procure for them work programs and other training and amenities in prison in exchange for a decrease in violence and turning in of weapons.  This arrangement has sustained itself for more than a year. However, the "gang truce" failed in 2015, which spiked the murder rate by 52% with an annual number of 481 killed, with roughly 19 people being murdered each day as a result of a gang truce collapse.
+
+The violence in the country is rarely directed at tourists, and travellers have no more to worry about than any other developing country one may visit. However, that doesn't mean you're immune from becoming a target.
+
+==Stay healthy==
+There are great private hospitals staffed by doctors trained overseas. Many speak at least a little English.  Salvadorans will tell you the best hospital to go to is [http://www.hospitaldiagnostico.com/ Hospital Diagnostico] which is one of the most expensive.  It does have a good reputation for cancer treatments and research.  However, ex-pats living in El Salvador will often disagree and say that [http://hospital-mujer.com/ Hospital de la Mujer] is much better, especially for minor surgeries, blood tests and anything to do with women's health.  As there are more people having babies in El Salvador than cancer treatments, you may find that the nurses and doctors are in much better practice at the Hospital de la Mujer than at Diagnostico, where few Salvadorans can afford to go!
+ 
+If you are not accustomed to food sold by street vendors, you might want to stay away from food sold on the streets until you acclimate. If you want to try a '''pupusa''', you should try to find a restaurant to taste this popular dish rather than buying them from street vendors. That said, street food that you see cooked can sometimes be safer than restaurant food that you do not see cooked.
+
+'Agua en bolsa' (water in a plastic bag) is very commonly sold in the streets and corner stores of El Salvador. 
+
+Pharmacies are easily found all over the country, and antibiotics are plentiful without the need for a prescription.  Pain killers (such as Vicodin) are impossible to come by legally as the US found that a high level of painkillers being brought into the country came from El Salvador.  Even morphine is unavailable in hospitals due to this crackdown by the US. 
+
+Be sure to have a first-aid kit if you travel to the countryside and to archaeological sites.  
+
+There is very little chance of catching malaria in El Salvador - a much bigger threat is Dengue Fever, for which there is no protection other than mosquito repellant.  Luckily doctors and hospitals are well-versed in treating and testing for Dengue.
+
+Ameobas and other parasites are commonly in tap and well water, so beware of where you buy your drinks and what your ice looks like.  A good rule of thumb is that if the ice is molded (i.e. round cylinders with a hole in the middle, or perfect squares) it is usually purified water bought from a store and therefore safe to have in your drink.  If it looks like it has been broken apart with an ice pick it's suspect.  In Puerto La Libertad, many commodores (local restaurants often operating out of someone's house) get their ice from the fishing co-op on the beachfront street.  When you see what else that ice comes in contact with, you will change your mind about drinks with chipped ice in them!
+
+==Respect==
+Salvadorans are known for their great hospitality. Their country is one of the best mannered countries in the world. They are among the nicest people in the world. They are friendly, industrious people always willing to help anyone. That is what has earned El Salvador the nickname of "the country with a smile". When speaking with people you don't know, it is customary to address them in a formal manner, using señor, señora and/or usted.
+
+==Contact==
+
+The international country code for El Salvador is '''503'''.
+
+{{isPartOf|Central America}}
+{{outline}}
+{{countryguide}}
+
+[[ca:El Salvador]]
+[[de:El Salvador]]
+[[eo:Salvadoro]]
+[[es:El Salvador]]
+[[fi:El Salvador]]
+[[fr:Salvador]]
+[[hu:Salvador]]
+[[it:El Salvador]]
+[[ja:エルサルバドル]]
+[[nl:El Salvador]]
+[[pl:Salwador]]
+[[pt:El Salvador]]
+[[ru:Сальвадор]]
+[[sv:El Salvador]]
+[[wts:Category:El Salvador]]
+
+[[WikiPedia:El Salvador]]
+[[Dmoz:Central_America/El_Salvador/]]
+[[World66:centralamericathecaribbean/elsalvador]]

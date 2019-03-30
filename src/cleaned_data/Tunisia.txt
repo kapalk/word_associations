@@ -1,0 +1,497 @@
+{{pagebanner|Tunisia Banner.jpg}}
+
+{{quickbar
+|image=Hammamet Medina.jpg
+|caption=Medina of Hammamet
+|flag=Flag of Tunisia.svg
+|location=Tunisia in its region.svg
+|capital=[[Tunis]]
+|government=Republic
+|currency=Tunisian Dinar (TND)
+| area=''total:'' 163,61km²<br />''water: 8,250km²<br />land: 155,360km²''
+|population=10,982,754 (2014 estimate)
+|language=[[Arabic]] (official and one of the languages of commerce), [[French]] (commerce)
+|religion=Muslim 98%, Christian 1%, and Jews 1%
+|callingcode=+216
+|tld=.tn
+|timezone=UTC +1
+|electricity=127-220V/50Hz (European plug)
+}}
+
+{{warningbox| Travel to within 10km of the Tunisia-Libya border is strongly discouraged, as is all travel south of El Borma. Even though there were no terrorist attacks recently, extra care should be taken when travelling around Tunisia. You should remain vigilant at all times and report any suspicious activity to the local authorities immediately.}}
+
+[http://www.tunisia-tourism.org '''Tunisia'''] ([[Arabic phrasebook|Arabic]]: '''تونس'''‎)  officially known as the '''Tunisian Republic''' (Arabic: '''الجمهورية التونسية'''‎), is a country in [[North Africa|Northern]] [[Africa]] that has a Mediterranean Sea coastline in the very centre of Mediterranean Africa. Tunisia lies immediately to the south of [[Italy]] and [[Malta]]. [[Libya]] borders Tunisia to the south-east, whilst [[Algeria]] lies to the west.
+
+==Understand==
+Recent decades have clearly seen government neglect of the country. Consequently the economy is depressed, infrastructure showing signs of decay and mass tourism has largely deserted the country. This is unfortunate as Tunisia has much to offer. However, there are also signs of renewal, especially in Tunis. Expect to be adaptable and patient and you will be rewarded.
+
+===History===
+; '''Independence''' : 20 March 1956
+
+; '''National holidays''' : Independence Day, 20 March, and "Eid" (end of Ramadan, variable date) - a time when hotel rooms are completely booked. Plan accordingly.
+
+Tunisia has a rich cultural history, ever since Antiquity.  The Carthaginian Empire, Rome's arch enemy, was centred in Tunisia.  Its capital, Carthage, is now a suburb of Tunis.  Founded by Phoenician settlers from Tyre and Sidon (modern day Lebanon), Carthage was an ancient Mediterranean powerhouse.  Three wars between Rome and Carthage (known as the Punic wars) were waged in the first few centuries before the birth of Christ.  These culminated with the decimation of Carthage in 146 B.C. by the Roman general Scipio, who is said to have wept at its destruction.  
+
+Between the destruction of Ancient Carthage and the Arabic conquests of the 7th century, many cultures have made Tunisia their home.  Carthage enjoyed a new period of prosperity under the Roman Empire until its collapse in the 5th century.  Roman rule was replaced briefly by the Vandals, who made Carthage the capital of their kingdom.  Carthage was then absorbed temporarily by the Byzantine Empire, until the rise of Islam in the 7th century.
+
+After the dissipation of the Arabic Caliphates, the Ottoman Empire's Turkish Pashas ruled Tunisia.  With the fall of the Ottoman Empire, Tunisia eventually fell under the sway of European Imperialism, as a French Protectorate, along with neighboring Algeria.    
+
+Following independence from France in 1956, President Habib Bourguiba established a strict one-party state. He dominated the country for 31 years, repressing Islamic fundamentalism and establishing rights for women unmatched by any other Arab nation. 
+
+Bourghiba was quietly replaced in 1987 by Zine El Abidine Ben Ali (Ben Ali, for short). His forced abdication was carried out under the pretext that he was unfit to carry out his duties as president, due to his ailing mental and physical state as a result of extreme old age.  Nonetheless Bourghiba is still credited with the birth of the modern state of Tunisia, for which he fought his entire life. 
+
+In recent years, Tunisia has taken a moderate, non-aligned stance in its foreign relations. Domestically, it has sought to defuse rising pressure for a more open political society.
+
+In Jan 2011, President Zine El Abidine Ben Ali left the country along with his wife, after he saw widespread protests in the country also known as the Jasmine Revolution, the first event in the so-called Arab Spring. The new government was elected in Tunisia on December 2011. Protests remains ongoing in the country and Tunis still has military control points and razor wire in service, although this appears to be largely symbolic.
+
+===Tourism===
+[[Image:Ribat%2C_Sousse%2C_Tunisia.JPG|thumb|upright=1.3|The Ribat at Sousse, a UNESCO World Heritage Site]]
+
+There are several ways to enjoy your vacation in Tunisia, including spending your vacation on the gorgeous Mediterranean beaches, or planning a circuit of Tunisia.  Numerous charter flight companies can arrange flight and hotel, many that waiver a visa to enter.  There are also some agencies that have ongoing tours for groups and private travellers. 
+
+You can also easily travel independently in Tunisia using public transport. Louages are cheap and fast and safe for single women.
+
+The south of Tunisia is very different from the north. A reputable tour guide is advisable for the south of Tunisia and visitors are advised to avoid the regions adjacent to the Algerian and Libyan borders where kidnappings have been reported. 
+
+Tourism is pretty well developed in Tunisia, although not on par with other countries like Egypt and Morocco. Hotel star ratings are not on par with European and US standards -- a 4 star hotel is the equivalent of a 5 star. Hotels in Tunisia can be very cheap and are of a high standard in relation to other European Destinations.
+
+===Climate===
+Temperate in north with mild, rainy winters and hot, dry summers; desert in south. The Tunisian Sahara is quite gentle compared with other deserts, climate-wise. Tunisia is best visited in late spring or late autumn.
+
+===Terrain===
+Mountains in north; hot, dry central plain; semiarid south merges into the Sahara desert. Tunisia offers a fantastic and varied landscape.
+
+====Elevation extremes====
+; ''lowest point'' : '''Shatt al Gharsah''' -17m
+; ''highest point'' : '''Jebel ech Chambi''' 1,544m
+
+==Regions==
+[[Image:Tunisia Regions map.png|thumb|upright=1.3|Map of Tunisia with regions colour-coded]]
+
+{{Regionlist
+
+| region1name=[[Northern Tunisia]]  
+| region1color=#AAC298
+| region1items=
+| region1description=the capital Tunis, all of the north coast and mountains, and a number of very popular Mediterranean beach resorts
+
+| region2name=[[Central Coastal Tunisia]]
+| region2color=#8F8563
+| region2items=
+| region2description=Sfax, Gabes, the southern beach resorts and the bus route to Libya
+
+| region3name=[[Saharan Tunisia]] 
+| region3color=#D7D484
+| region3items=
+| region3description=the Saharan hinterland - rocky plains, dunes, desert trekking and some major archaeological sites
+}}
+
+==Cities==
+*[[Tunis]] — the laid-back capital of Tunisia with easy access to [[Carthage]] and a very authentic souk
+*[[Djerba]] &mdash; a Mediterranean island town in the south which is popular with sun-seekers 
+*[[Gabes]] — large town on the east coast, mostly a rail and bus transit point
+*[[Kairouan]] — a major site for Islamic pilgrimage and carpet capital of Tunisia
+*[[El Kef]] — Byzantine and Ottoman architecture in this small town in the northwest 
+*[[Monastir]] - ancient city with a history back to Phoenician times; these days home of the main charter flight airport in the country
+*[[Sfax]] — historic town with a great old kasbah; also access to the  Kerkennah Islands
+*[[Sousse]] - a UNESCO World Heritage Site for its architecture and also a popular beach resort option
+*[[Tozeur]] - gateway to several Saharan oasis villages
+*[[Métlaoui]]- Red Lezard Train : is a historic Tunisian train, once the property of the Bey of Tunis,[2] but now used for tourists. It runs from Metlaoui to Redeyef and passes through the spectacular Selja Gorges, taking some 40 minutes for the journey. The railway was built for mining trains carrying phosphates.
+
+==Other destinations==
+*[[Carthage]] — Phoenician colony, biggest trade metropolis of the antique world; famously razed by the Romans; remnants now encased in a museum; site easily reached by train from [[Tunis]].
+*[[Dougga]] — impressive ruins of a remote Roman city
+*[[Douz]] &mdash; on the edge of the Sahara, where you can hitch a camel ride.
+*[[El Jem]]  —  one of the best preserved Roman amphitheaters in the world.
+*[[Hammamet]] — on the coast between [[Tunis]] and [[Sousse]].
+*[[Jebil National Park]] - a large Saharan National Park with impressive dunes and rock formations
+*[[Kerkouane]] — remnants of the sole untouched Punic settlement which is a UNESCO World Heritage site
+*[[Matmata]] — desert village of cave abodes, where ''Star Wars'''s Tatooine was set
+*[[Metlaoui]] &mdash; get aboard the restored Red Lizard vintage train snaking through scenic gorges and hills.
+*[[Sufetula]] (''Sbeitla'') &mdash; well preserved Roman settlement in the mid-west area of Tunisia.
+
+==Get in==
+[[Image:El Jem Amphitheater.jpg|thumb|upright=1.3|The remarkably well preserved Roman amphitheatre at El Jem]]
+
+===Visa===
+Nationals of Algeria, Antigua and Barbuda, Argentina, Australia, Austria, Bahrain, Barbados, Belgium, Belize, Bermuda, Bosnia and Herzegovina, Brazil, British Virgin Islands, Brunei Darussalam, Bulgaria, Canada, Cape Verde, Chile, China, Comoros Republic, Costa Rica, Cote d'Ivoire, Croatia, Czech Republic, Denmark, Dominica, Estonia, Equatorial Guinea, Falkland Islands, Fiji, Finland, France, Gabon, Gambia, Germany, Gibraltar, Gilbert Islands, Greece, Guinea, Guinea Bissau, Honduras, Hong Kong, Hungary, Iceland, India, Iran, Ireland, Italy, Japan, Kiribati, South Korea, Kuwait, Latvia, Libya, Liechtenstein, Lithuania, Luxembourg, Macau, Macedonia, Malaysia, Mali, Malta, Mauritania, Mauritius, Mexico, Moldova, Monaco, Montenegro, Montserrat, Morocco, Netherlands, Namibia, New Zealand, Niger, Norway, Oman, Poland, Portugal, Qatar, Romania, Saint Helena, St. Kitts and Nevis, St. Lucia, St. Vincent and Grenadines, San Marino, Saudi Arabia, Senegal, Serbia, Seychelles, Singapore, Slovakia, Slovenia, Solomon Islands, South Africa, Spain, Sweden, Switzerland, The Russian Federation, Turkey, United Arab Emirates, United Kingdom, United States and Vatican City do not require a visa to enter and stay for up to three months.
+
+For other African and Asian countries' nationals, a visa must be applied for at the embassy of coverage.
+
+===By plane===
+Tunisia's main international airport for scheduled flights is '''Tunis-Carthage International Airport''' ('''TUN''') near [[Tunis]].
+
+Official airport Wi-Fi requires purchase, but connection to the public "LINDO CAFE" network from a restaurant of the same name is free.
+
+For cheap snacks and coffee/tea in place of overpriced airport fare, walk 3 minutes straight out of the airport's bottom floor (arrivals), past the fountain, through the parking lot, and you'll find a small convenience store and cafe selling items at local prices (espresso for 700 millimes). It is next to a utilitarian car wash.
+
+You can get an internal flight to Tozeur.
+
+Smoking is officially not allowed in the airport. You will, however, see a lot of people walking around with a lit cigarette. At the bars (at gate 14 and at gate 50) ashtrays are provided and even airport staff will be seen smoking here. 
+
+Tunisia's second airport is '''Habib Bourguiba, Skanes-Monastir''' ('''MIR''') which is served by low cost charter flights from all over Europe.  Monastir is nearer to most of the holiday destinations. Inexpensive charter flights (at least from the UK) are available through airlines such as Thomas Cook. [http://flights.jet2.com Jet2.com] will also operate a service to Monastir. Other destinations with international airports include Tozeur and Djerba.
+
+Recently, a brand new airport opened in Enfidha ({{IATA|NBE}}) to gradually replace the Monastir airport. This now offers the cheapest flights. There is a free shuttle to Hammamet.
+
+Other Airports countrywide are serving national and international flights, and here is a list of the Tunisia's Airports:
+Tunis Carthage Intl Airport near Tunis (North Tunisia) - [http://www.thomascook.com/destinations/tunisia-flights]
+Habib Bourguiba Skanes Monastir near Monastir (Central East Tunisia) - 
+Sfax Thyna Airport near Sfax (Central East Tunisia) - 
+Tozeur Nefta Intl Airport near Tozeur (South West Tunisia) - 
+Gafsa Airport near Gafsa (South West Tunisia) - 
+Tabarka November 7th 1987 near Tabarka (North West Tunisia) - 
+Djerba International Airport in Djerba Island (South East Tunisia) - [http://www.thomascook.com/destinations/tunisia-flights]
+
+===By boat===
+Ferry services link [[Tunis]] to [[Malta]], [[Trapani]] and [[Palermo]] ([[Sicily]], [[Italy]]),  [[Naples]] ([[Italy]]), [[Genoa]] ([[Italy]]) and [[Marseille]] ([[France]]).
+Travelling boats generally leave from La Goulette port (near Tunis).
+Other commercial ports are also available (Rades, Gabes, Sousse, Sfax, Zarzis...)
+
+==Get around==
+
+===By plane===
+TunisAirExpress (Previously named SevenAir) is the domestic airline branched off of TunisAir.  You can fly between Tunis and Tozeur, Djerba and Gabes, as well as flights to Malta and Bizerte.  French-only website, booking is online and through agencies TunisAirExpress[http://www.tunisairexpress.com.tn/]. Flights can also be booked through the main TunisAir[http://www.tunisair.com.tn/] website, which is available in English, French, Arabic, German, Italian, and Spanish. You can book online also through some foreign agencies such as destinia.com
+
+===By car===
+Some Tunisian highways resembles US Interstate or the Highways of Europe with a dual carriageway: A-1 runs from Tunis south heading to Sfax (The section from Sousse to Sfax has recently been opened June 2008), A-2 runs from Tunis north heading to Bizerte, and A-3 runs from Tunis West heading to Oued Zarga. Tunisian highways speed limit is 110km/h. It is possible to maintain that speed on that road very easily. Once you get to Gabes the quality of the roads diminishes considerably. Although there were plans for continued road improvements, since the revolution it is unclear what the new priorities will be. The remaining Highways have single carriageways, with traffic roundabouts at major intersections, which follow the European model (those in the roundabout have the right of way). Consequently, on roads other than the A-1,2,3 it can be difficult to maintain an average speed of more than 75km/h most of the time as the speed limit is 90km/h.  Almost all road signs are in both Arabic and French.
+
+Like most developing countries, road accidents are the leading cause of death and injury in Tunisia. Because of the lack of sidewalks, pedestrians walk on the roads often without regard for cars or their own safety. 
+
+People unfamiliar with driving in developing countries are best to use public transportation or hire a driver or a guide if renting a car.
+
+Driving in Tunis is further compounded by narrow streets and limited parking spots. To see the Medina of Tunis, it would be best to park some distance from the Medina, and take the light rail (called TGM) in from Marsa/Carthage, the green tramway (called Metro) downtown, or perhaps a taxi in from the nearer outskirts. 
+
+Rental Cars are fairly easy to find. The price for rentals at the airport is much higher than you you will pay for the same types of vehicles in town or away from the airport. For instance, a Renault Symbol will run you between 80-100 dinars at the airport and 30-50 dinars in town depending on the length of the rental. The is no insurance available to foreigners in Tunis except for third-party which is mandatory and included in the price of the rental. Ensure you can either obtain travel insurance in your home country which covers car rentals or ask your credit card company if they provide coverage for Tunisia. If you don't have insurance, you will be expected to pay for any damage to your vehicle. Inspect the vehicles thoroughly to ensure they have suitable tires. Rentals come with an empty gas tank and any gas remaining after your trip will not be refunded. Expect to be pulled over by the police who will inspect your car for all safety requirements such as fire extinguishers, and other mandatory items. It is the responsibility of the rental company to provide this material, so ensure it is there.
+
+Police stop tourist vehicles regularly for inspections: do not be afraid! Show your ID, be polite and voila, off you go. In remoter areas you should actively stop at checkpoints and have a chat - they are keen to be seen to look after tourists, can give updates on the road ahead and will often radio the next town to ensure you are being looked after.
+
+===By taxi===
+When leaving the Tunis airport terminal you may be accosted by several men offering taxis. Also, once you approach the vehicle, others might gather around to "help you" with your luggage expecting a tip for putting your bag in the boot of the car. Ignore the touts and walk towards the line of yellow taxis and insist on the use of the meter. A taxi from the airport to the city center was TND7 by meter as of November 2017. Otherwise, offer the driver a 10 dinar banknote as a flat fee to Avenue Bourguiba and he will probably quickly accept. If not, try another driver. If traveling to a more distant beach resort, consult a desk (i.e. airport tourist desk or hotel reception desk) before leaving and ask an average fare for your destination. Twenty dinars is typical. Once you've settled on a flat fare you may find they get you to your destination a lot quicker. Don't be afraid to walk away from taxi's that refuse to negotiate, they need the business so you will quickly find another. 
+
+Private taxis are reasonably priced even for long-distance travel, just be sure to agree on the fare before you set off.  Sample fares for a four-seater are €40 for Tunis-Hammamet or €50 for Monastir-Hammamet [http://www.taxitunisie.com].
+
+===By train===
+[[File:Railways_in_Tunisia.jpg|thumb|200px|Passenger connections in Tunisia:<br/> <b><font color="#905658">red</font> and <font color="#A87BAB">purple</font></b> - routes with passanger trains<br/><b><font color="black">black</font></b> - routes with only freight trains<br/> <b><font color="grey">grey</font></b> - not used routes<br/>  [http://sharemap.org/public/Railways_in_Tunisia Interactive map] ]]
+The national train company '''SNCFT'''[http://www.sncft.com.tn] runs modern and comfortable trains from [[Tunis]] south to [[Sousse]], [[Sfax]] and [[Monastir]].  There are three classes of service, namely ''Grand confort'' (deluxe 1st), 1st and 2nd, and all are quite adequate.  Example fares from Tunis to Sousse are 12/10/6 dinars (6/5/3 Euros) in Grand/1st/2nd class. Although tickets are issued with wagon/seat numbers marked on it, that is largely ignored by locals. So if you are travelling with more people, try to get onboard quickly to find adjacent seats. 
+
+It is remarkable to see the 1st class cabins to be full at the start of the journey. The cabins will empty out once the ticket collector enters the wagon. Its interesting to see the locals arguing (sometimes in harsh tones) with the ticket collector who is adamant to push then out of the wagon. 
+
+The Tunsia railway network is divided to two separate networks - northern one which uses normal track gauge and southern one which uses narrow track gauge. These two systems meet in the [[Tunis#By_train|Tunis Railway Station]] which has some platforms with narrow track gauge and some with normal gauge. 
+
+A good thing to do is to buy a carte bleue (blue card). It costs 60 dinars for a week (Comfort Class, Sept 2014, worth the little extra. Prices quoted on SNCFT website are wrong.) and you can travel all around the country using the banlieue (short distance train) and grande ligne (long distance). For the long distance you will have to make a reservation and pay a small fee (1,50 dinars or so), although this reservation seems optional and controllers don't usually check it. These passes can also be bought to cover 15 or 21 days. There are rarely queues at the booking office and a little bit of French goes a long way. Trains go also to Tozeur and Gabes in the south where it is easy to access the Sahara and Ksour regions respectively. In some stations where the frequency of trains is small (e.g. Tozeur), the ticket booth will remain closed for most of the day and reopen around the time of the departure of the next train.
+
+A railway (Called TGM) also connects Tunis northward to [[Carthage]] and [[Marsa]]. Take this  railway system to Sidi Bou Said as well. One-way railway tickets will cost approximately 675 millimes (1 Dinar = 1,000 millimes).
+
+[[Image:Louage, a shared taxi in Tunisia.JPG|thumb|upright=1.3|Louages (shared taxis) are ubiquitous in Tunisia]]
+
+===By louage===
+Locals use ''louage'' or long-haul shared taxis where there is neither train nor bus. There are no timetables, but they wait in the louage station (which is generally near a train station if your destination is accessible by train) until 8 people turn up. They are nearly as cheap as the walk up train fares and operate with fixed prices so you won't get scalped. eg Douz to Gabes (120km) for 7 dinars. Be aware that while louages are very cheap, they can also be stifling hot during the summer months. This form of transport is used by Tunisian women as well as men. Louage departures are very frequent especially in the morning, a louage departs as soon as the seats are filled, although the frequency depends on to where you are going. 
+
+All louage cars are of white colour, with a side stripe showing the coverage area. Louages between major cities are recognizable by their red stripe, louages within region are recognizable by their blue stripe and louages serving rural areas are recognizable by their yellow strips (the rural louage can be yellow with blue stripes, or a van fully painted in brown colour). Louages sometimes only show their destinations in Arabic lettering, so in case you cannot read Arabic lettering, you may have to ask someone for help. Nearly everyone speaks French (except for some elderly people), but few people will speak English.
+
+Be warned though that drivers tend to rip-off tourists by charging double or triple of what they would charge locals. For example, Hammamet to Tunis louage can be quoted at 20Dinars for tourist when it should be no more then 10. So always be sure to agree on a fixed price before leaving.
+
+===By bus===
+Long distance bus (called ''car'')[http://www.sntri.com.tn/] is also a safe and economic way to travel between major cities such as Tunis, Nabeul, Hammamet, etc. You will generally find a station in each major city offering many departures per day (every 30 minutes between Tunis and Hammamet). Some of the buses locally called "cars confort" offers higher standards (TV, air conditioner) at cheap prices.
+
+==Talk==
+[[Arabic phrasebook|Arabic]] is the official language of Tunisia and one of the languages of commerce, the other being [[French phrasebook|French]] &mdash; a relic of Tunisia's former status as a French protectorate until 1956. The dialect of Arabic spoken in Tunisia is called Tunsi, similar to that in neighbouring Algeria and Morocco (North African Arabic), which is nearly incomprehensible to speakers of the Gulf dialect. Don't be surprised if you don't understand locals even if you are competent in classical Arabic. However, all Tunisians learn standard Arabic in school, so nearly anyone will be able to communicate in standard Arabic if needed. Almost all locals are bilingual in Arabic and French, with the exception of some elderly people (60+) who may only speak Arabic, particularly elderly women in more rural or poorer areas. French is the primary language of higher education, and is commonly used in administration, commerce, and the media. English is becoming more widespread, but still of limited use except around some tourist areas and expensive hotels. The Tunisian variety of Arabic contains a substantial number of French loanwords, so if you speak French but not Arabic you may be able to follow the general meaning of a conversation, although not any specifics.
+
+==See==
+[[Image:Byrsa hill, Carthage, Tunisia.JPG|thumb|upright=1.3|Byrsa Hills, some of the remains of Carthage]]
+
+===History and archaeology===
+Although Tunisia is best known today for its beach resort holidays, the country has an amazing heritage with some exceptional archaeological remains to be explored.
+
+Little remains of '''[[Carthage]]''', but what does is well presented and an absolute must see for every visitor to Tunisia. This great city of the Phoenician and Punic periods dates from the 6th century BC and was the base of a hugely powerful empire spanning the entire south Mediterranean. Its most famous general was Hannibal who crossed the Alps to battle the Romans. Hannibal suffered his first significant defeat at the Battle of Zama in 202 BC, and after over 50 years of being watched closely by Rome, Carthage was attacked in the 3rd Punic War and completely destroyed. The city was redeveloped by the Romans a century later, and Carthage became the capital of the Roman province of Africa. What we see today are the remains of that era.
+
+Both '''[[Monastir]]''' and '''[[Sousse]]''' are well known as beach resorts amongst sun-worshiping Europeans, but they are also towns with great historical heritage.  Monastir has a history back to the time of Hannibal, an especially notable museum and a wonderful ribat (fortified monastery). Sousse is a UNESCO World Heritage Site for its authentic medina and souk, which should not be missed.
+
+'''[[El Kef]]''' has a splendid Byzantine kasbah rising out of the old medina with both Byzantine and Ottoman architecture evident. At [[El Jem]] you will find exceptional remains of a Roman amphitheatre, yet another Tunisian UNESCO World Heritage Site.
+
+=== North of the desert ===
+In the northwest, [[Jugurtha's Table]] is a large mesa with a moon-like surface and deep crevasses and is normally accessed from the town of [[El Kef]].
+
+===The desert===
+Tunisia has some of the most accessible, beautiful Saharan desert scenery. George Lucas fans will recognise the village of [[Matmata]]. The troglodyte dwellings here were used as the set for the young Luke Skywalker's home of Tatooine. The central western desert towns of [[Tozeur]] (with the film set of [[Tozeur#Star_Wars|Mos Eisley]]) and [[Douz]] are surrounded by beautiful Saharan dune scenery. Since 2009 the oasis [[Ksar Ghilane]] is accessable by tarmac road.
+
+[[Image:Ribat, Monastir, Tunisia.JPG|thumb|right|350px|The Monastir at Ribat]]
+
+==Do==
+===Beaches===
+Beach resort holidays in Tunisia are extremely popular, especially with Europeans. The main resorts are on the east coast from [[La Goulette]] (close to [[Tunis]]) south to [[Monastir]]. The southern island of [[Djerba]] is an alternative. Many water sport activities are widely available or you can just relax, taking advantage of the almost relentless sunny climate.
+
+All of Tunisia can be proud of its beaches, you just have to know where to find the "undiscovered" ones. There is a beach not far from Sousse called Chott Meriam. The beach is clean with white sand and beautiful clean sea. The best beaches of Tunisia can be found in Djerba, Ghar El-Melh, Rafrafbeach, Sidi El Mekki, Sounine, Sousse and Zarzis. La Marsa in Tunis is very nice, too although often littered with rubbish
+
+===The desert===
+Treks into the desert are an increasingly popular part of a visit to Tunisia, and the towns of [[Douz]] and [[Tozeur]] are good starting points.  Close to [[Tozeur]] is the small town of [[Metlaoui]], and this is the starting point of the Red Lizard train. The train's beautifully-restored wagons date from 1904, and the luxurious train takes you into a truly stunning desert mountain landscape.
+
+===Mountains===
+There are two mountain areas close to Tunis. The distinct volcano shapes mountain with a military station on the summit is called Jebel Boukornine. It's 576 metres high and is the highest point in the Boukornine National Park. Currently you need permission from the police to enter the national park. This can be obtained at the police station in Ben Arous, but unfortunately often not granted to foreigners. The same applies to the other peak, Jebel Ressas (795m).
+
+Just an hour south of the capital Tunis is a small mountain area, near the town of Zaghouan. The highest peak, Jebel Zaghouan, rises up to 1295m. The mountain range is great for hiking and rock climbing and is open to the general public. A good source information in outdoor activities in this area, mostly hiking, is a blog site called [http://www.tunisiatrails.blogspot.com/ '''Tunisia Trails'''].
+
+===Old Médina, Tunis=== 
+Wonderful souk/grand bazaar.
+
+===Sidi Bou Said===
+Roman and Punic ruins & museum (the country is littered with them!). Sea views & traditional houses.
+
+=== Carthage, Tunis, ===
+Antonine Roman baths and many other ancient attractions.
+
+===La Mohammedia===
+The Zaghouan Roman aqueduct.
+
+===Oudhna===
+Roman town including small colosseum, underground baths, forum and capital. Worth every penny (about TND 7 entry fee) and the drive to get in. Allow at least half an hour or up to four hours if you want to explore.
+
+===Mount Zaghouan===
+Roman water temple at the source of the aqueduct, with amazing backdrop of rocky hills. Djebel Zaghouan National Park (flora, fauna, amazing views, bush walking). CAUTION: stay well away from the radio towers at the top (here and elsewhere) as they are military areas and you will be detained until the police come (two to three hours) and make a report.
+
+===Bizerte===
+Spanish fort, port and cafe aboard ship. To the south-west is Ichkeul Lake, nice landscapes and a national park.
+
+===Cape Angela/Ras Angela===
+About 30 minutes west of Bizerte is the Northern most tip of Africa. Lovely beach overlooked by a (military) lighthouse. A very special place to visit with a monument that is great for photos of this memorable location. Head NW from the outskirts of Bizerte. Stay on the sealed roads and follow the signs.
+
+===Ayn Darahim===
+Beautiful mountain village
+
+===Qurbus/Korbous===
+Scenic coastal town
+
+===Ghar el Kebir===
+Ocean views, beautiful water, grottos created by the Romans and others as they carved stone for the capital Tunis. 7 TND entry and a long drive, especially if the grottos are closed as they were in June 2014.
+
+===Al Huwariyah===
+Beautiful coastal town.
+
+=== Kerkouane/Kerkuane===
+Punic Town and its Necropolis
+
+===Kélibia===
+Fort de Kélibia - beautifully preserve, Restaurant El Mansourah, Kelibia, Nabeul
+
+===Enfidha===
+Commonwealth War Cemetery
+
+===Takrouna===
+Where it all ended for the axis forces in WWII. French military cemetery and amazing geology.
+
+===Douga===
+UNESCO listed Roman town. 
+
+===Sousse===
+Medina & Mosque, Ribat (UNESCO listed)
+
+===El Jem===
+Colosseum, almost as big and just as good as the one in Rome but without the tourists or restrictions. 
+
+===Kerkennah Island===
+Seafood, beaches, tranquillity but not much else.
+
+===Tatouine===
+Several famous Star Wars sites
+
+===Ksar Ouled Soltane ancient Berber village===
+Amazing collection of "troglodyte" mud houses. Geology of the area also fascinating. 
+
+===Sbeitla=== 
+Huge Roman town.
+
+===Al-Qayrawan (Kairouan)===
+Medina and the Grand Mosque.
+
+===Chabika and Tamaghza===
+Cross salt plains to amazing Atlas Mountains and Mides Canyon, site of some English Patient, Star Wars and Raiders of the Lost Ark sets.
+
+===Tozeur oasis===
+Amazing glimpse of Saharan life.
+
+===Douz===
+Palm oasis on the fringe of/door to Sahara!
+
+===Chenini Oasis===
+Sahara Desert - wow!
+===Métlaoui===
+Best southern city : Red Lezard / Selja Gorges / Gota's Childrens
+
+==Buy==
+[[File:TunisianCoins.jpg|thumb|upright=1.3|Tunisian coins with the exception of the 5 milleme coin. From the top left, left to right, the values are: 5, 1, .500, .100, .050, .020, and .010 dinar.]]
+
+The national currency is the ''Tunisian dinar'' ('''TND'''). 
+
+As of March 2017, USD1 = TND2.29
+
+As of March 2017, EUR1 = TND2.42
+
+When exchanging money in banks be sure to present your ID.
+Tunisian dinar is a closed currency, so be sure to change the remainder of your money back before leaving the country.
+
+Typical banknotes are in the values of TND5 (green), TND10 (blue or brown), TND20 (violet-red or red) and TND50 (green and purple). The dinar is divided into 1000 millemes, with typical coins being 5 dinars (silver with copper insert), 2 dinars (large, silver, and 13-sided), 1 dinar (large and silver in colour), 500 millemes (1/2 dinar: smaller silver colour), 200 millemes (brass and 13-sided), 100 and 50 millemes, (large brass), 20 and 10 millemes (smaller brass), and 5 millemes (small aluminum). It is prohibited to bring dinars in and out of Tunisia, so you have to change your money locally.
+
+Prices are typically marked in dinars and millemes, with a decimal point like: 5.600 or 24.000 or 0.360 sometimes with TND as a label like TND85.500 and sometimes with ''DT'' or ''TD'' after the amount. Markets typically sell items by the kilogram. So tomatoes may have a sign "480" on them which means 480 millemes per kilo. Good cheese will be marked something like 12.400 or about USD10 a kilo. Most self-serve supermarkets expect you to put your purchases in supplied plastic bags and then bring them to the nearby scales where a worker will weigh them and apply a price sticker.
+
+==Eat==
+Tunisian cuisine is very much in the Northern African Maghreb tradition, with ''couscous'' and ''marqa'' stews (similar to the Moroccan ''tajine'', however what Tunisians refer to as "tajines" are nothing like the Moroccan variety) forming the backbone of most meals.  Distinguishing characteristics are the fiery ''harissa'' chili sauce, the heavy use of tiny olives which are abundant in the country, and ''tajines'' in Tunisia (not to be confused with their Moroccan counterparts) refer to a type of omelette-like pie prepared with a ragout of meat and/or vegetables mixed with ingredients such as herbs, legumes and even offal, then enriched with eggs and cheese and finally baked in a deep pie dish until the eggs are just set, somewhat like an Italian frittata. Lamb forms the basis of most meat dishes. Local seafood is plentiful. Not all food is over spicy and there are many local specialities to try. 
+
+[[Image:Harissa, Tunisia.JPG|thumb|upright=1.3|A fiery plate of Harissa]]
+
+*''Shorba Frik'' - lamb soup
+*''Coucha'' - shoulder of lamb cooked with ''turmeric'' and ''cayenne'' pepper
+*''Khobz Tabouna'' - (pronounce ''Khobz Taboona'') traditional oven baked bread
+* ''Brik'' - very crispy thin pastry with a whole egg (Brik à l'oeuf), parsley and onions and perhaps, meat too e.g. minced lamb or tuna (Brik au thon). Very tasty as an inexpensive starter. Eat it very carefully with your fingers.
+* ''Berber Lamb'' - Lamb cooked with potatoes, carrots in a clay pot.
+* ''Merguez'' - small spicy sausages.
+* ''Salade Tunisienne'' - lettuce, green pepper, tomato, onions, olives, radishes all finely chopped mixed with tuna.
+* ''Tunisian cakes'' - specialities are made with dates or almonds, also Baklava. There is an almond orange cake often served for breakfast. 
+* ''Harissa'' - very hot spicy chili paste (sometimes made more mild with carrots or yogurt), served with bread as a starter at almost any meal.
+* ''Fricasse'' - small fried sandwich with tuna, harissa, olives and olive oil.
+* ''Bambaloony'' - fried sweet donut-like cake served with sugar.
+
+Regrettably, Tunisia has a very underdeveloped restaurant culture. There are the local restaurants inhabited by Tunisians serving very cheap food and the tourist restaurants. One can occasionally eat tasty couscous or "coucha" stew in some low-priced restaurants. One's best hope for good eating in Tunisia is to be invited as a guest in someone's home.
+
+==Drink==
+Being a progressive Muslim country, alcohol is available in certain licensed (and invariably more expensive) restaurants, resort areas and ''Magasin General'' shops. Large department stores (Carrefour at Marsa/Carthage) and some supermarkets (e.g. Monoprix) sell beer and wine, and some local and imported hard liquors, except during Muslim holidays (Tourists are able to buy alcohol from some shops like Carrefour Marsa only when showing a Foreign Passport). Bars and Clubs accept Women without any restrictions (Most of clubs ask for identity to check the age of girls some of them consider 21 years old as a legal age Ex: Gammarth , others will accept 18 )
+
+When self-catering, be sure to stock up on beer around Muslim holidays. Cafes and ''magasins générals'' may run out of beer and it can take a few days before they have enough. On friday Shops and supermarkets won't sell alcohol for Tunisians only Foreigners will be able to purchase.
+
+Recently the Tunisian legislation authorities has decreased the Taxes on Imported strong liquors to 50% as a method to fight parallel economy and smuggling , however 2018 can be the end of this policy 
+
+* ''Beer'' - Celtia is the popular local brand, but some places also carry imported pilsner beers. Locally brewed LowenBrau is decent, and Heineken is planning a Tunisian Brewery in 2007. Celtia "En Pression" (On Tap) is good.  Celestia is a non-alcoholic beer which is also popular.
+* ''Wine'' - Most places that serve alcohol will have Tunisian wine, which is quite good. Tunisian wine always was produced by French oenologists. Most of it was exported to France until the 1970s. Wine cooperatives were left and produce 80% of the wine which is served mostly to tourists. Since the privatisation of some parts of these cooperatives the international taste of wine entered the market in Tunisia. The small companies like Domaine Atlas, St. Augustin, Ceptunes etc. have successfully established the new generation of Tunisian wine. Importation of wine is extremely difficult because of very high taxes. Some high-end hotel restaurants can make French or Italian wines miraculously appear at a price.
+* ''Boukha'' - is a Tunisian brandy made from figs.
+* ''Coffee'' - served strong in small cups. Tunisian cappuccino is also served strong in small cups. "Cafe Creme" is available in many tourist areas and may even appear in an "American Cup".
+* ''Tea'' - is generally taken after meals.
+* ''Mint Tea'' - very sweet peppermint tea that is taken at any time of the day.
+* ''Legmi'' - is a traditional Tunisian hooch made from date juice .
+
+Some advices : 
+Keep in mind , Tunisia has a local culture and despite it's a progressive islamic country , drinking alcohol in public places is not preferable , still this won't get you into trouble neither with cops or locals . 
+Celtia 30 cl is the greatest beer compared to other local beers .However lately the Market has seen many new types of local beers : ex Bereber , and the reappearance of Stella with some new sub brands like Stella gold , green and black the latter is dark beer . The choice will be basically on the drinkers taste .
+Avoid local spirits and liquors .
+Avoid cheap wine Like Koudiat and Chateau de Morneg just keep in mind the more expensive the better ex : Jours et nuit , Muscat , désire , chardonnay .
+
+==Sleep==
+There are lots of fine hotels in Tunisia. 
+
+You can also rent a furnished apartment.  Some private people offer their own apartments for rent, especially in summer.
+
+It is advisable to organise your accommodations online or by phone prior to your arrival.
+
+Alternatively, many cities and towns in Tunisia have a central marketplace located in a medina (a walled-in quarter), where decent walk-up, budget accommodations can be found for around 40-50 dinars per night. Be aware that double beds are rare in Tunisia outside tourist hotels, and your room will likely contain two twin beds, even if you are travelling as a couple.
+
+==Learn==
+[[Image:Tunisian desert.jpg|thumb|upright=1.3|The Tunisian Desert]]
+
+The Bourguiba Institute of Modern Languages [http://www.iblv.rnu.tn/] offers intensive summer sessions in July and August for anyone interested in learning Modern Standard Arabic or Tunisian dialect. In the 2005 summer session, there were over 500 students of all ages from throughout the world. This included students from the USA, France, Belgium, Italy, Spain, Germany, Austria, Norway, Croatia, Turkey, Japan, China, etc.
+
+On the first day of class, there is a placement exam. The levels range from absolute beginner to advanced, with 15 to 25 students per class. Only Arabic is allowed in the classroom. Both used are a course book developed by Bourguiba Institute and also music videos in Arabic with the accompanying text.
+
+The courses are daily from 08:00-13:15. In the afternoon there are activities and tours of the medina and museums. They also offer optional weekend excursions to sites in Tunisia. At the end of the one-month course there is both a written and oral exam.
+
+Several students complained about the lack of cleanliness in the student dorms. Some students stayed in a hotel and then rented a beach-side apartment for the month. It's usually easier to negotiate rental prices once you are in Tunis. 
+
+Some students also expressed concern with the school's methodology, which appears to be antiquated and in need of great revision. If you have studied Arabic before, whether in your home country or in another school in the region, be prepared for a substandard continuation of your Arabic studies. 
+
+The school is in the city of Tunis. It's about a 20 minute metro ride to the beach. If you go to the summer school, be prepared for the hot temperatures.
+
+==Work==
+Work issues are quite sensitive in Tunisia as job offers are limited even for Tunisian nationals.
+
+An estimated 15% of the population is unemployed and many more survive on meager jobs. And as more and more of the new generation earn degrees predominantly in business, computer science, and engineering, those industries are getting saturated as well. For a foreigner, functional knowledge of Arabic and/or French will aid you well, and your likeliest bet for finding a job will be somewhere who has needs for your national language too. While pick-up restaurant and handyman jobs are common in other countries, these positions are much less likely to present themselves in Tunisia because of local competition. Safest is to arrange for a job before arrival. For a high level job, lots of experience and excellent skills are of course required. Low level jobs are mainly in the service sector as in much of the world.  Salaries in Tunisia are naturally lower than those in Western Europe or North America, due to the lower cost of living.
+
+Foreign investors are welcome to establish projects and the government is providing facilities related authorizations for such initiatives.
+
+==Stay Safe==
+Theft of belongings is common. Keep valuables in a secure place, do not flash too much cash, and keep wallets, purses and other desirable items where pick pockets cannot reach them. A good recommendation is only to carry enough cash for your immediate requirements and only one credit or bank card. Keep your belongings under your supervision.
+
+Be aware that the export of Tunisian currency is forbidden and searches of wallets and purses can, and do, occur at Tunis airport.
+
+When it's time to settle the bill in a Tunisian cafe/restaurant, get an itemized copy of a bill before handing over any money.
+
+Shopkeepers will be persistent in trying to convince you to look at what items they sell in their stores and booths. If you don't want to go in, be polite but firm and walk away.
+
+Conflict Zone Photographer Matt West has written about safety in Tunisia on his website [https://conflictzonetravel.com/travel-advice/country-specific-advice/ Tunisia Travel Advice]
+
+{{warningbox|Homosexuality is illegal and therefore discretion and caution are advised.}}
+
+==Stay healthy==
+* Pack your bug spray.
+*'''Sun''' Please remember that the sun is frequently your biggest enemy, we would recommend frequent application of a high factor (30 or better) sun screen. It is usually cheaper in your local super market than at the holiday destination.
+*Be careful what and where you eat and drink (remember the ice cubes too); diarrhoea is a common complaint from uncautious travellers. The tap water in the high-end Tunis-Carthage-Marsa area seems to be safe (2006).
+
+===Vaccinations===
+Always check with your doctor 4-8 weeks before travelling (The 4-8 weeks is important, as some vaccinations take weeks to become effective, and with Polio you can be contagious for a while too):
+
+*'''Yellow fever''' is required for all travellers arriving from a yellow-fever-infected area in Africa or the Americas.
+*'''Hepatitis A''' is usually recommended Two Havrix injections, given 6 months apart, provide 10 years of Hep A protection
+*'''Typhoid''' 
+*'''Polio'''
+*'''Hepatitis B''' - Highly recommended if likely to have intimate contact with locals or if visiting for more than 6 months.
+
+==Respect==
+In general, the people of Tunisia are very hospitable, especially with tourists. 
+
+Tunisia's recent political history is very divisive and many Tunisians approach politics emotionally. The figure of Bourguiba, secularist founding father of the Republic is very controversial, particularly in the southern areas of the country. For many, Bourguiba is perceived as the "Supreme Combatant", referring to his sociopolitical progressive reforms which took place in 1957. But some Tunisians have more nuanced views about him, particularly conservative Tunisians who believe that his reforms were hostile to Tunisia's cultural Islamic heritage and Islam overall, as well as numerous Leftist Tunisians who believe that his presidency was repressive. 
+
+It is very advised to not discuss the Palestinian-Israeli conflict as most Tunisians have very strong opinions about it. Tunisians, especially the adult population, are very attached to the conflict and usually very strongly side with the Palestinians. 
+
+Tunisians are predominantly Muslim, and dress code is important, particularly for females. Whilst a lot of skin (even topless) is tolerated on beaches, and within hotel complexes, even a modest amount of exposed skin may be frowned upon outside these areas, notably in more conservative, rural regions. 
+
+Be aware that the further south one travels, the more conservative Tunisia becomes.  While most women wear western clothes in the Capital (which has a mix of Mediterranean, European and Arabic cultures), the south of Tunisia is practically devoid of any lingering European influence and is thus far more traditional. In Urban and Northern regions of the country, people are comparatively more liberal and open-minded, and much more accepting of Western culture. 
+
+Drinking alcohol is possible in Tunisia, some restaurants, all hotels and discos have bars. Big supermarkets like Carrefour, Monoprix sell alcoholic drinks and beer. Celtia is the local popular brand for beer and there are local wine brands of very high quality. But never attempt to drink in the street where drunk individuals can be arrested. 
+
+===Ramadan===
+Most restaurants and coffee shops are usually closed during fasting hours in Ramadan. However, many restaurants are open but usually quietly or covertly to not trigger any negative reactions. It is possible to drink and eat in public during Ramadan as a tourist but it's preferred to not eat or drink publicly as a sign of respect. 
+
+In Tunis, on the Ave Habib Bourgiba, all of the cafes had their tables put away until after iftar (the breaking of the fast) at sunset, around 19:30. After that many people were out, and you could order food at some cafes, and coffee and desserts at others. Just before the iftar, Ave Habib Bourgiba is completely devoid of life and other-wordly. At smaller cafes, like 3 Etoiles on Rue Mustapha M'Barek, you can see families and men sitting around tables full of food, waiting for sunset.
+
+Be prepared for a somewhat unique experience if you choose visit Tunisia during ramadan. During the daylight hours, eat and drink (even water), very discretely. Buy bread and foccaccia from the street vendors in the evening for lunch the next day, or find one of the local shops that is still open to buy something to tide you over. Virtually no one drinks alcohol, and your best bet (at least in Tunis) might be the Hotel Africa.
+
+==Contact==
+
+===Telephone===
+Public telephones are available in all towns and cities and in most villages under either the name of ''Publitel'' or ''Taxiphone'' - in cities simply look around - there is at least one on every street. International calls tend to be quite cheap (TND0,500/minute to call anywhere in the EU).
+There are two mobile GSM operators, private Ooredoo [http://http://www.ooredoo.tn] and state-owned Tunisie Telecom[http://www.tunisietelecom.tn], both offering wide mobile coverage (including some oasis in the Sahara).  In May, 2010, a third operator, Orange started commercial service with GSM and 3G (UMTS/HSPA) networks. Coverage is not wide, but roaming with Tunisie Telecom available. 
+Rates tend to be quite low for domestic calls and international calls (around TND0,500/minute). Ask for a ''carte prépayée'' for a prepaid SIM card.
+
+===Internet===
+
+Public internet access is available in many cities and towns, usually using the ''Publinet'' logo. Since home internet access is quite expensive in Tunisia, many locals will use these, so they are very widespread, especially in the non-touristic areas of cities. Look for a large purple sign with the Publinet logo. Access is usually TND0.8D/hour, and speeds tend to be quite good (up to 20Mbps). Note that Fiber Optic line is available in Tunisia.
+In major hotels Wi-Fi service is available.
+Internet cafés are common and cheap. 
+Most places offer free Wi-Fi to their customers.
+
+===Post===
+La Poste Tunisienne [http://www.poste.tn]is quite efficient and fast. Post restante is offered in certain (bigger) offices. A stamp for international letters costs TND0.600.
+
+Rapide Post is the Poste's service for sending mail and packages quickly. Once a Rapide Post package enters the US it is handled by FedEx.  It is the best and most secure way to send things in Tunisia. 
+
+{{outline}}
+{{isPartOf|North_Africa}}
+{{countryguide}}
+
+[[WikiPedia:Tunisia]]
+[[Dmoz:Africa/Tunisia/]]
+[[World66:africa/tunisia]]
+
+[[ar:تونس]]
+[[ca:Tunísia]]
+[[de:Tunesien]]
+[[eo:Tunizio]]
+[[es:Túnez]]
+[[fi:Tunisia]]
+[[fr:Tunisie]]
+[[hu:Tunézia]]
+[[it:Tunisia]]
+[[ja:チュニジア]]
+[[nl:Tunesië]]
+[[pl:Tunezja]]
+[[pt:Tunísia]]
+[[ru:Тунис]]
+[[sv:Tunisien]]
+[[zh:突尼西亚]]
+[[wts:Category:Tunisia]]

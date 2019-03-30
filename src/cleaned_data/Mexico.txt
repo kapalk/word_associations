@@ -1,0 +1,817 @@
+{{pagebanner|Mexico banner.jpg}}
+
+{{otheruses}}
+{{quickbar
+| location = Mexico in its region.svg
+| flag=Flag of Mexico.svg
+| capital=[[Mexico City]] (Distrito Federal)
+| government=federal presidential constitutional republic
+| currency=Mexican peso (MXN)
+| area=1,964,375km²<br />''water: 20 430km²<br />land: 1,943,945km²''
+| population=118,395,054(2013 estimate)
+| language=Spanish is the most commonly spoken language<br><small>various Mayan, Nahuatl, and other regional indigenous languages</small>
+| religion=Roman Catholic 89%, Protestant 6%, other 5% 
+| callingcode=+52
+| tld=.mx
+| electricity=127V, 60Hz (US type A plug)
+| timezone=UTC &minus;6 to UTC &minus;8
+}}
+[http://www.visitmexico.com/en/ '''Mexico'''] (Spanish: ''México''), is a fascinating country in [[North America]], lying between the [[United States of America]] to the north, and [[Guatemala]] and [[Belize]] to the southeast. 
+
+Its extensive coastlines of more than 10,000km include the Gulf of Mexico and the Caribbean Sea to the east and the Pacific Ocean to the west. Mexico has pleasant and warm weather, unique food, art and archaeology, pyramids, museums, haciendas, superb architecture and 21st century cities, weather from snow mountains in the Sierras, to rainy jungles in the Southeast and desert in the Northwest, numerous golf courses, excellent fishing, and world-class destinations like Acapulco, Cancun, Cozumel, Los Cabos, and Mazatlan. Mexico is ranked as the 7th major destination for foreign visitors, according to the World Trade Organization.
+
+==Understand== 
+[[Image:Chichen.itza.10_brightened.jpg|thumb|240px|Chichen Itza]]
+:''"Wisdom lies neither in fixity nor in charge, but in the dialect between the two."'' <small>&mdash; Octavio Paz</small>
+
+Mexico is officially called the '''United Mexican States''' (Spanish: ''Estados Unidos Mexicanos'').
+ 
+Mexico is one of the most popular tourist countries on the planet. Much of the tourist industry revolves around the beach resorts as well as the ''altiplano'' in the central part of the country. Visiting the northern interior allows visitors to get off the beaten path a bit. American tourists tend to predominate on the [[Baja]] peninsula and the more modern beach resorts ([[Cancún]] and [[Puerto Vallarta]]), while European tourists congregate around the smaller resort areas in the south like [[Playa del Carmen]] and colonial towns like [[San Cristobal de las Casas]] and [[Guanajuato]]. 
+
+===Climate===
+Mexico uses the [[metric and Imperial equivalents|metric system]] for all measurements. All weather forecasts are in Celsius (°C).
+
+The climate varies dramatically across Mexico's vast landscape. In the northernmost area of the Baja Peninsula, on the Pacific coast, the climate is Mediterranean, whereas the climate is arid on the other side of the peninsula, facing the Sea of Cortez. As you go south on the Baja Peninsula, the climate changes to become a subtropical sub-arid/semi-arid climate, until you reach La Paz and Cabo, which has a unique tropical desert climate. On the mainland, the northern area of Mexico tends to be mountainous and chilly, and the lower areas have an arid climate. A tropical climate prevails from around the Tampico area down to Cancun, as well as the adjacent side on the Pacific.
+
+===Landscape===
+High and low, rugged mountains; low coastal plains; high plateaus; temperate plains with grasslands and Mezquite trees in the northeast, desert and even more rugged mountains in the northwest, tropical rainforests in the south and southeast {Chiapas, Campeche, Yucatán y Quintana Roo} semiarid in places like {Aguascalientes, San Luis Potosí} and temperate coniferous and deciduous forests in the central part of the country {Mexico City, Toluca}.
+
+===Holidays===
+* 1 Jan 
+* 6 Jan: The Three Wise Men day, celebrating arrival of the Three Wise Men to see and bring gifts to baby Jesus. 
+* 2 Feb: The Candelaria Virgin Day, celebrated in many places around the country (not an official holiday)
+* 5 Feb: Constitution Day(1917)
+* 24 Feb: Flag Day (not official)
+* First Sunday in March: Family´s day
+* 21 Mar: Birth of Benito Juárez (1806). 2006 was the bicentennial year. 
+* 1 May: Workers' Day commemorates the Mexican workers' union movements.
+* 5 May: The Battle of Puebla against the French army, 19th century. 
+* 10 May: Mothers' day 
+* 1 September: ''Dia del Informe''. Although no longer official, it is still important as it is the day in which the Mexican President addresses to the Nation of the progress his administration on a yearly basis. Every President makes six ''Informes'' 
+*15 September: ''Grito de Dolores''
+*16 September: Independence day (celebrates the start of the fight for the independence from Spain in 1810, achieved 27 Sep 1821).
+*12 October: Discovery of America (''Descubrimiento de America'')(not an official holiday)
+*2 November: Day of the dead 
+*20 November: Revolution day (1910)
+*12 December: Virgin Mary of Guadalupe Day. Technically not official, but is one of the most important Mexican Holidays
+*24 December: Christmas Eve (Not an official holiday, but normally a full non-working day or only half day)
+*25 December: Christmas
+*31 December: New Year’s Eve (Not an official holiday, but normally a full non-working day or only half day)
+
+Easter is widely observed nationwide, according to the yearly Catholic calendar (the first Sunday after the first full moon in Spring). Actual non-working days may shift to the Monday before the holiday, so check an up-to-date calendar.
+
+===Time===
+* Mexico uses the 24-hour clock system for time keeping.
+Mexico observes daylight savings time (DST) the same way as the US prior to 2007, from the first Sunday in April to last Sunday in October. This now includes the tropical regions of southern Mexico as well. There will be several weeks each year when the US is on DST, but Mexico is not.
+
+There are a few exceptions to this rule. The state of [[Sonora (Mexico)|Sonora]] south of [[Arizona]] does not observe DST, since Arizona doesn't have it either. [[Baja California]] is the only Mexican state that followed the US in 2007 and now observes DST from the second Sunday in March to the first Sunday in November. [[Baja California Sur]], however, continues to follow the old rules like the rest of Mexico observing DST. This means that BC and BCS are on the same time for three weeks of the year, despite being in different time zones.
+
+==Regions==
+{{Regionlist
+| regionmap=Mexico regions map.png
+| regionmaptext=Mexico regions
+| regionmapsize=400px
+
+| region1name=[[Baja California]]
+| region1color=#65b99f
+| region1items=[[Baja California (state)|Baja California]], [[Baja California Sur]]
+| region1description=The western peninsula, which borders the U.S. state of [[California]]
+
+| region2name=[[Northern Mexico]]
+| region2color=#b9ad60
+| region2items=[[Chihuahua (state)|Chihuahua]], [[Coahuila]], [[Durango (state)|Durango]], [[Nuevo León]], [[Sinaloa]], [[Sonora (Mexico)|Sonora]], [[Tamaulipas]]
+| region2description=Includes the expansive deserts and mountains of the border states; mostly ignored by tourists, this is "Unknown Mexico"
+
+| region3name=[[Bajio|The Bajio]]
+| region3color=#a463ad
+| region3items=[[Aguascalientes (state)|Aguascalientes]], [[Guanajuato (state)|Guanajuato]], [[Zacatecas (state)|Zacatecas]], [[San Luis Potosi (state)|San Luis Potosi]], [[Querétaro (state)|Querétaro]]
+| region3description=Historic states in a traditional silver-mining region
+
+| region4name=[[Central Mexico]]
+| region4color=#a95858
+| region4items=[[Hidalgo]], [[Mexico City]], [[Mexico State]], [[Morelos]], [[Puebla (state)|Puebla]], [[Tlaxcala (state)|Tlaxcala]], [[Veracruz (state)|Veracruz]]
+| region4description=Center, surrounding the capital city
+
+| region5name=[[Pacific Coast (Mexico)|Pacific Coast]]
+| region5color=#73abab
+| region5items=[[Chiapas]], [[Colima (state)|Colima]], [[Guerrero]], [[Jalisco]], [[Michoacan]], [[Nayarit]], [[Oaxaca (state)|Oaxaca]]
+| region5description=Tropical beaches on Mexico's southern coast
+
+| region6name=[[Yucatan Peninsula]]
+| region6color=#67a864
+| region6items=[[Campeche (state)|Campeche]], [[Quintana Roo]], [[Tabasco]], [[Yucatán]]
+| region6description=Jungle and impressive Mayan archaeological sites, along with the Caribbean coast}}
+
+==Cities==
+<includeonly>THIS LIST SHOULD ONLY INCLUDE 9 CITIES - DO NOT ADD OR REPLACE CITIES WITHOUT FIRST USING DISCUSSION</includeonly>
+* [[Mexico City]] - capital of the Republic, one of the three largest cities in the world, and a sophisticated urban hub with a 700-year history. In Mexico City, you will find everything from parks, Aztec ruins, colonial architecture, museums, to nightlife and shopping 
+*[[Acapulco]] - a sophisticated urban beach setting known for its top-notch nightlife, elegant dining, and nightmarish traffic
+*[[Cancun]] - one of the worlds most popular and famous beaches, known for its clear Caribbean waters, its lively party atmosphere, and its wealth of recreational facilities
+*[[Guadalajara]] - traditional city, capital of [[Jalisco]] state, and the home of mariachi music and tequila and blessed with perpetual spring weather and a graceful and sophisticated colonial downtown
+* [[Mazatlan]] - lively Pacific  beach resort, transport hub and popular Spring Break destination with the oldest Carnival in Mexico and one of the largest in the world
+<includeonly>
+
+I know it's a bugger, but THIS LIST SHOULD ONLY INCLUDE 9 CITIES - please DO NOT ADD OR REPLACE CITIES WITHOUT FIRST USING this article's DISCUSSION page or the Pub. Until and unless that discussion takes place, MERIDA (or any more cities) should not be listed in this section!
+* [[Merida]] - the cultural and economic capital of the Yucatan. A beautiful colonial city that mixes it's Mayan past and a cosmopolitan feeling.
+
+</includeonly> 
+* [[Monterrey]] - large modern city that's the commercial and industrial hub of Northern Mexico and enjoying a dry, mountainous setting
+* [[San Luis Potosi]] - central Mexico, colonial city that was once an important silver produce
+* [[Taxco]] - nice steep mountain town now has a strong place in the trade of decorative silver, from cheap fittings to the most elegant jewellery and elaborate castings
+* [[Tijuana]] - Mexico's busiest border crossing for pedestrians and private vehicles, and a long-time bargain Mecca for southern Californians due to its proximity with [[San Diego]]
+* [[Puebla]]
+*Ciudad Juarez
+
+==Other destinations==
+<!--This section is to include only destinations that are NOT cities/towns.-->
+* '''[[Copper Canyon]]''' (Barrancas del Cobre) - An exotic destination for travelers looking for a unique remote adventure! An awesome mountain rail ride --- one of the greatest in the world --- takes you upwards over 2438 metres on the CHEPE, the Chihuahua al Pacifico Railway. Hiking, horseback riding, birding, and Tarahumara Indians. Copper Canyon, the Sierra Madre and the Chihuahuan desert of Mexico. This area is designed for adventurous individuals who will tolerate some rough travel to get to their point(s) of interest (although the famous train ride isn't demanding at all). Copper Canyon, a magnificent remote wilderness is not likely ever to become a mass market destination.  
+
+''NOTE'': If taking the CHEPE train ride starting in [[Los Mochis]], the real scenery starts at El Fuerte. Stand on the western side and travel uphill to Creel or Chihuahua. Hang out in the few open vestibules with your camera -- the uphill scenery is fairly splendid for at least two of the seven or nine or twelve hours of the journey.  On the downhill run, put yourself in the club (bar) car, where you can stretch out in a modicum of comfort.  The first-class (express) and second-class (tourist) trains are essentially the same, except that the express stops less and is twice as expensive.
+
+* '''Sea of Cortez''' - See whale birthings, swim with dolphins, and sea kayak in the warm waters of the Sea of Cortez, along the eastern coast of Baja California, near La Paz.  And the sunsets at [[Puerto Peñasco]] and [[San Carlos]] are not to be missed.
+
+* '''Monarch Butterfly Breeding Sites''' - Protected natural areas in the highlands of the state of Michoacán. Millions of butterflies come to the area between November and March of each year, although numbers have declined sharply recently. See them before they're all gone. Enjoy the natural biodiveristy at the Agua Blanca Canyon Resort.
+
+* '''[[Cañón del Sumidero|Sumidero Canyon]]''' - From docks on the Rio Grivalva (the only major river within Mexico) near [[Tuxtla Gutiérrez]] in Chiapas state, tour launches take you into this steep-walled National Park. You'll likely see vast flocks of flamingos, pelicans, and other waterfowl, as well as crocodiles.
+
+===Archaeological Sites===
+* '''[[Chichen Itza]]''' - Majestic Mayan city, declared a UNESCO World Heritage Site in 1988 and recently voted as one of the New Seven Wonders of the World.
+
+* '''[[Coba]]''' - Majestic Mayan city,  located around two lagoons. 
+
+*'''[[Templo Mayor]]''' - ruins of the pre-Hispanic Aztec pyramids of Tenochtitlan, located in the center of Mexico City.
+
+* '''[[Ek Balam]]''' - Recently reconstructed Mayan site, famous for its unique decorated stucco and stone carved temples.
+
+* '''[[El Tajín]]''' - In the state of Veracruz near the town of Papantla. A UNESCO World Heritage Site.
+
+* '''[[Guanajuato]]''' - In the state of Guanajuato, two sites making part of the "Tradición él Bajío": Plazuelas and Peralta.
+
+* '''[[Monte Albán]]''' - In the state of Oaxaca, a Zapotec site dating from about 500BC. A UNESCO World Heritage Site.
+
+* '''[[Palenque]]''' - Mayan city in the state of Chiapas, Palenque famous for its elaborate paintings. Also well known for having the largest tract of rainforest in Mexico located in the same area. 
+
+* '''[[Teotihuacan]]''' - In the state of Mexico, near Mexico City. Enormous site with several large pyramids.
+
+* '''[[Tulum]]''' - Mayan coastal city with spectacular Caribbean vistas. Dates from late Mayan period.
+
+* '''[[Uxmal]]''' - Impressive Mayan city-state in the Puc Region, declared a UNESCO World Heritage Site in 1996.
+
+==Get in== 
+
+===Visas===
+
+====Visa-free====
+According to the [http://www.sre.gob.mx/en/ Mexican Ministry of Foreign Affairs (''Secretaria de Relaciones Exteriores'')], certain foreign nationals who intend to stay in Mexico for fewer than 180 days for the purpose of tourism or business, or 30 days if in transit, may enter Mexico visa-free. This service is available to citizens of all [[European Union]] nations, plus [[Andorra]], [[Argentina]], [[Australia]], the [[Bahamas]], [[Barbados]], [[Belize]], [[Brazil]], [[Canada]], [[Chile]], [[Colombia]], [[Costa Rica]], [[Hong Kong]], [[Iceland]], [[Israel]], [[Jamaica]], [[Japan]], [[Liechtenstein]], [[Macau]], the [[Marshall Islands]], [[Malaysia]], [[Federated States of Micronesia|Micronesia]], [[Monaco]], [[New Zealand]], [[Norway]], [[Palau]], [[Panama]], [[Paraguay]], [[Peru]], [[San Marino]], [[Singapore]], [[South Korea]], [[Switzerland]], [[Trinidad and Tobago]], the [[United States]], [[Uruguay]], [[Rome/Vatican|Vatican City]] and [[Venezuela]].
+
+Other visa exempt persons include:
+* Citizens of any country who hold a valid visa for, or who are permanent residents of, Canada, Japan, the United Kingdom, the United States or the Schengen Area.
+* Citizens of any country who are permanent residents of Chile, Columbia or Peru.
+* Residents of French overseas departments and territories, Danish territories, and Dutch Caribbean territories.
+
+Note that for British nationals, only holders of British Citizen, British National (Overseas) and British Subject passports are eligible for visa-free entry.
+
+See the [http://www.inm.gob.mx/index.php/page/Paises_No_Visa/en.html official list] for who may enter visa-free.
+ 
+====Visas required====
+An [http://www.inm.gob.mx/index.php/page/Inicio_Autorizacion_Electronica/en.html '''Electronic authorization visa (''Autorización Electrónica'')'''] for travelling to Mexico is available on the Internet for nationals from [[Russia]], [[Turkey]] and [[Ukraine]], provided that they travel to Mexico by air. Authorisation is valid for 30 days and a single entry. Upon arrival, visitors are authorised to stay in Mexico as tourists for up to 180 days.
+
+Other nationalities must contact a Mexican consulate in order to find out the requirements for citizens of their country, and may have to apply for and obtain a visa in advance of travel. If you are in need of other information, Mexico has diplomatic offices in [http://portal3.sre.gob.mx/english/index.php?option=com_content&task=view&id=48&Itemid=11 many cities around the world]. The consulates in the USA are typically open for business to non-citizens (by telephone or in-person) only 08:30-12:30.
+
+====Entry formalities====
+Visitors to Mexico are processed at all land and air entry points by officials of the ''Instituto Nacional de Migración'' (National Institute of Migration), a unit of the ''Secretaría de Gobernación'' (Secretariat of the Interior). These are the names you will see prominently displayed at those entry points. 
+
+All visitors to Mexico, with the exception of those arriving by land and staying within 20 kilometres of the border for less than 72 hours, are legally required to obtain a tourist card. The current Mexican tourist card is formally known as a ''Forma Migratoria Múltiple'' (Multiple Immigration Form), or FMM. The current FMM design as of 2014 is a tall rectangular card. If you are flying into the country, the FMM fee is normally included as part of the ticket price and the FMM forms will be distributed in-flight. Alternatively, as of 2016, the FMM can be obtained [https://www.inm.gob.mx/fmme/publico/en/solicitud.html online] for MXN390.
+
+The FMM form has a perforation that divides the card into two parts; the lower part asks for some of the same information requested on the top part. At entry, after reviewing your passport and filled-out FMM, the INM officer will run the machine-readable part of your passport's information page followed by the bar code on the FMM form through a scanner on his computer, stamp your passport and the FMM, separate the FMM along the perforation and give the bottom portion of the FMM back to you with your passport.  
+
+'''Keep the FMM together with your passport at all times.''' Under Mexican law, it is ''your'' responsibility to ensure the bottom portion of the FMM is returned to the Mexican government at time of departure so that the bar code can be scanned, thus showing that you left the country on time. For example, if you are flying with Aeromexico, they may ask for your passport and FMM at check-in for your flight home, then staple your FMM to your boarding pass. You are expected to then hand the boarding pass together with your FMM to the gate agent as you board your flight. If you lose your FMM during your visit to Mexico, you may be subject to substantial delays and a MXN500 fine before you can leave the country. 
+
+If you cross the border via road, do not expect the authorities to automatically signal you to fill out your paperwork. If you have not obtained your FMM [https://www.inm.gob.mx/fmme/publico/en/solicitud.html online], you will have to find the closest INM office and go through the appropriate procedures on your own to pay the appropriate fee and obtain a valid FMM before proceeding beyond the border zone (roughly 20 kilometres past the land border with certain exceptions). Unfortunately, because the Mexican government does not trust its own officials to handle money, INM offices at land ports of entry ''cannot'' directly accept payment of the FMM fee. Rather, you have to first obtain a form from the INM office, go to a nearby bank to pay the FMM fee (some Mexican banks have constructed branches within walking distance of INM offices for this purpose), obtain proof of payment, and then return to the INM office to obtain your FMM.
+
+In addition, as noted above, if you are driving your own vehicle, you will have to obtain an temporary importation permit before you can drive it beyond the border zone.
+
+The INM officer at your point of entry into Mexico can also request that you demonstrate that you have sufficient economic solvency and (if you are entering by air) a round-trip ticket.
+
+If you do not intend to travel past the border zone, and your stay will not exceed three days, US and Canadian nationals need only present proof of citizenship and need not obtain a FMM at the border. Re-entry into the United States generally requires a passport, but US or Canadian Enhanced Drivers Licenses (or Enhanced Photo ID) or US passport cards are acceptable for re-entry by land or sea.
+
+====Customs====
+In addition to immigration, you will also have to pass through Mexican customs, especially if entering by air. In Mexico, ''Aduana'' (Customs) is part of the ''Servicio de Administración Tributaria'' (Tax Administration Service), which in turn is part of the ''Secretaría de Hacienda y Crédito Público'' (Secretariat of Finance and Public Credit).
+
+At Mexican airports, passing through customs means having to fill out a customs declaration form (which is not necessarily provided in-flight), presenting it to the customs officer, and then pushing a red button that will either show a green light or a red light randomly. 
+
+A green light will mean you can pass through with your bags without inspection. A red light will mean you are going to have to open your bags to a customs officer for inspection.
+
+===By plane===
+
+====From the United States or Canada ====
+There are hundreds of daily flights linking Mexico to cities large and small throughout the United States.  
+
+For Canadian residents both Air Canada, West Jet, and many charter airlines such as Air Transat and Sunwing offer nonstop flights from most of Canada to many popular vacation destinations in Mexico such as Cancun, Puerto Vallarta, and San José del Cabo. In addition Aeromexico and Air Canada also offer nonstop flights to Mexico City from Toronto, Montreal, Calgary, and Vancouver.
+
+As with the United States, you will have to clear ''both'' immigration and customs at your first point of entry in Mexico, even though that airport may not be your final destination.  (For example, many trips on Aeromexico will involve connecting through its Mexico City hub.)  You will then have to re-check your bags and possibly go through security again to proceed to your next flight segment.
+
+====From Australia or New Zealand====
+Fly from either Sydney, Brisbane, Melbourne or Auckland(NZ) direct to Los Angeles. Delta, Qantas, United, and V Australia offer non-stop air service from Australia to Los Angeles.  Air New Zealand offers one-stop air service from Australia and non-stop air service from Auckland to Los Angeles.  Hawaiian Airlines and Air Tahiti Nui offer one- or two-stop air service to Los Angeles from Australia and New Zealand.  
+
+Many airlines fly from Los Angeles to Mexico including AeroMexico, Alaska, Volaris, Horizon, Aerolitoral, and United. More options are available if connecting through another U.S. city.  Also, make sure to have a good look at visas beforehand.  Even just for transit, you will need an ESTA (Electronic System for Travel Authorization) or transit visa for for the USA, and if you get a visa waiver, they treat Mexico as part of the USA, meaning if you stay longer than 90 days in Mexico, you will need to travel further south before returning to the USA.
+
+====From Europe====
+Many commercial airlines link Mexico directly to Europe. It is always worthwhile to compare flight offers from air carriers who can bring you to Mexico City or Cancun via many European hubs, like London, Frankfurt, Munich, Paris, Amsterdam, Madrid, and Rome; the flight duration from those cities is always approximately 11 hours (plus your connecting flight from home if you are not originating at one of those hubs.)
+
+====From Asia====
+Aeromexico and All Nippon Airways both have nonstop flights from Tokyo-Narita to Mexico City, and Aeromexico also offers flights from Seoul-Incheon and Shanghai-Pudong to Mexico City. However it is usually cheaper to fly from Asia to the US first and then catch a connecting flight into Mexico, though transiting through the US is generally not recommended (See [[Avoiding a transit of the United States]]).
+
+===By train===
+There is at least one place where Mexico is accessible via rail and a short walk - south of [[San Diego]]. The San Diego Trolley can be taken from downtown San Diego (which Amtrak serves) to the California-Baja California border. 
+
+[[El Paso]]/[[Juarez]] is also well served by Amtrak, the station is within a stones throw of the Rio Grande.
+
+Like almost all countries in the Americas, Mexico phased out intercity passenger rail in the mid-20th century and has not brought it back since. Thus, unlike the US-Canada border where you can ride a train from Seattle to Vancouver or New York to Montreal, there are no options for taking an Amtrak train across the border into any Mexican cities.
+
+===By car===
+American automobile insurance is not accepted in Mexico; however it is easy to obtain short-term or long-term tourist policies that include the mandatory liability coverage, together with theft and accident cover for your vehicle and, often, legal assistance cover.  Should you decide to drive to Mexico, the [http://dgp.sct.gob.mx/index.php?id=440 Transport and Communications Secretariat website] has free downloadable road maps. 
+
+Foreign-plated vehicles must obtain the necessary permits before being allowed into the interior of Mexico. This can be done at the border checkpoints by showing your vehicle title or registration, as well as immigration documents and a valid credit card. It is now possible to apply for your vehicle import permit [https://www.banjercito.com.mx/registroVehiculos/ on-line] and can be obtained at some Mexican consulates within the US. Vehicle permits will only be issued to the registered owner of the vehicle, so the papers will have to be in the name of the applicant. Once you complete the form, you can choose to have your vehicle permit mailed to you so you can have it before you get to the border or, you can simply print the form and present it to the Banjército official when you get to the border. The Baja California peninsula and the northern part of the State of Sonora do not require a permit. 
+
+It is also necessary to obtain Mexican auto insurance in order to drive in Mexico, as US and Canadian auto insurance policies are not accepted in Mexico, and any minor accident could land you in jail without it.
+Due to the incredibly high volume of drugs and illegal immigration (into the US) and drug money and weapons (into Mexico) crossing the US-Mexico border, expect long delays and thorough searches of vehicles when crossing the border. At some of the busiest crossings, expect a delay of one to four hours.
+
+===By bus===
+The Mexican intercity bus system is reportedly the most efficient in the world. There are many different independent companies but all use a central computerized ticketing system. Rates per kilometre are generally comparable to those of Greyhound in the US, but there are more departures and the system serves much smaller villages than its American counterpart. There are many bus companies based in Mexico with branch offices in major US cities and/or provide cross border transport with a few such examples noted below:
+
+*[http://omnibusmexicanos.com.mx/english/ '''Omnibus Mexicanos''']
+*[http://www.elexpreso.net/ '''El Expresso''']
+* [http://www.eplalimo.com/  '''El Paso-Los Angeles Limousine Express'''] operates buses along I-10 between Los Angeles and El Paso and anywhere in between in the American Southwest. They offer onward travel from El Paso to Chihuahua on [http://www.eplalimo.com/index_files/Page1591.htm  Los Limousines]
+*[http://ticket.gruposenda.com/ '''Turimex Internacional''']
+*[http://www.tufesa.com.mx/home.html '''TUFESA Bus Lines''']
+*[http://www.greyhound.com '''Greyhound Lines, Autobus Americanos and Cruceros'''] operates the Autobus Americanos (U.S. side) and the Crueceros USA brands. 
+*[http://www.estrellablanca.com.mx '''Grupo Estrella Blanca'''] operates the Elite, Chihuahuanese, Pacifico, Futura, Transportes Nort de Sonora (TNS), Transportes Frontera, Oriente, Autobus Americanos (Mexican side) and, of course, 'Estrella de Blanca' brands. 
+
+Greyhound offers tickets from the US to major Mexican cities, including Monterrey, Queretaro, Durango, Mazatlan, Torreon, Mexico City with onwards travel with Grupo Estrella Blanca south of the border and vice verse from Mexico north. It is best (and cheapest) to buy a round-trip Greyhound ticket since it may be more difficult and expensive to buy a ticket from Mexico to a US destination which is not a major city. When departing from Mexico, the local bus line (usually Futura) will change the Greyhound-issued ticket into its own, free of charge.
+
+There are other bus companies offering transborder service from Guatemala to Tapachula or Comitan in Chiapas state and from Belize to [[Chetumal]]
+* [http://www.ado.com.mx  '''ADO/OCC'''] operates once daily buses from Merida and Cancun, via Chetumal to Belize City. Nearest to the U.S. border is in Matamoros where passenger transfer to Greyhound Lines for the onward trip north.  
+* [http://lineadorada.com.gt/  '''Linea Dorada'''] goes across from Guatemala City to the Guatemala side of La Mesilla/Ciudad Cuauhtemoc in La Mesilla and once daily to/from Tapachula.  From the Mexican side there are taxis or combis (shared ride vans) down to the Mexican immigration station in Ciudad Cuauhtemoc.  
+* [http://www.ticabus.com  '''Tica Bus'''] runs the length of the Central American isthmus from Panama City to [[Tapachula]] stopping at every Central American capital city and select towns or cities along the way except Belize.  
+* [http://www.transgalgosinter.com.gt/  '''Trans Galgos Inter'''] goes from Guatemala City to [[Tapachula#By_bus|Tapchula]] via Rethaluleau and El Carmen/Talisman crossing.
+
+===By boat===
+* Border crossing from [[Guatemala]].
+* Cruise ships from United States.
+
+==Get around==
+Travelling in Mexico is most practical by bus, car, or air. Passenger transport by train is almost non existent. 
+
+===By car===
+
+The legal driving age in Mexico is '''16''' with parental supervision and '''18''' without supervision.
+
+Due to a government scheme in the early 1990s to create infrastructure, the best roads are toll roads. Toll roads can be relatively costly (MXN400-800 is common on longer trips) but are much faster and better maintained. First-class buses generally travel by toll roads (and the toll is obviously included in the ticket price).
+
+In Major destinations such as Cancun, Puerto Vallarta or Los Cabos, there are some companies such as '''Olympus tours''' [http://www.olympus-tours.com] offering private and shared transportation from airports and to the principal attractions. 
+
+US vehicle insurance is not valid in Mexico, and while Mexican auto insurance is not required, it is ''highly recommended'', as any minor accident could land you in jail without it. [http://www.mexicanautoinsurance.com/ Lewis and Lewis], [http://sanbornsinsurance.com/ Sanborns Insurance], [https://www.mexicaninsurance.com/Default1.aspx Oscar Padilla], and AAA offer Mexican auto insurance. 
+
+When travelling on Mexican roads, especially near the borders with the United States and Guatemala, you'll probably encounter several checkpoints operated by the Mexican Army searching for illegal weapons and drugs. If you're coming from the United States, you may not be used to this, and it can be intimidating. However, these are rarely a problem for honest people. Simply do what the soldiers tell you to do, and treat them with respect. The best way to show respect when entering a checkpoint is to turn your music down, lift sunglasses from your face, and be prepared to roll your window down. They should treat you with respect as well, and they usually do. If you are asked to unpack any part of your vehicle, do so without complaint. It's their right to make you completely unload in order for them to inspect your cargo.
+
+Tourists are often warned about travelling on roads at night. Although ''bandidos'' are rare in more metropolitan areas, err on the side of caution in more rural areas. The best bet is to drive during only daylight hours. Cattle, dogs, and other animals also can appear on the roadway unexpectedly, so if you do have to drive at night, be very cautious. If possible, follow a bus or truck that seems to be driving safely.
+
+Car Rental Companies in Mexico are everywhere in the big cities and airports making it easy to get a rental car while travelling through Mexico. Some of the biggest car rental companies in Mexico are [http://www.sixt.com/car-rental/mexico Sixt rent a car], Avis, Hertz, and several other big brand car rental companies. 
+
+The Secretariat of Communication and Transport recently set up a new mapping tool similar to those in the US like Mapquest, its name is [http://www.sectur.gob.mx/wb2/sectur/traza_tu_ruta_carretera ''Traza Tu Ruta''] and is very helpful to find how to get to your destination using Mexico's roads. It is in Spanish but can be used with basic knowledge of the language.
+
+Foreign drivers' licenses are recognized and recommended. Speeding tickets are common, and to ensure your presence at the hearing, the officer may choose to keep your license. He is within his rights to do so. Beware though, police officers are known to keep driver's licenses until they are given a bribe. 
+
+At petrol (gas) stations, make sure the pump is zeroed out before the attendant begins pumping your gas so that you don't end up paying more than you should. There is only one brand of gas station (Pemex) and prices are generally the same regardless of location, so don't bother shopping around.
+
+Good maps are invaluable and the Mexico maps included in "North American Road Atlas" books are worse than useless. The Guia Roji maps are particularly good.
+
+''See also: [[Driving in Mexico]]''
+
+===By plane===
+Mexico is a large country and the low-cost revolution that started in 2005 (following the break up of the CINTRA monopoly, which owned Mexicana and Aeromexico, in 2000) meant that fares were often ridiculously cheap during the first decade of the 2000s if one booked in advance.  
+
+Thanks to the Great Recession and soaring fuel prices, the bargain days are mostly gone. Still, one can still find an occasional bargain by using a reliable notification service such as Kayak.com or monitoring the airlines' respective websites. Only Aeromexico's and Volaris's fares are currently syndicated on Kayak, Skyscanner and other similar sites. 
+
+The main full-service airlines are:
+* '''[http://www.aeromar.com.mx  Aeromar]'''
+* '''[http://www.aeromexico.com  AeroMexico, Aeromexico connect (formerly Aerolitoral)]''' 
+* '''[http://www.magnicharters.com  Magnicharters]'''
+* '''[http://www.tarmexico.com  TAR]''' 
+
+Then there are the low-cost carriers such as: 
+* '''[http://www.interjet.com.mx  Interjet]'''
+* ''' [http://www.volaris.com.mx  Volaris]'''
+* '''[http://www.vivaaerobus.com  VivaAerobus]'''
+
+Other smaller regional/commuter carriers operating mainly non-jet aircraft include:
+* '''[http://www.aereocalafia.com.mx/inicio/  Aereo Calafia]''' serves the northwestern states of Baja Calfornia Sur y Norte, Sonora, Sinaloa, & Jalisco (Pto Vallarta). 
+* '''[http://www.aerotucan.com.mx/php/index.php  Aerotucan]''' travels between Oaxaca, Pto Escondido, Huatulco, & Tuxtla Gutierrez
+* '''[http://www.aeropacifico.com  Aero Pacifico]''' serves the cities of Culiacan, La Paz, Los Mochis, & Chihuahua.
+* '''[https://www.mayair.com.mx/ Mayair]''' flies between Cancun, Cozumel, Merida, Villahermosa, & Veracruz. 
+
+Always check the individual carrier's Web site to verify where they currently fly.  Carriers such as Mexicana, Taesa, Aerocalifornia, Alma de Mexico, Líneas Aéreas Azteca, Aviacsa, and Avolar are no longer in business.
+
+===By bus===
+If travelling by bus, be sure to take the express buses, if available (they are called ''directo''). Other buses often stop at many smaller stations along the way, making the trip a lot longer. If you have experience with Greyhound buses in the US, you're in for a pleasant surprise. First class buses are usually direct routes and are the best option for most. These buses are comfortable, have washrooms and will generally show movies, which may or may not be English with Spanish subtitles. Second class buses may be very similar to 1st class just making more stops or in rural areas they may be essentially chicken buses (''polleros''). Executive and Luxury lines cost about 60% more than first class, may be faster, usually have larger seats, and they have less frequent departures; they are really only a good option for elderly or business travellers.  With the advent of NAFTA, some bus companies are now offering service from US cities. The major bus companies offering these kind of services are:
+
+* <listing name="ABC (Autobuses de la Baja California)" alt="" address="" directions="" phone="" url="http://www.abc.com.mx" hours="" price="" lat="" long="" email="" fax=""> goes up and down the Baja California Peninsula between Tijuana, Mexicali, La Paz, Los Cabos and anywhere in between.</listing>
+* <listing name="ADO (Autobuses De Oriente)" alt="" address="" directions="" phone="" url="http://www.ado.com.mx" hours="" price="" lat="" long="" email="" fax=""> operates as ADO, ADO GL, AU, OCC (Omnibus Cristobal Colon), Platino, and some of the local second class lines in the eastern and southeastern part of the the country.   They operate mainly in Guerrero, Puebla, Veracruz, Chiapas, Tamaulipas, Tabasco, and the Yucatan Peninsula (Yucatan, Quintana Roo, Campeche).</listing>
+* <listing name="Autovias, Herredura Plus" alt="" directions="" lat="" long="" address="" phone="01 800 622 22 22" tollfree="" email="" fax="" url="http://www.autovias.com.mx/" hours="" price=""></listing>
+* <listing name="Grupo Estrella Blanca" alt="" directions="" address="" phone="" email="" fax="" url="http://www.estrellablanca.com.mx/" hours="" price=""> operates mainly in Aguascaliente, Baja California Norte, Chihuahua, Durango, Guanajuato, Guerrero, Jalisco, Michocoan, Nayrit, Queretaro, San Luis Potosi, Sinaloa, Sonora & Zacatecas states and up to the U.S. border.  They operate brands such as Elite, TNS (Norte de Sonora), Chihuahuanese, Futura, Pacifico, Oriente, Tranporte Frontera and Americanos as well as a booking agent for onward travel to the U.S. on '''Greyhound lines'''.</listing>
+* <listing name="Estrella de Oro" alt="" address="" directions="" phone="" url="http://www.estrelladeoro.com.mx" hours="" price="" lat="" long="" email="" fax=""> Guerrero, Veracruz,  DF; and Hidalgo states.</listing>
+* <listing name="Estrella Roja" alt="" directions="" address="" phone="" email="" fax="" url="http://www.estrellaroja.com.mx/" hours="" price=""> travels mainly between Mexico City and Puebla</listing>
+* <listing name="Grupo Flecha Roja, Aguila" alt="" directions="" address="" phone="" email="" fax="" url="http://www.grupoflecharoja.com.mx/" hours="" price=""> operates mainly between Mexico City and various places in Mexico, Hidalgo and Queretaro states</listing>
+* <listing name="FYPSA (Autobuses Fletes y Pasajes S.A. de C.V.)" alt="" address="" directions="" phone="" url="http://www.fypsa.com.mx" hours="" price="" lat="" long="" email="" fax=""> Chiapas, DF, Oaxaca.</listing>
+* <listing name="Omnibus de México " alt="" directions="" address="" phone="" email="" fax="" url="http://www.odm.com.mx/" hours="" price=""></listing>
+* <listing name="ETN (Enlances Terrestre Nacionales), Turistar Lujo" alt="" address="" directions="" phone="01 800 8000 386" url="http://www.etn.com.mx" hours="" price="" lat="" long="" email="" fax=""></listing>
+* <listing name="Grupo Senda" alt="" directions="" address="" phone="01 800 890 90 90" email="" fax="" url="http://ticket.gruposenda.com/" hours="" price=""> Aguascaliente, Chihuahua, Coahuila, Durango, Jalisco, Mexico (state), Nuevo Leon, Queretaro, San Luis Potosi, Sinaloa, Tamaulipas & Zacatecas states and the U.S. states of Alabama, Georgia, Illinois, Louisiana, North Carolina, South Carolina, & Texas</listing>
+* <listing name="TUFESA" alt="" directions="" lat="" long="" address="" phone="01 800 737 88 83" tollfree="" email="" fax="" url="http://www.tufesa.com.mx" hours="" price=""> Baja California Norte, Jalisco, Nayrit, Sinaloa & Sonora in Mexico and Arizona, California & Nevada in the USA</listing>
+* <listing name="Primera Plus, Flecha Amarilla" alt="" address="" directions="" phone="" url="http://www.primeraplus.com.mx/" hours="" price="" lat="" long="" email="" fax=""> Aguascaliente, Durango, Guanajuato, Jalisco, Nayrit, Queretaro, San Luis Potosi, Sinaloa & Zacatecas states</listing>
+
+Travellers heading east (more or less) from Mexico City (TAPO bus terminal) can find ticket information on [http://www.ticketbus.com.mx TicketBus]. Other destinations can be found on individual companies' websites (see above). Schedules for all Mexico are available at [http://horariodebuses.com horariodebuses]. Many Mexican bus companies offer significant discounts for purchasing in advance. For those looking to do so online, a Mexican credit card is often required. If this isn't an option, [http://clickbus.com] can process transactions using foreign credit cards for a 16% fee. 
+
+On the other hand if travelling within a city, you won't find a pleasant surprise. You will find one of the most chaotic public transport systems full of the popular "peseros". "Peseros" are small buses with varying color codes depending on the city you are in. Usually the route is written on cardboard attached to the windshield/windscreen or written in soap or chalk on the windshield listing out the places (hospital, university, shopping centers, major landmark, name of neighborhoods, etc) the bus goes through or by.  Unlike in many countries, bus stops are uncommon and you are expect to signal the bus to pick you up and drop you off wherever you want. You will rarely find a stop button in a pesero; just shout the word "baja" for it to stop. Fares are cheap and vary from MXN2-7 approximately.
+
+===By train===
+Passenger trains are very limited in Mexico with only a few lines in operation in places like the Copper Canyon in the northern state of Chihuahua. That line is known as the [http://www.chepe.com.mx/ '''Chihuahua Pacific Railway'''] (''Chihuahua del Pacifico'') which pull out every morning from both ends of the line, one from Los Mochis on the Pacific coast, across from Baja California, and the other from Chihuahua in the east (due south of El Paso, Texas).  They pass each other roughly midways at '''Divisadero and Barrancas''' Copper Canyon stations at an altitude of 2100m (7000&nbsp;ft). This route travels between Chihuahua city, Los Mochis and Topolobampo (near the coast) in Sinaloa state trough the Copper Canyon. 
+
+In the state of Jalisco there is also a line which travels from the state capital city of [[Guadalajara]] to the tequila distilleries north of Amititlan, as a tour of the distilleries (then as a form of transportation), this is why this line is called the [http://www.tequilaexpress.com.mx/ ''Tequila Express''].  
+
+Mexico City and Monterrey have subway service, and it might be possible to hop aboard freight cars in some parts of the country (if you happen to be an adventurer. Immigrants from poorer regions of Mexico and from Central America heading up to the US ride the freight trains too).
+
+===By thumb===
+One upside of the high petroleum prices is that hitching is beginning to be more common in Mexico again, particularly in the rural areas. In areas near big cities, hitching should be more difficult, and is not really advisable due to heightened risk. 
+
+[https://www.blablacar.mx ''BlaBlaCar''] can make ridesharing easier and safer, but you are most likely to find rides from and to [[Mexico City]] or [[Guadalajara]].
+
+However, in village areas, this will be really possible and most likely a nice experience. Since villagers have always had a hard time affording gas, and nowadays many are turning to picking up paying hitchhikers as a way to afford the next trip into town. Baja, the Sierra Tarahumara and Oaxaca and Chiapas all have good possibilities for the hitchhiker.
+
+[[Hitchhiking]] possibilities vary according to region. Mexican culture is often accepting of hitchhiking and it's a common practice among Mexican youngsters going to the beach in Easter vacations, though in some cases a money contribution is expected for gas because of its relatively high prices. You should make it clear that you have no money to offer before accepting the ride, if this is the case. If you're willing to pay, trucks will often provide lifts for about half the price of a bus ticket. Of course you may be able to negotiate a better deal. Hitchhiking is considered fairly safe and easy in the [[Yucatan Peninsula]].
+
+==Talk==
+'''Mexico does not have an official language at federal (national) level.''' Mexico has 68 recognized languages, but Spanish is the main one. The other 67 are indigenous languages. Spanish is used by virtually the whole population and all public communications (signs, documents, media, etc.) are conducted in the language. Bilingual signs in Spanish and English might be available in popular tourist destinations.
+
+English is understood by many in Mexico City as well as by some tourist workers in popular tourist places, but nevertheless, most Mexicans don't speak English. Educated Mexicans, especially younger ones, and professional businessmen are the people most likely to speak some English. The most popular foreign languages to learn within Mexico after English are French, Italian, German and Japanese. Among clerks, policemen, and drivers (especially the last group) there is essentially no such thing as knowledge of foreign languages.
+
+Mexico has one of the richest diversity of languages, with more of 60 indigenous languages spoken within the Mexican territory. These languages are spoken within the communities of these indigenous peoples, who are largely segregated from mainstream mestizo society. In any case, the probabilities of finding a speaker of any of these languages is small, since only half of 20% that comprises Indian population in Mexico speaks indigenous languages. On the other hand, most of these communities are fluent in Spanish as well. Therefore learning any of these indigenous languages is not indispensable at all; quite the opposite, unexpected and will gain a lot of respect from these communities.
+
+See also: [[Spanish phrasebook]]
+
+==See==
+
+
+==Do==
+[[Image:Tulum.JPG|thumb|upright=1.3|Mayan Ruins of Tulum]]
+* '''Surfing''' - [[Baja California]], [[Vallarta]], [[Oaxaca]]
+* '''Sea Kayaking''' - Baja California
+* '''Snorkeling''' - Baja California, Cancun, Cozumel, Isla Mujeres, etc.
+* '''Scuba diving''' - Baja California, Cancun, Cozumel, Isla Mujeres, Acapulco, Cabo San Lucas etc, and cave diving in the cenotes of the Yucatan peninsula.
+* '''Whale Watching''' - Baja California, [[Guerrero Negro]], [[Mazunte]], [[Zipolite]] 
+* '''White Water Rafting''' - Veracruz
+* '''Visit a Volcano''' - Mexico, Toluca etc.
+* '''Take a ride on the Copper Canyon Railway'''
+* '''Enjoy the beautiful coast line and beaches of Oaxaca''' - [[Mazunte]], [[Puerto Escondido]], [[Zipolite]] etc.
+* '''Go for a horseback ride in the Barrancas de Chihuahua''' 
+* '''Visit the archaeological sites''' -  Chichen Itza, Tulum, Coba, Monte Alban, Calakmul, Palenque, etc.
+* '''Fly on a hot air balloon''' - Over the Teotihuacan pyramids [http://flyingpictures.mx]
+* '''Volunteering''' - Chiapas or in Xalapa, Veracruz with Travel to Teach. 
+* '''Volunteering in animal conservation or education''' All over Mexico: [[https://www.volunteerworld.com/volunteer-in-mexico]]
+* '''Visit ecological parks''' - [[Mayan Riviera]]
+* '''trekking also cave paintings in Baja California''' -  [[Guerrero Negro]]
+* '''Learn Spanish by taking language classes''' - [[http://www.gooverseas.com/study-abroad/mexico]]
+*'''National Sea Turtle Museum''' [[Mazunte]]
+*<do name="Go nude" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long=""> Spend some time in Zipolite The only "official" nude beach in Mexico. Most people here are clothed however.</do>
+*'''Scuba diving''',  [http://www.Cancunscuba4you.com ]. Riviera Maya Diving. Cancun and the Riviera Maya are simply legendary in diving circles, conjuring images of millions of technicoloured reef fish, swirling school of barracudas and jacks and above all, sea turtles swimming peacefully everywhere.
+
+==Buy==
+
+===Currency===
+The currency of Mexico is the ''peso'' ('''MXN'''), often symbolized as "$" (as the symbol originated from the [https://en.wikipedia.org/wiki/Dollar_sign| Spanish empire]) locally, divided into 100 ''centavos''. Coins are issued in 5, 10 (steel), 20, 50 centavo (brass; new 50-centavo coins issued from 2011 on are steel and smaller in size) and 1, 2, 5 (steel ring, brass center), 10, 20, 50, and 100 peso (brass ring, steel or silver center) denominations, but it's extremely rare to find coins valued at more than 10 pesos. 
+
+Banknotes are produced in MXN20 (blue), MXN50 (pink-red), MXN100 (red), MXN200 (green), MXN500 (brown), and MXN1000 (purple and pink for the latest issue, purple for older issues) denominations. The most recent MXN20 and MXN50 bills are made from polymer plastic, and there are several different series of all banknotes. Ten-peso notes exist, but are very rare.
+
+Do not accept old pesos (issued before 1993): they are practically worthless.
+
+Since the local symbol for pesos is the same as for US dollars, which can be confusing, we use the standard '''MXN''' throughout our guides. In areas with a lot of US visitors, you'll often see prices in US dollars labelled as "US$" or "USD" or sporting an "S" with a ''double'' instead of a single vertical stroke. As of January 2018, the exchange rate was continuing to hover around MXN19.2 for USD1. US dollars are widely accepted in cities in the northern border zone and in tourist locales elsewhere. 
+
+Euros are generally not accepted by merchants, and even banks headquartered in Europe may refuse to accept euros for exchange. On the other hand, most banks and exchange offices ("casas de cambio") will widely accept them.
+
+If you have brought cash in US dollars or euro, the best places to change your money are at your arrival airport (such as MEX and CUN), where many money exchanges are located already in the arrival hall (where you can also compare some exchange rates and choose the most convenient). Be sure to pass through customs and exit to the main arrival hall ''before'' looking for foreign exchange booths. Many Mexican airports (including Cancun and Los Cabos) have foreign exchange booths located at the baggage claim ''before'' customs, but those booths tend to offer poor exchange rates two or three pesos ''less'' than the going market rate. 
+
+If you would like to wait until later to obtain Mexican currency, try not to change at your hotel, as the rates there tend to be extremely disadvantageous for tourists. Often, you can find money exchanges at strategic places in most touristic destinations and near the hotel (zones). The exchanges rates should not differ drastically from the ones at airport. If you are unfamiliar with Mexican money (bills, coins), try to stick to official foreign exchange booths. In several internationally popular beach destinations like Cancun and Los Cabos, local merchants are accustomed to US dollars and will often accept them as payment (they even have dual-currency point-of-sale systems, complete with special cash drawers). However, do bear in mind that the convenience of such “private” money exchange usually comes with a slightly unfavorable exchange rate.
+
+Credit and debit cards are widely accepted in Mexico.  As in the rest of North America, Visa and MasterCard are universally accepted and American Express is less widely accepted.  You can use them at ATMs as well as in most department stores, bigger restaurants, gas stations, but be sure that outside cities you always carry sufficient cash in pesos in your pocket, and generally verify the possibility to pay with card before consumption. Smaller (often family run) businesses often accept only cash. Many retailers will demand an additional fee or surcharge (eg, an extra 5%) for credit cards or will impose a high minimum charge like USD50. Also, you cannot get a lower price if you haggle, unless you pay cash. 
+
+While many Pemex stations accept credit cards, especially in locations that have heavy tourist traffic, some do not. Travellers who intend to pay by credit card should always ask the attendant if their card is accepted before the attendant starts the gas pump. 
+
+ATMs are ubiquitous and are often bilingual with English menus available. Bank of America customers can avoid ATM fees by using Santander Serfin ATMs. Other banks may have similar policies, check with your respective institution. For example, Banamex bank is owned by Citigroup, the parent of Citibank, and Bancomer is owned by BBVA, which is related to Chase in USA. Ask your bank if they have an alliance with any Mexican banks and any benefits as a result. Otherwise, do not be surprised if exorbitant fees are imposed for each withdrawal; convenience and currency conversion fees by the ATM operator, followed by an out-of-network fee from your own bank. 
+
+ATMs in smaller towns often run out of currency. Check with the bank (or locals) about the best time to use the ATM and never wait until the last minute to get cash.
+
+Merchants can be picky about the state of your paper money and may scrutinize it and reject anything with rips, tears, or other obvious signs of damage. Try to keep it in as pristine condition as possible. Reputedly, this is more the case the farther south you go. In any case, you can present a bank with a damaged bill to get it exchanged for a higher-quality one.
+
+Merchants are often reluctant to make change in smaller towns. Try to avoid paying with overly large denominations; the best customer has exact change. In rural areas, your 'change' may consist of Chiclets or other small commodities.
+
+===Measurements===
+*Weights are measured in kilograms. Length is measured in centimetres and metres.
+
+* For clothes and shoe sizes, the "Continental" measurements are used.
+
+===Basic supplies===
+Most large hotels/resorts have an on-site gift shop that sells sundries at insanely high prices.  For basic supplies, your best options are supermarkets like Comercial Mexicana, Soriana, Casa Ley, or Gigante. Walmart, Sam's Club, and Costco also have many stores throughout the country. 
+
+The most ubiquitous convenience store chain is Oxxo, which can be found on nearly every other block in major cities.  Kiosks and 7-Eleven are also growing rapidly.
+
+===Shopping===
+*'''Indigenous Art''' A visit to anywhere in Mexico will give one the opportunity to buy art made in the "old world" manner that reflects the diverse ethnicity of Mexico. Included in these articles would be textiles, wood carvings, paintings and carved masks that are used on sacred dances and burials.
+
+*'''Souvenirs''' All major Mexican resort cities are dotted with numerous souvenir shops where one can find the usual souvenir junk embossed with the city´s name: T-shirts, ceramic mugs, tote bags, keychains, shot glasses, etc.  Note that while many of these items ''are'' produced in Mexico, they are often actually mass-produced in factories for the entire country (this is especially true of items with a generic, vaguely Mexican theme or logo). So if you visit multiple Mexican cities within the same year, you will likely recognize many of the exact same souvenirs available in those cities, except that each has been customized with that particular city's name.  (Although to be fair, the quality of those souvenirs is sometimes quite good.) Most souvenir stores are local operations, although there is one major chain, Fiesta Mexicana, that operates stores throughout the country.
+
+*'''Timeshares''' When visiting the '''resort''' cities of Mexico (e.g. Cancun, Puerto Vallarta or similar), it is more than common to be approached on the streets, in bars, in restaurants and anywhere with offers of gifts, free rental cars, free nights, free dinners, free anything that may appeal to you, just for visiting and listening to a presentation to buy a timeshare. Unless you are severely desperate for something to do, you may want to ignore those making the offer and stay away from those ''free'' offers. While the properties are very nice, great locations and plenty of amenities, this is not the place to ''learn'' about timeshares. Do your homework before even thinking about buying a timeshare, see what the values are in the ''resale'' market and understand the ''rights'' you are buying as well as the future costs. Collecting on the ''free'' offers may be difficult, if not impossible.  
+
+* '''Automobiles''' It's certainly worth going over and importing a car back from there, although ensuring compliance with EU/US standards is the hard part. Recommended are the Ford Fusion (like the British Ford Mondeo, but more upmarket) and the Chrysler 200 (the 2.4 model is worth it). Volkswagens can be substantially better-equipped than European or North American counterparts. The Passat sold in Mexico is '''NOT''' the same car as in Europe, and is substantially bigger, however, engines are the same as in Europe, except for the 2.5 petrol.
+
+===Things to not buy===
+* '''Department store goods.'''  The major department stores in Mexico are Liverpool, El Palacio de Hierro, Sanborn, and Sears. However, because of Mexico's low per capita wealth and high taxes, most tourists are unlikely to be impressed by the selection or quality of goods available.  There is a reason why so many Mexicans who can qualify for US tourist visas prefer to do most of their department store shopping in the United States.
+
+==Eat==
+[[File:Enchilada Rice Beans.jpg|thumb|250px|Enchilada Rice Beans]]
+[[File:Tacos, rice, and beans.jpg|thumb|250px|Tacos, rice, and beans]]
+[[File:081223 tamales.JPG|thumb|250px|Tamales]]
+[[File:Chilaquiles Rojos.JPG|thumb|250px|Chilaquiles Rojos]]
+[[File:Elote recipe.jpg|thumb|250px|Elote]]
+[[File:Chiles en nogada.jpg|thumb|250px|Chiles en nogada]]
+[[File:CuajimalpaFeria14.JPG|thumb|250px|Cinnamon cookies in the shape of pigs being sold by a street vendor during the Holy Week fair in Cuajimalpa, Mexico City]]
+
+Mexican cuisine can be described better as a collection of various regional cuisines rather than a standard list of dishes for the whole country. Because of climate, geography and ethnic differences, we can classify Mexican cuisine broadly in 4 great categories according to the region:
+
+Cajeta- Caramel made out of goat milk
+* '''Northern''' - Mostly meat dishes done mainly from beef and goat. This includes Cabrito, Carne Asada (Barbecue) and Arrachera. Is influenced by international cuisine (mostly from the United States and Europe), but it retains the essential Mexican flavor.
+* '''Central''' - This region is influenced by the rest of the country, but has its own well-developed local flavor in dishes such as Pozole, Menudo and Carnitas. Dishes are mostly corn-based and with different spices. 
+* '''Southeastern''' -  Is known for its spicy vegetable and chicken-based dishes. Caribbean cuisine have influences here because of the location.
+* '''Coast''' - Is composed heavily with seafood and fish, but corn-based recipes can be easily found as well.
+
+Ask for the "platillo tipico" of the town, which is the local speciality that may not be found elsewhere, a variation, or the birthplace of a recipe, also consider that most of the recipes change from place to place, like tamales, in the south are made with the banana plant leaves, and in the Huasteca region tamales are very big, one is OK for a complete family.
+
+Traditional Mexican food can often be very spicy; if you are not used to peppers, always ask if your food includes it. "(''¿Esto tiene chile? Es picante?'')."
+
+There are many food carts on the streets of Mexican cities and towns. Travelers are advised to eat from these carts with caution, as hygienic preparation practices are not always reliable. In doing so, you may (or may not) find some of the most unique and genuinely Mexican dishes you've ever had. From these vendors, you may find tacos, burgers, bread, roasted field corn or elote served with mayonnaise, or a light cream, and sprinkled with fresh white cheese, roasted sweet potato called camote, and almost any kind of food and service you would imagine.
+
+* '''Chicharrón''' - Deep fried pork skin. Quite crunchy and if well-prepared slightly oily. Heavenly spread with guacamole. Or sometimes cooked in a mild chili sauce and served with eggs.
+* '''Enchiladas''' - Chicken or meat stuffed soft tortillas covered with green, red or mole sauce. Some may have melted cheese inside and/or on top.
+* '''Tacos''' - Soft corn tortillas filled with meat (asada (steak strips), pollo (shredded chicken), carnitas (fried shredded pork), lengua (tongue), cabeza (meat from cow skull), sesos (cow brains), tripa (cow gut), or pastor (chili pork beef). In the north sometimes flour tortillas are used. Do not expect the crispy taco shell anywhere.
+* '''Tamales''' - corn dough shell with meat or vegetable fillings. Tamales Dulces contain fruit and/or nuts.
+* '''Tortas''' - Fancy Mexican sandwich. Bread roll that is grilled lightly, meat fillings are same as tacos and/or American styled charcuterie, lettuce, tomatoes, jalapeños, beans, onion, mayonnaise and avocado.
+* '''Quesadillas''' - Cheese or other ingredients grilled in between corn tortillas. Note: heavy on cheese and and lighter on other items such as chicken, pork, beans, squash flower blossoms and such.
+* '''Mole''' - Mild to medium chili based sauce made with cocoa and a hint of peanut over meat, usually served with shredded chicken or turkey. ('Pollo en mole' and this is known as Puebla or poblano style). There are many regional moles and some are green, yellow, black and can vary greatly in flavor depending on the artistic talent or preferences involved.
+* '''Pozole''' - Chicken or pork broth with hominy corn, spiced when served with oregano, lettuce, lemon juice, radish, chopped onion, dried ground chile and other ingredients such as chicken, pork, or even seafood, usually served with a side dish of tostadas, fried potato and fresh cheese tacos. When it is made with beef stomach and beef feet it is called '''Menudo.''' Menudo is often eaten at breakfast on weekends and is considered a hangover cure.  Very fortifying.
+* '''Gorditas''' - corn patty stuffed with chicharron, chicken, cheese, etc. topped with cream, cheese and hot sauce.
+* '''Guacamole''' - crushed avocado sauce with green serrano chile, chopped red tomato and onion, lime juice, salt, and served with somewhat thick (1/8 inch)fried tortilla slices or "totopos".
+* '''Tostadas''' - fried flat tortilla topped with fried beans, lettuce, cream, fresh cheese, sliced red tomato and onion, hot sauce, and chicken or other main ingredient. Think a corn chip dippers, on low dose steroids, for salsas and as above.  Note that you do not usually get a plate of this automatically in many parts of Mexico as you would in the US, although they are starting to show up in resort areas that cater to US nationals automatically. 
+* '''Huaraches''' -  a bigger (think shoe shaped) version a gordita.
+* '''Sopes''' - corn patty topped with a wide variety of ingredients such as chicken, cheese, mashed beans, and various hot sauces.
+* '''Carnitas''' - deep fried pork meat served with a variety of salsa", to get them dry with less grease.
+* '''Chile en nogada''' - A big green Poblano chile with a beef or pork apple stuffing, covered with a white nut (usually walnut, known as ''nuez'') sauce and sprinkled with pomegranate seeds which happen to be red. The three colors represent the national flag and the dish is served nationwide around Mexican Independence Day 16th September.
+* '''Barbacoa''' - Sheep or goat meat cooked with maguey leaves in a oven made at a hole in the ground. Think BBQ heaven without the hickory smoke or catsup based BBQ sauce. Served with condiments and salsas in corn tortilas and sometimes in a torta bread roll.
+* '''Sopa de Tortilla''' - tortilla chips soup usually of chicken broth, plain or with a touch of tomato flavor, and usually mild and not at all hot.  Commonly served with diced avocado and fresh crumbled white cheese on top.
+* '''Chilaquiles''' - tortilla chips with a green tomatillo, or red tomato, or mild chili sauce, usually served with chicken or eggs on top or within. Usually a mild dish. 
+* '''Migas''' - is a typical dish in the center of the country which is a guajillo chile broth with soaked bread, which you can add the pork bones with meat or eggs.
+
+You can measure the quality of food by popularity, do not eat on lonely places, even if they are restaurants or hotels.  Consider that Mexicans eat their main meal in the middle of the afternoon (around 3 o'clock), with breakfast or "almuerzo", a mid-morning affair after a very light something, like a small plate of fruit or a roll with coffee, in the very early morning. Although, many mexicans have large breakfasts in the morning. Later, at night the meal varies from very light, such as commonly sweet rolls or breads, coffee or hot chocolate, to heavy dinner, such as pozole, tacos, tamales, etc.  Schedule your meals accordingly and you will get a better perspective on the gauge of how busy (popular) a restaurant is.
+
+==Drink==
+[[File:Venta de tequila en Tequila Jalisco México..JPG|thumb|upright=1.3|Tequila Store]]
+[[File:Horchata de arroz.jpg|thumb|upright=1.3|Horchata de arroz]]
+[[File:Tejate drink.JPG|thumb|upright=1.3|Tejate]]
+[[File:Champurrado thenewplace sf.jpg|thumb|upright=1.3|Champurrado]]
+Non alcoholic beverages:
+Tap water is potable, but generally not recommended for drinking. Some exaggerated people even claim that tap water is not good for brushing teeth. Hotels usually give guests one (large) bottle of drinking water per room per night. Bottled water is also readily available in supermarkets and at tourist attractions. Another drink is called Chamaica it is Hibisicus juice.
+
+* Absinthe is legal in Mexico.
+* Tequila, distilled from agave (a specific type of succulent)
+* Pulque, ferment made from maguey 
+* Mezcal, similar to tequila but distilled from oven-cooked agave
+* Tepache, made from pineapple
+* Tuba, made from coconut palm tree
+
+
+There are also several Mexican beers, most of which are available outside Mexico, these include:
+* Corona (popular, but not necessarily as overwhelmingly popular in Mexico as many foreigners think)
+* Dos Equis (XX), dark or lager. (both good mass-market beers)
+* Modelo Especial (medium lager)
+* Negra Modelo (darker, flavorful ale)
+* Modelo Light (typical light Mexican beer - Corona, Pacifico and Tecate also have "light" versions.
+* Pacífico (Pilsner beer, one of the better lighter beers)
+* Tecate (perhaps the most common beer, especially in the north, light with a slight hoppy taste)
+* Indio (good amber, not commonly exported)
+* Bohemia (nice malty taste)
+* Carta Blanca (mass market beer)
+* Sol (very light, similar to Corona)
+* Superior (pretty common beer)
+* Victoria (A light Vienna-style beer, usually not exported)
+* Montejo
+* León (red Vienna-style beer)
+* Estrella
+* Corona "de Barril" or Barrillito (fun to drink)
+* Chamochelas
+* Modelo Chope (Draft beer only available in select bars & restaurants, comes in Light & Negra varieties, with the latter being a Munich dunkel.)
+
+Lighter Mexican beers are often served with lime and salt, though many Mexicans do not drink beer in this fashion. In some places you will find beer served as a prepared drink called "Michelada" or simply "Chelada". The formula varies depending on the place, but it's usually beer mixed with lime juice and various sauces and spices on ice served in a salt rim glass. Other variation called "Cubana" includes Clamato cocktail, soybean sauce, salt and a little bit of hot sauce.
+
+Northwestern Mexico, especially Baja California and Sonora, is well-known for wine production. Mexican wine is often quite good, but most Mexicans tend to prefer European or Chilean imports. 
+
+* Chocolate
+* Atole (traditional corn based beverage)
+* Horchata (rice based drink)
+* Pozol (maiz based drink) - traditional drink from Chiapas
+* Tejate (maiz and chocolate based drink)- traditional drink from Oaxaca
+* Agua de jamaica (hibiscus iced tea, similar to karkadai in Egypt)
+* Licuados de fruta (fruit smoothies and milkshakes)
+* Champurrado (Thick chocolate drink)
+* Refrescos (common sodas, generally sweet and made with cane sugar, not corn syrup as in the United States).
+
+The legal drinking age in Mexico is 18, but not strictly enforced.  In many places, consumption of alcohol in public ("open container") is illegal and usually punishable by a day in jail. Be aware of waitresses and barmen, especially at night clubs. If you are not aware of your consumption and how much you already spent, they can add a few more drinks to your account. Some do this, not all.
+
+Sobriety checkpoints and breathalyzers are widespread in major cities and tourist hotspots. If drinking, always have a designated driver or take a taxi. Driving under the influence of an alcoholic beverage will result in several days in jail.
+
+Mexico, especially the southern state of Chiapas, produces excellent coffee. Café con leche, usually one part coffee to one part steamed milk, is very popular. Unfortunately, many places in Mexico that are not cafés serve Nescafe or other instant coffee - you may have to search for the good coffee, but it's there.
+
+==Learn==
+The most important Universities in Mexico are as follows:
+'''UNAM''', ranked 198th worldwide, and generally considered to be the best in Latin America.  It leads Mexico with 50% of Mexican scientific research,  Many of Mexico's most illustrious people attended UNAM, including:
+* 5 Mexican presidents;
+* All of the Mexican Nobel Laureates: Alfonso García Robles (Peace), Octavio Paz (Literature), and Mario Molina (Chemistry); and
+* The world's wealthiest person: Carlos Slim.
+Its main campus is a UNESCO World Heritage site. Murals in the main campus were painted by some of the most recognized artists in Mexican history, such as Diego Rivera and David Alfaro Siqueiros.
+
+'''IPN''' (Instituto Politecnico Nacional), a leading institution on engineering and architecture programs, it's a Polytechnical school and Most Mexico's technological creations can be attributed to IPN Alumni.
+
+'''ITESM''' (Instituto Tecnologico de Estudios Superiores de Monterrey), located in Monterrey but with branch campuses in many other Mexican cities, too, it's a Private Research University. It is ranked at the best private university in Mexico, according to QS World University Rankings. It surpassed IPN in some Engineering areas (Most notably Computer Science) some years ago and it's on par with UNAM. "Tec" is known for promoting entrepreneurship among their students, and for their many exchange programs with the best universities across the world, and even double degree programs; Some of them include:
+* Double degree with Carnegie-Mellon University in M.S. in Information Technology.
+* Partnership with John Hopkins Medicine Program.
+* Summer Programs at Georgetown University, UC Berkeley, Stanford, Cambridge and Yale.
+* Double degree with UNC-Chapel Hill in M.B.A.
+* Exchange programs with over 200 universities abroad around 30 countries.
+
+'''Anahuac''' (Universidad Anahuac), a prestigious private institution sponsored by the Legion of Christ, which also belongs to the Anahuac University Network with campuses in Mexico, Chile, Spain, Italy and United Sates, and the Anahuac Educational Consortium, the elite elementary to high school institutions of the Semper Altius network and Oak Academies. The main Campus of the Anahuac University is located on Huixquilucan, Mexico State. Education is based in high leadership, entrepreneurism and above all, the Human Values. Alumni include some of the highest ranked executives and company presidents of Mexico and Latin America, including the Slim family. 
+
+'''Ibero''' (Universidad Iberoamericana), is a Mexican private institution of higher education sponsored by the Society of Jesus. Its flagship campus is located in the Santa Fe district of Mexico City but there are others located in Guadalajara, León, Torreón, Puebla and Playas de Tijuana.
+among its alumni, is president Vicente Fox, Emilio Azcarraga Jean - President and Owner of Televisa the most important media network in Latin America, Carlos Guzmán Bofill - CEO of Hewlett-Packard México, Daniel Servitje - President and CEO of Bimbo, Guillermo Arriaga - Film screenwriter, Novelist, and Director (Amores Perros, 21 Grams and Babel), Alejandro González Iñárritu - Filmmaker (Amores Perros, 21 Grams and Babel).
+
+'''ITAM''' (Instituto Tecnológico Autónomo de México) is by far one of the best universities in Mexico. Founded by the businessman Raúl Baillères in 1946, it has a very specific focus in the Economics sector.  With 14 programs, it has been awarded by several sources as having the best programs in Business Administration, Actuarial Science, Economics, International Relations and Public Accounting. It has the best MBA program in Latin America as well as the best Economics PhD in Mexico. Many public figures and government functionaries come from this prestigious university.
+
+For graduate degrees and executive preparation:
+
+The '''IPADE''' Business school currently ranks as the world's 7th best MBA programs outside the US, and the only one in Latin America, according to Forbes.
+
+The '''EGADE''' Master Business School in Monterrey is ranked No.68 of MBA schools worldwide, the first in Latin America
+For many years it was considered a school exclusive for Affluent people, it aggressively seeks to open its doors to talented minds of all income levels through an amazingly rich scholarship program, funded by the periodic raffles of multi-million dollar, fully furnished mansions along with luxury cars and a big sum of money.
+
+If one had to Compare them with American Universities:
+*'''UNAM''' would be the ''"Harvard"'' of Mexico, devoted to Humanities, Medicine and Law schools, as far as the reach of the institution but not as exclusive.
+*'''Anahuac''' would be like the ''"Princeton"'' of Mexico, home to both the wealthy and low profile elites, figuring in international rankings and with a great prestige result of its alumni, international programs and social awareness.
+*'''IBERO''' would be the ''"Yale"'' of Mexico, a private school, with amazing resources constantly ranking amongst the best in Latin America.
+*'''IPN''', a school devoted to engineering and sciences, with many of its students developing patents, could be considered a school like ''"MIT"'', and in fact, they've won many competitions against them.
+*'''ITESM''' is located in a city with many industrial companies, the Alma mater of many entrepreneurs, with decent computer and engineering programs, regarded as an excellent private university, and with a business-oriented curriculum, somewhat similar to Stanford.
+*'''UDLAP''' The Universidad the las Americas at Puebla, would be the ''"Cornell-U"'' of Mexico.
+*'''ITAM''' The Instituto tecnológico Autonomo de Mexico would be the ''"Columbia"'' of Mexico
+*'''ULSA''' The Universidad La Salle would be the ''"Darthmouth College"'' of Mexico
+
+Most of the government funded universities on mayor cities (state capital) have short courses on history, gastronomy and cultural subjects, most of them are almost free. Other places are the "Casa de la Cultura", (house of culture) this are historical buildings used for cultural related activities (music concerts, theater, paint and other exhibits, they also have "talleres" (workshops).
+
+Most of them have programs for foreigners. Foreigners can take a course to learn Spanish, or even study a whole career. Also, there are some other courses where you can learn traditional Mexican activities such as handcrafts. The tuition at a public school is rarely over USD2000.
+Many excellent private universities exist in the larger cities (Mexico City, Guadalajara, Monterrey, etc.) and provide good education.
+
+There are Spanish language schools throughout Mexico. The city with the most schools is Cuernavaca, with more than 50 schools. Oaxaca, San Miguel de Allende and Guanajuato also offer a number of schools to choose from. Prices vary; however, most schools are very reasonably priced. Many schools can arrange homestays with local Mexican families.
+
+==Work==
+Working may require a work visa, which is difficult to get if you just want to freelance for a short time.
+
+Many important headquarters are located throughout the main cities of Mexico. Mexican top corporations like Televisa, Bimbo, Cemex, Telmex, Vitro, are often willing to hire professionals who speak English as their native language as most of the business scene is developed with North American corporations.
+
+Native English speakers can pick up work, as English teachers. The upside is that English speakers with no knowledge of Spanish are sought after, because they will force their students to practice English. The downside is that salaries are somewhat low.
+
+==Sleep==
+A number of hotel chains are available throughout Mexico, including Palace Resorts, Le Blanc Spa Resort, Best Western, Holiday Inn, CityExpress, Fiesta Inn, Fairmont, Hilton, Ritz, Camino Real, Starwood (Sheraton, W, Westin, Four Points) and many others. Rates have risen considerably in recent years, though most are still reasonable compared to similar US or European hotels. Chain accommodations are usually clean and comfortable, good for business travelers, but not necessarily for those wanting to experience Mexico itself. Smaller hotels and motels along the roadside may not be safe or comfortable. Boutique hotels are found all over the country; price range varies but all of them are rich in Mexican traditions, elegance and charm, the perfect way to experience the cultural heritage of each state.  A great source of information is Melba Levick's book ''Mexicasa,'' found in many libraries and online bookstores. There are also many all-inclusive resorts for those visiting the major beach destinations. Many of these are sold as timeshares, and it is worthwhile to see if you can find timeshare rentals online, usually significantly below the resort's listed rate.
+
+There is a large backpacker culture in Mexico, and there are many [[hostels]] offering dorm accommodation and private rooms. You can expect to pay between MXN50 and MXN150 for a night in a dorm, often including breakfast. Hostels are a fantastic place to share information with fellow travelers, and you can often find people who have been to your future destinations. There are a number of internet sites that allow you to book hostels in advance for a small fee, and this is becoming an increasingly common practice.
+
+The most authentic accommodation can usually be found by asking locals or gringos, especially in the smaller towns. If you are unsure about the safety or conditions of the room ask to see it before paying. This will not be considered rude.  
+
+If you are going to be in cooler areas in the winter consider bringing an electric blanket - as there is power, but no heat in the cheaper hotels. And although it may get quite hot by afternoon outside, adobe and cement are like fridges. An electric tea kettle is also a good idea, hot water might not be available when you want it.
+
+If you're traveling with children, use a plastic case (with wheels and a handle) as luggage, and it can be used as a bathtub for the kids if necessary. Budget hotels rarely, if ever, have bathtubs.
+
+==Stay safe==
+'Mexico's emergency number is 911''', call this number for any emergency service: such as police, medical, fire, etc. 
+
+In most of the cities, location is very important as security changes from place to place. Areas close to downtown (centro) are safer to walk at night, especially on the "Plaza", "Zocalo" or "Jardin" (main square) and areas nearby. Stay in populated areas, avoid poor neighborhoods, especially at night, and don't walk there at any time if you are alone. Vicious beatings have been reported at resorts by people who have travelled alone, so stay alert for any suspicious-looking individual. According to the Global Peace index, Mexico is the 24th least peaceful in the world for 2018.
+
+Since 2006 violence related to drug cartels has become an issue; see [[#Drug Traffic Issues|Drug Traffic Issues]] below.
+
+Political violence in Chiapas and Oaxaca has abated in recent years, and is far less of a threat than drug related crime. However, keep in mind that Mexican authorities do not look approvingly on foreigners who participate in demonstrations (even peaceful ones) or voice support for groups such as the Ejército Zapatista de Liberación Nacional and its leader, Subcomandante Marcos, even if their images and slogans are commonly sold on t-shirts and caps in markets.
+
+As in any city, do not wave cash or credit cards around. Use them discreetly and put them away as quickly as possible.
+
+The Mexican legal system was until recently under Napoleonic code, but if you ever find yourself in trouble with the law in Mexico, the punishments are a lot more severe than in many other countries.
+
+Beggars are not usually a threat, but you will find lots in urban areas. Avoid being surrounded by them as some can pickpocket your goods. Giving away two pesos quickly can get you out of such troubles (but may also attract other beggars). Most poor and homeless Mexicans prefer to sell trinkets, gum, sing, or provide some meager service than beg outright.
+
+Some cities, such as Guadalajara and Mexico City, are safer than most places in Mexico. However, caution is still recommended.
+
+
+
+
+===Drug Traffic Issues===
+Understand that the country is going through a transitionary period.  After president Felipe Calderon came to power in 2006, he declared war on the drug cartels, and they have waged war in turn against the government (and more often, among each other). If you are going into Mexico, be considerate bringing up this issue with your hosts or Mexican friends.  Many people do not wish to discuss their country's numerous problems.  
+
+Some Mexican northern and border cities such as Tijuana, Nogales, Nuevo Laredo, Chihuahua, Culiacán, Durango, and Juárez can be dangerous if you are not familiar with them, especially at night. Most crime in the northern cities is related to the drug trade and/or police corruption.  However, since law enforcement figures are so overwhelmed or involved in the drug business themselves, many northern border towns that were previously somewhat dangerous to begin with are now a hotbed for criminals to act with impunity. Ciudad Juárez, in particular, bears the brunt of this violence, with nearly a quarter of Mexico's overall murders, and travel there should be undertaken only for very important reasons and with extreme caution.
+
+Away from the northern states, cartel-related violence is centered in specific areas, including the Pacific Coast states of Michoacán and Guerrero. However, exercise caution in any major city, especially at night or in high crime areas. 
+
+Note that for the most part tourists and travelers are of no interest to the drug cartels. Many popular tourist destinations like Oaxaca, Guanajuato, Los Cabos, Mexico City, Puerto Vallarta, Cancún, Mérida and Guadalajara are largely unaffected by this, simply because there are no borders there. Ciudad Juárez is currently a primary battleground in the drug war, and while foreign travelers are not often targeted here, the presence of two warring cartels, many small opportunistic gangs, and armed police and soldiers has created a chaotic situation to say the least.
+
+Although rarely surprising, the drug violence's new victim is Monterrey.  The city at one point was crowned the safest city in Latin America, and the hard-working environment and entrepreneurial spirit was what defined the city for most Mexicans. Today, it has been the latest city to fall into the hands of the drug gangs, and deadly shootouts existed even in broad daylight. People have been kidnapped even in broad daylight in high-profile upscale hotels. The situation has dramatically changed since 2011, but the city has still not fully recovered.
+
+Strangely, Mexico City is the safest city in regard to drug-related violence, and people go there to seek refuge from the border violence because many politicians and the military are there. 
+
+Consumption of drugs is not recommended while you are in Mexico because although possession of small amounts of all major narcotics has been decriminalized, consumption in public areas will get you a fine and will most likely get you in trouble with the police. The army also sets up random checkpoints throughout all major highways in search of narcotics and weapons. Drug consumption is also frowned upon by a large percentage of the population.
+
+Since the current drug war began in 2006, there has been occasional wild speculation in the North American English-language media about the risk that Mexico could become a "failed state" controlled directly by one or more drug cartels, with the obvious corollary that U.S. citizens would have to be evacuated with U.S. military assistance (as actually occurred in Liberia in 1990, Sierra Leone in 1992, Albania in 1997, Lebanon in 2006, and Haiti in 2010).  As a result, most U.S. border states have publicly acknowledged preparing detailed contingency plans for that possibility, which would require the deployment of a massive number of National Guard troops to secure the U.S.-Mexico border and deal with thousands of Mexican refugees seeking asylum in the U.S.
+
+However, apart from the notorious exception of a single elite military unit that changed sides and became the Los Zetas cartel, the vast majority of Mexican military and police units continue to demonstrate their loyalty to the democratically elected federal government in Mexico City.  As of 2012, only three state governments (out of 31 states) are thought to have been compromised by the cartels (according to the ''Los Angeles Times'').  Furthermore, as of 2013, the country's security situation has improved significantly under President Enrique Pena Nieto, to the extent where heavily armed soldiers are not frequently seen as they used to be in major tourist areas like Los Cabos and Cancun.  Thus, the actual probability of an unexpected regime change occurring during your visit is extremely low and should not discourage you from visiting Mexico.
+
+===Advice for the Beach===
+Jellyfish stings: vinegar or mustard on the skin, take some to the beach with you.
+
+Stingray stings: water as hot as you can bear - the heat deactivates the poison.
+
+Sunburns: Bring sunscreen if going to beaches because you might not find it available in some areas.
+
+Riptides: Very dangerous, particularly during and after storms.  Try to swim parallel to the beach even as you are being dragged out; eventually the tide will let go of you and then you can swim back to shore.  Do not tire yourself out by trying to swim to shore as the tide is pulling you out, as you will not have the energy to swim back to shore after the tide has let go of you.
+
+===Public transport===
+When in major cities &ndash; especially Mexico City &ndash; is better to play it safe with taxis.  
+The best options are to phone a taxi company, request that your hotel or restaurant call a taxi for you or pick up a Taxi from an established post ("Taxi de Sitio"). Also taxis can be stopped in the middle of the street, which is OK for most of the country, but might be unsafe in Mexico City.
+
+As chaotic as it might be sometimes, the subway (Metro)[http://www.metro.df.gob.mx/] is the best way to move around in Mexico City: it's cheap (MXN5 for a ticket as of Dec 2013), safe, has a large network covering almost anywhere you'd want to go in the city and it's extremely fast, compared to any on-street transportation, since it doesn't have to bear with the constant traffic jams. If you've never been in a crowded subway, avoid peak hours (usually from 06:00-09:00 and 17:00-20:00) and do your homework: check first what line (línea) and station (estación) you want to go to and the address of the place you're trying to reach. Your hotel can give you this information, and maps of the subway system are available on the internet and at the stations. Most stations also have maps of the vicinity.
+
+Avoid taking the subway at late hours of the night, but during the day many stations are patrolled by police officers and the subway is safer than taking the public bus, your major concern in the subway are pickpockets; so keep your important belongings and wallets in a safe place. 
+
+If you are travelling by bus do not put your valuables in your big bag in the storage room of the bus. If the police or the military controls the luggage they might take out what they need. Especially in Night Buses when passengers are most likely asleep. The use of a money belt (worn underneath the clothes and out of sight) is highly recommended. On some bus routes in Mexico (especially between cities) police may come in on the bus and film passengers on camera - that is a security measure, nothing to worry about. It is also a good idea to come in 10-15 minutes prior to departure of long-haul buses as sometimes they leave a few minutes earlier than scheduled.
+
+===Driving===
+* All distances on the signboards and speed limits are in kilometres.
+
+* Gas is also sold by the litre, ''not'' by the gallon, and it's a little bit cheaper than in the United States.
+
+If driving in from the [[USA]], always purchase Mexican liability insurance (legal defense coverage recommended) before crossing the border or immediately after crossing.  When you are paying for your temporary import permit (for going beyond border areas), often in the same building there are several stalls selling Mexican auto insurance.  Even if your American (or Canadian, etc.) insurance covers your vehicle in Mexico, it '''cannot''' (by Mexican law) cover liability (i.e. hitting something or injuring someone). You will probably spend time in a Mexican jail if you are involved in an automobile crash without it. And even if your own insurance does (in theory) provide liability coverage in Mexico -- you'll be filing your claim from behind bars!  Don't risk it, get Mexican auto insurance.
+
+Never drive above the speed limit or run stop signs/red lights as Mexican police will use any excuse to pull over tourists and give you a ticket. If pulled over by a police officer soliciting a bribe, do not pay the amount requested, but pull out USD50 or MXN500, and explain that it is all you have. This technique has worked in the past (but it does not work in Mexico City), but it is corruption. Corruption also is a crime in Mexico, so make a conscious choice. The fine for speeding could be as much as USD100, depending on the city. 
+
+As of April 2011, police across the country are cracking down on drunken driving, particularly in Mexico City, the larger cities and the beach resorts. There are random checkpoints throughout the country in which every driver has to stop and take an automated inebriation test. If you fail, you will end up in a Mexican prison. If you wouldn't drive drunk back home, don't do it in Mexico. 
+
+You will mostly find beggars and windshield cleaners in some red lights; having your windows closed at all times is especially recommendable in some areas of Mexico City. The windshield cleaners will try to clean yours: a strong and firm "NO" is suggested.
+
+Law Enforcement In Mexico
+The Mexican federal Police (Policia Federal) is the country wide law enforcement that has jurisdiction over all of Mexico. State and local cops patrol strictly their jurisdiction. Cops in Mexico are different and gets paid less. Some police department  are corrupt and should not be trusted.
+
+==Stay healthy==
+Some parts of Mexico are known for '''[[travellers' diarrhea]]''' that it is often called "Montezuma's Revenge" (Venganza de Moctezuma).  The reason for this is not so much the spicy food but the contamination of the water supply in some of the poorer zones in Mexico.  In most of the small towns that are less industrialized, only the poorest Mexicans will drink tap water.  The best policy is to only drink bottled or purified water, both of which are readily available.  Be sure to specify ''bottled'' water in restaurants and avoid ice (which is often not made from purified water) in non-alcohol drinks.  Just like in the USA, in most major Mexican cities the water is purified at the cities' water company.  In most restaurants in these poor zones, the only water served comes from large jugs of purified water. If you get sick, visit your local clinic as soon as possible. There is medicine available that will counter the bacteria.
+
+Medicine in urban areas is highly developed, public hospitals are just as good as public hospitals in US, and just as the American public hospitals, they are always full. It's recommended going to private hospitals for faster service.
+
+Before travelling to rural areas of Mexico, it might be a good idea to obtain '''anti-malarial medications''' from your health care provider. [http://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico '''The US "Centers for Disease Control and Prevention" also have recommendations for vaccines and staying healthy when travelling to Mexico.''']
+
+It is strongly advised that the traveller be sure that any meats they are consuming have been thoroughly cooked due to an increasing rate of '''roundworm''' infections, particularly in the Acapulco area.
+
+Along with the risk for malaria, mosquitoes have also been known to carry the '''West Nile virus'''. Be sure to bring an effective insect repellent, preferably one that contains the ingredient DEET.
+
+The rate of '''AIDS/HIV''' infection in Mexico is lower than in the US, France and most Latin American nations.
+
+As with any western location, cases of '''hantavirus pulmonary syndrome''' have been reported throughout Mexico. This is an acute, rare (but often fatal) illness for which there is no known cure. The virus is believed to be present in animal faeces, particularly faeces from members of the rodent family. Therefore, do not wander into animal dens and be especially careful when entering enclosed spaces that are not well ventilated and lack sunlight.
+
+Vaccination against '''Hepatitis A & B''' and '''Typhoid fever''' is recommended.
+
+If you are bitten by an animal, assume that the animal was carrying '''rabies''' and seek medical attention immediately for treatment.
+
+In remote areas, carry a first aid kit, aspirin, and other related items are sold without medical prescription.
+
+==Respect==
+Mexicans have a somewhat relaxed sense of time, so be patient. Arriving 15 minutes late is common.
+
+In Mexico, answering with ''what?'' = ''Que/ ¿Qué?'' it's considered a bit rude and will sound like if you have no respect for the person or that you are mad at them. 
+When someone said something, and you didn't understood what they said- or when people call you to ask for something you should use the word ''mande/ ¿Mande?''. This is a custom in Mexico since the time Spaniards where controlling the country, and made the indigenous people answer with ''Comándeme mi señor'' wich it later transformed into '''mande'''. To recap: if you want to sound friendly and respectful always use 'mande'. Some people may tolerate the 'que'' word, as you are a tourist and Mexicans know not everyone knows every custom they have.
+
+In Mexico the custom is to greet a person by kissing their right cheek just once (Many Mexicans will kiss someone at the time they are introduced rather than shake hands. No everyone will do so, but keep it in mind.) It is only between men-woman, woman-woman. 
+
+When anyone, even a total stranger, sneezes, you always say "¡salud!" ("bless you!" or more literally, "your health!"): otherwise, it is considered rude. In rural areas, particularly in the Mexican heartland (Jalisco, Zacatecas, Aguascalientes, etc.), the even more pious "Jesús te bendiga" or ''Jesús'' (May Jesus bless you) will follow a sneeze. 
+
+The great majority of the population is and traditionally has been Roman Catholic, and there is still a strong following of this faith among Mexicans from all socioeconomic backgrounds. However, missionary activity from the US made a sizable Protestant community, and even the smallest towns seem to have an Evangelical or Pentecostal church. One of the world's largest communities of Jehovah's Witnesses also resides in Mexico. Smaller communities, like Mormons and Jews also live in small concentrated areas throughout the Republic. 
+
+In many respects, Mexico is still a developing country, and attitudes towards LGBT travelers can at times be hostile. However, Mexico City legalized same-sex marriage and the supreme court ruled that these marriages must be recognized by all states in the rest of the republic, thus tacitly making same-sex marriage legal in the whole country (provided the wedding takes place in [[Mexico City]] or certain states such as Quintana Roo, Guerrero, Chihuahua, or Coahuila). Just as it is not wholly accepted in the rural [[United States]] or rural [[Canada]], it is not accepted in rural Mexico. But within cities, there is a much more relaxed atmosphere.
+
+When entering churches, always take off any sunglasses, caps or hats. Wearing shorts is rarely a problem, but still wear a sweatshirt or sweater around your waist to avoid showing too much skin, which could be disrespectful in such places. However, away from the beaches, or northern areas, shorts are very rarely worn by Mexicans on the street and thus will attract more attention to you and may make you stand out as a foreigner.
+
+Respect Mexico's laws. Some foreigners hold on to the popular misconception that Mexico is a place where laws can be broken and the police bribed at all times. Corruption may be more common among Mexican police and public figures, but Mexican society as a whole has been coming to terms and undertaking various measures to eradicate systemic corruption from the ground up. So when foreign nationals behave in a manner which shows expectancy of this easy bribery, it will be considered extremely distasteful and disrespectful, as well as sufficient incentive for local police to give you "a respect lesson". Remember, offering a bribe to an official could get you into trouble.
+
+Like in other countries; politics, economics and history are very delicate issues, yet in México they are also considered good conversation pieces when conversing with foreigners. Just like in Europe, Canada and the US, Mexico's democracy is vibrant and diverse, and people have a variety of opinions. As Mexico only recently became a true viable democracy, however, there is an eagerness on behalf of Mexicans to share their opinions and political ideas with you. Common sense applies, just like it does in your country: If you don't know enough about Mexico's political landscape, ask as many questions as you like, but avoid making broad generalizations or strong statements.
+
+Many US citizens (and to a lesser extent other foreigners) make careless mistakes while conversing with Mexicans. Mexicans, while strong and thick-skinned, can also be very sensitive. So avoid talking frankly or imprudently about Mexico's flaws, unless prompted by someone you really trust. Avoid making comparisons that might be interpreted as if you consider Mexico is in some way inferior to your home country. Mexicans are very well aware of their country's problems: if you let Mexicans talk long enough, they will eventually point out their country's shortcommings to you for themselves at length. Unless it's habitual or expected, avoid the more contentious topics of illegal immigration to the US, the drug trade, the monopolies: these are complex, gloomy issues that generally everybody tries to avoid. Mexicans can be very analytical, but their reasoning manifests itself in ways which appear informal or unorthodox to foreigners: unless absolutely critical, it's safe to assume Mexicans understand your explanations, even if they reach your conclusions by some other method, process or reasoning. Sometimes people may want to avoid continually overanalyzing heavy issues and may instead want light banter or lighter topics. In this case, you may want to mix it up, by talking about Mexico's better qualities: the food, the friendly people, the scenery, the culture. This will make you a very good friend in a country that can seem menacing to take on by yourself.
+
+Do not assume that because you are a US citizen, you are an immediate target for kidnapping: the vast majority of kidnapping victims are Mexicans, not foreigners. "Don't panic". Do not be overly cautious, especially if you have hosts that are taking care of you and know where —and where not— to go: you run the risk of annoying your hosts, or making the situation unnecesarily awkward by giving them reasons to suspect you do not trust them.
+
+As a general rule —for better or worse— wealth and social status are historically tied to European ancestry and skin color. On the one hand, systemic racism is illegal, and overt expressions of personal racism (i.e., racist slurs) are frowned upon. Although the majority of Mexico's population are ''not'' of solely European ancestry (they are mostly mestizo or Amerindian), you will immediately notice that the characters in the country's cinema, television, advertising and other popular media are overwhelmingly portrayed by persons of European descent. That is, Mexico has not participated in the dialogue that has been going since the 1960s in the United States about developing media products that make at least a token attempt to reflect the true racial and ethnic diversity of the country for which they are produced.
+
+To a large degree, Mexican society is sharply divided by social class; with the rich, middle class, and poor often living very separate lives, with very distinct, sometimes mutually exclusive cultural tastes and practices. Regardless of substantial inter-class solidarity; clubs, bars, and restaurants largely cater either to one crowd or another, and a wealthier person or tourist might be made to feel out of place in a working class cantina; a poor looking person may get unfriendly treatment or be blatantly refused service at an exclusive establishment. 
+
+There are many words in the country for refering to people according to their ethnic background:
+
+Do not be offended to be called a "güero(a)" (blonde) and its diminutive form "güerito(a)" (blondie), as its a common way for the average Mexican citizens to refer mostly to Caucasian people, including white Mexicans. The words "gringo" and its synonym "gabacho" are used regardless of the actual nationality of the tourists and should not they be taken as offensive nouns. Actually, they are often used as terms of affection.
+
+If you are East Asian, you will be referred to as "Chino(a)" (Chinese) and its diminuitive form "chinito(a)" regardless of whether you are Thai, Japanese, Vietnamese, Filipino, Korean, etc. You will find exceptions to this umbrella term in Mexico City, Mexicali, Monterrey and other urban centers with decent-sized asian diaspora communities do exist. If you point out to a Mexican that you are not "Chino" but actually from another country, they will then call you by that demonym.
+
+If you are black, the term "negro(a)" or "negrito(a)" may seem harsh, especially if you are from the US, but by no means is "negro(a)" a term of contempt. There aren't that many black people in Mexico (except on the east and west coasts in the south); even then, Vicente Guerrero, a mulatto (of mixed European and African descent) became a key leader of the resistance during Mexico's independence and later became the second president. Mexicans, especially the younger generations, are not prejudiced or discriminatory. They might even get a "kick" out of fraternizing with someone who is black, as black people are sometimes regarded as contributory to a small or distant town's "cosmopolitanism".
+
+Historically, all Middle Easterners were refered to as "turcos" (even if they were from Egypt, Lebanon, Syria, etc). Younger generations with better notions of geography will probably not use this term.
+
+(All of these are informal terms of endearment. You will hardly ever see them used in serious discussion, or in writings of an academic or journalistic nature.)
+
+People address each other depending on their social status, age and frienship.
+
+If you try to use your Spanish to address people, be careful to distinguish between the use of the personal pronoun "tu" (informal, friendly) and its counterpart "usted" (formal, respectful). Using "tu" can be demeaning to people, specially when used on strangers, since this is the form traditionally used for addressing close friends or children. For foreigners, the best way to deal with the "tu" and "usted" confusion is to always address people using "usted" until invited to use "tu" (or until given clear hints that the relationship has evolved into a frienship, such as being addressed by your first name). Using "usted" all the time will perhaps make you sound a shade old-fashioned but definetely always respectful. Trying to learn the difference between "tu" and "usted" in the real world will expose you to the risk of sounding embarrassingly uneducated and/or awkwardly overfamiliar. Always use the "usted" personal pronoun when adressing law enforcement officers (or other authority figures), even if they use "tu" to address you.
+
+To recap: unless the person is genuinely your friend, the person is under 16, or the person tells you explicitly to use "tu"; use "usted".
+
+The rules for "usted" also apply to the personal pronoun "contigo" (informal, friendly) which is substituted in favor of "con usted" (formal, respectful).
+
+To refer to a woman, always call her "señorita" (Miss) unless you are sure that she is married, then you call may her "señora" (Mrs). When talking to an older man, use "señor" irrespective of his marital status. If you want to call a waiter, address him as "joven" ("young man") if he is younger, and "caballero" (gentleman) if he is the same age or older than yourself. In formal settings it is common for people to address each other by their professional title ("ingeniera", "arquitecto" "doctora" "oficial", etc). Actually Mexican people will use the "tu" and the "usted", "first name" or "surname" depending on their relationship, the setting, the company present, and all sorts of contextual cues, all of which makes for a code is not easy to learn. Even Mexicans themselves and other native spanish-speakers make mistakes.
+
+While the noun "güey" is reasonably equivalent to "dude" or "mate" among young people, it's categorized as a swear word by older generations. Which is why it's considered very rude to use it to address people older than yourself. This abrasive term of endearment is used only between (and in the company of) people who have achieved a certain high level of trust, so avoid using it otherwise.
+
+In spanish, the adjective "estúpido" means far, far worse than "stupid" does in English.
+
+Due to the highly matriarchal nature of Mexican culture, the combination of words "tu madre" (your mother) is cacophonous and taken offensively by spanish-speakers, regardless of age or gender. If you must use it, remember to replace it with "su señora madre" at formal situations or the sweeter "tu mamá" at informal ones. Never ever use strong language when talking to a female. If the female asks you to, do so with caution.
+
+There is a strong degree of male courteousness towards women. This is manifested in standing up when a lady enters a room, opening or holding a door, conceding preference or rights of way, giving up a seat, offering a hand when stepping down from a steep step, etc. While normally considered flirtatious or patriarchal by foreigners, these behaviours constitute a sign of respect for women. And are generally reserved for older women, or females of great power, merit and social stature. Rejecting these types of friendly gestures is considered arrogant or rude.
+
+==Contact==
+You can call from public phones using prepaid tel. cards ''tarjetas ladatel'', bought at magazine stalls. Cards can be purchased in MXN30, 50 or 100 denominations. The rate to call the US is roughly equivalent to USD0.50  per minute. Beware these are different than tarjetas ''amigo, viva,'' or ''unefon'': they are for cellphones. 
+
+Some areas have only a few internet cafes; in others, they are plentiful. Common fees vary from MXN7/h to MXN20/h. Currently, most of the internet cafes offer calls to the US for a better rate than a payphone, usually via VoIP.
+
+If you have an unlocked GSM phone, you can buy a prepaid SIM card in Mexico and have a local mobile phone number for use in cases of emergency. ROAMFREE Mobile provides free travel phones with good coverage throughout the country and you can get a SIM card for MXN150 with MXN100 talk time, look them up on the Internet before you leave. If you have an iPhone, you should purchase a package of data with ROAMFREE Mobile, as pay-as-you-go internet is extremely expensive. [http://bkpk.me/getting-3g-internet-in-mexico/]. For unlocked phone you can also buy a Telcel SIM (e.g. in one of Telcel offfices) for 200 pesos which has 1GB of data, calls and SMS, with coverage across Mexico. Note that you might not be able to recharge the SIM bought in one region (e.g. Mexico City) in another (e.g. Tulum) and might need to get a new one for 100 pesos.
+
+It is often far cheaper than what hotels will charge you and incoming calls may also be free under certain schemes. Mexico operates on the same GSM frequency as the United States, 1900Mhz. Wireless Internet connections are available in almost every major restaurant, hotel, and shopping mall in the big cities.
+
+If you're staying for over a week and don't have a unlocked phone, it might be a good idea to buy a cheap (<MXN200) handset and buy a prepaid card. Here it would be advisable to '''not purchase a Telcel card''' (biggest company and usually cheaper cards) but from some other company who does not charge you roaming costs if you are not in the city you bought it.
+
+==Get out==
+
+===To Belize===
+There are bus services available from [[Chetumal]] to [[Belmopan]] and [[Belize City]], as well as a bus to [[Belize City]] from [[Cancun]].
+There is also a once daily boat service going from [[Chetumal]] to [[Ambergris Caye]] and [[Caye Caulker]]. Although more expensive than going via bus to Belize City and getting a boat from there to the cayes, this direct boat is much quicker.
+
+===To Guatemala===
+Over Tenosique, La Palma, by boat on the river Rio San Pedro to Naranja ([[Guatemala]]).
+This route is not used by many and still has a touch of adventure. Stay firm when negotiating over the price. Absolutely important! Make sure you get your passport stamped before you leave Naranja or you might catch one of the rare buses back and take a walk through the jungle as the emigrations office is part up the river between the Mexican border and the village.
+
+===To the United States of America===
+The U.S. generally requires a passport for entry. A few express ID cards and trusted traveler cards are also acceptable.  U.S. and Canadian citizens seeking entry or reentry by land or sea may use an Enhanced Driver License in place of a passport.  U.S. permanent residents need their permanent resident card, but do not need a passport. 
+
+Foreign nationals entering the United States without a permanent resident stamp, including those on the Visa Waiver Program, typically receive an I-94 Arrival-Departure Record or I-94W Visa Waiver Arrival-Departure Record upon arrival in the United States. So long as the I-94 has not expired, you can use it to reenter the United States with your passport; however, if you hand it in upon exit, you will need to obtain a new card if your visa allows another entry or, if on the Visa Waiver Program, pay a fee of about USD6 to reenter the United States.
+
+Unless you are not going to return to the United States, '''keep your I-94 when leaving the [[United States of America]]''' or you will have a difficult time getting back in, and if your visa is limited to a certain number of entries, you may need to use another entry.
+
+Visa Waiver participants cannot reset the 90-day counter unless they leave the Western Hemisphere, so ducking into México will not allow you another 90 days.
+
+{{related|Driving_in_Mexico}}
+
+
+{{isPartOf|North America}} 
+{{outline}}
+{{countryguide}}
+
+[[ca:Mèxic]]
+[[de:Mexiko]]
+[[eo:Meksiko]]
+[[es:México]]
+[[fi:Meksiko]]
+[[fr:Mexique]]
+[[hi:मेक्सिको]]
+[[hu:Mexikó]]
+[[it:Messico]]
+[[ja:メキシコ]]
+[[nl:Mexico]]
+[[pl:Meksyk]]
+[[pt:México]]
+[[ru:Мексика]]
+[[sv:Mexiko]]
+[[zh:墨西哥]]
+[[wts:Category:Mexico]]
+
+[[Category:Countries]]
+[[WikiPedia:Mexico]]
+[[Dmoz:North America/Mexico/]]

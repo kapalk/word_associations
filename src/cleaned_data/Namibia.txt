@@ -1,0 +1,334 @@
+{{pagebanner|Namibia Banner.jpg}}
+
+{{quickbar
+| image=OryxDune_Flip666.jpg
+| caption=a oryx in the Namibrand Game Reserve
+| flag=Flag of Namibia.svg
+| location=Namibia in its region.svg
+| capital=[[Windhoek]]
+| government=Republic
+| currency=Namibian dollar (NAD), South African rand (ZAR)
+| area=''total:'' 824,292 km<sup>2</sup><br />''water:'' 1,002 km<sup>2</sup><br />''land:'' 823,290 km<sup>2</sup>
+| population=2,100,692 (July 2006 est.)
+| language=English 7% (official), Afrikaans common language of most of the population and about 60% of the white population, German 32%, indigenous languages: Oshiwambo spoken as a first language by 49%, Herero spoken as a first language by 9%, Nama spoken as a first language by 11%
+| religion=Christian 80% to 90% (Lutheran 50% at least), indigenous beliefs 10% to 20%
+| electricity=220-240V/60HZ (Plug type M is predominant, but plug type C is common)
+| callingcode=264
+| tld=.na
+| timezone=UTC +1h
+}}
+
+'''Namibia''' [http://www.namibiatourism.com.na] is in [[Southern Africa]], bordering [[South Africa]], [[Botswana]], [[Angola]], [[Zambia]] and the Atlantic Ocean. Formerly a colony of [[Germany]], Namibia was administered by South Africa under a League of Nations mandate after WWI, and annexed as a province of South Africa after WWII. The South-West African People's Organization (SWAPO) launched a guerrilla war for independence in 1966, but did not gain independence until 1990.
+
+Namibia boasts remarkable natural attractions such as the Namib desert, the [[Fish River Canyon Park]], [[Etosha National Park]] and the Kalahari desert. Its people speak nine different languages, including some of the Khoisan languages which include the 'clicks' that present an enigma to most native English-speakers. Namibia produces some of the world's highest quality diamonds.
+
+==Regions==
+{{Regionlist
+| regionmap=Map-Namibia03.png
+| regionmaptext=Regions of Namibia
+
+| region1name=[[Caprivi]]
+| region1color=#336699
+| region1items=
+| region1description=The panhandle in the north-east of the country. With two major rivers, the Caprivi is one of the few areas of Namibia that have water.
+
+| region2name=[[Northern Namibia]]
+| region2color=#006633
+| region2items=
+| region2description=North of the Ugab river mouth to the border with [[Angola]].
+
+| region3name=[[Central Namibia]]
+| region3color=#cc3333
+| region3items=
+| region3description=Between the Tropic of Capricorn and the Ugab river mouth.
+
+| region4name=[[Southern Namibia]]
+| region4color=#ffcc00
+| region4items=
+| region4description=South of the Tropic of Capricorn.
+}}
+
+==Cities==
+*[[Windhoek]] -- Namibia's capital and largest city.
+
+*[[Keetmanshoop]] -- Small town on the rail lines and highway, jumping off point for treks in the [[Fish River Canyon Park]].
+*[[Lüderitz]] -- Colonial-era German coastal town.
+*[[Ondangwa]] and [[Oshakati]] -- Twin towns in the heart of Owamboland, northern Namibia.
+*[[Outjo]] -- Gateway to the Etosha National Park, Koakoveld and Damaraland.
+*[[Swakopmund]] -- Coastal town, a mecca for Namibians on holiday. 
+*[[Tsumeb]] -- Mining town east of Etosha.
+*[[Tsumkwe]] -- rural desert town surrounded by San (Bushmen) villages.
+*[[Walvis Bay]] --  Desert sports.
+*[[Warmquelle]]
+
+==Other destinations==
+*'''Brandberg Mountains''' -- The highest mountain in Namibia at 2 573 m.
+*[[Etosha National Park]] 
+* '''Kolmanskop''' -- A ghost town just outside [[Lüderitz]].
+*[[Waterberg Plateau Park]] -- Another good place to watch wildlife.
+*[[Sossusvlei]] -- The most popular entry point for people wanting to visit the Namib desert.
+*[[Skeleton Coast National Park | Skeleton Coast]] -- The northern coastal part of the Namib desert, named for the dozens of ships that were beached in the thick fog that is frequent where the desert meets the Atlantic.
+*[[Spitzkoppe]] -- the Matterhorn of Namibia.
+*[[Fish River Canyon Park]]--The second largest canyon in the world.
+*[[Opuwo]]-- capital of Kunene Region and an ideal starting point for stocking up before venturing further into Kaokoland and the rest of NW Kunene.
+*[[Kaokoland]] - home to the Himba tribe, desert elephants, desert lions, Epupa Waterfalls and many more attractions in this north-western corner of Namibia.
+*[[NamibRand Nature Reserve]] - The largest privately owned nature reserve on the continent and the only International Dark Sky Place on the continent as well.
+
+==Understand==
+
+Some of the earliest archeological evidence comes from the first migration into Namibia around 850 BCE. People, now understood to be Ovambo, San, and Herero moved into Namibia over the next centuries, bringing ironwork and pastoral technologies. Some groups like the ǂAonin appear in the archeology record and oral histories but have faded into other groups since colonization. The Germans arrived in earnest in the 1880s. Through a process of military domination and coercion, the Germans took precarious control of much of central Namibia (at the time called South West Africa). This colonization was fought by the Witbooi and Herero clans, along with others. In 1904, the Germans and Herero fought the Battle of the Waterberg--leading to the Herero defeat. The Hereros and Nama were given the choice: flee into the Kalahari (were water holes were heavily guarded by German soldiers with orders to shoot to kill) or become part of the German labor machine and eventually succumb to the Herero-Nama Genocide from 1905-07. 
+
+South Africa (British colony) defeated the Germans in SWA during World War I. In 1921 the South Africans were given a mandate over Namibia from the League of Nations. South Africa stayed long after this mandate expired. The South Africans attempted a more vigorous control of the territory than the Germans ever had. This included forced relocations (moving Africans to land which was not fertile in an attempt to make them dependent on the state). In the 1950s, apartheid policies championed by the Nationalist party in South Africa were introduced in Namibia. Many Namibian revolutionaries to appealed to international organizations and international courts. 
+
+In the 1960s, bullets and bombs began to fly between SWAPO's armed wing and the SADF. This corresponded with labour strikes, including miners and teachers in Namibia and South Africa (along with the United States' Civil Rights Movement). By 1988, it was clear that SWAPO (with assistance from the Cubans, Russians, and Angolan Liberation Fighters) was going to win. International favour--including from the USA--had turned against apartheid South Africa. Plans for an independent Namibia began to be drafted. Sam Nujoma, the leader of the revolutionary movement was elected president of Namibia in 1990. Namibia has continued to operate a one-party electoral democracy since that time with SWAPO majorities continuing to be elected. Yet, like elsewhere in southern Africa, the limits of reform--particularly on the issue of land rights-- and the increased vote of young people who were not part of the liberation struggle are perhaps beginning to chink away at the support for SWAPO. 
+
+It is important to be aware that race is a common part of Namibian discourse. Namibians will refer to the race of others more frequently than travellers from places where race is typically ''not'' an issue. Because of apartheid, race is an issue in many spheres of life, so it comes up a lot. In spite of this, the various races do get along well in Namibia, and it is fairly uncommon to find racial tensions flaring. Apartheid was never implemented as strictly in Namibia as in South Africa, so racial tensions are generally lower.
+
+Namibia is similar to South Africa, and if you're used to travelling in one country, travelling in the other country is quite easy. There are some subtle differences. For example, in South Africa a non-white person may choose to speak English rather than Afrikaans (as a political choice) whereas among Namibia's mixed-race population (who call themselves 'colored' in Namibia and South Africa) Afrikaans is a proud part of their culture, and many people still speak German.  Overlooking these differences isn't going to cause offence, but they're handy to know.
+
+The public holidays in Namibia are:
+* <listing name="January 1"> New Years' Day</listing>
+* <listing name="March 21" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">Independence Day</listing>
+* <listing name="Easter weekend">("Good Friday", "Easter Saturday", "Easter Sunday" and "Easter Monday"): a four day long weekend in March or April set according to the Western Christian dates.</listing>
+* <listing name="May 1">Workers Day</listing>
+* <listing name="May 4">Cassinga Day</listing>
+* <listing name="May 25">Africa Day</listing>
+* <listing name="August 26" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">Hereros peoples' Day</listing>
+* <listing name="December 10">Human Rights Day</listing>
+* <listing name="December 25">Christmas Day</listing>
+* <listing name="December 26" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">Day of Goodwill (Family Day)</listing>
+
+==Get in==
+
+===Visas===
+
+Nationals of [[Angola]], [[Australia]], [[Austria]], [[Belgium]], [[Botswana]], [[Brazil]], [[Canada]], Countries in the [[Commonwealth of Independent States]], [[Cuba]], [[Denmark]], [[Finland]], [[France]], [[Germany]], [[Iceland]], [[Ireland]], [[Italy]], [[Japan]], [[Kenya]], [[Lesotho]], [[Liechtenstein]], [[Luxembourg]], [[Malaysia]], [[Malawi]], [[Mauritius]], [[Mozambique]], [[New Zealand]], [[Netherlands]], [[Norway]], [[Portugal]], [[Russia]], [[Seychelles]], [[Singapore]], [[South Africa]], [[Spain]], [[Swaziland]], [[Sweden]], [[Switzerland]], [[Tanzania]], [[Turkmenistan]], [[Ukraine]], [[United Kingdom]], [[United States of America]], [[Venezuela]], [[Zambia]] and [[Zimbabwe]] may enter Namibia visa-free for up to 90 days.
+
+Nationals of [[Hong Kong]] and [[Macau]] may enter Namibia visa-free for up to 30 days.
+
+Visitors not from the above countries need to apply for a visa from the Namibian consulate in their country of origin or the <listing name="Ministry of Home Affairs" alt="" address="Private Bag 13200, Windhoek" directions="" phone="+264 61 292-2111" url="" hours="" price="" lat="" long="" email="" fax="+264 61 223-817"></listing>. 
+
+If you require a visa to enter Namibia, you might be able to apply for one at a British embassy, high commission or consulate in the country where you legally reside if there is no Namibian diplomatic post. For example, the British embassies/consulates in Al Khobar[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null], Jeddah[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null] and Riyadh[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null] accept Namibian visa applications (this list is '''not''' exhaustive). British diplomatic posts charge £50 to process a Namibian visa application and an extra £70 if the authorities in Namibia require the visa application to be referred to them. The authorities in Namibia can also decide to charge an additional fee if they correspond with you directly.
+
+All visitors require a passport valid for at least 6 months after exit from Namibia.
+
+Always verify the dates stamped into your passport, because there have been cases where corrupt officers stamp wrong dates to fine people for overstaying when they leave, and these fines are huge.
+
+===By plane===
+Hosea Kutako International Airport, located 45 minutes east of [[Windhoek]], is the main entry point for air traffic. Air Namibia [http://www.airnamibia.com] operates flights from [[Frankfurt]], [[Cape Town]], [[Johannesburg]], [[Victoria Falls]] and [[Maun]] to the international airport. Flights between the smaller Eros Airport and [[Cape Town]] are also available. South African Airways [http://www.flysaa.com] and no-frills Kulula.com [http://www.kulula.com] operate flights from [[South Africa]], too. See [[Discount airlines in Africa]] for more options.
+
+===By car===
+There are 9 commonly used border posts with neighbouring counties:
+
+====[[Angola]]====
+* <listing name="Oshikango" alt="Santa Clara" directions="" address="" phone="+264 (0)65 26-4615" email="" fax="+264 65 26616" url="" hours="" price=""></listing>
+* <listing name="Ruacana" alt="" directions="" address="" phone="+264 65 270290" email="" fax="+264 65 270=010" url="" hours="" price=""></listing>
+
+====[[Botswana]]====
+* <listing name="Buitepos" alt="Mamuno" directions="" address="" phone="+264 62 56-0404" email="" fax="+264 62 56-0418" url="" hours="" price="">On the '''Trans-Kalahari-Highway''', connecting the B6 and ''A2'' between [[Gobabis]] and ''[[Ghanzi]]''</listing>
+* <listing name="Mhembo" alt="Shakawe" directions="" address="" phone="+264 66 25-9900" email="" fax="+264 66 25-9902" url="" hours="" price=""></listing>
+
+====[[South Africa]]====
+* <listing name="Araimsvlei" alt="Naroegas" directions="" address="" phone="+264 63 28-0057" email="" fax="+264 63 28-0058" url="" hours="" price="">Connecting the B3 and ''N14'' between [[Karasburg]] and ''[[Upington]]''</listing>
+* <listing name="Verloorsdrift" alt="Onseepkaans" directions="" address="" phone="+264 63 26-9134" email="" fax="" url="" hours="" price="">Connecting the C10 and ''R358'' between [[Karasburg]] and ''[[Pofadder]]''</listing>
+* <listing name="Noordoewer" alt="Vioolsdrift" directions="" address="" phone="+264 63 29-7122" email="" fax="+264 63 29-7021" url="" hours="" price="">Connecting the B1 and ''N7'' between [[Keetmanshoop]] and ''[[Springbok]]''</listing>
+* <listing name="Oranjemund" alt="Alexander Bay" directions="" address="" phone="+264 63  23-2756" email="" fax="+264 63  23-3483" url="" hours="" price=""></listing>
+
+====[[Zambia]]====
+* <listing name="Wenela" alt="Sesheke" directions="" address="" phone="+264 66 25-3430" email="" fax="+264 66 25-2293" url="" hours="" price=""></listing>
+
+===By bus===
+The most convenient international bus service into Namibia runs from [[Cape Town]] and [[Victoria Falls]]. There is also service from [[Johannesburg]]. See Intercape Mainliner [http://www.intercape.co.za] for schedules and fares. Using a combination of buses, [[hitchhiking]] and kombis you can also get to Namibia from anywhere in [[Botswana]].
+
+===By train===
+The regular overnight train from [[Upington]] in [[South Africa]] to [[Windhoek]], operated by TransNamib [http://www.transnamib.com.na/Starline.htm], has been discontinued. It is no longer possible to get into or out of Namibia by train.
+
+==Get around==
+[[Image:Map-Namibia01.png|thumb|330px|right|Map of Namibia]]
+
+===By car===
+Despite the vast distances in Namibia, most people get around by land, and not air. If renting a car, plan to have plenty of cash on hand to fill the tank with petrol. Petrol stations typically do not accept any form of payment except cash. A small tip for the attendant pumping your petrol of NAD 3-5 is quite common. If you are on the back roads of Namibia, it's always wise to stop and top-off your tank when you see a service station. Fuel shortages are also common so always be prepared for the possibility of not being able to buy as much petrol as you may like. 
+
+Namibia's roads are very good, with primary routes paved, and secondary routes of well-graded gravel. An all-wheel drive vehicle is not necessary except on tertiary roads and the Skeleton Coast. Driving at night is very dangerous because there is a '''lot''' of wildlife on the roads. Traffic drives on the left. Namibian roads eat tires. Always check your spare and inspect your tires often. It's a good idea to purchase the tire insurance that your rental car company might offer, too. 
+
+Namibians often estimate the time to drive between places according to their experience driving quickly on dirt (untarred) roads. Add a third and you will arrive alive with kidneys intact!
+
+Before you reserve a car let the rental company send you a copy of it's rental agreement. Most of them have many (and sometimes absolutely ridiculous) restrictions. Take your time to compare them according to your needs.
+
+* <listing name="Europcar Car Hire" alt="Car Hire" directions="" address="" phone="+264 61-227103" email="info@europcar.co.za" url="http://www.europcar.co.za" hours="" price="">Car rentals in Namibia.</listing>
+* <listing name="Kalahari car hire" alt="Car hire Windhoek" address="109 Daan Bekker Street, Windhoek" directions="" phone="+264 61 252 690" url="" hours="" price="" lat="" long="" email="iti07553@mweb.com.na"></listing>
+* <listing name="CABS Car hire Namibia" alt="Car hire Windhoek" address="282 Independence Ave, Windhoek" directions="" phone="+264 61 305 912" url="http://www.cabs.com.na" hours="" price="" lat="" long="" email="info@cabs.com.na"></listing>
+* <listing name="Windhoek Car Hire" alt="Windhoek Car hire" address="124 Andimba Toivo Ya Toivo Street, Windhoek" directions="" phone="+264 61 306 553 " url="http://www.windhoekcarhire.com" hours="" price="" lat="" long="" email="info@windhoekcarhire.com"></listing>
+* <listing name="Thrifty Car Rental" alt="" directions="" address="" phone="+264 61 220 738" email="" fax="" url="http://www.thrifty.co.za/" hours="" price="">Offers 24 hour car rental service for a scenic drive through Namibia</listing>
+* <listing name="AAA Car Hire" alt="" directions="" address="" phone="+264 811 246 286" email="info@namibweb.com" fax="+264 61 244558" url="" hours="" price="">Sedan, 4WD and bus rentals in Namibia.</listing>
+* <listing name="Dial A Cab" alt="Taxi Service in Windhoek" directions="" address="" phone="+264 811270557" email="k-dial-a-cab@iway.na" url="" hours="24 hours a day" price="N$70"></listing>
+
+===By minibus taxi===
+It is quite easy to get around using combies (shared or long-distance taxis). Just ask around to find out where the taxi rank is (sometimes there are several taxi ranks, each one with departures to different areas of the country). Drivers are not in the habit of overcharging foreigners.
+It is an everyday thing to also use taxis (4 passengers) to get around.
+
+===By bus===
+* <listing name="TransNamib" alt="" directions="" address="" phone="" email="" fax="" url="http://www.transnamib.com.na/Starline.htm" hours="" price="">Operates air-conditioned buses (and trains) to destinations all over Namibia via their '''StarLine''' service.</listing>
+
+===By train===
+The national railway company of Namibia, TransNamib [http://www.transnamib.com.na/Starline.htm], operates trains (and buses) to destinations all over Namibia via their '''StarLine''' passenger service. Some routes available are<br>
+*[[Windhoek]]-[[Otjiwarongo]]-[[Tsumeb]]
+*[[Windhoek]]-[[Gobabis]]
+*[[Windhoek]]-[[Swakopmund]]-[[Walvis Bay]]
+*[[Windhoek]]-[[Keetmanshoop]] (formerly also to [[Upington]] in [[South Africa]] but not any more)
+*[[Walvis Bay]]-[[Swakopmund]]-[[Tsumeb]]
+
+The StarLine scheduled service conveys passengers via special coaches hooked on the back of freight trains. These passenger coaches offer comfortable airline-style seating with air-conditioning and (sometimes) video entertainment. Vending machines provide refreshments on long journeys. 
+<listing name="StarLine" alt="" directions="" address=" +264 (0)61 298-2032" phone="" email="paxservices@transNamib.com.na" fax="+264 (0)61 298-2495" url="" hours="" price=""></listing>
+
+Other rail services operating in the country are:
+* <listing name="Desert Express" alt="" directions="" address="" phone="+264 (0)61 298-2600" email="dx@transNamib.com.na" fax="+264 (0)61 298-2601" url="http://www.desertexpress.com.na" hours="" price="">The Desert Express is a luxury tourist train that traverses Namibia regularly, taking tourists to such destinations as [[Walvis Bay]], [[Swakopmund]] and [[Etosha National Park]]. Buses are used to transport visitors from train stations to the various sights.</listing>
+
+===By plane===
+* <listing name="Westwing" alt="" directions="" address="" phone="+264 (61) 221091" email="westair.com.na" fax="+264 (61) 232778" url="http://www.westair.com.na/schedule.htm" hours="" price="">Offers both scheduled and charter flights throughout the country</listing>
+
+===By tour===
+Several tour companies operate in Namibia. Each is unique in services offered but most operate with safety in mind.
+
+*'''[https://okutembuka.com/ Okutembuka Safaris]'''. A company that specialises in private guided day tours, multi-day tours or self-drive safaris.
+*'''On a Safari with [https://www.boundlessjourneys.com/ Boundless Journeys]''' guests see Namibia's highlights and off-the-beaten-path locations, stay on private reserves at luxurious properties where star beds are available, explore the remote and otherworldly landscapes with a local, expert guide on foot, bike, ATV, plane, and vehicle.
+**Twice-named as a Best Tour Operator by Travel + Leisure's World's Best Awards with safaris in Namibia including the highlights and off-the-beaten path adventures.
+*'''Apex Expeditions''' [http://www.apex-expeditions.com] leads a two-week Namibia safari (driving and fly-in) that includes Etosha National Park, Damaraland, Skeleton Coast, NamibRand Nature Reserve, and the nomadic Himba tribes. Lodges and camps are outstanding, and safari guides are well-known field leaders from South Africa.
+
+===By Motorcycle===
+For experienced off road drivers, with extensive gravel and sand long distance experience, there is one motorcycle rental company in Windhoek.
+They rent recent BMW Off road motorbikes, with optional GPS and paniers. As most vehicle rental companies, they can help with the planing of your tour.
+[http://www.namibikeadventure.com NamiBIke Adventure cc], 17 Parsival Street - Academia - Windhoek, ☎ +264 81 704 60 65, e-mail: info@namibikeadventure.com. 08.00 to 17.00. Motorcycle rentals in Namibia. 1.200 N$ to 2.600 N$ per 24h00.
+
+==Talk==
+Major indigenous languages include Oshiwambo, Otjiherero, Nama, Damara, Rukwangali, various San languages,and Silozi. 
+
+English is the official language and is widely spoken. However, the majority of older Namibians (those educated before independence) speak English only as a third language; therefore, the standard is fairly poor. English is more widely spoken in the north, as it was adopted as a medium of instruction earlier than in the south. Older Namibians in the South are more likely to speak Afrikaans or German.
+
+[[Afrikaans]] is spoken by many and is the first language of the Coloureds and the Afrikaners. English is spoken as a first language by the remaining English families, and [[German]] is spoken by the Namibians of  German descent, who tend to be in [[Windhoek]], [[Swakopmund]] and various farms scattered through the country. German is one of the leading commercial languages as well. [[Portuguese phrasebook|Portuguese]] is spoken by immigrants from [[Angola]].
+
+==See==
+Namibia is a land of much natural beauty. To truly appreciate the country, you need to get out in the countryside, either on a tour or by renting a car, and take in the deserts, the mountains, the villages and all that Namibia has to offer.
+
+One of its most dominant features, and the one for which the country is named, is the '''Namib Desert''' that stretches for nearly a 1000 km along the Atlantic coast.  As one of the oldest deserts in the world, its sand takes on a distinctive rust colour and it has some of the highest sand dunes in the world. [[Sossusvlei]] is the most accessible part of the desert and is a magical place with its towering dunes that shift hues as the sun rises and sets. Further south, near the South African border, is [[Fish River Canyon Park|Fish River Canyon]], one of the largest canyons in the world. Stretching for 160 km, it is reaches 27 km across at its widest and nearly 550 m down at its deepest.  In the north of the country is the empty and mostly inaccessible [[Skeleton Coast National Park]].  It's a seemingly barren expanse of stone and sand famous for its fog and the number of shipwrecks along the coast.
+
+Perhaps not as plentiful as neighbouring [[Botswana]] or [[South Africa]], Namibia still has plenty of '''[[African flora and fauna|African wildlife]]''' to see.  This includes some local subspecies, such as desert lions, desert elephants and the Hartmann's Mountain Zebra, which are adapted to the harsh desert climate. Grazing animals like gemsbok, ostrich and springbok are also common. Namibia's '''national parks''' are an excellent place to start and one of the most famous is [[Etosha National Park]] in [[Northern Namibia]].  The park surrounds the Etosha salt pan, which attracts animals, particularly in the drier winter months, because it is a source of water in a very dry land.  Other notable spots to view wildlife are [[Waterberg Plateau Park]], the parks of the [[Caprivi]] and the remote [[Kaokoland]]. 
+
+Namibia has a German influence from colonial times that is still reflected in some of its buildings. [[Windhoek]] has a number of interesting buildings like the '''Christuskirche''', the '''train station''' and the castle-like '''Heinitzburg Hotel'''. [[Lüderitz]] is a colonial-era town with distinctive '''German Imperial and Art Nouveau styles'''. Nearby is the abandoned mining town of '''Kolmanskop'''. Once a thriving center for diamonds, the miners moved on and the sand dunes have moved in, but tours are still available.
+
+==Buy==
+[[Image:Namibia-Money01.jpg|thumb|200px|Money]]
+
+The official currency of Namibia is the '''Namibian Dollar (N$)''', which is subdivided into 100 cents. Namibia (''along with [[Lesotho]], [[South Africa]] and [[Swaziland]]'') is a member of the ''Southern African Common Monetary Area'', and as such the Namibian Dollar is pegged 1:1 to the South African Rand (ZAR). Both the Namibian Dollar and South African Rand are legal tender in Namibia, though change will usually be given in Namibian Dollars. 
+
+Banks in Namibia will convert Namibian Dollars for South African Rand and vice versa without charge or paperwork. Since any bank or currency exchange outside Namibia (''including other members of the Common Monetary Area'') will charge a substantial service fee to change currency, it is advisable to make use of a Namibian Bank before leaving the country. 
+
+It is also advisable to carry proof (''for example, ATM receipts'') that money you are taking out of the country is money that you brought into the country in the first place. 
+
+Rough conversion rates (''Dec 2018'') are: '''14:1''' (USD)[https://www.google.com/search?q=1USD%3D%3FNAD], '''17:1''' (EUR)[https://www.google.com/search?q=1EUR%3D%3FNAD] and '''18:1''' (GBP)[https://www.google.com/search?q=1GBP%3D%3FNAD].  
+
+Automated teller machines are available in [[Windhoek]], [[Swakopmund]], [[Luderitz]], [[Tsumeb]], and other towns and cities. It is best to use only teller machines that are inside a mall or other building.  Many machines have guards in the larger centres. Always be careful to make sure no one is watching you enter your PIN, and be vigilant about typical scams (e.g. machines that seem to eat your card and won't give it back after you enter the PIN).
+
+Credit and debit card fraud is a major problem in the country.  Make sure you get a receipt for all processed and cancelled transactions. When entering your pin for a purchase, it is often customary for clerks to navigate past the sale price confirmation screen on POS terminals by clicking "ok" to the total sale amount on your behalf. While not a best practice for electronic financial transactions, it's *usually* not an ill intended manoeuvre on the part of the cashier. If you remain aware while completing transactions, you shouldn't have any problems.
+
+Prices in shops are fixed, but prices in open markets or from street vendors are open to bargaining.
+
+In most towns you will be approached by many locals to buy souvenirs. When this happens a 'no thanks' will usually suffice and they will leave you alone. It is common to haggle. Try to buy as much as possible from small shops instead of bigger ones -- it's the best way to help the poor local population.
+
+The cross-border money transfer facilities are limited and expensive, with one of the poorest currency buying-and-selling rates, because government does not want the money to be sent out of the country. There's a western union office across the street from the US embassy in Windhoek.
+
+==Eat==
+Namibians have a '''very''' high intake of meat. It is possible to be a vegetarian in Namibia.
+
+* Fruits and vegetables that you will find in Namibia include avocados, bananas, onions, oranges, pineapples, kiwi fruit, potatoes, and celery.  Also fairly common are peanuts, beans, rice, couscous, millet, tomatoes, corn, bread, and pasta. Many of these foods are imported and therefore relatively expensive, in addition to being limited due to seasonal availability. 
+
+* If visiting Windhoek, you will find local and international cuisine in the many diverse restaurants and cafes. Pretty much anything you want, you will find here.
+
+==Drink==
+Namibia's nightclubs are always happening and always open late (pretty much until the last person leaves). They are mostly located in bigger cities: [[Windhoek]], [[Swakopmund]] and [[Oshakati]]. There are not many bars, though there is very good beer, and there are a lot of shebeens.  The flagship beer of Namibia is Windhoek Lager [http://www.nambrew.com], an easy-drinking filtered beer, not dissimilar to many [[Germany | German]] brews.
+*<drink name="Christel Boltman" alt="" address="P O Box 12  Gochas" directions="South east from Mariental" phone="063250200" url="" hours="18h00-22h00" price="NS 220 pp" lat="" long="">3 course gourmet dinners on red dune under the stars accompanied with staff entertainment</drink>
+
+== Sleep ==
+
+There are a number of Hotel chains that operate nationally
+
+* <sleep name="Big Sky Lodges" alt="" address="22 Promenaden Road, Windhoek" directions="" phone="+264 0(61) 239199" lat="" long="" tollfree="" email="info@bigsky-namibia.com" fax="" url ="www.bigsky-namibia.com/" checkin="" checkout="" price="">Big Sky Lodges operate 5 establishments in strategic areas of Namibia. Each is unique to their environment but all offer the same distinctive attention to service .</sleep>
+
+* <sleep name="Wolwedans Collection of Camps & Lodges" alt="" address="NamibRand Nature Reserve" directions="" phone="+264 0(61) 230 616" lat="" long="" tollfree="" email="info@wolwedans.com" fax="+264 0(61) 230 102" url ="www.wolwedans.com/" >Wolwedans operate a collection of intimate luxury camps and lodges on the NamibRand Nature Reserve. </sleep>
+
+==Work & Volunteering==
+It is '''extremely''' difficult for foreigners to get work permits in Namibia. With over 51% unemployment, the government is not enthusiastic about letting people in who would take jobs from Namibians. All semi-skilled and unskilled positions must be unconditionally filled by local Namibians. It is possible to get a work permit to volunteer, though this requires going through the same drawn out process as the normal work permit.
+
+An employee's salary is normally paid in Namibian dollars and income tax (Maximum Rate is 37% and is based on different income slabs) is deducted by the employer. Its Capital city, Windhoek is currently ranked 150 overall, most expensive place in the world for expatriates to live.
+
+'''Volunteering''' Even though it might be a long process to get a volunteer work permit in Namibia, the country offers many different opportunities for volunteering and giving back, such as community or educational work, and wildlife conservation with the big 5. There are many ways to get in contact with the desired volunteer project, one of which is a comparison platform. On <listing name="Volunteer World" alt="" directions="" lat="" long="" address="" phone="" tollfree="" email="" fax="" url="https://www.volunteerworld.com/volunteer-in-namibia/" hours="" price="">for example, you can search and compare all volunteering options in Namibia.</listing>
+
+==Stay safe==
+Namibia is a peaceful country and is not involved in any wars. With the end of the [[Angola|Angolan]] civil war in May 2002, the violence that spilled over into northeastern Namibia is no longer an issue.
+
+Namibia does, however, have a relatively high crime rate. Be careful around ATMs. For men, it is not prudent to walk or ride taxis alone in [[Windhoek]] or [[Oshakati]] after midnight. For women, it is not prudent after 9 p.m. Pickpockets can be a problem. Lately, there are many armed robberies reported; in most cases, tourists get robbed of belongings carried with them in a bag. For home security, electric fences are installed in almost every house in Windhoek.
+
+Most reported robberies take place just outside of the city centre. The police report that taxi drivers are often involved:  they spot vulnerable tourists and coordinate by cell phoning the robbers. Take these warnings in context; if you are alert and take some common sense precautions, you should have no problems.
+
+Travellers should have no problem visiting the townships, but do not visit the townships alone unless you are familiar with the area. If you have been travelling in [[Southern Africa]] for a few months, you probably know what you are doing.
+
+Namibia has a serious problem with driving under the influence of alcohol. The problem is aggravated because most people consider it no problem. When driving or walking on weekend evenings, be especially alert.
+
+Be aware of tourist robbery in the Walvis Bay, Swakopmund and Henties Bay areas.  This problem is larger than commonly reported in the media.
+
+==Stay healthy==
+The '''HIV''' infection rate in Namibia is about 25%. 
+
+Namibia's medical system is modern and capable of attending to whatever needs you may have. Staff are well trained and so HIV transmission in hospitals is not an issue. This applies to government and private hospitals alike, though line-ups are often shorter at private hospitals, and there have been cases of incorrect diagnosis in government hospitals.
+
+The [[Northern Namibia | northern part of Namibia]] is in a [[malaria]]-risk zone, so consult a doctor before leaving, and take appropriate malaria precautions when travelling in these areas.
+
+Namibia's water supply is usually safe to drink, except where labelled otherwise. Campsites next to rivers often get their water directly from the river, so do not drink it!
+
+Having said all this, make sure you consult a physician specializing in health issues of [[Southern Africa]], as well as things like the Centre for Disease Control [http://www.cdc.gov/] web page. Make sure ''you'' satisfy ''yourself'' of the safety of anything you're getting into.
+
+==Respect==
+Namibians are very proud of their country. It is a well developed country (albeit still a developing nation) with all the modern amenities and technologies. Namibians have been exposed to a surprisingly wide variety of peoples during the United Nations supervising of the elections, as well as from various volunteer organizations.  They are not offended by Westerners wearing shorts, nor by women wearing pants.  It is not uncommon to see Afrikaners with thick, knee-high socks (keeps snakes from getting a good bite) and shorts walking about. 
+It is customary when greeting someone to ask them how they're doing. It's a simple exchange where each person asks "How are you?" (or the local version "Howzit?") and responds with a correspondingly short answer, and then proceed with whatever your business is about. It's a good idea to do this at tourist info booths, in markets, when getting into taxis, even in shops in [[Windhoek]] (though it's normally not done in some of the bigger stores in the malls).
+
+==Contact==
+
+===By phone===
+Namibia's country code is 264. Each city or region has a two-digit area code. When calling long distance within Namibia, prefix the area code with a '0'. Mobile phones are very common and run on the GSM network, using the same frequency as Europe and the rest of Africa. There are Internet cafes in Windhoek, Swakopmund and Opuwo, and hostels often have access as well.
+
+== Get out ==
+
+{{outline}}
+{{countryguide}}
+
+{{IsPartOf|Southern Africa}}
+
+[[WikiPedia:Namibia]]
+[[Dmoz:Africa/Namibia/]]
+[[World66:africa/namibia]]
+{{hasDocent|Dawnview}}
+
+{{related|African_National_Parks}}
+{{related|African_flora_and_fauna}}
+{{related|Discount_airlines_in_Africa}}
+
+
+
+[[de:Namibia]]
+[[eo:Namibio]]
+[[es:Namibia]]
+[[fi:Namibia]]
+[[fr:Namibie]]
+[[hu:Namíbia]]
+[[it:Namibia]]
+[[ja:ナミビア]]
+[[nl:Namibië]]
+[[pt:Namíbia]]
+[[ro:Namibia]]
+[[ru:Намибия]]
+[[sv:Namibia]]
+[[zh:纳米比亚]]
+[[wts:Category:Namibia]]
+
+
+[[wmc:category:Namibia]]

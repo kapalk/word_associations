@@ -1,0 +1,424 @@
+{{pagebanner|Fiji banner.jpg}}
+
+{{quickbar
+| image=Leleuvia island.jpg
+| caption=Leleuvia Island
+| location=Fiji in its region (special marker).svg
+| flag=Flag of Fiji.svg
+| capital=[[Suva]]
+| government= Parliamentary Democracy 
+| currency=Fijian dollar (FJD)
+| area=18,270km²
+| population=905,949 (July 2006 est.)
+| language=English (official), [[Fijian phrasebook|Fijian]], Hindustani
+| religion=Christian 58% (Methodist 36%, Roman Catholic 9%), Hindu 33.7%, Muslim 7%, Sikh 0.4%
+| tld=.fj
+| timezone=UTC+12h
+| callingcode=679
+| electricity=240V, 50Hz (Australian plug)
+}}
+
+[http://www.bulafiji.com/ '''Fiji'''] (sometimes called the '''Fiji Islands'''),  is a Melanesian country in the [[Oceania|South Pacific Ocean]]. It lies  about one-third of the way from [[New Zealand]] to [[Hawaii]] and consists of an archipelago of 332 islands, a handful of which make up most of the land area, and approximately 110 of which are inhabited.
+
+Fiji straddles the 180 degree longitude line (which crosses land on a remote tip of Vanua Levu and again near the centre of Taveuni). The international date line is configured to pass east of all of Fiji, placing it all in one time zone and "ahead" of most of the rest of the world.
+
+==Understand==
+
+Fiji is the product of volcanic mountains and warm tropical waters.  Its varied coral reefs today draw tourists from around the world, but were the nightmare of European mariners until well into the 19th century. As a result, Fijians have retained their land and often much of the noncommercial, sharing attitude of people who live in vast extended families with direct access to natural resources.  When it came, European involvement and cession to Britain was marked by the conversion to Christianity, the cessation of brutal tribal warfare and cannibalism, and the immigration of a large number of indentured Indian laborers, who now represent nearly half of the population, as well as smaller numbers of Europeans and Asians.  Today, Fiji is a land of tropical rainforests, coconut plantations, fine beaches, and fire-cleared hills.  For the casual tourist it is blessedly free of evils such as malaria, landmines, or terrorism that attend many similarly lovely places in the world.
+
+The 2006 coup and later political events caused a reduction in tourism. The Fiji tourism industry has responded by lowering prices and increasing promotion of resort areas that are distant from the politics of the capital [[Suva]].
+
+===Climate===
+
+Tropical marine; only slight seasonal temperature variation.  Tropical cyclonic storms (The South Pacific version of ''Hurricanes'') can occur from November to April. Temperature sensitive visitors may wish to visit during the Southern Hemisphere winter.
+
+===Terrain===
+
+Mostly mountains of volcanic origin.
+
+In most of the interior of the main islands there are some roads and always trails, and an amazing number of remote villages. Buses and open or canvas topped "carriers" traverse the mountains of Vanua Levu several times a day and the interior mountains of Viti Levu many times weekly (The Tacirua Transport "hydromaster" bus which leaves from Nausori in the morning and runs past the hydroelectric reservoir and mount Tomanivi to arrive the same day in Vatoukola and Tavua is the best and the scenery is truly spectacular in good weather!)
+
+===People===
+Fiji's people are among the most varied of all South Pacific nations. With a population of over 900,000, the country is a mixture of Indians (38%), Fijians (56%), ‘part-Europeans’ (1.7%), Europeans (0.7%), Rotumans (1.4%), Chinese (0.9%) and other Pacific Islanders (1%). Fijians, the indigenous inhabitants of Fiji, are Melanesians who possess a mixture of Polynesian blood which is apparent in the eastern islands (such as the Lau group), but less so in the west and interiors of the main islands. Fiji’s Indians can be divided into two broad cultural categories reinforced by physical differences. Those from the north of India – the ‘Calcuttas’, or ‘Calcutta Wallahs’ – came from Bengal, Bihar and Uttar Pradesh through the immigration point of Calcutta and spoke ‘village’ Hindustani. The second group was the ‘Madrassis’, who generally had darker skin and lacked the sharp features of those from the north. The part-Europeans, also known as 'kai loma', are a distinctive cultural group with one foot in the Fijian world and the other in the Western world. Many are descendants of White Australians, Americans or Europeans who established themselves either in Levuka, on the isolated coconut plantations of Vanua Levu or on the outer islands of Fiji during the 19th century, and took Fijian wives. The Rotumans, a distinct Polynesian ethnic group, come from the island of Rotuma (465 km north-west of Fiji).The Chinese, of whom there are about 5,800, first came to Fiji in 1911. Many have intermarried with the local population.
+
+===History===
+Fiji became independent in 1970, after nearly a century as a British colony. Democratic rule was interrupted by two military coups in 1987, caused by concern over a government perceived as dominated by the Indian community (descendants of contract laborers brought to the islands by the British in the 19th century). The coups and a 1990 constitution that cemented native Melanesian control of Fiji, led to heavy Indian emigration; the population loss resulted in economic difficulties, but ensured that Melanesians became the majority. A new constitution enacted in 1997 was more equitable. Free and peaceful elections in 1999 resulted in a government led by an Indo-Fijian, but a civilian-led coup in May 2000 ushered in a prolonged period of political turmoil. Parliamentary elections held in August 2001 provided Fiji with a democratically elected government led by Prime Minister Laisenia Qarase. There was a further military coup in 2006, led by Commodore Josaia Voreqe (Frank) Bainimarama.
+
+==Regions==
+
+Fiji can be divided into nine groups of islands:
+
+{{Regionlist
+| regionmap=Fiji-regions.png
+| regionmaptext=Regions of Fiji
+| regionmapsize=450px
+
+| region1name=[[Viti Levu]]
+| region1color=#71b37b
+| region1items=
+| region1description=This is the largest and most important island of the country. It has most inhabitants, is the most economically developed and is home to the capital, Suva.
+
+| region2name=[[Vanua Levu]]
+| region2color=#c5995c
+| region2items=
+| region2description=The second largest island, surrounded by some smaller northern islands.
+
+| region3name=[[Taveuni]]
+| region3color=#608860
+| region3items=
+| region3description=The third largest island, near Vanua Levu, with the 180th meridian cutting the island in half. It is the exclusive habitat of the Tagimoucia Flower.
+
+| region4name=[[Kadavu]]
+| region4color=#dde58b
+| region4items=
+| region4description=This island is south of Viti Levu.
+
+| region5name=[[Yasawa Islands]]
+| region5color=#d56d76
+| region5items=
+| region5description=Northwestern island group popular for island-hopping holidays.
+
+| region6name=[[Mamanuca Islands]]
+| region6color=#c8b7b7
+| region6items=
+| region6description=A group of tiny islands west of Viti Levu.
+
+| region7name=[[Lomaiviti Islands]]
+| region7color=#b383b3
+| region7items=
+| region7description=The central group of islands between Viti Levu and Lau Group.
+
+| region8name=[[Lau Islands]]
+| region8color=#a4c28d
+| region8items=
+| region8description=Group of many small islands in eastern Fiji.
+
+| region9name=[[Rotuma]]
+| region9color=#6698bb
+| region9items=
+| region9description=Remote dependency of Fiji, home to a different Polynesian ethnic group.
+
+}}
+
+==Cities==
+
+*[[Suva]] {{-}} the capital
+*[[Nadi]] (pronounced 'Nandi')
+*[[Taveuni]]
+*[[Savusavu]]
+*[[Labasa]]
+*[[Lautoka]]
+*[[Levuka]]
+*[[Nabouwalu]]
+*[[Nausori]]
+*[[Rakiraki]]
+*[[Sigatoka]](pronounced 'Singatoka')
+
+==Other destinations==
+
+*[[Nananu-i-Ra Island]] {{-}} off the northern coast of Viti Levu
+*[[Ovalau]] {{-}} sixth largest island, part of the Lomaiviti group
+
+==Tourism==
+
+Tourism is the backbone of the Fijian economy. Overall, Fiji can be classed as a mid-range priced destination and so most of Fiji's accommodation falls into this range. However, world class luxury resorts residing on isolated islands attracts the rich and famous. Fiji can also be done on a budget, but it is advisable to plan ahead. Budget resorts offer equally beautiful views compared to their wealthier cousins, and Fiji's internet accessibility is improving which increasingly aids travelers.
+
+Australians account for half of all visitors, followed by tourists from New Zealand and the U.S.. 75% of visitors to Fiji come for a holiday/vacation. The popular areas to visit are the Nadi region (due to Nadi International Airport), Mamanuca Islands, the Coral Coast, and Denarau Island.
+
+==Holidaying==
+
+A honeymoon in Fiji is very popular as is romantic getaways in general. In August 2013, five couples entered the Guinness Book of World Records for the "Highest Altitude Wedding on an Aeroplane" when they married at 41,000 feet on a Fiji Airways flight from Auckland to Nadi[http://www.fijiairways.com/about-fiji-airways/media-centre/fiji-airways-sets-new-guinness-world-record-title/]. Adults-only and couples-only resorts exist to cater specifically for this market. [http://likulikulagoon.com/'''Likuliku Resort'''] in the Mamanuca Group (near Nadi) is typical of the smaller resorts in isolated islands/areas where an adult only atmosphere creates a romantic vibe. 
+
+There are also family friendly resorts which have kids facilities including kids clubs which can ease the pressure of parents looking after their children whilst getting a chance to relax themselves. Some resorts even have a nanny service for the youngest ones.
+
+Budget minded travellers tend to head for the (relatively) cheap Mamanuca and Yasawa Island chains, although accommodation costs are still substantial here. Access to these islands are via Port Denarau on Denarau Island using a ferry service that stops on various islands as it loops its way around. Denarau Island is just 20 minutes from Nadi International Airport. Another option is the Coral Coast on the southern coast of the main island, Viti Levu. Transport can be sought when disembarking off the plane at Nadi International Airport.
+
+==Get in==
+
+===Entry requirements===
+
+===Visa-free===
+Citizens of the following countries and territories are granted visitor permits (valid for 4 months) on arrival in Fiji and do not need to obtain a visa in advance:
+All [[European Union]] nations (except Croatia), [[Antigua and Barbuda]], [[Argentina]], [[Australia]], [[Bahamas]], [[Bangladesh]], [[Barbados]], [[Belize]], [[Botswana]], [[Brazil]], [[Brunei]], [[Canada]], [[Chile]], [[China]] (PRC), [[Colombia]], [[Dominica]], [[Gambia]], [[Ghana]], [[Grenada]], [[Guyana]], [[Hong Kong]], [[Iceland]], [[India]], [[Indonesia]], [[Israel]], [[Jamaica]], [[Japan]], [[Kenya]], [[Kiribati]], [[Lesotho]], [[Liechtenstein]], [[Macau]], [[Malawi]], [[Malaysia]], [[Maldives]], [[Marshall Islands]], [[Mauritius]], [[Mexico]], [[Federated States of Micronesia|Micronesia]], [[Moldova]], [[Monaco]], [[Nauru]], [[New Zealand]], [[Nigeria]], [[Norway]], [[Palau]], [[Papua New Guinea]], [[Peru]], [[Philippines]], [[Russia]], [[Saint Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]], [[Samoa]], [[Senegal]], [[Serbia]], [[Seychelles]], [[Sierra Leone]], [[Singapore]], [[Solomon Islands]], [[South Africa]], [[South Korea]], [[Swaziland]], [[Switzerland]], [[Taiwan]], [[Tanzania]], [[Thailand]], [[Tonga]], [[Trinidad and Tobago]], [[Tunisia]], [[Turkey]], [[Tuvalu]], [[Uganda]], [[Ukraine]], [[United Arab Emirates]], [[United States]], [[Uruguay]], [[Vanuatu]], [[Rome/Vatican|Vatican City]], [[Venezuela]], [[Zambia]] and [[Zimbabwe]].
+
+===Visa===
+
+All other foreign nationals who are not from the countries and territories listed above need to obtain a visa in advance at a Fiji embassy, high commission or consulate. An application for a single entry visa costs 96 Fiji dollars and a multiple entry visa 190 Fiji dollars. Applicants need to produce the following as part of the visa application process:
+
+* Completed application form [http://www.immigration.gov.fj/images/visa_form.pdf]
+* Two coloured passport size photographs
+* A valid passport/travel document
+* If the applicant is married, a letter of consent from the spouse.
+* If the applicant is employed, a letter from the employer to indicate the authorised leave duration approved for the applicant.
+* If a Fiji citizen or a Fiji based company/organisation [local sponsor] is sponsoring the applicant for the duration of the period applied for, a letter from the local sponsor to indicate the undertaking.
+* A copy of the travel itinerary.
+* If the applicant is traveling on to a third country from Fiji, a copy of the approved visa to the next country of destination after Fiji.
+
+Visa applications can be lodged at Fiji overseas missions in Australia, Belgium, Brazil, China, India, Indonesia, Japan, Malaysia, New Zealand, Papua New Guinea, South Africa, the United Kingdom and the United States. Click [http://www.fiji.gov.fj/index.php?option=com_content&view=article&id=120&Itemid=174 here] for the list of Fiji overseas missions on the Fiji Government Online Portal.
+
+More information about the visa requirements for Fiji are available at the [http://www.immigration.gov.fj website of the Department of Immigration].
+
+===By plane=== 
+[[File:Nadi airport - Arrivals 4.jpg|thumb|Nadi airport - Arrivals]]
+Nadi International Airport (NAN) is Fiji's main international airport. [[Suva]] airport also has some international flights.  [http://www.fijiairways.com/ Fiji Airways] (Formerly Air Pacific) is Fiji majority owned and flies to Fiji directly from [[Los Angeles]] International Airport (LAX) and [[Honolulu]] International Airport (HNL) in the [[USA]], and from [[Hong Kong]] International Airport (HKG), as well as many other locations. Korean Air has three flights weekly between Nadi and [[Seoul]].  Air New Zealand operates flights to Nadi from [[Auckland]], [[Christchurch]], and seasonally from [[Wellington]]. [http://www.virginaustralia.com/au/en/plan/destinations/flights-to-fiji/ Virgin Australia] offers flights direct to Nadi from Sydney, Brisbane and Melbourne. 
+
+Travel times from Australian cities vary. From Brisbane the flight to Fiji is approximately 3 hours and 40 minutes, from Sydney 4 hours and from Melbourne it is 5 hours and 30 minutes.
+
+'''Pacific Island Air''' have Fiji covered with Seaplane, Airplane and Helicopter transfers and scenic flights to all destinations including the Northern Islands.  Based at Nadi Airport we offer the convenience of departing directly from the airport to your resort in the quickest possible time.
+Flights operate daily on demand.  per seat pricing as well as exclusive private charters available.  contact: reservations@pacificislandair.com or +(679) 672 5644 [http://www.pacificislandair.com]
+
+===By Helicopter=== 
+'''Heli-Tours Fiji''' offers professional & personalized '''resort transfers''' to resorts located at the Coral Coast, Mamanuca's & Yasawa's. Contact them directly at sales@helitoursfiji.com or call them (+679) 992 4940.
+
+[https://fijihelicoptertours.com/ Savusavu Helicopters] Operates from Savusavu and has daily charter flights and transfers from Labasa, Taveuni and Nadi
+
+===By boat===
+
+You can enter Fiji by boat from [[Australia]] through the Australia shore connection.
+
+==Get around==
+[[File:Sigatoka 35.jpg|thumb|Taxi stand in Sigatoka town]]
+Fiji has a variety of public transport options, including buses, "share taxis", and private taxis.  Rates are very cheap:  FJD1-2 from Colo-i-Suva to Suva bus station by bus, FJD17 from Nadi bus station to Suva by share-taxi (share-taxi's are usually white mini-vans that congregate together and set-off when they reach their capacity of 6-8), or approximately FJD80 from Suva airport to Sigatoka by private taxi.  On the main road circling Viti Levu buses run every half hour and taxis are a substantial proportion of traffic, while on western Taveuni buses make only a few runs per day and very little traffic is present. If taxi has a meter, ask the driver to switch it on - the ride will be lot cheaper than with negotiated price.
+
+The current going rate from resorts on Nadi beach to Nadi downtown is FJD8 per passenger, and FJD12 to the airport -- you should be able negotiate this price reasonably easily.
+
+While there is rarely much traffic present, most vehicles run on diesel and pollution on major roadways can be severe. A national speed limit of 80km/h is usually observed; village speed limits are all but entirely ignored, but drivers slow down for several speed humps distributed within each village.  Seat belts are advised on taxis but are rarely evident and apparently never used.
+
+Road travel tends to be more dangerous than many people are used to, and many embassies advise their citizens to avoid pretty much any form of road travel. Pot holes, washouts and dilapidated bridges are commonplace. Buses are the best, unless you are truly comfortable and capable of renting and driving a car on your own - most people are not even if they think they are. Avoid travel at night, especially outside of urban areas. Another option is hop-on, hop-off bus passes which allow you to tour Fiji at your own pace for a fixed price.  These are a more expensive way to travel but feature inclusions like tours and activities. However, some like [http://www.feejeeexperience.com/ Feejee Experience] are limited to Viti Levu and trips to Beachcomber island and don't include the more remote islands.
+
+===Inter-island===
+South Sea Cruises [http://www.ssc.com.fj/] operates daily inter-island ferry transfers throughout Fiji's Mamanuca Island resorts. Awesome Adventures Fiji [http://www.awesomefiji.com/] provides daily ferry transfers out to the remote Yasawa Islands. These ferries to resorts are quite expensive due to a monopoly. However long distance inter-island ferries are more reasonably priced and the larger ones (especially those large enough to accommodate cars and trucks) have a good safety record, though they may be overcrowded at the beginning and end of school holiday periods. Ferries offer two or three classes (depending on the ship). Economy (FJD65 pp on Suva-Taveuni route) is the cheapest option, but requires you to sleep on chairs or on the floor. Sleeper (FJD104 pp, Suva-Taveuni) is dormitory-like accomodation. Cabin (FJD135 pp on MV Suiliven,  FJD95 pp on SOFE, Suva-Taveuni) is not necessarily the best option, as the space is very limited, cabin can be shared (4 beds) and can have hords of bugs.
+
+Do not attempt to take a car to another island unless you own it or have made clear special arrangements - most rental companies forbid it and they do prosecute tourists who violate this clause in the contract.
+
+If you are looking to travel between islands as part of your holiday, it's worth looking into cruises operating in the area. Captain Cook Cruises Fiji [http://www.captaincookcruisesfiji.com/] runs small ship discovery cruises around the Fiji islands ranging from day tours to 7 night cultural and adventure tours.
+
+alternatively should you be short on time, travel by air is the way to go.  Pacific Island Air offer seaplane, helicopter and light aircraft flights to all islands in the Mamanuca's and Yasawa's, Coral Coast and Northern Islands. [http://www.pacificislandair.com]
+
+===Bicycle===
+Bicycles are becoming more popular in Fiji in recent years for locals and tourists alike. In many ways, Fiji is an ideal place for a rugged bike tour. However, the motor vehicle traffic can be intimidating on well-travelled roads, and there is a lack of accommodation along secondary roads. Cycling is a great way to see Fiji but make sure you carry all your own spares and supplies as bike shops are scarce. It is a good idea to carry plenty of water, a camelbak is great, as it is very hot and humid almost year round.
+
+The main Road around the largest island, Viti Levu, is sealed except for a 40 km section on the eastern side. A sturdy road, touring or hybrid bike is suitable. 
+
+Bike rental can be quite expensive comparing to other options: on Taveuni bike for full day costs FJD25. With two persons the cost is similar to renting a car.
+
+===Motorbike===
+It is possible to rent a motorbike and get it delivered to the airport. Expect to pay c. FJD100 for a day. They will confirm that you have a motorbike licence. The roads are'nt as safe as they may be at home, but its not bad at all - comparable to riding in rural Thailand.
+
+==Talk==
+===Languages===
+
+The official languages are '''English''', '''[[Fijian phrasebook|Fijian]]''' and '''[[Hindi phrasebook|Hindi]]'''.
+
+English is the language of government and education, and is spoken by most in Nadi, Suva and other major tourist areas. On a few of the less touristy islands, English may be spoken with some difficulty.  
+
+Fijian is an Austronesian language of the Malayo-Polynesian family spoken in Fiji. It has 300,000 first-language speakers, which is more than half the population of Fiji, but another 300,000 speak it as a second language. According to Dr. Albert Schutz, a former professor of linguistics at the University of Hawaii and a founder of the [http://www.itaukeiaffairs.gov.fj/images/brochures/MTA_TILC.pdf/ '''Fijian Dictionary Project'''], language has changed and splintered over the years into a multitude of different ‘communalects’ now numbering more than 300. This is because language divides as people spread out, and there may have been some additional input from more recent immigrants from other islands lying to the west.
+The Fijian ‘communalects’ belong to the enormous Austronesian language family, which means they are related to thousands of other languages spanning the globe from Malagasy in the west to Rapanui (Easter Island) in the east, from Aotearoa (New Zealand) in the south to Hawai’i and Taiwan in the north. The family includes such important national languages as Tagalog (Philippines) and Malay. After Fiji had been settled, the flow of population continued north and east. The languages of Polynesia (such as Māori, Tahitian, Tongan, Samoan and Hawaiian), the language of the tiny island of Rotuma to the north of Fiji, and of course their speakers, all originated in Fiji more than 3000 years ago. 
+
+Most Fijian citizens of Indian descent - around 400,000 people - speak Fiji Hindi, the local dialect of the Hindi language. It is derived mainly from the Awadhi and Bhojpuri varieties of Hindi, with a substantial number of loanwords from Fijian and English.
+
+Needless to say, learning a few key phrases in either Fijian or Fiji Hindi will win the hearts of many locals.
+
+===Words and Phrases===
+Dr. Albert Schutz, a linguist and author of many works on [https://www.goodreads.com/author/list/5506093.Albert_J_Sch_tz/ '''Fijian Grammar'''], says that unlike English spelling, which is riddled with exceptions, Fijian spelling is regular. This quality gives you a good chance of pronouncing words correctly when you read them.
+
+'''Vowels'''
+If you’re told that Fijian vowels are similar to those in Latin or Spanish, you’re out of luck if you don’t know those languages. So just to make sure, use the following rules, which have no exceptions.
+
+a      as in father
+
+e      as in bait, but without the glide at the end.
+
+i      as in beat, but without the glide at the end.
+
+o      as in boat, but without the glide at the end.
+
+u      as in boot, but without the glide at the end.
+
+If a vowel has a line over it, this means that it lasts longer. Long vowels are always accented, no matter what their position. (Unfortunately, Fijian’s official writing system doesn’t mark long vowels. But they are marked on the headwords in a dictionary.
+
+'''Diphthongs'''
+Certain combinations of vowels act as units:
+
+ai  au  ei  eu  oi  ou iu
+
+This means that no matter where these vowel clusters appear in a word, the accent is on the first vowel. We’ll say more about this topic in the section on accent below.
+
+'''Consonants'''
+Most Fijian and English consonant letters are pronounced similarly. The following five are the exceptions:
+
+b, which represents mb,          as in    member.
+
+d, which represents nd,           as in    Monday.
+
+q, which represents ng+g, as in         finger.
+
+g, which represents ng,           as in    singer.
+
+c, which represents th,            as in    father.
+
+'''Accent'''
+Accent—that is, making a syllable more prominent than those around it—is predictable only for short words. For words with two or three short syllables, the accent is always on the second-to-last syllable. In the following examples, the vowel of the accented syllable is in boldface:
+
+dua one
+
+mata eye, face
+
+tolu three
+
+totoka beautiful
+
+Syllables with a long vowel or a diphthong are accented, no matter what their position:
+
+vā four rai seen
+
+kilā know it mā.rau happy
+
+In terms of accent, longer words and phrases are made up of short units, called measures. You can see that the word mā.rau is divided into two measures, and the boundary is marked by a full stop. It’s not part of the usual writing system, but it’ll help you find the accents in longer words. For example:
+
+bulu.makau  cattle       
+
+dai.dai  today
+
+bā.ravi  coast    
+
+leka.leka  short   
+
+posi.tō.vesi  post office    
+
+ivā.vā  shoes
+
+As you can see from the vowels in boldface, each diphthong, long vowel, and second-to-last short vowel in a measure is accented. Moreover, the last measure in a word is given slightly more emphasis. Making an attempt to speak Fijian can go a long way to create good will with locals. 
+
+*'''Bula!''' - A general greeting, pronounced mboo-lah.
+*'''Vinaka''' - "Please" or "thank you", pronounced vee-nah-kah.
+*'''Moce''' - "Goodbye", pronounced mow-they.
+
+==See==
+{{movelistings}}
+[[Image:Yasawa.jpg|thumb|The landscape of Yasawa, one of the smaller Fijian islands]]
+
+*<see name="Pacific Island Air - Scenic Helicopter & Seaplane Flights" alt="" address="Denarau & Nadi Airport" directions=" (+679) 6725644" url="www.pacificislandair.com" hours="" price="" lat="" long="">Scenic flights, day trip packages to Castaway Island Resort & the Yasawa's, Heli/Quad Biking, private island day trips and many more options to choose from Contact them directly reservations@pacificislandair.com or call (+679) 672 5644</see>
+
+*<see name="Garden of the Sleeping Giant" alt="" address="Nadi, Fiji" directions="" phone="" url="http://www.tropicalfiji.com/sights_and_activities/scenic_highlights/garden.asp" hours="Monday to Saturdays – 9 am to 5 pm. " price="$10 (USD)" lat="" long="">The Garden of the Sleeping Giant was originally the garden of famed actor, Raymond Burr, and is located next to his house.  The garden covers 20 hectares and is full of orchids native to Fiji and many flowers.  With a beautiful lily pond and many exotic plants, this garden is sure to take your breath away.</see>
+*<see name="Fiji Museum" alt="" address="PO Box 2023 Govt. Bldgs, Suva, Fiji Islands" directions="" phone="(679) 331 5944/ (679) 331 5043" url="http://www.fijimuseum.org.fj/" hours="" price="" lat="" long="">The Fiji Museum is an excellent place for tourists to understand the historical background of Fiji.  With artifacts dating back as far as 3,700 years it provides many exhibits that educate travelers on the nation's traditions and culture.  The museum is located in heart of Suva’s botanical gardens.   </see>
+*<see name="Sigatoka Jet Boat Safari" alt="" address="Sigatoka, Fiji" directions="" phone="" url="" hours="" price="" lat="" long="">Take a thrilling jet boat ride down the Sigatoka River. Stop in a Fiji village for a unique and rewarding tour. </see>
+*<see name="Heli-Tours Fiji - Scenic Helicopter Flights" alt="" address="Denarau, Nadi" directions="Helipad before the Denarau Bridge" phone=" 	(+679) 992 4940" url="www.helitoursfiji.com" hours="" price="" lat="" long="">Go for a world class Helicopter Scenic flight over Denarau, The Sleeping Giant Mountain Range and the Mamanuca Group of Islands. Watch the impressive waterfalls and see the bounty beaches from the air. Definitely a must do! Contact them directly trough sales@helitoursfiji.com or call (+679) 992 4940</see>
+
+==Do==
+{{movelistings}}
+*<do name="Whitewater rafting" alt="" address="Rivers Fiji, P.O. Box 307 Pacific Harbour, Fiji Islands" directions="" phone="800-446-2411" url="http://www.riversfiji.com/" "hours="" price="" lat="" long="">Rivers Fiji operates whitewater rafting and sea kayaking trips six days a week.</do>
+*<do name="The Pearl" alt="" address="Queens Road, Pacific Harbour, Pacific Coast, Fiji Islands" directions="" phone="679-773-0022" url="http://www.thepearlsouthpacific.com/" hours="" price="" lat="" long="">The Pearl Fiji Championship Golf Course and Country Club is situated in Pacific Harbour and surrounded by beautiful tropical forests.  With 60 + bunkers, multiple water traps, and winding course, it provides a challenge for even the most experienced golfers. </do>
+*<do name="Kayaking" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long=""></do>
+*<do name="Tandem Skydive Fiji" alt="" address="Nadi, 11 Zahoor Rd Martintar, Fiji" directions="Opposite to JetPoint at Martintar" phone="+679 672 8166" url="www.skydivefiji.com.fj" hours="7 Days" price="From F$495" lat="" long="">Skydive Fiji offers world class Tandem Skydiving over the Fiji Islands. First a great 15-25min scenic flight, then a thrilling one minute freefall, followed by a smooth 6-8 minute parachute ride. Operates Daily from Nadi/Denarau. Group bookings and special occasions possible. Book Direct. </do>
+*<do name="Tropic Surf at Six Senses " alt="" address="Vunabaka, Malaolo Island Fiji " directions="35 minutes by speedboat from Port Denarau " phone=" +6796750284" url="http://www.sixsenses.com/resorts/fiji/destination" hours="0600 1800" price="FJD300-500" lat="" long="">Tropic Surf Fiji is just 15 minutes from world famous waves such as Cloudbreak. Tropic Surf offers guided surfs, surf lessons and a surf academy so whether you're a pro or a complete beginner Tropic Surf will find you the perfect surf activity to suit you.
+Located just a short boat trip from a range of left and right hand surf breaks including Namotu, Wilkes and Cloudbreak, experienced surfers will be in their element riding the waves of the South Pacific.
+For those looking to start a new hobby Tropic Surf provide all the knowledge and skills necessary to turn you into a pro in no time. Smaller breaks such as Swimming Pools are the perfect location for learners.
+Experience the beauty of catching waves in a true slice of paradise here at Six Senses Fiji.</do>
+*<do name="Hauraki Watersports at Six Senses " alt="" address="Vunabaka Malolo Island " directions="" phone="+6796750284" url="http://www.sixsenses.com/resorts/fiji/experiences" hours="0600 - 1800" price="" lat="" long="">Hauraki Adventures team will guide your journey through the beautiful waters of Fiji. Hauraki Adventures offer a wide range of water sports and PADI certified excursions - tailored for beginners to the most advanced, while Tropic Surf lead the Surf Academy at the nearby reef breaks.</do>
+*<do name="Six Senses Spa " alt="" address="Vunabaka, Malolo Island " directions="35 Minutes by Speedboat from Port Denarau " phone="+6796750284" url="http://www.sixsenses.com/resorts/fiji/spa" hours="" price="" lat="" long="">Set in a traditional themed Fijian Village, Six Senses Spa highlights location treatments using native medicinal plants and created in the Spa's Alchemy Bar. The Wellness Village includes a wet relaxation area, gymnasium, treatments rooms and yoga pavilion.
+An Integrated Wellness analysis is available for guests which assists spa experts to recommend a course of action for you to reach your full potential. 
+Skilled therapists use a variety of natural products to provide a comprehensive range of signature treatments plus rejuvenation and wellness specialties of the region.</do>
+
+==Buy==
+[[File:BSP Bank ATMs at Sigatoka Town Centre.jpg|thumb|BSP Bank ATMs at Sigatoka Town Centre]]
+Inflation in Fiji has reduced in recent years and for the four months ended January 2015 was less than 0.3%.
+
+Fiji is more expensive for tourists than most Southeast Asian countries, but comparable to some Western countries. Alcohol is expensive. Budget accommodation is limited. Expect prices for most items to be similar to those of Australia in tourist regions.
+
+In Fiji the currency is the Fijian dollar - symbolized as '''FJD''' placed before the amount with no intervening space.  Bills include: FJD5, FJD10, FJD20, FJD50.  Coins include: 5 cents, 10 cents, 20 cents, 50 cents, $1, $2.
+
+Be aware when going to local markets, often some of the stall holders family will be outside on the lookout for travellers, and will escort the travellers inside using the guise of  "getting the best bargains".  Once inside they, and their relatives who own the stall, can become quite aggressive if the traveller does not buy their products. Be firm, tell them that you will report them to the authorities if they do not leave you alone. They will quickly change their tone and back down.
+
+==Eat==
+Locals eat in the cafes and small restaurants that are found in every town. The food is wholesome, cheap, and highly variable in quality. What you order from the menu is often better than what comes out of the glass display case, except for places that sell a lot of food quickly and keep putting it out fresh. Fish and Chips are usually a safe bet, and are widely available. Many cafes serve Chinese food of some sort along with Indian and sometimes Fiji-style fish , lamb, or pork dishes. Near the airport, a greater variety of food is found, including Japanese and Korean.
+
+Local delicacies include fresh tropical fruits (they can be found at the farmer's market in any town when in season), paulsami (baked taro leaves marinated in lemon juice and coconut milk often with some meat or fish filling and a bit of onion or garlic), kokoda (fish or other seafood marinated in lemon and coconut milk), and anything cooked in a ''lovo'' or pit oven. ''Vutu'' is a local variety of nut mainly grown on the island of [[Beqa]], but also available in Suva and other towns around January and February. A great deal of food is cooked in coconut milk.
+
+Take care when ordering chicken meals. Very often the chicken will come cut into one-bite pieces, but with all the bones left, so it's quite easy to choke on sharp bone.. When uncertain, always ask for boneless chicken meal.
+
+A customary dish in Fiji includes a starch, relishes and drink.  Starches common in Fijian meals include taro, yams, sweet potatoes, or manioc but can include breadfruit, bananas, and nuts.  The relishes include meat, fish, seafood, and vegetables.  Drinks include coconut milk but water is most prevalent.
+*<eat name="The Ocean Terrace Restaurant" alt="" address="P O Box 1213, Sigatoka, Fiji Island" directions="" phone="(679) 650 0476" url="http://www.bedarrafiji.com/cuisine" hours="" price="" lat="" long="">The Ocean Terrace Restaurant offers seafood prepared daily.  They also provide a selection of fine wines to go with your meal.  If, however, you do not enjoy seafood or have shellfish allergies, The Ocean Terrace Restaurant offers more casual meals such as pizza and burgers.  </eat>
+
+==Drink==
+
+A very popular drink in Fiji is ''yaqona'' ("yang-go-na"), also known as "kava " and sometimes referred to as "grog" by locals.  Kava is a peppery, earthy tasting drink made from the root of the pepper plant (piper methysticum).  Its effects include a numbed tongue and lips (usually lasting only about 5-10 minutes) and relaxed muscles.  Kava is mildly intoxicating, especially when consumed in large quantities or on a regular basis and one should avoid taxi and other drivers who have recently partaken.
+
+Kava drinking in Fiji became popular during the fall of cannibalism, and originated as a way to resolve conflict and facilitate peaceful negotiations between villages. It should not be consumed alongside alcohol.
+
+==Sleep==
+
+The bulk of accommodation in Fiji falls in the mid-range priced category. Those wanting the famed Fiji honeymoon experience or a romantic getaway should seek resorts that cater for this market and are adults-only. Families on a holiday/vacation should seek resorts with kids facilities which usually includes kids clubs.
+
+Most Fiji travel agents will take a 'deposit' along with your booking, which is a commission usually between 15-20%. Since this is an up-front payment, it is often beneficial to only book one night initially, and then you may be able to negotiate a lesser rate for subsequent nights (if space is available).
+
+Many smaller and simpler accommodations have "local rates" and can give discounts that are simply huge if you can book a room in person (or have a local do it for you) and give a legitimate local address and phone number. In the Suva area, the Raffles Tradewinds is nice and quiet and about a dollar by frequently running buses from central down town. Sometimes upon arrival at the airport in Nadi, you can stop at the Raffles Gateway across from the airport entrance and book a room at the Tradewinds at a good local rate if business is slow.
+
+[[Suva]]  has become a desirable destination for conventions, meetings and events. With so many exciting off-site activities so close to the hotel, options for a unique and rewarding event are endless.
+
+[[Nadi]] is the hub of tourism for the Fiji Islands. You can get all the resources you need to explore your lodging options, hotels and resorts , activities and trips and tours. Nadi is a thriving community with many things to explore and experience. There is also a number of local activities and places to see when you are in Nadi as well.
+
+Lautoka is Fiji's second largest city. The real charm of this dry western side of the island is the mountain ranges inland from Nadi and Lautoka. Koroyanitu National Park offers hiker overnight adventure through the semi-rainforest,waterfalls and small villages. Tours to the Garden of the Sleeping Giant are also very popular for the different ornamental orchids  together with forest walks through botanical wonders.
+
+==Learn==
+
+* University of the South Pacific [http://www.usp.ac.fj], Suva
+* Fiji Institute of Technology [http://www.fit.ac.fj/]
+* The Fiji School of Medicine [http://www.fsm.ac.fj//]
+
+==Work==
+
+==Stay safe==
+Most crime takes place in Suva and Nadi away from the resort areas.  The best advice is to stick to hotel grounds after dark, and to use extreme caution in Suva, Nadi and other urbanised areas after nightfall. Travelers have been victims of violent crime, particularly in Suva.  Travelers have reported the regularity of petty robberies, muggings, and also home-invasions/rape, etc.  You will notice the predominance of bars on most peoples' homes. Economic and ethnic strife has led to a low-level hum of violent crime. Some resorts and hotels have more extensive security measures than others which should be taken into account. 
+
+Muggings are often carried out by large groups of men so being in a group won't necessarily be a deterrent. Police forces sometimes have difficulties responding to crime, potentially for reasons as mundane as being unable to pay for petrol.
+
+Fijian culture encourages sharing and sometimes small things like shoes will be "borrowed". Often by speaking with the village chief it can be arranged to get things returned, but most of the time they will not be returned.
+
+Also, be aware that homosexual sex may be a crime in Fiji. While Fiji claims to welcome gay travelers, there has been a recent case where a visitor to the country was initially jailed for 2 years for paying a local for homosexual sex.  He was later freed on appeal.
+
+==Stay healthy==
+Fiji is relatively free of disease compared to most of the tropics. Avoid mosquito-borne illnesses, such as dengue fever and even elephantiasis by covering up thoroughly or using repellents while outdoors at dawn or dusk. Local water is generally safe, though filtering or boiling is advisable when unsure. Urban tap water is treated and nearly always safe. When exceptions occasionally arise, there are public warnings or radio and print media warnings. Contaminated food is uncommon, though on occasion, mature reef fish can contain mild neurotoxins they accumulate in their bodies from freshwater algaes that wash into the ocean. The effects of such "fish-poisoning" are usually intense for only a day or two, but tingling lips and unusual sensitivities to hot and cold can linger for a long time.
+
+Drownings are common, and automobile and other motor vehicle accidents (often involving animals or pedestrians) are very common. Local emergency medical care is very good on the basics in urban areas. Expect long waits in government-run clinics and hospitals. Treatment for serious conditions often requires an evacuation to New Zealand or Australia. Even the most basic medical care is usually not available outside of urban areas.
+
+Fiji, like most of the South Pacific, can have intense solar radiation that can cause severe skin-burns in a short amount of time.  Be sure to use hats, sunglasses and liberal amounts of high-SPF value sunblock on ALL exposed skin (including ears, noses and tops-of-feet) when out in the sun. On top of that tropical boils are a common inconvenience in Fiji, this can be avoided by giving those sweaty sections of the body a soapy scrub more than once a day.
+
+==Respect==
+Fiji, like many Pacific Island states, has a strong ''Christian'' moral society; having been colonised and converted to Christianity by missionaries during the 19th century. Do not be surprised if shops and other businesses are closed on Sunday. The Sabbath starts at 6PM the day before, and some businesses celebrate the Sabbath on a Saturday instead of a Sunday. Many Indians are Hindu or Muslim.
+
+Also, dress modestly and appropriately. While Fiji is a tropical country, beach-wear should be confined to the beach. Take your cues from the locals as to what they consider appropriate dress for the occasion.  When visiting towns and villages, you should be sure to cover your shoulders and wear shorts or ''sulus'' (sarongs) that cover your knees (both genders). This is especially true for visiting a church, although locals will often lend you a ''sulu'' for a church visit. You should take off your hat when visiting villages or homes.
+
+==Contact==
+Public phones are numerous and usually easy to find (look around shops). All phones are prepaid - you must first purchase scrape-off code card (F$5, F$10 or more nominals). Calling is done by calling card issuer center, entering the code (found on the card) and entering the destination number. Foreign call to Europe is approx. F$1 per minute.  If you are coming to Fiji from Bosnia and Herzegovina note that there is not a telecommunications agreement between the two countries at present, which means calling landlines or mobiles between the two countries is not possible as discovered from a recent trip by a Bosnian tourist.
+
+
+{{IsPartOf|Melanesia}}
+{{outline}}
+{{countryguide}}
+
+
+
+
+
+[[de:Fidschi]]
+[[eo:Fiĝioj]]
+[[es:Islas Fiji]]
+[[fi:Fidži]]
+[[fr:Fidji]]
+[[hu:Fidzsi-szigetek]]
+[[it:Figi]]
+[[ja:フィジー]]
+[[nl:Fiji]]
+[[pl:Fidżi]]
+[[pt:Fiji]]
+[[ru:Фиджи]]
+[[sv:Fiji]]
+[[wts:Category:Fiji]]
+
+
+[[WikiPedia:Fiji]]
+[[Dmoz:Oceania/Fiji/]]
+[[World66:australiaandpacific/fiji]]
+
+{{hasDocent|Dawnview}}

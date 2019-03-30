@@ -1,0 +1,686 @@
+{{pagebanner|Switzerland Banner.jpg}}
+
+{{quickbar
+|image=Matterhornnorth.jpg
+|caption=Matterhorn
+|location=Switzerland in its region.svg
+|flag=Flag of Switzerland.svg
+|capital=[[Berne]]
+|government=Federal Republic
+|currency=Swiss franc (CHF)
+|area=41,285km²
+|population=7,952,600 (December 2011) including 1,814,800 foreigners (23%)
+|language=[[German]], [[French]], [[Italian]], Lombard, [[Romansh]]
+|religion=38.8% Roman Catholic, 30.9% Protestant, 20.1% non-denominational, 4.5% Muslims, 2.4% other Christian communities, 1.1% other religious communities, 0.24% Judaism
+|electricity=230V, 50Hz
+|callingcode=+41
+|tld=.ch
+|timezone=UTC+1
+}}
+
+[http://www.myswitzerland.com/ '''Switzerland'''] (German: ''Schweiz'', French: ''Suisse'', Italian: ''Svizzera'', Romansch: ''Svizra'', Latin: ''Confoederatio Helvetica'') is a landlocked country in [[Central Europe]]. It has borders with [[France]] to the west, [[Italy]] to the south, [[Austria]] and [[Liechtenstein]] to the east and [[Germany]] to the north.
+
+The climate is temperate, but varies with altitude. Switzerland has cold, cloudy, rainy/snowy winters and cool to warm, cloudy, humid summers with occasional showers. 
+
+Switzerland is known for its mountains ([[Alps]] in south, Jura in northwest) but it also has a central plateau of rolling hills, plains, and large lakes. The highest point is Dufourspitze at 4,634m while [[Lake Maggiore]] is only 195m above sea level.
+
+==Understand==
+
+Switzerland's independence and neutrality have long been honored by the major European powers and Switzerland has not been involved in any military conflict since 1815. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations, but retains a strong commitment to neutrality.
+
+Switzerland showcases three of Europe's most distinct cultures. To the northeast is the clean and correct, 8-to-5-working, stiffer Swiss-German-speaking Switzerland; to the southwest you find the wine drinking and laissez-faire style known from the French; in the southeast, south of the Alps, the sun warms cappuccino-sippers loitering in Italian-style piazzas; and in the center: classic Swiss alphorns and mountain landscapes. Binding it all together is a distinct Swiss mentality.
+
+===Economy===
+Switzerland is a peaceful, prosperous, and stable modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP larger than that of the big Western European economies. The Swiss in recent years have brought their economic practices largely into conformity with the EU's to enhance their international competitiveness. Switzerland remains a safe haven for investors, because it has maintained a degree of bank secrecy and has kept up the franc's long-term external value. Reflecting the anaemic economic conditions of Europe, GDP growth dropped in 2001 to about 0.8%, to 0.2% in 2002, and to -0.3% in 2003, with a small rise to 1.8% in 2004-05. Even so, unemployment has remained at less than half the EU average.
+
+==Regions==
+Politically, Switzerland is divided into '''cantons''', but the traveller may find the following regions more useful:
+
+{{Regionlist|
+
+regionmap=Switzerland_regions.png |
+regionmapsize=upright=2 |
+regionmaptext=Regions of Switzerland |
+
+region1name=[[Lake Geneva]] |
+region1color=#d56d76 |
+region1items= |
+region1description=On the northern shores of ''Lac Léman'', from the Jura to the Alps|
+
+region2name=[[Jura Mountains and Fribourg]] |
+region2color=#578e86  |
+region2items= |
+region2description=Hiking, lakes, watch-making |
+
+region3name=[[Bernese Lowlands]]  |
+region3color=#d5dc76  |
+region3items= |
+region3description=The core region of Traditional Bernese influence |
+
+region4name=[[Bernese Highlands]]  | 
+region4color=#d09440  |
+region4items=|
+region4description=The Majestic Bernese Alps|
+
+region5name=[[Central Switzerland]] | 
+region5color=#4da9c4  |
+region5items= |
+region5description=The birthplace of the Swiss Confederation, the legends of William Tell|
+
+region6name=[[Basel and Aargau]] | 
+region6color=#cc4f4f  |
+region6items= |
+region6description=Home of the Swiss pharmaceutical industry; launching point to Germany and France|
+
+region7name=[[Zurich (region)|Zurich]] | 
+region7color=#71b37b  |
+region7items= |
+region7description=The country's largest city, a tourist region in its own right |
+
+region8name=[[Northeastern Switzerland]] | 
+region8color=#d2cb8a  |
+region8items= |
+region8description=Between the Alps and Lake Constance and home to many scenic dairy farms|
+
+region9name=[[Valais]] | 
+region9color=#69999f  |
+region9items= |
+region9description=Europe's highest peaks and largest glaciers|
+
+region10name=[[Graubünden]]/[[Grisons]] | 
+region10color=#ac5c91  |
+region10items= |
+region10description=Officially, tri-lingual, the region is very mountainous, lightly populated and home to many great tourist cities and includes the ancient Romansh minority language and culture |
+
+region11name=[[Ticino]] | 
+region11color=#8a84a3  |
+region11items= |
+region11description=Italian speaking region including famous alpine lakes |}}
+
+
+The [[Swiss Alps]] stretch through the regions of [[Valais]], [[Bernese Highlands]], [[Central Switzerland]] and [[Graubünden]].
+
+==Cities==
+[[Image:Bern_kirchenfeldbruecke.jpg|thumb|upright=1.7|The capital city of [[Berne]]]]
+All Swiss cities, villages, regions, (or whatever geographical object) do have official spellings in all four national languages; sometimes they are just the same. However, major cities and tourist regions also know official English spellings. Nevertheless, only a few years ago, the official Swiss tourism office started to advertise major spots and cities with their original, local spelling; with some exceptions of course, such as Geneva, Zurich, and Lucerne for example. 
+
+Obviously, it was too disturbing for Anglo-Saxon tourists to remember all the different spellings. But their real spellings are really important to the locals and helpful to know as a tourist of the respective region. So, therefore, the following list will give you the advertised spelling first, followed with its local spelling, if different, then its English version, if different, and its other national spellings.
+
+You could even enlarge these lists with other different, but hardly any more used or even outdated spellings in other national languages (e.g. Bellinzona used to be spelled ''Bellenz'' in German or ''Bellence'' in French, or even more outdated: Lugano was known as ''Lauis'' in German). And this can even get escalated if you would want to refer to the different spellings of the different dialects in the different national language regions of Switzerland: the many 21+ Swiss-German dialects, the four Romansh dialects, the Franco-Provençal from the French speaking Switzerland, or the Lombard in Ticino ;-)
+
+And how to speak them is even another issue, since even if they are written the same, they are quite often not spoken the same way in the different languages/dialects, of course!
+
+<!-- Please do not add or subtract any cities without first discussing proposed additions or deletions on this article's discussion page.-->
+*[[Basel]] (''ger'' ; ''eng'': Basle (somehow ''outdated'', however still used in the English press:  ''fre'': Bâle; ''ita/roh'': Basilea) — the traveller's gateway to the German Rhineland and French Alsace with an exceptional medieval centre at the knee of the ''Rhine'' river; excellent museums numbering 40 or so and ''ART BASEL'', the world's largest art fair; also famous for its huge and contemplating carnival around February (''Basler Fasnacht''); German-speaking world wide renowned theatre (including opera and ballet).
+*[[Bellinzona]] (''ita/eng/ger/roh'' ; ''fre'': Bellinzone) — renowned for its medieval castles, world UNESCO heritage, pretty centre and capital of the canton of [[Ticino]], overlooking one of the few flat rural areas of Switzerland towards [[Lake Maggiore]].
+*[[Chur]] (''ger'' ; ''roh'': Cuira; ''eng/fre'': Coire; ''ita'': Coira) — capital of the canton of Grisons (''ger'': Kanton Graubünden; ''roh'': Chantun Grischun; ''ita'': Cantone dei Grigioni), the only trilingual Swiss canton, in the east-south of Switzerland, dates back almost 4,000 years; lovely old town; gate to several glitzy ski and hiking resorts, such as [[St. Moritz]], [[Davos]], [[Arosa]], [[Lenzerheide]], [[Flims]]/[[Laax]] and many more; major hub to the [[Glacier Express]] and the [[Bernina Express]]
+*[[Bern]] (''ger'' ; ''eng/fre'': Berne; ''ita/roh'': Berna) — capital of Switzerland at the shores of the crystal-clear green-blue ''Aare'' river with an amazingly well preserved old-town with arcades along almost every street; great restaurants abound, as do bars and clubs.
+*[[Geneva]] (''eng''; ''fre'': Genève; ''ger'': Genf; ''ita'': Ginevra; ''roh'': Genevra) — this centre of arts and culture is an international city that is home to around 200 governmental and non-governmental organizations (with some major UN organizations) at the end of Lake Geneva (''Lac Léman'' flows into the river ''Rhône''), founding place of Calvinism and THE ''Red Cross'' (ICRC); almost every second inhabitant is a foreigner.
+*[[Interlaken]] (''ger/eng/fre/ita/roh'') — the outdoor and action sports capital of Switzerland; anything from skydiving, bungee jumping, hiking, white-water rafting, to canyoning; between the two lakes ''Brienz'' and ''Thun''; starting point for many, many tourists for excursions into the Bernese Alps.
+*[[Lausanne]] (''fre/eng/ger'' ; ''ita/roh'': Losanna) — scenery, dining, dancing, boating and the Swiss wine-country are the draws at the shores of the great Lake Geneva (Lac Léman) with a view of Swiss and French Alps; world-wide renowned for its ''Béjart Ballet Lausanne''
+*[[Luzern|Lucerne]] (''eng/fre''; ''ger'': Luzern; ''ita/roh'': Lucerna) — main medievial city of the Central region with direct water links to all of the early Swiss historic sights at the end of the many branched lake Lucerne (''Vierwaldstättersee'' ends into the river ''Reuss'') along of many steep mountains; also famous for its tremendous and ethnic carnival (''Lozärner Fasnacht'') around February; host of the world-renowned ''Lucerne Festivals'', a classical summer music festival in the ''Culture and Congress Centre'' (KKL) designed by ''Jean Nouvel''; starting point for many excursions into the Alps
+*[[Lugano]] (''ita/eng/ger/fre/roh'') — a bustling old-town in Italian-spoken Switzerland, at the southern end of the Alps with a Mediterranean climate at the pretty lake of Lugano in the middle of forested mountains; much Italianata combined with Swiss seriousness.
+*[[St. Gallen]] (''ger'' (also: Sankt Gallen); ''eng'': St Gall; ''fre'': Saint-Gall; ''ita'': San Gallo; ''roh'': Son Gagl) — main city of north-eastern Switzerland, renowned for its ''Abbey of St. Gall'', a UNESCO World Heritage Site and its library contains books which date back to the 9th century, it also functions as the gate to the very special ''[[Appenzell]]'' region.
+*[[Zurich]] (''eng/fre''; ''ger'': Zürich; ''ita'': Zurigo; ''roh'': Turitg) — largest city of Switzerland at the end of Lake Zurich (ends into the river ''Limmat''), a major centre of international banking and national major companies and media; great culture & arts possibilities; more than 50 museums and around 100 galleries; great restaurants (more than 1500) and bars (more than 500); excellent cinema selection (~60 show rooms); has a thriving nightlife (~80 clubs on weekends); host of the largest European party rave ''Street Parade'' in August with almost 1 million visitors every year; renowned opera, excellent theatre; host of the renowned theatre festival ''Zürcher Theater Spektakel'' during August; every third inhabitant is a foreigner
+
+==Other destinations==
+*[[Grindelwald]] — the classic resort at the foot of the Eiger
+*[[Spiez]] — a picture postcard town with the loveliest bay of Europe
+*[[Schaffhausen|Rhine Falls]] — the largest falls of Europe, close to Schaffhausen
+*[[Zermatt]] — famous mountain resort at the base of the mighty Matterhorn
+
+==Get in==
+
+===Entry requirements===
+{{infobox|Minimum validity of travel documents|* EEA citizens, as well as non-EEA citizens who are visa-exempt (eg US, Canada, New Zealand and Australia), need only produce a passport which is valid for the entirety of their stay in Switzerland.
+* Other nationals who are required to have a visa (e.g. South Africa), however, must produce a passport which has '''at least 3 months' validity''' beyond their period of stay in Switzerland.
+* '''''However''''', EEA citizens can still enter Switzerland without a valid travel document if their citizenship has been established. The burden of proof rests with the person concerned. Proof of citizenship may be furnished by any appropriate means (e.g. an expired passport, combination of documents proving identity and/or citizenship of holder).
+* More information about the minimum validity of travel documents, as well as entry for EEA citizens without valid travel documents, is available at the [http://www.bfm.admin.ch/content/bfm/en/home/themen/einreise/faq.faq_0.html#a_faq_0 FAQs section of the website of the Federal Office for Migration] (under the 'Border-crossing/Travel documents' heading).}}
+{{Schengen}}
+
+Switzerland is not a member of the EU nor the EEA, and is not in the European Union Customs Union. Therefore, it has its own customs regulations, and car passengers are frequently subject to customs control. Meanwhile, immigration checks on entry (whereby passports are ''not'' stamped) are common for long-distance buses, moderately common on long-distance trains, and occasionally take place on local trains, despite Switzerland's Schengen membership, which technically has abolished passport checks at the border. However, there are no border or customs checks at all for those entering and leaving [[Lichtenstein]] owing to the open border and total customs union.
+
+'''Unaccompanied minors''' (travellers under the age of 18 years) are strongly advised to have a note of consent from their parents/guardian, as well as a copy of the parents' or guardian's valid passport or ID card. For more information, visit the [http://www.bfm.admin.ch/content/bfm/en/home/themen/einreise/faq.faq_12.html#a_faq_12 FAQs section of the website of the Federal Office for Migration] (under the 'Border-crossing/Travel documents' heading).
+
+Unlike other countries, immigration in Switzerland for stays of longer than 90 days is the responsibility of the cantons, ''not'' of the Federal government. Citizens of EU/EEA/Schengen countries, Japan, Brunei, Malaysia, Singapore, and New Zealand can obtain residence permits on arrival without an advance long-stay visa; all other foreign nationals require both advance approval from the cantonal authority '''and''' a long-stay visa from a Swiss embassy or consulate in order to enter Switzerland. In any case, persons staying longer than 90 days should contact the cantonal immigration authority or police within 14 days of arrival.
+
+===By plane===
+Major international '''airports''' are in [[Zurich]], [[Geneva]] and [[Basel]], with smaller airports in [[Lugano]] and [[Berne]]. Flying into nearby [[Milan]] ([[Italy]]), [[Lyon]] or even [[Paris]] ([[France]]), [[Frankfurt]] ([[Germany]]), or [[Munich]] ([[Germany]]) are other options though rather expensive and time-consuming (3h Frankfurt-Basel, 4h Frankfurt-Berne/Zurich, 4h Milan-Zurich, 3h Paris-Basel/Geneva, 4h Paris-Berne/Zurich, 3.5h Munich-St. Gall, 4.5h Munich-Zurich) by train.  Some discount airlines fly to [[Friedrichshafen]], [[Germany]] which is just across Lake Constance (the Bodensee) from [[Romanshorn]], not too far (1h) from [[Zurich]].
+
+The Flagcarrier of Switzerland is [http://www.swiss.com SWISS] which is a member of [http://www.staralliance.com Star Alliance] and successor to the famous, but defunct, Swissair.
+
+===By train===
+Trains arrive from all parts of Europe. Switzerland is together with Germany one of the most central-lying countries in Europe, making it a nexus of railways and highways to the rest of Europe. Some major routes include:
+
+*The TGV Lyria (Train à grande vitesse, French/Swiss high-speed rail connection to Switzerland), with several trains daily from [[Paris]], [[Avignon]], [[Dijon]], and [[Nice]] with direct trains from Paris (Gare de Lyon) to either [[Geneva]], or [[Vallorbe]] - [[Lausanne]], or [[Basel]] - [[Olten]] - [[Bern]] (- [[Interlaken]]), or [[Basel]] - [[Zurich]] [http://tgv-lyria.com/main/FCK/File/site_fr/timetable/network_map/carte_reseau.asp].
+*Hourly trains to/from [[Milan]] with connections to all parts of [[Italy]] 
+*Hourly ICE (InterCity-Express, German high-speed trains) from [[Zurich]] to [[Karlsruhe]], [[Mannheim]], [[Frankfurt]] in Germany, many continuing toward [[Amsterdam]], [[Hamburg]] or [[Berlin]].
+*Regular ICE trains from [[Zurich]] to [[Stuttgart]] 
+*Regular EuroCity trains from [[Zurich]] to [[Munich]] 
+*Night trains from [[Paris]], [[Amsterdam]], [[Berlin]], [[Hamburg]], [[Prague]], [[Vienna]], [[Belgrade]], [[Barcelona]] [[Rome]] and [[Venice]] to [[Basel]], [[Geneva]], [[Zurich]] and some also to [[Lausanne]]. These trains are either "EuroNight" (symbol: '''EN''') or CityNightLine (symbol: '''CNL''') services [http://www.citynightline.ch/]
+
+=== By bus ===
+* [http://www.eurolines.ch Eurolines] and [http://www.flixbus.co.uk Flixbus] have incorporated Switzerland into their route networks.
+* Due to the Bosnian war in the 1990s there are several bus companies serving the Bosnian diaspora, which provide a cheap and [[Ecotourism|clean]] way of getting to the Balkans. [http://www.turistik-prosic.co.ba Turistik Prošić] runs from various destinations in the Federation of [[Bosnia and Hercegovina]] to Switzerland.
+
+=== By car ===
+Common tourist destinations within Switzerland are easily reachable by car, e.g. Geneva from central eastern France, and Zurich from southern Germany. Although Switzerland is now part of the Schengen agreement, it is not part of the EU customs/tariff union. However, in practice, passport checks are fairly common at major EU/Swiss border posts, which are simultaneous with customs checks, Delays are usually short but cars may be stopped and no reason needs to be named. Some delay may be caused by queuing at busy times, and there are often queues lasting hours to use the tunnels under the Alps from Italy such as Mont Blanc, Gotthard etc. Swiss motorway vignettes (40 Swiss Francs) can and should be purchased at the border if your car does not already have a valid one for the year and you intend to use the Swiss motorways which is almost unavoidable. Keep in mind when choosing your means of transport that most cities do not have free parking.
+
+When using mountain roads, bear in mind that they are also used by buses - most relevant on hair pin bends. And most mountain roads are frequently used by the yellow Swiss PostAuto bus. If you see a postal bus, or even much better, hear it approaching a bend by its distinctive three tone horn, hold right back (before the bend!) and let it pass, they ''always'' have priority and their drivers count on your passive driving (see also [[Switzerland#By_car_2|mountain road hints]] below)!
+
+==Get around==
+
+===By plane===
+The following carriers offer domestic flights within Switzerland:
+
+#[http://www.swiss.com SWISS] (Basel/Mulhouse (EuroAirport Swiss), Geneva (Geneve-Cointrin Airport), Lugano Airport, Zurich Airport)
+# Darwin Airlines [http://www.darwinairline.com] (Berne (Belp Airport), Geneva (Geneve-Cointrin Airport), Lugano Airport)
+# FlyBaboo website [http://www.flybaboo.com] (Geneva (Geneve-Cointrin Airport), Lugano Airport)
+
+But in almost every case you will be better off taking the train.
+
+===Public transport===
+The Swiss will spoil you with fantastic transport - swift, disturbingly punctual trains, clean buses, and a half dozen different kinds of mountain transport systems, integrated into a coherent system. The discount options and variety of tickets can be bewildering, from half fare cards to multi-day, multi-use tickets good for buses, boats, trains, and even bike rentals. In general there's at least one train or bus per hour on every route, on many routes trains and buses are running every 30min, or even 15min, but as with everything in Switzerland the transit runs less often, or at least for a shorter period of the day, on weekends, and especially on Sundays. Authoritative information, routes, and schedules can be found at Swiss Federal Railway's ('''SBB CFF FFS''') [http://www.sbb.ch/en/home.html website], or from a ticket window in any train station.
+
+====Tickets====
+Almost nobody in Switzerland pays full fare for the transit system. At the very least they all have a '''Half-Fare Card''' (French: ''Demi-tarif'', German: ''Halbtax'') which saves you 50% on all national buses and trains and gives a discount on local and private transit systems. Press the '1/2' button (in the French speaking part often called ''tarif reduit'') on the ticket machines to indicate you have this card, and be prepared to hand it to the conductor along with your ticket on the train. Annual half fare cards cost CHF175.- [http://www.sbb.ch/en/travelcards-and-tickets/railpasses.html]; visitors from abroad can buy a 1-month '''Swiss Half-Fare Card''' cards for CHF120  [http://www.sbb.ch/en/leisure-holidays/holidays--short-breaks-in-switzerland/swisstravelsystem/swiss-halffare-card.html] [http://www.swisstravelsystem.com/en/tickets-en/swiss-half-fare-card-en.html].  You save CHF62.- on a round-trip ticket from Zurich to Lugano, so if you are planning on travelling a lot, it will quickly pay for itself. Children between ages 6 and below 16 (before the 16th date of birth!) pay 1/2 fare for travel around Switzerland. Children travelling with a paying parent or grandparent can travel for free, if the parents purchased a Junior Card, or the grandparents purchased a [http://www.sbb.ch/en/travelcards-and-tickets/railpasses/travelling-with-children-and-grandchildren.html Grandchild Travelcard]. Parents from abroad in possession of any kind of a valid Swiss Pass/Card/Ticket by the Swiss Travel System [http://www.swisstravelsystem.com/en/home.html] can get a Swiss Family Card for free with the same advantages [http://www.swisstravelsystem.com/en/tickets-en/swiss-family-card-en.html]. While calculating whether a Swiss Half Fare Card or a Swiss Pass is worth the expense, do keep in mind that the default fares shown on the SBB website are '''half-fares''', if you book without a Half Fare Card, the actual expense is double the amount listed on the SBB website.
+
+The most convenient way to travel with public transport in Switzerland is either a GA travel card (French: ''Abonnement général'', German: ''Generalabonnament''), or for visitors only a '''Swiss Pass''', which grants you access to all national bus (including Swiss PostAuto bus) and rail, all boats, all city transit systems, and the same hefty discount as a half-fare card on privately operated cable cars, funiculars, and ski lifts. Swiss Passes range from CHF272 for a 4-day, 2nd class pass to CHF607 for a month pass, 2nd class. Like the half-fare, you can buy this from any train station ticket office.
+
+There are a few other possibilities in between a half-fare card and a Swiss Pass: See an overview here [http://www.swisstravelsystem.com/en/home.html] and for all possible tickets here [http://www.swisstravelsystem.com/en/tickets-en/ticket-overview.html].
+
+For visitors planning to travel extensively in switzerland the 'Swiss Pass' can be a worth while option. It will prove economical and will save lot of time & effort in booking desination to desination tickets. With 'Swiss Pass' you don't need to book any separate tickets on approx 90% of the trains including the goldenpass trains. Mountain trains and funiculars generally require separate tickets. But there also holders of swiss pass get some / 25% / 50% discount. 'Swiss Pass' holders also get free entry to a large number of museums & tourist sites like Château de Chillon. For parents travelling with under 12 children do take advantage of the free 'family card' along with the swiss pass. With 'family card' the under 12 kids travel free with their parents. 
+
+ 
+Only two trains in Switzerland require reservations: the '''Bernina Express''', running daily between [[Chur]] and [[Tirano]] and the '''Glacier Express''' running from [[St. Moritz]] to [[Zermatt]]. Reservations is also recomended for the '''GoldenPass Line''' from [[Montreux]] to [[Interlaken]] and further to [[Luzern]], as well as for the '''Wilhelm Tell Express''' from [[Luzern]] to [[Flüelen]] by boat and further from [[Flüelen]] to [[Lugano]] or [[Locarno]] in Ticino by train. 
+
+Normally, you do not have to make reservation for any of the public transport system in Switzerland. Though, there are some exceptions. Besides the mentioned scenic trains, some of the yellow bright Swiss PostAuto bus lines require them as well. The easiest way to check this is by the time table [http://www.sbb.ch/en/home.html]. If you find a capital '''R''' in a square, then seat reservation is compulsory. And of course, it is also compulsory for most of the international connections.
+
+In general, you will always find a free seat, except for rush hours (departure times between 06:30 and 08:00, and 17:00-18:30) especially on non-stop connections between the major business cities, and in particular between Zurich and Bern, between Zurich and Basel, and between Geneva and Lausanne in both directions. You can easily check this on the online timetable by the statistically based ''occupancy'' indication. And during winter season at weekends to and from major ski areas, it can be packed as well. But normally, nobody makes a reservation.
+
+On most trains in Switzerland, tickets can no longer be bought on board, so it is strongly recommended to buy tickets before hand. You will get heavily fined, if you have not got a ticket. Swiss railway kiosks accept credit/debit cards. Nowadays, the locals buy their ticket briefly before departure on the spot at a ticket machine, although they require that for a credit/debit card a PIN be entered. You can also buy a ticket on the Swiss Federal Railway ('''SBB CFF FFS''') website [http://www.sbb.ch/en/home.html], a so-called ''OnlineTicket''. Or on SBB's smart phone apps [http://www.sbb.ch/en/timetable/mobile-timetables/mobile-apps.html] for paperless on-the-mobile-phone tickets, they call it a ''MobileTicket'', but you need to register an account and a credit card first.
+
+A national single rail ticket is always valid the whole calendar day and therefore valid for any train running on the given route during the day, with or without any changes, or more precisely from 05:00 to 05:00 of the next day; train operation, or in general any public transport system in Switzerland, stops for a few hours during the night. A national return rail ticket always costs exactly double the amount of a single ticket. This is not necessarily true for suburban ticket areas of shorter distances, or for cities' local transport systems. 
+
+Any national Swiss fare does not change for at least a whole year. So there is no need to buy national tickets in advance and therefore you cannot even buy national tickets online earlier than 30 days ahead. There are only very rare occasions to buy national rail tickets with deductions. And they are only available 14 days before travel date. And you can buy them only online [http://www.sbb.ch/en/travelcards-and-tickets/tickets-for-switzerland/supersaver-tickets.html], if there are any at all. And they are only valid for the chosen connection/train of a given date and time! All online bought national tickets are not refundable and only valid for one single calendar day of the chosen date.
+
+The validity and the requirement for reservation for '''international tickets''' are quite different, and different for each neighbouring country. So be careful not to mix the Swiss rules with the rules for the [http://www.sbb.ch/en/travelcards-and-tickets/billette-international.html international trains from and to Switzerland]! As a general advice in order to make things less complicated: order your international tickets with the railway operator from the country where you leave from, since not every operator sells them on foreign grounds. E.g. ticket collection could then become a problem. So check the requesting requirements carefully!
+
+====Travel====
+
+Using the trains is easy, although the number of different kinds of trains can be a bit confusing unless you know that the schedules at a Swiss train station are color coded.  The yellow sheet is for departures and the white sheet is for arrivals. Faster trains appear on both of these sheets in red, while the trains in black stop at more stations. For long trips it is often easier to use the website, as it will pick transfers for you. You need not fear transfers of five minutes or less. You will make them, provided you know exactly which platform you arrive on and which one you depart from. Many Swiss commute with a one or two minute transfer! 
+
+Planning is recommended because some trains run on half hourly or hourly frequency. Plus time for catching the connecting trains is mostly 5 minutes or less. plan your train travel  using the SBB CFF's website [http://www.sbb.ch/en/home.html]. It is also important to catch the right type of train eg 'IR' train v/s 'R' train. 
+
+At the track, the signs indicate the destination and departure time. The small numbers and letters along the bottom show you where you can board the train. The letters indicate the zone you should stand in, and the numbers indicate the class. The class (1st or 2nd) is indicated by a "1" or "2" on the side of the car, these correspond with the numbers on the sign. All Swiss trains are non-smoking — this is also indicated on the side of car, as well as inside. 
+
+Luggage can be stowed above your seat or in between (!) seats, or on a rack at the end of the car. Given that hardly nobody makes a reservation in Switzerland, it is perceived to be rude to place the luggage on seats or between the seats so that other travellers cannot take a seat–especially in quite occupied trains! Then expect some strong stares by other travellers or even to be asked in a rather rude way to move your luggage somewhere else. During busy periods, people often stow large luggage (or skis) in the entrance area in between cars. This is usually fairly safe, but use common sense!
+
+The variety of trains is bewildering at first, but is actually quite simple. The routes the ''SBB CFF FFS'' website suggests will make much more sense if you understand them. All trains have a one or two letter prefix, followed by a number, for example RE2709, IR2781. Only the prefix, the destination, and the time of departure are important.
+
+* '''R''' (Regio/Régional) trains are local trains. They stop everywhere or almost everywhere, and generally reach into the hinterlands of a major station like [[Lausanne]], but not to the next major station (in this case [[Geneva]]).  If you are going to a small town, you may transfer at a large station to an '''R''' train for the last leg.  Often you can use tickets from city public transit on the '''S''' (suburban) system, but ask before trying. For example, Zurich's integrated public transport system (ZVV, [http://www.zvv.ch/en/routes-and-zones/zvv-network-plan.html]) includes everything and all, city trams, buses, ''SBB CFF FFS'' trains, S-Bahn trains, boats and Postbuses as long as you are within its area with a ticket valid for the zones you travel in (check the fare zone map: [http://www.zvv.ch/en/routes-and-zones/fare-zone-plan.html]).
+* '''RE''' (RegioExpress) trains  generally reach from one major station to the next, touching every town of any importance on the way, but don't stop at every wooden platform beside the tracks.
+* '''IR'''  (InterRegio) trains  are the workhorses of Swiss transit.  They reach across two or three cantons, for instance from [[Geneva]], along [[Lake Geneva]] through [[Vaud]], and all the way to [[Brig]] at the far end of the [[Valais]]. They only stop at fairly large towns, usually those that boast three or four rail platforms.
+* '''IC''' (InterCity) trains  are express trains with restaurant cars.  They are sumptuous and comfortable, often putting vaunted services like the TGV to shame, and make runs between major stations, with occasionally stops at a more minor one where tracks diverge.
+* '''ICN''' (''InterCityNeigezug'', or Intercity Tilting Train) trains are the express tilt-trains, as luxurious as the IC trains.  They run on major tracks, such as between [[Geneva]] (City and Aéroport) or [[Lausanne]] - [[Biel/Bienne]] - [[Olten]] - [[Zurich]] (HB) - [[St. Gallen]], [[Basel]] (SBB) - [[Delémont]] - [[Biel/Bienne]] - [[Lausanne]] or [[Geneva]] (City and Aéroport), ([[Chiasso]] -) [[Lugano]] - [[Bellinzona]] - St. Gotthard - [[Arth-Goldau]] - [[Luzern]] - [[Olten]] - [[Basel]] (SBB), and [[Zurich]] (HB) - [[Zug]] - [[Arth-Goldau]] - St. Gotthard - [[Bellinzona]] - [[Lugano]] (- [[Chiasso]]).
+* '''TGV''' (''Train à grande vitesse'') Lyria, French/Swiss high-speed railway with several trains daily from [[Paris]], [[Nice]], [[Marseille]], and [[Montpellier]] with direct trains from Paris (Gare de Lyon) to either [[Geneva]], or [[Vallorbe]] - [[Lausanne]], or [[Basel]] - [[Olten]] - [[Bern]] (- [[Interlaken]]), or [[Basel]] - [[Zurich]] [http://tgv-lyria.com/main/FCK/File/site_en/timetable/network_map/network-map.asp].
+* '''ICE''' (''InterCity-Express'') trains, German high-speed trains serving [[Interlaken]] - [[Spiez]] - [[Bern]] - [[Basel]], and [[Zurich]] - [[Basel]] into Germany with direct connections to several German cities, such as [[Frankfurt]], [[Köln]], [[Dortmund]], [[Hamburg]], [[Kiel]], and [[Berlin]], or even to the Dutch [[Amsterdam]].
+* '''RJ''' (''RailJet'') trains, international trains by the Austrian ''ÖBB'' with several connections a day between [[Zurich]] - [[Innsbruck]] - [[Salzburg]] - [[Vienna]] (- [[Budapest]])
+* '''EC''' (''EuroCity'') trains, international connections between two countries on the following routes [[Zurich]] - [[St. Gallen]] - [[Munich]] several times a day, [[Zurich]] - [[Innsbruck]] - [[Kitzbuehl]] - [[Zell am See]] - [[Graz]], [[Chur]] - [[Zurich]] - [[Basel]] - ... - [[Hamburg]], [[Zurich]] - [[Zug]] - [[Arth-Goldau]] - [[Bellinzona]] - [[Lugano]] - [[Milano]] several times a day, [[Luzern]] - [[Bellinzona]] - [[Lugano]] - [[Milano]] once a day, [[Geneva]] - [[Lausanne]] - [[Sion]] - [[Brig]] - [[Milano]] (- [[Venezia]]) a few times a day with modern tilting trains, [[Basel]] - [[Bern]] - [[Thn]] - [[Spiez]] - [[Brig]] - [[Milano]] a few times a day with modern tilting trains
+
+There are also a number of narrow gauge railways that don't fit this classification that supplement the buses in the hinterlands, such as the line from [[Nyon]] to La Cure or the line from [[Interlaken]] to Lauterbrunnen.
+
+You can bring your '''bicycle''' on almost every train and some Postbuses in Switzerland, with two provisos: you must have a ticket for it (available from the ticket machines, CHF18 (full-fare) for a day pass), and you must get on at a door marked with a bicycle. On ICN trains and some IR trains this is at the very front of the train. Check the time table for every single connection and train you intend to use: if you find an icon with a stroke-through bycicle, then their self-service loading transfer is not allowed. If you find an icon with a bicycle, then a reservation is compulsory (mainly for journeys with Postbuses and international train connections) [http://www.sbb.ch/en/station-services/car-bike/on-the-move-by-bike/bring-your-bike-along-for-the-trip.html].
+
+====Information for railway fans====
+In Switzerland nearly all railways run electrically but it is possible to find many steam railways such as the Brienzer Rothornbahn or the Furka Railway for instance.
+There are many interesting mountain railways of all types.  In Switzerland most electric trains get their power from a single phase AC network at 15,000V, 16.7 Hz. This network uses its own powerlines run with 66kV and 132kV, which have, unlike normal power lines, a number of conductors not divisible by 3. Most powerlines for the single phase AC grid of the traction power grid have four conductors. Railway photography is permitted everywhere provided you don't walk on forbidden areas without permission.
+
+Here is short list of the most remarkable railway lines:
+
+*The '''Glacier Express''' from [[Davos]] or [[St. Moritz]] in the [[Grisons]] to [[Zermatt]] in canton of [[Valais]], an 8 hours journey in the [[Swiss Alps]].
+*The '''Bernina Express''' from [[Chur]] to [[St. Moritz]] to the Italian [[Tirano]], the highest train transversal in the [[Alps]] over the Bernina pass (2328m o.s.l.), high mountain scenery.
+*The '''Jungfrau railway''', from [[Interlaken]] (560m o.s.l) to the Jungfraujoch station (3450m o.s.l.) lying on a saddle between the peaks of Jungfrau (4158m o.s.l.) and Mönch in two hours. Definitely one of the most impressive journeys in the Alps. The route from Kl. Scheidegg (2061m o.s.l.) to Jungfraujoch through the mountains Eiger and Mönch, was being realized between 1896 and 1912 almost exclusively by a tunnel.
+*The '''Gornergrat railway''', departure from [[Zermatt]] to the 3090m o.s.l. high Gornergrat.
+*The '''Mount Rigi''' cogwheel '''railways''' either from [[Vitznau]], or from [[Arth-Goldau]], the oldest mountain train in Europe, started running on 21st May 1871.
+*The '''Mount Pilatus''' cogwheel '''railway''', from [[Lucerne]] to the Pilatus summit (2119m o.s.l.)), the steepest (max. 48% gradient) cogwheel railway in the world, opened 1889.
+* The '''Brienz Rothorn''' steam cogwheel '''railway''' above lake Brienz to the Rothorn summit (2350m o.s.l.) and almost exclusively run by steam locomotives.
+*The '''Lötschberg''' is a line connecting [[Bern]] and [[Brig]], not considered as a mountain train but with still impressive scenery, especially if you take the route by a regional train ('RE') through the old 14.6km long Lötschberg vertex tunnel (between [[Kandersteg]] and [[Goppenstein]], 500m above the 34.6km long Lötschberg Base Tunnel, a high-speed train tunnel newly opened in 2007).
+*The '''St. Gotthard''' line with its many spiral train tunnels and the 15km long St. Gotthard train tunnel (built between 1872 and 1882, 199 workers spent their lifes for its construction) connecting the German spoken nothern Switzerland [[Zurich]]/[[Luzern]] and the Italian spoken southern Switzerland [[Ticino]] ([[Bellinzona]], [[Lugano]], [[Locarno]]). Also advertised as the '''Wilhelm Tell Express''' between [[Luzern]] and [[Flüelen]] by boat, and further then by train to either [[Lugano]], or [[Locarno]].
+
+===Hiking===
+As good as the Swiss train system is, if you have a little time, and you only want to travel 1-200 miles, you could try purchasing the '''world's best footpath maps''' and walk 10-20 miles a day over some of the most wonderful and clearly-marked paths, whether it is in a valley, through a forest, or over mountains. There are more than 60,000km of well maintained and documented '''hiking trails''' [http://www.wanderland.ch/en/welcome.cfm].
+
+The trails are well-planned (after a number of centuries, why not?), easy to follow, and the yellow trail signs are actually accurate in their estimate as to how far away the next hamlet, village, town or city is--once you've figured out how many kilometers per hour you walk (easy to determine after a day of hiking).
+
+There are plenty of places to sleep in a tent (but don't pitch one on a seemingly pleasant, flat piece of ground covered by straw--that's where the cows end up sleeping after a lazy day of eating, and they'll gnaw at your tent string supports and lean against your tent sides.  And definitey don't do this during a rainstorm!), lots of huts on mountain tops, B & B's on valley floors, or hotels in towns and cities.  You could even send your luggage ahead to the next abode and travel very lightly, with the necessary water and Swiss chocolate!
+
+===By car===
+If you like cars, Switzerland can seem like a bit of a tease. They feature some of the greatest driving roads in the world, but can literally throw you in jail for speeding, even on highways. Especially between Geneva and Lausanne there are speed cameras every 2 km, so use your smartphone GPS to alert you of speed camera locations (which is technically illegal) or, better yet, don't speed. Speed cameras are ubiquitous on and off the highway all across Switzerland, within towns and outside of towns. Red light cameras also exist at many major intersections. Driving with foreign license plates may or may not help you avoid tickets. French and German drivers, for instance, will receive tickets at home in France/Germany (and with a significant markup for "trouble of finding you"), and you will be required to pay them.
+
+Exceeding the speed limit by 20 km/h results in cancellation of your driving licence and you must appear before a judge; foreigners are jailed pending court appearance and jails are massively overcrowded so you will be in a cell more than 20 hours a day, for up to 48 hours. [http://www.humanrights.ch/fr/droits-humains-suisse/interieure/poursuite/detention/detention-provisoire-suisse]
+
+If you stick to the limits, the back roads/mountain roads will still be a blast to drive on, while ensuring you are not fined or arrested. Driving is the best way to see such a wonderful country with outstanding roads, particularly the countryside.
+
+{{infobox|Don't Think You'll Speed Scot-free |If you get fined but not stopped (e.g. caught by a speed camera) the police will send you the fine even if you live abroad.<br />In Switzerland, speeding is not a violation of a traffic code but a criminal offence, if you fail to comply there is a good chance that an international rogatory will be issued and you will have to go to court in your home country. This is enforced by most countries, including all of Europe, the United States, Canada, Australia, New Zealand, and many countries in South America and Asia. Failure to comply can result in a warrant being issued for your arrest by your home country.
+
+Also, starting from 2007, Switzerland banned all GPS appliances with built-in speed cameras databases as they are equipped with "Radar Detectors".
+
+According to some GPS navigator producers, remove the Swiss radar database while driving in the country as the police may give you a fine and impound your device even if it is turned off and placed in the trunk of your vehicle!}}
+
+To use the '''motorways''' (known as ''Autobahn(en)'', ''Autoroute(s)'', or ''Autostrada/e'', depending on where you are), with green signs (and white letters), vehicles under 3500 kg weight need to buy a "vignette", a sticker which costs 40 CHF that allows you to use the motorways as much as you like for the entire year (more precisely, from 1 December of the preceding year to 31 January of the following, so a 2016 vignette is valid from 1 December 2015 until 31 January 2017). Trailers must have a separate vignette. Avoiding the motorways in order to save the toll price is generally futile; the amount is well worth it, even if you are only transiting. '''A vignette must be stuck to your windshield in order to be valid!''' Failure to possess a valid vignette is punishable by a 200 CHF fine and a requirement to purchase a vignette immediately (total fine of 240 CHF). Sharing vignettes is, of course, illegal and subject to the same fines as not having one.
+
+Rentals should have the vignette already paid for that vehicle, but ask to be sure.
+
+Vehicles larger than 3500kg have to pay a special toll assessed through special on-board units that is applied for all roads, not just the motorways. Certain foreign-registered vehicles (such as campers, buses, and trailers) have the option of paying a lump-sum daily toll ranging from from CHF 3.25 to CHF 25 rather than install an on-board unit; this toll is calculated per day the vehicle's in Switzerland, not just per day the vehicle's driven.
+
+'''Speed limits''' [http://www.autobahnen.ch/index.php?lg=001&page=014] are, in absence of signage otherwise '''120 km/h''' on '''motorways''', '''100 km/h''' on '''expressways''' (ge: ''Autostrasse(n)'', ''fr'': ''semi-autoroute(s)'', it: ''semiautostrada/e''; often with oncoming traffic), '''80 km/h''' on normal roads '''outside of villages and towns''' and often inside tunnels, and a '''general valid 50 km/h''' limit '''inside villages and towns''' and often only indicated by the name of the village, or town respectively.<br/>  Major roads are indicated with blue signs (and white letters), while for minor roads the signs are white (with black letters).
+Moreover, some roads are limited to '''30 km/h''' or even to '''20 km/h''' in '''built-up areas''' and to 70 km/h outside built-up areas. Vehicles unable to travel at 80 km/h are not permitted on the motorways or autoroutes. Whilst driving "a wee bit too fast" is common on motorways, people tend to stick pretty closely to the other two limits. Fines are hefty and traffic rules are strictly enforced. If stopped by the police, expect to pay your fine on the spot.
+
+The blood alcohol concentration limit is 0.05%. As in every country, '''do not drink and drive''', as you will lose your license for several months if you are cited and a heavy fine may be imposed.
+
+Since 1 January 2014, motorists in Switzerland are required to switch on their headlights or daytime running lights while driving during the day or risk a CHF40 fine.
+
+Driving is on the right side of the road everywhere in Switzerland, just like in most of Europe.  Be aware that the '''priority to right''' rule exists everywhere in Switzerland on any street, if not indicated otherwise: at all intersections, priority is given to the driver approaching from the right except when driving on a road with right of way indicated by a '''Priority Road''' (German: Hauptstrasse, French: route principale, Italien: strada principale) sign (yellow diamond with a broad white border[http://en.wikipedia.org/wiki/Priority_to_the_right]). One exception is when merging into traffic circles (roundabouts), where priority is given to the drivers being within the roundabout. But this is no exception to the 'priority of right' rule, since the street signs indicate that the vehicle entering a roundabout does not have priority. 
+
+{{infobox|Some examples of fines by failing to follow traffic rules|* driver license not at disposal: CHF 20
+* Exeeding the valid parking period (<2h): CHF 40, (2h<t<4h): CHF 60, (4h<t<10h): CHF 100
+* On a pedestrian crossing, parking: CHF 120, stopping: CHF 80, even during rush hours: CHF 60
+* Ignoring pedestrian's right of way at pedestrian crossings: CHF 140
+* On a bicycle lane, parking: CHF 120, stopping: CHF 80
+* On the yellow stripe before a pedestrian crossing, parking: CHF 120, stopping: CHF 80
+* Not adjusting snow chains when required: CHF 100
+* Not following directions by arrows either printed on the street, given by sign posts, or traffic lights: CHF 100
+* Driving on a bus lane or on a tram trail: CHF 60
+* Not correctly stopping at a stop sign: CHF 60
+* Ignoring traffic lights (red light, and direction indicators): CHF 250
+* Ignoring flashing (yellow) traffic lights: CHF 250
+* Using of a mobile phone without speakerphone: CHF 100
+* Not using seat belts by any passenger: CHF 60
+* Unsecured children of age below 12 (special seat for children): CHF 60
+* Not using turn indicators when required (also required when leaving roundabouts): CHF 100, misuse of indicators: CHF 40
+* Not disabling indicators after manoeuvre: CHF 100
+* More passengers than allowed: CHF 60
+* Dirty licence plates: CHF 60
+* Driving with improper tires: CHF 100
+
+* Driving too fast (minus the measurement uncertainty)
+** Within cities, towns and villages (speed limit: 50 km/h):
+*** 1-5km/h: CHF 40
+*** 6-10km/h: CHF 120
+*** 11-15km/h: CHF 250
+*** above 15km/h: ''juridictional decision''
+** outside of cities, towns, and villages (speed limit: 80 km/h), or on expressways with oncoming traffic (speed limit: 100 km/h):
+*** 1-5km/h: CHF 40
+*** 6-10km/h: CHF 100
+*** 11-15km/h: CHF 160
+*** 16-20km/h: CHF 240
+*** above 20km/h: ''juridictional decision''
+** on motorways (speed limit: 120 km/h):
+*** 1-5km/h: CHF 20
+*** 6-10km/h: CHF 60
+*** 11-15km/h: CHF 120
+*** 16-20km/h: CHF 180
+*** 21-25km/h: CHF 260
+*** above 25km/h: ''juridictional decision''
+** ''juridictional decision'' will lead to very hefty fines based on your personal wealth and can include prison and confiscation of your car!}}
+
+Pass on the left, not on the right, on motorways as well.  When '''passing''', do not cross any solid white lines or double lines; only cross dashed white lines. When completing a passing manoeuvre (or changing lanes or direction for any reason), you must signal with your vehicle's right indicator before you re-enter the right lane.
+
+You are not allowed to pass trams (normally only on the right side) at a '''tram stop''', if there is no passenger island on which pedestrians can wait. If a pedestrian wants to cross the road on a respectively marked place (pedestrian crossing: yellow stripes on the street), then any car approaching must stop and give '''priority to the pedestrians'''. This is a general law valid anywhere in Switzerland, but especially applicable for tram stops. Do not stop on a pedestrian crossing, even during rush hours.
+
+You must always immediately give way to '''police''', '''ambulances''', '''fire engines''', and '''buses pulling out''' have priority.
+
+Six tips for '''mountain roads''':
+* Honk if you're on a small road and you don't see around the bend.
+* The '''Postal Bus (bright yellow) always has priority'''. You can hear it approaching by means of its distinctive '''three tone horn''' [http://www.postauto.ch/en/pag-startseite/pag-ueberuns/pag-portrait/pag-posthorn.htm]. This is most relevant on hair pin bends. If you see a PostAuto, or even much better, hear it approaching a bend, hold right back (before the bend!) and let it pass, their drivers count on your passive driving!
+* The '''car driving uphill has priority''' over the car driving downhill.
+* Don't even think about driving as fast as the locals: they know every bend, you don't.
+* In general, drive at a speed which allows you to stop within the distance you can see, in order to be safe; and drive so that you would be happy to meet yourself coming the other way!
+* During winter, although most vehicles are equipped with '''winter tires''' (not to be mismatched with all-season tires or even summer tires; winter tires request by Swiss law at least a tread depth of 4mm and are made of different rubber [http://en.wikipedia.org/wiki/Snow_tires]), it may be required to apply '''tire chains''' to the wheels of your car if driving in an area with snow on the street. Autos rented in Switzerland are routinely supplied with tire chains, but ask. Some mountain roads, towns and villages may require chains. Illustrated signs showing snow chains will be posted at the beginning of the route. If chains are requested, winter tires are not sufficient at all! Failure to obey may incur a fine. Service stations located on these routes may provide a chain installation service, for a fee. It's worth the expense, since an inexperienced driver can be tortured for an hour or more, sometimes in terrible weather, learning to self-install tire chains.  Don't assume all roads are open; higher altitude moutain passes (ex: Gotthard, Furka, Grimsel, Oberalp, Julier) will be closed for part or all of the winter. Check that a mountain road or pass is open before driving, or you may encounter a red multilingual "CLOSED" sign at the beginning of the route.
+
+===Bicycle===
+''Veloland Schweiz'' has built up an extensive network of long distance cycle trails all across the country. There are many Swiss cities where you can rent bicycles if that is your means of traveling and you can even rent electric bicycles. During the summer it is quite common for cities to offer bicycle 'rental' for free!
+
+Cycling in cities is pretty safe, at least compared to other countries, and very common. If you decide to bicycle in a city, understand that (in most cities) you will share the road with public transport. Beware of tram tracks which can get your wheel stuck and send you flying into traffic, of the trams themselves which travel these tracks frequently (and may scare you into getting stuck into the track as just noted), and the buses, which make frequent stops in the rightmost lane.
+
+===In-line skating===
+Besides the main types of transportation, the adventurous person can see Switzerland by in-line skating. There are three routes, measuring a combined 600-plus kilometres designed specifically for in-line skating throughout the country. They are the Rhine route, the Rhone route, and the Mittelland route. These are also scenic tours. Most of the routes are flat, with slight ascents and descents. The Mittelland route runs from Zurich airport to Neuenburg in the northwest; the Rhine route runs from Bad Ragaz to Schaffhausen in the northeastern section of the country. Finally, the Rhone route extends from Brig to Geneva. This is a great way to see both the country-side and cityscapes of this beautiful nation.
+
+==See==
+
+===The seven wonders===
+*The '''Castle of Chillon''': near [[Montreux]]
+*The '''[[Lavaux]] vineyards''': on the shore of [[Lake Geneva]]
+*The '''Castles of [[Bellinzona]]''': in the southern canton of [[Ticino]]
+*The '''Abbey of [[St. Gallen]]'''
+*The '''Top of Europe and the Sphinx observatory''': a "village" with a post office on the 3,500 metres high Jungfraujoch above [[Wengen]]
+*The '''Grande Dixence''': a 285 metres high dam, south of [[Sion]]
+*The '''Landwasser viaduct''': on the railway between [[Chur]] and [[St. Moritz]] 
+
+===The seven natural wonders=== 
+*The '''[[Matterhorn]]''': from Schwarzsee, Gornergrat or simply from the village of [[Zermatt]]
+*The '''northern walls of the Jungfrau and Eiger''': two of the most celebrated mountains in the Alps, they can be seen from the valley of [[Lauterbrunnen]] or from one of the many summits that can be reached by train or cable car
+*The '''Aletsch Glacier''': the longest in Europe, the Aletsch wild Forest is located above the glacier, best seen from above [[Bettmeralp]]
+*The '''lakes of the Upper [[Engadine]]''': one of the highest inhabited valley in the Alps at the foot of Piz Bernina, they can be all seen from Muottas Muragl
+*The '''Lake Lucerne''': from the Pilatus above [[Lucerne]]
+*The '''Oeschinensee''': a mountain lake with no rivals above [[Kandersteg]]
+*The '''Rhine Falls''': the largest in Europe, take a boat to the rock in the middle of the falls 
+
+===Events===
+* The '''[[Euro 2008|European Football Championships]]''' in 2008 was held in [[Austria]] and Switzerland. [[Basel]], [[Berne]], [[Geneva]] and [[Zurich]] were all hosting sites.
+
+===Plan===
+The official “MySwitzerland” ipad app from Switzerland Tourism (the national tourism organisation) offers a wealth of useful information and inspiring ideas to help you plan your holiday – anything from a summer in the mountains to a city break. You will find tips for refreshing adventures on the water, breathtaking trips into nature, thrilling train journeys, cultural treats and top events, great accommodation offers – and much more. Consulting MySwitzerland website and/or app is recommended. 
+
+At main stations & at tourist points there are 'i' information centers. These centers are properly staffed with impartial, knowledable and 'tourist friendly' people. These centers have local maps and many other useful brochures.
+
+==Do==
+*<do name="Trek Via Alpina Green Trail" alt="" address="Altdorf to Adelboden" directions="" phone="" url="" hours="" price="" lat="" long="">This trek combines exhausting hikes during the day (climb 12,157m on 144km of trails in 7 days), comfortable accommodations, haut cuisine, low cost, all with non-stop spectacular scenery in the middle of the Swiss alpine mountains. Refer to the link for a trip report that includes route overview, description, GPX track, lodging, packing list, and references.</do>
+
+==Buy==
+There is no sugar-coating: Switzerland is one of the most expensive countries in the world to buy stuff in (with exception of electronic and informatic devices which are usually cheaper than in the rest of the EU).  This is due to a confluence of several factors, not least of which include high minimum wages, limited real estate, and the perceived superior quality of the goods being produced.
+
+Switzerland is not part of the [[European Union]] and the currency is the Swiss franc (or Franken or franco, depending in which language area you are), divided into 100 centimes, Rappen or centesimi. This is symbolised internationally and throughout our guides with '''CHF''' placed immediately before the amount with no intervening space. 
+
+However, many places - such as supermarkets, restaurants, sightseeings' box offices, hotels and the railways or ticket machines - accept euro and will give you change in Swiss francs (seldom in euro, only if they have it in cash).  A bill or a price-label may contain prices both in francs and in euro. Usually in such cases the exchange-rates comply with official exchange rates, but if the exchange-rates is not market at the counter, ask for the rate. Changing some money to Swiss francs (CHF) is essential. Money can be exchanged at all train stations and most banks throughout the country. Changing Swiss francs in Euro (in France, Germany or Italy) is only possible in a bank. Therefore it is recommended to use cards or smaller euro bills.
+
+Switzerland is more cash-oriented than most other European countries. It is not unusual to see bills being paid by cash, even CHF200 and CHF1000 notes. Some establishments (smaller boutiques, but fewer than before) do not accept credit cards so check first. When doing credit card payments, carefully review the information printed on the receipt (details on this can be found in the "Stay Safe" section below). All ATMs accept foreign cards, getting cash should not be a problem.
+
+Coins are issued in 5 centime (brass, rare), 10 centime, 20 centime, ½ Franc, 1 Franc, 2 Franc, and 5 Franc (all silver colored) denominations. One centime coins are no longer legal tender, but may be exchanged until 2027 for face value. Two centime coins have not been legal tender since the 1970's and are, consequently, worthless.
+
+Banknotes are found in denominations of 10 (yellow), 20 (red), 50 (green), 100 (blue), 200 (brown), and 1000 (purple) francs. They are all the same width but vary in length and feature a variety of security measures.
+
+==="Swiss-made":souvenirs and luxury goods===
+Switzerland is famous for a few key goods: watches, chocolate, cheese, and Swiss Army knives.
+
+*'''Watches''' - Switzerland is the watch-making capital of the world, and "Swiss Made" on a watch face has long been a mark of quality.  While the French-speaking regions of Switzerland are usually associated with Swiss watchmakers (like Rolex, Omega, and Patek Philippe), some fine watches are made in the Swiss-German-speaking region, such as IWC in Schaffhausen.  Every large town will have quite a few horologers and jewelers with a vast selection of fancy watches displayed their windows, ranging from the fashionable Swatch for CHF60 to the handmade chronometer with the huge price tag.  For fun, try to spot the most expensive of these mechanical creations and the ones with the most "bedazzle!!".
+
+*'''Chocolate''' - Switzerland may always have a rivalry with [[Belgium]] for the world's best chocolate, but there's no doubting that the Swiss variety is amazingly good.  Switzerland is also home to the huge Nestlé food company.  If you have a fine palate (and a fat wallet) - you can find two of the finest Swiss chocolatiers in [[Zurich]]: '''Teuscher''' (try the champagne truffles) and '''Sprüngli'''.  For the rest of us, even the generic grocery store brand chocolates in Switzerland still blow away the Hershey bars found elsewhere.  For a good value, try the "Frey" brand chocolates sold at Migros or Läderach. If you want to try some real good and exclusive swiss chocolate, go for the Pamaco chocolates, derived from the noble Criollo beans and accomplished through the original, complex process of refinement that requires 72h (quite expensive though, a bar of 125g costs about CHF8). For Lindt fans, it is possible to get them as low as half the supermarket price by going to the Lindt factory store in Kilchberg (near Zurich).
+
+{{infobox|Holey moley!|Have you ever wondered why Swiss cheese, known locally as Emmentaler, always has those distinct holes? Bacteria are a key part of the cheesemaking process. They excrete huge amounts of carbon dioxide which forms gas bubbles in the curd, and these bubbles cause the holes.}}
+
+*'''Cheese''' - many different regions of Switzerland have their own regional cheese speciality. Of these, the most well-known are Gruyère and Emmentaler (what Americans know as "Swiss cheese"). Be sure to sample the wide variety of cheeses sold in markets, and of course try the cheese fondue! Fondue is basically melted cheese and is used as a dip with other food such as bread. The original mixture consists of half Vacherin cheese and half Gruyère but many different combinations have been developed since.
+
+*'''Swiss Army knives''' - Switzerland is the official home of the Swiss Army Knife. There are two brands Victorinox and Wenger. Both brands are manufactured by Victorinox. The Wenger business went bankrupt and Victorinox purchased it (2005). Victorinox knives, knife collectors will agree, are far far superior, in terms of design, quality, functionality. The most popular Victorinox knife is the Swiss Champ which has 33 functions and currently costs about CHF78 . Most Tourists will purchase this knife. The "biggest" Victorinox knife is the Swiss Champ 1.6795.XAVT- This has 80 functions and is supplied in a case. This knife costs CHF364. The 1.6795.XAVT may in years to come be a collector's model. Most shops throughout Switzerland stock Victorinox knifes, even some newsagents stock them. They are excellent gifts and souvenirs. The original "Swiss Army Knife" is not red with a white cross (as usually seen by tourists), but gray with a small Swiss flag. The Swiss Army Knife is also produced by Victorinox. Its main particularity is to have the production year engraved on the basis of the biggest blade (and no cork-screw because the Swiss soldier must not drink wine on duty). 
+
+Note that Swiss Army Knives must be packed in hold luggage.
+
+Ski and tourist areas will sell the other kinds of touristy items - cowbells, clothing embroidered with white Edelweiss flowers, and ''Heidi''-related stuff. Swiss people love cows in all shapes and sizes, and you can find cow-related goods everywhere, from stuffed toy cows to fake cow-hide jackets. If you have a generous souvenir budget, look for fine traditional handcrafted items such as hand-carved wooden figures in [[Brienz]], and lace and fine linens in St. Gallen. If you have really deep pockets, or just wish you did, be sure to shop on Zurich's famed '''Bahnhofstrasse''', one of the most exclusive shopping streets in the world. If you're looking for hip shops and thrift stores, head for the Niederdorf or the Stauffacher area.
+
+===Supermarket chains===
+Swiss employment law bans working on Sundays, so shops stay closed. An exception is any business in a railway station, which is deemed to be serving travellers and so is exempt. If you want to find an open shop on a Sunday, go to the nearest big railway station. If a business is family-owned, you aren't employing anybody so you can open, hence small shops can also open on Sundays.
+
+Bear in mind that swiss supermarkets and most shops close by 6 or 6.30pm. Even earlier on Saturdays. It is advisable to check the working hours. Swiss people are 'sort of' strict about the closing time. 
+
+Swiss supermarkets can be hard to spot in big cities. They often have small entrances, but open out inside, or are located in a basement, leaving the expensive street frontages for other shops. Look for the supermarket logos above entrances between other shops.
+
+For the "self catering":
+
+*''Migros'' [http://www.migros.ch] - This chain of supermarkets (in fact a cooperative) provides average to good quality food and no-food products and homeware. However, they do not sell alcoholic beverages nor cigarettes. Brand name products are rare as the chain does their own brands (quality is good, which chain that you go to does not matter).  Migros stores can be spotted by a big, orange Helvetica letter "M" sign.  The number of "M" letters indicates the size of the store and the different services available - a single "M" is usually a smaller grocery store, a double M ("MM") may be larger and sells other goods like clothing, and a MMM is a full department store with household goods and possibly electronics and sporting goods. Offers change weekly on Tuesdays.
+
+*''Coop'' [http://www.coop.ch] - Also a cooperative. Emphasis on quality as well as multi-buy offers, points collection scheme(s) and money off coupons. Sells many major brands. Come at the end of the day to get half-priced salads and sandwiches. ''Coop City'' is usually a department store with a Coop grocery store inside, a multi-floor layout provides space for clothing, electrical items, stationary, paperware as well as beauty products and perfume. Offers change weekly (some exceptions - fortnightly), on Tuesdays.
+
+*''Denner'' [http://www.denner.ch/] - A discount grocery store, noticeable for their red signs and store interiors. Relatively low priced. Offers change weekly, usually from Wednesday. Denner was bought by Migros in late 2006, but will not be rebranded at present.
+
+*''Coop Pronto'' - a convenience store branch of Coop, usually open late (at least 20:00) seven days a week. Usually has a petrol, filling-station forecourt.
+
+*''Aperto'' [http://www.aperto.ch/] - also a convenience store, located in the railway stations.
+
+*''Manor'' [http://www.manor.ch/] - the Manor department stores often have a grocery store on the underground level.
+
+*''Globus'' [http://www.globus.ch/] - in the largest cities the Globus department stores have a grocery store on the underground level.
+
+As of March 2005, Coop launched low-price-line (Coop Prix-Garantie). In Migros, you find "M-Budget" products. Sometimes it's exactly the same product, just for cheaper price. They also offer pre-pay mobiles as cheap as 29.80 CHF, including 19 CHF money on the SIM-Card and the some of the cheapest call rates.
+
+The German discounter, ''Aldi Suisse'' started with 5 discount shops in the eastern part of Switzerland in early 2006. The prices are a little lower than at the other supermarket chains, but still significantly higher than in Germany.
+
+==Talk== 
+[[Image:Map Languages Switzerland.png|thumb|500px|Map of languages in Switzerland]]
+There is no single "Swiss language". Depending on where you are in the country the locals might speak '''Swiss-German''' ("''Schwiizertüütsch''", expressed in Zürich dialect), '''French''', '''Italian''', or, in the valleys of Graubünden (engl.: Grisons), '''Romansh''', an ancient Romance language. All four languages are considered official languages (''except that Standard German is the official German language, and not Swiss German, which is various dialects''). Some cities such as Biel/Bienne and Fribourg/Freiburg are officially bilingual, and any part of Switzerland has multilingual residents, with German, English, and French being the most widely spoken second languages depending on the area. 
+
+{{infobox|First languages spoken in Switzerland:|* German: 63.7%
+* French: 20.3%
+* Italian: 6.5%
+* Romansh: 0.5%/0.9%
+* Serbo-Croatian: 1.5%
+* Albanian: 1.3%
+* Portugese: 1.2%
+* Spanish: 1.1%
+* English: 1%
+* Turkish: 0.6%
+* Rest: 1.9%
+}}
+
+Around two-thirds of the population is German-speaking, mostly in the centre, north, and east. French is spoken in the west, while Italian is spoken in the south of the Alps. Romansh is native to parts of the canton of Graubünden (engl.: [[Grisons]]). The Swiss learn one of the other Swiss languages in school in addition to English, so in the larger cities you will have no trouble finding English-speaking people. In the countryside, it is less common, but hardly rare. People under the age of 50 typically speak more fluent English than older people, and older Swiss are more likely to speak French instead of (or in addition to) English. In the past 20-30 years, English has become the most important second language in German-speaking Switzerland, prompting a debate regarding what the first foreign language taught in Swiss-German schools should be (French or English). Nonetheless, students eventually learn both although many Swiss Germans rapidly forget their French after receiving their diplomas.
+
+The Swiss German language situation is insofar exceptional that all Swiss-Germans speak a local dialect as their native tongue (and there are slightly more dialects than Swiss-German cantons), i.e. in all ordinary informal settings (family, friends, job, markets, etc.). However, in school they are also taught to speak Swiss Standard German (only slightly different from the Standard German spoken in Germany) which they use for official situations (newspapers/magazines, theatre, education, museums/exhibitions, news on TV and radio, national/cantonal/communal parliaments, courts, formal presentations, documentaries etc.) and all formal writing. In informal writing, however, many Swiss Germans, especially the youth, use their dialects, for example in text messages, e-mails, chats and on Facebook and YouTube, though there is often little or no consensus as to how to write certain words in a specific dialect (there is a Swiss-German/Alemannic (Schwyzerd%C3%BCtsch)] with articles written in a range of dialects). Linguists have a term for this: ''Diglossia'' (Diglossia). Thus while Swiss German is "written like it sounds," a word may sound different in different regions of Switzerland, or even to two different people from the same city. However, this problem is not as severe as an English speaker may think. German pronunciation can be predicted nearly certainly from the word's spelling, in contrast to English where, famously, "ghoti" and "fish" are homonyms.
+
+Swiss German is no concise dialect group itself, but just a collective term for the Alemannic dialects spoken in Switzerland. Alemannic is divided into Low, High and Highest Alemannic, with Highest Alemannic being spoken in the alpine southern part of German-speaking Switzerland (e.g. Obwalden, Uri and eastern Valais) and High Alemannic in the flatter north (e.g. Zürich, St. Gallen and Berne). The dialect of Basel is traditionally considered Low Alemannic, but has become closer to being High Alemannic. High Alemannic is by far the most widely spoken, and the dialects are mutually intelligible, e.g. a Bernese can easily understand someone from Chur. 
+
+Since the rise of ''High German'' (originally spoken in the geographically higher German area, therefore the ''High'') as the Standard German (originally mainly used for trade situations) language since around 1650/1750, German speaking Switzerland moved into a specific situation, since they were the only ones who kept maintaining the dialects as the community's everyday or vernacular language, possibly very strongly based on their profoundly federal, political understanding and subsidiary organisation of the Swiss Confederation. This did not happen in Germany, and in Austria the dialect is now only spoken in Voralberg, which is nearly the same as the Swiss German spoken in eastern Switzerland.  
+
+Swiss German exhibits many major phonetical, lexical and grammatical differences from Standard German, making it very hard to understand to (even native) Standard German speakers, and the Highest Alemannic dialects are usually completely incomprehensible to non-Swiss, with even other Swiss-Germans having a hard time. What makes Highest Alemannic dialects so different is the fact that they missed the so-called Second Germanic consonant shift taking place between the 4th and 9th century in the geographically ''higher'' regions of the German speaking world. The other place where this consonant shift did not occur, neither, was north of the so-called ''Benrath Line'' in northern, lower Germany, e.g. in Bremen or Hamburg. The people from the deep Walliser valley possibly missed it because of isolation from the rest of the world by high Alp mountain chaines in the north, the east, and the south, making it extremely hard to have regular contact with the rest of the world, and to the west, where the Franco-Provencal speaking Savoys lived; another natural, but societal border.
+
+So do not be surprised if you can not understand locals at all, even if you are fluent in Standard German. Again, however, all German-speaking Swiss learn Swiss Standard German in school, and nearly all Swiss Germans can speak Standard German at least decently. Since Swiss German is the native language of the Swiss Germans, it is no surprise that you will find a lot of dialect-based broadcastings in Swiss media. However, news, movies, (political) discussions, interviews, documentaries etc. are being broadcast in (Swiss) Standard German on most TV and radio stations. However, local broadcasting are usually spoken in the native dialect of the current speaker. This is especially true for radio channels with a rather younger. With few exceptions, movies in the cinema are in Standard German, and never have Swiss German subtitles (though typically have French subtitles). Movies filmed and produced in Switzerland are occasionally in Swiss German dialect, and may not necessarily be subtitled in any language. 
+
+Swiss Standard German also takes quite a few loan words from French which are not used in Germany. For instance, "merci" is commonly used instead of "danke" even when speaking Standard German. Likewise, "velo" instead of "fahrrad" and "glace" instead of "eis(creme)". Notably, the esset (ß) does not exist in Swiss Standard German, which always uses the "ss" in its place. However, generally Swiss Standard German is as close to the German spoken in Berlin as Swiss French is to Parisian or Swiss Italian to Milanese. 
+
+The French version of ''La Suisse Romande / La Romandie'', the French-speaking Switzerland), '''Swiss French''', is essentially standard French with some minor differences in vocabulary. Most famously, the words for "70, 80, 90" are "septante, huitante, nonante" (respectively) in contrast to in France (and Geneva) which uses "soixante-dix, quatre-vingt, quatre-vingt-dix". While there are numerous other words and expressions used exclusively in Switzerland (e.g. "natel" for cell phone), similar vocabulary differences are found across different regions of France as well, and in most cases the standard Parisian word will be understood due to the prevalence of French—typically Parisian—media.
+ 
+In many rural areas of French-speaking Switzerland, the related '''Franco-Provencal''' language is still spoken by parts of the population, mainly elders. One notable town is Evolène in the Valais where most of the adult population still speaks Franco-Provencal natively. Virtually all speakers, however, also speak French.
+
+'''Swiss Italian''' is basically standard Italian with German and French influences and is the native tongue of most people in Italian-speaking Switzerland, although old and rural people often speak the related '''Lombard''' language instead, though in this case Italian is most often spoken in addition to this.
+
+'''Romansh''' is an umbrella term for the Rhaeto-Romance languages descended from the Vulgar Latin spoken by the Roman era occupiers of the region. These are closely related to the Romance languages, particularly French and Italian, although Romansh is not intelligible to a French or Italian speaker, particularly when spoken. There are five Romansh standard varieties native to a particular area, all in the canton of Grisons. These are (from west to east) Sursilvan, Sutsilvan, Surmiran, Putèr and Vallader. These standard varieties are used as the written languages of their native regions, except on the federal and cantonal level where a single standard written language, Rumantsch Grischun, has been introduced and there is a regional standard dialect being taught in school. However, this "standard Romansh" is not spoken in daily life, diminishing the utility of printed learning material on Romansh (which usually involves Rumantsch Grischun).
+
+Unlike in the rest of Switzerland, where in most cases "unilingual meets unilingual", Romansh people are usually trilingual, also speaking perfect Swiss-German and Standard German. In the 2000 Swiss census, 35,095 people (of which 27,038 in the canton of Grisons) indicated Romansh as the language of "best command", and 61,815 also as a "regularly spoken" language. Spoken by around 0.9% of Switzerland's 7.9 million inhabitants, Romansh is Switzerland's least-used national language in terms of number of speakers and the tenth most spoken language in Switzerland overall.
+
+==Learn==
+If you are looking for quality French courses for adults or juniors, you can learn French in one of the [https://www.alpadia.com Alpadia] (previously known as ESL Language Schools) schools centres located in Switzerland. You can also choose [http://www.lsi.edu LSI] (Language Studies International) and go for one of the many schools in their extensive network to learn French in Switzerland.
+
+==Work==
+If you want to work in Switzerland, be aware that you ''generally'' need to obtain a work permit. Nationals from EU enjoy priority in the event of authorization to access the labour market. 
+
+However, for nationals of any other country (third country nationals), obtaining a work permit is very difficult without a higher education degree and several years of professional work experience. Furthermore, employment is restricted to senior management positions, as specialists or other qualified personnel, and it has to be proven that your skill set can benefit the Swiss economy. Obtaining a work permit on the basis of self-employed work is rarely issued. 
+
+Switzerland signed an agreement with the European Union that allows citizens of the old EU-15 states to work and search jobs at arms length with Swiss citizens. In these cases you only need a valid passport or ID card and have to register with the local administration. The same system applies in general to citizens of the new EU-10 states (Eastern European states in general) plus Bulgaria and Romania but there are limitations on the number of permits. For all other countries in the world the best way is to check with your embassy if there are, for example, exchange programs.
+
+The high level of Swiss salaries reflect the high costs of living, so keep in mind that you must spend a lot for accommodation and food, when you negotiate your salary. Still, if you want or have to make money fast, you can save a substantial amount per month while working in a low-paying job. In general, you work 42 hours/week and have 4 weeks of paid holidays.
+
+Switzerland has no legal minimum salary. The salary depends on the industry you work in, with most companies paying at least 3500 CHF per month, for example as cashier in a supermarket. Overtime work is usually paid (unless otherwise agreed in contract).
+
+If you want to check the average salaries by industry or make sure you get the right amount paid,  Swiss employees are heavy organized in trade unions SGB [http://www.sgb.ch] and always keen to help you.
+
+==Sleep==
+[[File:Room Switzerland.png|thumb|upright=1.3|great views on the Alps from one of the hotels]]
+Most tourist areas in Switzerland have a tourist office where you can call and have them book a hotel for you for a small fee. Each town usually has a comprehensive list of hotels on their web site, and it is often easiest to simply call down the list to make a reservation rather than try to book online. Many hotels will request that you fax or email them your credit card information in order to secure a reservation. In general, hotel staff are helpful and competent, and speak English quite well.  
+
+Hotel rates in Switzerland can get quite expensive, especially in popular ski resort areas.
+
+There is also a [[hostel]] network in Switzerland for students. Types of hotels in Switzerland include historic hotels, traditional hotels, inns located in the country, spas and bed and breakfasts.
+
+===Budget===
+
+===Mid-range===
+
+===Splurge===
+*<sleep name="Oberwaid Hotel & Private Clinic" alt="" address="Rorschacher Strasse 311" directions="St. Gallen" phone="+41 (0)71 282 0000" url="http://www.oberwaid.ch/en/" checkin="2:00 PM" checkout="11:00 AM" price="220" lat="" long="">A luxury Hotel & Private Clinic, situated near the beautiful lake Constance, St. Gallen. A wellness hotel with all the elements to make your holiday a perfect health retreat. Our facilities include luxury rooms, Tau Spa & Gym and restaurant.</sleep>
+
+==Stay safe==
+{{infobox|Privacy is a highly estimated value!|Since Switzerland is such a beautiful place, everybody will make a lot of pictures, movies and other multimedia recordings, of course. But take care that you respect the privacy of everybody in this country where privacy is not only almost guaranteed even to international stars. No wonder so many international celebrities like to live in Switzerland, not only for its beauty and safety, but also for the star's ability just to be one among others, because '''usually it is frowned upon to approach a celebrity in public'''. 
+Furthermore, also take care that you do not cross the border of privacy of anybody in Switzerland. For example, according to the Swiss ''Civil Code'' and ''Federal Act of Data Protection'' it is even '''forbidden to make recordings of a person without their explicit consent'''. This is also true for pictures and video recordings in public as soon as a person is recognizable! Finally, you can especially be sentenced–up to 3 years prison–for publishing pictures and other recordings of any person without their explicit consent! – So take care, of whom you make pictures and respect the request for privacy, not only by celebrities!}}
+
+Switzerland is, not surprisingly, one of the safest countries in Europe, but anywhere that attracts Rolex-wearing bankers and crowds of distracted tourists will also bring out a few pickpockets. Obviously, keep an eye on belongings, especially in the midst of summer crowds.
+
+Quite a few Swiss establishments will print your ''entire'' credit card number onto the receipt, thus raising identity theft concerns when shopping with a credit card in Switzerland. Therefore, visitors using credit cards should carefully review the information printed on all receipts prior to discarding them. This happens, for instance, in some book and clothing stores and even at the ubiquitous K-Kiosk. This list is obviously not exhaustive; therefore, the visitor must beware whenever using a credit card.
+
+Women travelling alone should have no problems. The younger Swiss tend to be very open with public displays of affection - sometimes too open, and some women may find people getting too friendly especially in the wee hours of the club & bar scene. Usually the international language of brush-offs or just walking away is enough.
+
+Swiss police take on a relatively unobtrusive air; they prefer to remain behind the scenes, as they consider their presence potentially threatening to the overall environment (practice of de-escalation). Unlike some more highly policed countries, officers will rarely approach civilians to ask if they need help or merely mark their presence by patrolling. However, police are indeed serious about traffic violations. The upside to stringent traffic rules is that automobile drivers are generally very well-disciplined, readily stopping for pedestrians at crosswalks, for example. Generally, you are safe anywhere at any time. If, for any reason, you feel threatened, seek a nearby restaurant or telephone booth.  The '''emergency phone numbers''' in Switzerland are:
+
+* '''Police emergency call: 117'''
+* '''Fire station: 118''' 
+* '''Medical emergency, emergency rescue service: 144'''
+* '''International emergency call: 112''' (for international compatibility), operators are generally English-speaking.
+
+and:
+
+* Car break-down service (Strassen-Pannenhilfe): ''140''
+* Personal crisis line (Telefon Seelsorge, Dargebotene Hand): ''143''
+* Toxin information (Giftinfos, Notfall-Beratung): ''145''
+* Children, youth emergency (Kinder-Jugend Notruf): ''147''
+* Road condition (information only): ''163''
+* Avalanche/all-points bulletin (information only): ''187''
+* Rega, air rescue: ''1414''
+* Air-Glacier: ''1415''
+* Parents emergency call (Elternotruf): ''044 261 88 66''
+* Tropes institute (Tropeninstitut Basel): ''061 284 81 11''
+* Animal rescue service (Tierrettungsdienst): ''044 211 22 22''
+
+Football (soccer) games are the only notable exception to the above rule. Due to the potential threat of hooligan violence, these games (especially in Basel or Zurich) are generally followed by a large contingent of police officers with riot gear, rubber bullets, and tear gas, in case of any major unrest.
+
+Switzerland has very strong Good Samaritan laws, making it a civic duty to help a fellow in need (without unduly endangering oneself). People are therefore very willing and ready to help you if you appear to be in an emergency situation. Be aware, though, that the same applies to you if you witness anyone in danger. The refusal to render help to a person in need can be punishable by law as "Verweigerung der Hilfeleistung", ie refusal of aid. The general reservation of Americans to avoid entanglement with strangers due to possible future civil liability does not apply in Switzerland, for it would be practically impossible to wage a civil suit against anyone providing aid.
+
+The drinking age for beer, wine and alcoholic cider is 16 (but not in all cantons, so make sure to ask before buying) while the age for any other alcohol (eg spirits, "alcopops", etc) is 18. The public consumption of alcohol in Switzerland is legal, so do not be alarmed if you see a group of teenagers drinking a six-pack on public property; this is by no means out of the ordinary and should not be interpreted as threatening.
+
+Switzerland is not a country of insane civil lawsuits and damage claims; consequently, if you see a sign or disclaimer telling you not to do something, obey it! An example: in many alpine areas, charming little mountain streams may be flanked by signs with the message "No Swimming". To the uninitiated, this may seem a bit over the top, but these signs are in fact a consequence of the presence of hydroelectric power plants further upstream that may discharge large amounts of water without warning.
+
+In mountain areas, be sure to inquire about weather conditions at the tourist information office or local train station as you head out in the morning.  They should be well informed about severe weather conditions and will advise you about possible avalanche areas.
+
+There have been problems with police assuming that any black, East European, or Arab person without an ID card or passport is an illegal immigrant, and treating them accordingly. That could be a considerable problem if you are travelling alone.
+
+==Stay healthy==
+Generally there is no problem with food and water in Switzerland.  Restaurants are controlled by strict rules. Water is perfectly drinkable everywhere from literally every water tap, even out of all public fountains unless specially marked (''Kein Trinkwasser!'' - ''Pas potable!'' - ''Non potabile!''). There are many organic food stores and restaurants available and it is currently illegal to import or sell any genetically modified food.
+
+==Respect==
+The Swiss adhere to a strong set of values. They value cleanliness, honesty, discipline, material possessions, and cherish their country and history, which is revered for its neutrality and promotion of worldwide peace.
+
+=== Social etiquette and breaches ===
+
+* '''Communication styles across the country vary'''. French and Italian-speaking Swiss tend to be diplomatic and indirect communicators, but can be direct with those they are well acquainted with. On the other hand, Swiss-Germans are direct and straightforward, and in many cases, you can expect them to openly share their concerns and opinions. This style of directness may be seen as rude in many parts of the world, but it is not intended to offend or insult you in any way. It is always good form to be explicit and clear with your thoughts and emotions as the Swiss in general have little patience for words "behind the lines". 
+
+* '''Always exchange greetings and pleasantries wherever you go'''. Whether you enter a hotel, a shop, or if you're just meeting people for the first time, it is prudent to exchange greetings and pleasantries. Not doing so can immediately label you as rude.
+
+* '''Make an attempt to learn the language of the area you will be staying in'''. Most people in Switzerland have basic knowledge of English, especially young adults and teenagers but any attempt to speak the local language is always appreciated (especially in the French-speaking part of the country), even if you're replied to in English.  It’s always polite to ask if they speak English before starting a conversation. It's always considered good form to learn Hello, Goodbye, Please, and Thank You in the language of the region you will be travelling in.  "I would like..." is also a phrase that will help you. 
+
+* '''Never interrupt someone when communicating'''. Interrupting others is considered rude manners.
+
+* '''Never use excessive hand gestures when communicating'''. It's considered impolite.
+
+* '''Never stand close to someone when communicating'''. It's considered impolite.
+
+* '''Never touch someone you don't know very well'''. It's considered impolite.
+
+* '''Never put your hands in your pockets when conversing'''. It's considered impolite.
+
+* '''Never rest your feet on a desk, chair or table'''. It's considered impolite.
+
+* '''Never be loud in a public place'''. The Swiss have a marvelously intimate way of conversing with one another, and it's best to follow suit so as to not stand out like a sore thumb.
+
+* '''Never be late to an appointment or meeting'''. For a country that is known for making clocks, the Swiss have a near-obsession with being on time. It's advisable to arrive 5-10 minutes early to something so as to not stand out like a sore thumb.
+
+* '''Friends kiss each other on the cheek three times (left - right - left)'''. This is the usual thing to do when being introduced to someone who is female (or if you are female) in the French and German speaking part. If it is a business related meeting you just shake hands. Don't be shy as you if you reject the advance it appears awkward and rude on your part. You don't have to actually touch your lips the skin after-all, as a fake kiss will do.
+
+* '''Do not litter'''. While Switzerland will not fine you (as in [[Singapore]]), littering is definitely seen as bad behaviour, and in some cases, you can expect to be scolded publicly for doing so.
+
+* '''Privacy is a cornerstone of Swiss culture'''. Asking about someone's salary, personal life, religious beliefs, and so forth is considered rude manners unless you are well acquainted with them.
+
+* '''Modesty is a virtue'''. Bragging about your wealth or asking the Swiss about how much their personal items cost is a very quick way for them to lose their respect for you. 
+
+* '''Give up your seat to the elderly and pregnant women on public transportation'''. This is considered polite manners and not doing so can result in you being scolded publicly. 
+
+* '''Women are treated as equals'''. Female travelers should not in any way be surprised or act indignant if their male Swiss friends or colleagues relegate them to a position of equality. Male travelers should also note that this will be expected by Swiss women too. 
+
+* '''Tipping isn't mandatory'''. You can leave something if you want, but you're not obligated to. Unlike other countries, restaurant staff have very high salaries and tips are normally included in the price of your meal. 
+
+=== Home etiquette ===
+
+* '''Never ask your hosts to give you a tour of their home'''. It is considered rude manners, even if it is not your intention to offend. If your hosts offer to give you a tour of their home, they will gladly do so.
+
+* '''If invited to a Swiss home, always arrive on time'''. If you expect to be late, apologise and explain the situation. 
+
+* '''If invited to a Swiss home, consider bringing gifts for your hosts and their children if necessary'''. This is considered very polite. Chocolate and flowers are good gifts, as are any souvenirs from your home country. Very expensive gifts and sharp objects will not be welcomed. 
+
+* '''Avoid gifting red roses and carnations'''. They're associated with romance and it may make your hosts uncomfortable. 
+
+* '''Avoid gifting white asters and chrysanthemums'''. They're used for funerals. 
+
+* '''After being invited to a Swiss home, send a thank you note'''. This is considered very polite, and it will leave a good impression on your hosts.  
+
+=== Dining etiquette ===
+
+* '''Do not rest your elbows on the table'''. It is considered impolite. 
+
+* '''Do not start eating unless everyone else has been asked to eat'''. It is considered impolite. 
+
+* '''Do not smoke at the table'''. It is considered impolite. 
+
+* '''Sample everything offered to you and eat everything on your plate'''. Waste food is frowned upon. 
+
+* '''It is common for colleagues to bring their spouses when eating out'''. Do not be surprised by this.
+
+=== Things to avoid ===
+
+==== Politics: ====
+
+* '''Tread carefully when discussing Swiss politics as a visitor'''. The Swiss take politics very seriously, and it is a very popular conversational topic among social circles. This said, a visitor discussing or criticising Swiss politics can come across as uninformed unless they are well-versed in the subject. Don't be afraid of asking any questions you may have, but know the position that being a foreigner puts you in. 
+
+* '''Avoid passing negative statements or judgments about the country'''. The Swiss have some very patriotic views of their country and would view any criticisms of their country, culture and customs with varying degrees of hostility. To avoid getting into the bad raps of the locals, it's advisable to keep all negative sentiments about the country to yourself.
+
+==== Symbols: ====
+
+* '''Do not inappropriately use or desecrate the Swiss flag'''. Not only would you seriously offend the Swiss, but you also risk imprisonment as it is considered a crime according to the Swiss penal code.  
+
+* '''Do not inappropriately use or desecrate the Swiss coat of arms'''. Not only would you seriously offend the Swiss, but you also risk imprisonment as it is considered a crime according to the Swiss penal code.  
+
+* '''Do not inappropriately use or desecrate any cantonal or municipal flags and/or symbols'''. Not only would you seriously offend the Swiss, but you also risk imprisonment as it is considered a crime according to the Swiss penal code.  
+
+==== Sensitive Issues: ====
+
+* '''Refrain from discussing World War II'''. Although many Swiss are aware of their country's role in World War II, many are reluctant to discuss the issue as Swiss society maintains an emotional stance on it.
+
+==Contact==
+
+===Phones===
+Public phones are surprisingly cheap, and have no surcharge for credit cards.
+
+If you stay for some time, it may be advisable to buy a pre-paid cell phone card that you can use in any phone that supports the GSM standard on the 900/1800Mhz bands - they usually cost around CHF10-40 and are obtainable in the shops of the mobile service providers Swisscom, Salt (formerly Orange) or Sunrise in most cities. Swisscom mobile network coverage is close to 100% by area, even in the mountainous, non-populated areas. Other operators cover mainly cities.
+
+There are also a lot of cheap prepaid cards for local calls from other providers. The prepaid cards of the big supermarket chains Migros ([http://www.m-budget-mobile.ch/ M-Budget-Mobile]) and Coop ([http://www.coop.ch/coopmobile/ Coop Mobile]) for example cost around CHF20 and include already CHF15 airtime. The cheapest prepaid card for calls within Switzerland is Aldi Mobile [http://www.aldi-mobile.ch/]: CHF0.14/min Switzerland fixed and Aldi mobile, CHF0.34/min other mobiles. The cheapest prepaid card for international communication is yallo [http://www.yallo.ch/]: CHF0.39/min within Switzerland as well as to all European and many more countries (to the mobile and fixed networks). This includes the UK, USA, Canada, Australia and New Zealand. SMS cost CHF0.10. The prepaid cards can be bought online (CHF30 with CHF30 airtime inclusive), in most post offices (CHF29 with CHF20 airtime inclusive) or Sunrise shops (CHF20 with CHF20 airtime inclusive). An other prepaid card with cheap rates offers Lebara Mobile (Sister company of Sunrise). The prepaid card is available for CHF5 with an equivalent talk time and recharge vouchers offer the talk time equivalent to the price of the voucher.
+
+Don't forget that despite several Switzerland-EU treaties, the EU roaming regulations do NOT apply in Switzerland. This means that rip-off prices for calls, texts and data are the norm (€2-3 per minute for phone calls, €15-20 for data). In order to avoid getting a bill for hundreds if not thousands, it's best to avoid using foreign SIM cards in Switzerland altogether and get a local one if you need it.
+
+===Internet===
+Many of the internet cafes that have emerged in the 1990's have closed since, probably because Switzerland has one of the highest rate of high-speed internet connections in homes in the world, but almost any video rental shop and most train stations will have a few internet terminals. The tourist office should be able to direct you to the nearest one. The going rate is CHF5 for 20 minutes.
+Also, you can send email, SMS (text messages to cell phones) or short text faxes from just about every public phone booth for less than CHF1. Some public phone booths allow you to browse the internet. There are many shopping centres and cities ([[Lausanne]] and [[Vevey]] for example) that offer free wireless internet access: ask the young locals; maybe they know where to go.
+
+{{usablecountry}}
+{{countryguide}}
+
+
+[[ca:Suïssa]]
+[[de:Schweiz]]
+[[eo:Svislando]]
+[[es:Suiza]]
+[[fi:Sveitsi]]
+[[fr:Suisse]]
+[[hu:Svájc]]
+[[it:Svizzera]]
+[[ja:スイス]]
+[[nl:Zwitserland]]
+[[pl:Szwajcaria]]
+[[pt:Suíça]]
+[[ro:Elveţia]]
+[[ru:Швейцария]]
+[[sv:Schweiz]]
+[[zh:瑞士]]
+[[wts:Category:Switzerland]]
+
+
+[[WikiPedia:Switzerland]]
+[[Dmoz:Europe/Switzerland/]]
+[[World66:europe/switzerland]]
+[[extra:Switzerland]]
+
+{{isPartOf|Central_Europe}}
