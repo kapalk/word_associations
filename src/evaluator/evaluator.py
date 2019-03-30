@@ -1,5 +1,6 @@
 import os
 import sys
+import nltk
 
 from collections import Counter
 
@@ -16,7 +17,7 @@ class Word_Associations_Evaluator:
     def simple_evaluate(self, country, similar):
         
         if not similar:
-            print('0')
+            #print('0')
             return 0
 
         article_name = self._get_wikitravel_article(country)
@@ -31,13 +32,15 @@ class Word_Associations_Evaluator:
         tokens = word_tokenize(article)
 
         bag_of_words = Counter(tokens)
-
+        stemmer=nltk.PorterStemmer()
+        lemmatizer=nltk.WordNetLemmatizer()
+        reference = [lemmatizer.lemmatize(stemmer.stem(w)) for w in bag_of_words.keys()]
         word_count = 0
         for word in similar:
             needle = word.lower().strip()
-            word_count += 1 if needle in bag_of_words.keys() else 0 
+            word_count += 1 if needle in reference else 0 
 
-        print(word_count / len(similar))
+        #print(word_count / len(similar))
         return word_count / len(similar)
     
     def _preproces_artice(self, article):
