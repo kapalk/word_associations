@@ -1,0 +1,362 @@
+{{distinguish|text=the [[Dominican Republic]]}}
+{{pp-move-indef}}
+{{EngvarB|date=October 2015}}
+{{Use dmy dates|date=March 2013}}
+{{Coord|15|25|N|61|20|W|display=title}}
+{{Infobox country
+|conventional_long_name = Commonwealth of Dominica
+|common_name = Dominica
+|native_name =
+|image_flag = Flag of Dominica.svg
+|image_coat = Coat-of-arms-of-Dominica.svg
+|national_motto = "Apres Bondie, C'est La Ter"<ref>{{cite web|url=http://www.dominica.gov.dm/about-dominica/national-symbols/coat-of-arms|title=Coat of Arms – Government of the Commonwealth of Dominica|website=www.dominica.gov.dm}}</ref> {{small|([[Dominican Creole French]])}} <br /> "Post deum terra est"{{small| ([[Latin]])}} <br /><small>"After God is the earth"</small>
+|national_anthem = ''[[Isle of Beauty, Isle of Splendour]]''<center>[[File:National Anthem of Dominica by US Navy Band.ogg]]</center>
+|image_map = Dominica on the globe (Americas centered).svg
+|map_caption = {{map caption |location_color=circled in red |region=the [[Caribbean]] |region_color=light yellow}}
+|image_map2 = Dominica - Location Map (2013) - DMA - UNOCHA.svg
+|map2_width=250px
+|capital = [[Roseau]]
+|coordinates = {{Coord|15|18|N|61|23|W|type:city}}
+|largest_city = capital
+|official_languages = [[English language|English]]
+|languages_type = [[Vernacular|Vernacular<br />languages]]
+|languages = [[Dominican Creole French]]
+|ethnic_groups= {{unbulleted list| {{nowrap|86.6% [[Afro-Dominican (Dominica)|Black (African)]]}} | 9.1% [[Multiracial]] | {{nowrap|2.9% [[Island Caribs]]}} |  1.3% [[White Dominican (Dominica)|European]] or Other |  0.2% Unspecified }}
+|ethnic_groups_year = 2001<ref name="WFB">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/do.html |title=Dominica Ethnic groups 2001 Census |publisher=Cia.gov |date= |accessdate=2013-09-29}}</ref>
+|demonym = [[Demographics of Dominica|Dominicans]]
+|government_type = [[Unitary state|Unitary]] [[parliamentary republic]]
+|leader_title1 = [[List of Presidents of Dominica|President]]
+|leader_name1 = [[Charles Savarin]]
+|leader_title2 = [[Prime Minister of Dominica|Prime Minister]]
+|leader_name2 = [[Roosevelt Skerrit]]
+|legislature = [[House of Assembly of Dominica]]
+|sovereignty_type = [[Independence]]
+|established_event1 = [[Associated Statehood Act 1967]]
+|established_date1 = 1 March 1967
+|established_event2 = from the [[United Kingdom]]
+|established_date2 = 3 November 1978
+|area_km2 = 750
+|area_rank = 174th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+|area_sq_mi = 290 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 1.6
+|population_estimate = {{UN_Population|Dominica}}{{UN_Population|ref}}
+|population_census = 71,293<ref name="2011 census">{{cite web|url=http://www.dominica.gov.dm/cms/files/2011_census_report.pdf|format=PDF|title=2011 POPULATION AND HOUSING CENSUS|website=Dominica.gov.dm|accessdate=29 August 2017}}</ref>
+|population_estimate_year = {{UN_Population|Year}}
+|population_estimate_rank = 186th
+|population_census_year = 2011
+|population_density_km2 = 105
+|population_density_sq_mi = 272 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 95th
+|GDP_PPP = $688 million<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?sy=2018&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=35&pr1.y=10&c=311%2C343%2C361%2C321%2C362%2C364%2C328&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Dominica |publisher=International Monetary Fund }}</ref>
+|GDP_PPP_year = 2018
+|GDP_PPP_per_capita = $9,726<ref name=imf2/>
+|GDP_nominal = $485 million<ref name=imf2/>
+|GDP_nominal_year = 2018
+|GDP_nominal_per_capita = $6,860<ref name=imf2/>
+|Gini =  <!--number only-->
+|Gini_year =
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini_ref =
+|Gini_rank =
+|HDI = 0.724 <!--number only-->
+|HDI_year = 2014<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = increase<!--increase/decrease/steady-->
+|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report  |date=2015 |accessdate=14 December 2015 |publisher=United Nations Development Programme }}</ref>
+|HDI_rank = 94th
+|currency = [[East Caribbean dollar]]
+|currency_code = XCD
+|time_zone = [[Eastern Caribbean Time Zone|Eastern Caribbean]]
+|utc_offset = –4
+|drives_on = [[Right- and left-hand traffic|left]]
+|calling_code = [[Area code 767|+1-767]]
+|cctld = [[.dm]]
+|footnote_a = <!--Orphaned: Rank based on 2005 UN estimate.-->
+| religion = 94.4% [[Christianity|Christians]]<br>3% [[Religion in Dominica|Folk religion]]<br>0.5% [[Irreligion|Irreligious]]<br>0.1% [[Islam in Dominica|Muslims]]<br>2.0% [[Religion in Dominica|Other]]<ref>[http://www.pewforum.org/files/2014/01/global-religion-full.pdf Pew Forum Research Data 2010] {{Webarchive|url=https://web.archive.org/web/20150924113632/http://www.pewforum.org/files/2014/01/global-religion-full.pdf |date=24 September 2015 }} Page 46. December 2012. Retrieved 28 May 2017.</ref>
+}}
+
+'''Dominica''' ({{IPAc-en|ˌ|d|ɒ|m|ɪ|ˈ|n|iː|k|ə}} {{respell|dom|ih|NEE|kə}};<ref>{{Cite news|url=https://www.theguardian.com/media/mediamonkeyblog/2014/nov/12/one-womans-fight-to-get-david-dimbleby-to-correctly-pronounce-dominica|title=One woman's fight to get David Dimbleby to correctly pronounce Dominica|date=12 November 2014|newspaper=the Guardian}}</ref> [[Island Carib language|Island Carib]]: {{Lang|car|Wai‘tu kubuli}}), officially the '''Commonwealth of Dominica''', is an [[island country]]  in the [[West Indies]].<ref name="English_constitution">{{cite web |url=https://www.constituteproject.org/constitution/Dominica_1984?lang=en |title=Dominica's Constitution of 1978 with Amendments through 1984 |publisher=''Constitute'' |accessdate=2016-07-20}}</ref> The capital, [[Roseau]], is located on the western side of the island. It is part of the [[Windward Islands]] in the [[Lesser Antilles]] archipelago in the [[Caribbean Sea]]. The island is located near [[Guadeloupe]] to the northwest and [[Martinique]] to the south-southeast. Its area is {{Convert|750|km2|abbr=on}}, and the highest point is [[Morne Diablotins]], at {{Convert|1447|m|abbr=on}} in elevation. The population was 71,293 at the 2011 census.<ref name="2011 census"/> The Commonwealth of Dominica is one of the Caribbean's few [[republic]]s.
+
+The island was originally inhabited by the [[Kalinago]] and later colonised by Europeans, predominantly by the French from the 1690s to 1763. Columbus is said to have passed the island on Sunday 3 November 1493, and the island's name is derived from the Latin for "Sunday". [[Kingdom of Great Britain|Great Britain]] took possession in 1763 after the [[Seven Years' War]], and it gradually established English as its official language. The island republic gained independence in 1978.
+
+Its name is pronounced with emphasis on the third syllable, related to its French name of ''[[Dominique (given name)|Dominique]]''. Dominica has been nicknamed the "Nature Isle of the Caribbean" for its natural environment.<ref>P. C. Evans & [[Lennox Honychurch|L. Honychurch]], [https://www.amazon.co.uk/Dominica-Nature-Island-Caribbean-Hansib/dp/1870518179 ''Dominica: Nature Island of the Caribbean'']. Hansib (1989).</ref> It is the youngest island in the Lesser Antilles, and in fact it is still being formed by [[Geothermal (geology)|geothermal]]-[[volcano|volcanic]] activity, as evidenced by the world's second-largest [[hot spring]], called [[Boiling Lake]]. The island has lush mountainous [[rainforests]], and it is the home of many rare plants, animals, and bird species. There are [[xeric]] areas in some of the western coastal regions, but heavy rainfall occurs inland. The [[imperial amazon|Sisserou parrot]], also known as the imperial amazon and found only on Dominica, is the island's national bird and featured on the [[Flag of Dominica|national flag]], which is one of only two national flags containing the color purple.{{Citation needed|date=January 2019}}
+
+== History ==
+{{main|History of Dominica}}
+
+=== Early European contact ===
+Dominica's precolonial indigenous inhabitants were the [[Island Carib]] people. They had named it ''Wai‘tu kubuli'', which means "Tall is her body."<ref>{{cite web|url=http://www.dominica.dm/site/dominica.cfm |title=Discover Dominica: an introduction to our Caribbean island |publisher=Dominica.dm |date= |accessdate=2010-06-27 |deadurl=yes |archiveurl=https://web.archive.org/web/20100923082054/http://dominica.dm/site/dominica.cfm |archivedate=23 September 2010 |df=dmy }}</ref>
+
+[[Christopher Columbus]], sailing for Spain, named the island as Dominica, after the [[Latin language|Latin]] term ''dies Dominica'' for [[Sunday]], the day on which the Spanish first saw it in November 1493. Some Spanish colonizers settled here. But, as European explorers and settlers entered the region, indigenous refugees from surrounding islands settled Dominica and pushed out the Spanish settlers. They went to other areas that were easier to control and had more natural resources.
+
+=== French colony ===
+{{Main|French West Indies}}
+
+Spain had little success in colonising Dominica. In 1632, the French [[Compagnie des Îles de l'Amérique]] claimed it and other ''"Petites Antilles"'' for [[Kingdom of France|France]], but no physical occupation took place. Between 1642 and 1650, French missionary [[Raymond Breton]] became the first regular European visitor to the island.
+
+In 1660, the French and English agreed that Dominica and [[Saint Vincent (island)|St. Vincent]] should not be settled, but left to the Carib as neutral territory. But its natural resources attracted expeditions of English and French foresters, who began harvesting timber.<ref name="bn">"Background note: Dominica". [[U.S. Department of State]] (July 2008). {{PD-notice}}</ref> In 1690, the French established their first permanent settlements. French woodcutters from [[Martinique]] and [[Guadeloupe]] began to set up timber camps to supply the French islands with wood, and they gradually became permanent settlers. They brought the first enslaved Africans from West Africa to ''Dominique'', as they called it in French.
+
+In 1715, a revolt of "poor white" smallholders in the north of Martinique, known as La Gaoulé,<ref>P.C. Emmer & BW Highman, (1999) ''General History of the Caribbean: Methodology and Historiography of the Caribbean,'' volume 6, [https://books.google.com/books?id=E12cpltazYgC&lpg=PA637 p. 637]</ref> caused settlers to migrate to southern Dominique, where they set up [[smallholding]]s. Meanwhile, French families and others from Guadeloupe settled in the north. In 1727, the first French commander, [[M. Le Grand]], took charge of the island with a basic French government. Dominique formally became a [[colony]] of France, and the island was divided into districts or "quarters".<ref>{{cite web |url=http://www.lennoxhonychurch.com/article.cfm?Id=394 |title=Important Dates in Dominica's History |publisher=Lennox Honychurch |date=1990-07-05 |accessdate=2013-09-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20130830091704/http://www.lennoxhonychurch.com/article.cfm?Id=394 |archivedate=30 August 2013 |df=dmy-all }}</ref> The French had already developed plantation agriculture on  Martinique and Guadeloupe, where they cultivated [[sugarcane]] with enslaved African workers. In Dominique they gradually developed coffee plantations. They imported so many African [[slaves]] to fill the labour demands that the population became predominantly African in ethnicity.
+
+In 1761, during the [[Seven Years' War]] in Europe, a [[British expedition against Dominica]] led by [[Andrew Rollo, 5th Lord Rollo|Andrew Rollo]] conquered the island, along with several other Caribbean islands. In 1763, France had lost the war and ceded the island to Great Britain under the [[Treaty of Paris (1763)|Treaty of Paris]]. The same year, the British established a [[legislative assembly]], with only European colonists represented. French remained the official language, but [[Antillean Creole]], which had developed from it, was spoken by most of the population.
+
+In 1778 the French, with the active co-operation of the population, began the [[Invasion of Dominica (1778)|Invasion of Dominica]]. This was ended by the [[Treaty of Paris (1783)]], which returned the island to British control. But the island population, especially the class of [[gens de couleur|free people of color]], resisted British restrictions. The British retained control through French invasions in 1795 and 1805,<ref name="bn" /> the first taking place during the period of the [[Haitian Revolution]], which gained the independence of Haiti (formerly Saint-Domingue, France's richest Caribbean colony).
+
+=== British colony ===
+{{Main|British West Indies|British Leeward Islands|British Windward Islands}}
+[[File:Agostino Brunias - Linen Market, Dominica - Google Art Project.jpg|thumb|A linen market in 1770s Dominica]]
+Great Britain established a small colony in 1805. It used Dominica as part of the [[triangular trade]], by which slaves were imported and sold as labour in the islands as part of a trade that included producing and shipping sugar and coffee as commodity crops to Europe. The best documented slave plantation on the island is Hillsborough Estate, which had 71 male and 68 female slaves.<!-- when? -->  The [[Quarry Bank Mill|Greg]] family were notable: Thomas Hodgson, a brother-in-law, owned a slave ship, and Thomas Greg and his son John Greg were part-owners of [[sugar plantation]]s on Dominica.  In January 1814, 20 slaves absconded from Hillsborough. They were recorded as recaptured and punished with 100 lashes applied to the males and 50 for the females. The slaves reportedly said that one of their people had died in the plantation hospital, and they believed he had been poisoned.<ref>{{cite web|url=http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD/GBR/0115/RCMS+266|title=Janus: Dominica Estate documents|website=janus.lib.cam.ac.uk}}</ref>
+
+In 1831, reflecting a liberalisation of official British racial attitudes, the Brown Privilege Bill<ref>{{cite book |url=https://books.google.com/books?id=L0cXAAAAYAAJ&lpg=PA211 |title=Anti-Slavery Monthly Reporter, volume 3|author=London Society for the Abolition of Slavery throughout the British Dominions|year=1831}}</ref> conferred political and social rights on [[free black]]s (mostly [[free people of colour]], who generally were of [[mixed race]], with African and European ancestry). With the [[Slavery Abolition Act 1833|Slavery Abolition Act of 1833]], Britain ended the institution of slavery throughout [[British Empire|its empire]], except in India, where it was considered part of the culture.
+
+With freedom came enfranchisement. In 1835, the first three men of African descent were elected to the legislative assembly of Dominica. Many slaves from the neighbouring French colonial islands of Guadeloupe and Martinique fled to Dominica. In 1838, Dominica became the first colony of the [[British West Indies]] to have an elected legislature controlled by an ethnic African majority. Most of these legislators had been free people of color and smallholders or merchants before the abolition of slavery. Their economic and social views were different from the interests of the small, wealthy English [[plantation|planter]] class. Reacting to a perceived threat to their power, the planters lobbied for more direct British rule.<ref name=bn/>
+
+In 1865, after much agitation and tension, the colonial office replaced the elective assembly with one made up of one-half members who were elected and one-half who were appointed. Planters, who were allied with colonial administrators, outmaneuvered the elected legislators on many occasions. In 1871, Dominica became part of the [[British Leeward Islands]]. The political power of the ethnic African population progressively eroded. [[Crown colony]] government was re-established in 1896. All political rights were curtailed for people of colour and blacks, who were the overwhelming majority of the population. Development aid, offered as compensation for disfranchisement, resulted in negligible improvements in conditions for most ethnic Africans.<ref name=bn/><!--expand - needs population numbers so readers can understand proportions-->
+
+=== History post-1900 ===
+{{See also|West Indies Federation}}
+
+In [[World War I]], many Dominicans, mainly the sons of small farmers, volunteered to fight in Europe for the British Empire. After the war, an upsurge of political consciousness throughout the Caribbean led to the formation of the [[List of historical autonomist and secessionist movements#British West Indies|Representative Government Association]]. Marshaling public frustration with the lack of a voice in governing Dominica, this group won one-third of the popularly elected seats of the legislative assembly in 1924, and one-half in 1936. Shortly thereafter, Dominica was transferred from the [[British Leeward Islands|Leeward Island Administration]].<ref name=bn/> During [[World War II]], some Dominicans volunteered in British and Caribbean forces. Thousands of [[Free French]] refugees from Martinique and Guadeloupe escaped to Dominica from the [[Vichy France|Vichy]]-controlled French islands. They stayed in [[Roseau]] and other villages.
+
+Until 1958, Dominica was governed as part of the [[British Windward Islands]]. Caribbean islands sought independence from 1958 to 1962, and Dominica became a province of the short-lived [[West Indies Federation]].<ref name=bn/> After the federation dissolved, in 1967 Dominica became an associated state of the United Kingdom, and formally took responsibility for its internal affairs. On 3 November 1978, the Commonwealth of Dominica was granted independence as a [[republic]], led by Prime Minister [[Patrick John]].<ref>{{cite web|url=http://www.legislation.gov.uk/uksi/1978/1031/contents/made|title=The Dominica Termination of Association Order 1978|website=www.legislation.gov.uk}}</ref><ref name=bn/>
+
+In mid-1979, political discontent led to the formation of an interim government. After the 1980 elections, it was replaced by a government led by the [[Dominica Freedom Party]] under Prime Minister [[Eugenia Charles]]. She was the Caribbean's first female prime minister. Chronic economic problems were compounded by the severe damages of hurricanes in [[1979 Atlantic hurricane season|1979]] and in 1980.
+
+In 1981, Dominica was threatened with a takeover by [[mercenaries]]<ref>{{cite web |url=http://www.country-data.com/cgi-bin/query/r-3376.html |title=Caribbean Islands – Regional Security Threats, 1970–81 |publisher=Country-data.com |date= |accessdate=2010-06-27}}</ref> in [[Operation Red Dog]], led by Mike Perdue and [[Wolfgang Droege]]. They tried to overthrow Charles as Prime Minister and reinstall ex-Prime Minister John in exchange for control over the country's development. The [[Federal Bureau of Investigation|FBI]] was tipped off, and the ship hired to transport the mercenaries never left dock. The mercenaries lacked formal military experience or training, and most of the crew had been misled into joining by the ringleader Mike Perdue. [[White supremacy|White supremacist]] [[Don Black (white nationalist)|Don Black]] was also jailed for his part in the attempt, which violated US [[Neutrality Act of 1794|neutrality]] laws.<ref>[https://www.amazon.com/Bayou-Pigs-Audacious-Tropical-Criminal/dp/0470153822 Stewart Bell, ''Bayou of Pigs''], presents the story of the planned coup.</ref>
+
+By the end of the 1980s, the economy recovered. It weakened again in the 1990s due to a decrease in [[banana]] prices.<ref name=bn/>
+
+In the January 2000 elections, the Edison James [[United Workers' Party (Dominica)|United Workers Party]] (UWP) was defeated by the [[Dominica Labour Party|Dominican Labour Party]] (DLP), led by [[Rosie Douglas|Roosevelt P. "Rosie" Douglas]]. Douglas died after only a few months in office. He was replaced by Pierre Charles, who died in office in January 2004. [[Roosevelt Skerrit]], also of the DLP, replaced Charles as Prime Minister. Under Prime Minister Skerrit's leadership, the DLP won elections in May 2005 that gave the party 12 seats in the 21-member Parliament, to the UWP's 8 seats. An independent candidate affiliated with the DLP won a seat as well. Later, the independent candidate joined the government and one UWP member crossed the aisle, making the total 14 seats for the DLP and 7 for the UWP.<ref name=bn/>
+
+In the December 2009 elections, DLP won 18 of 21 seats. UWP claimed campaign improprieties and boycotted Parliament; by-elections were conducted for two of its seats in July 2010, and the UWP again won the seats.<ref>{{cite web|url=https://www.state.gov/r/pa/ei/bgn/2295.htm |title=U.S. Department of State Background Note on Dominica|publisher=State.gov |date=2013-02-07 |accessdate=2013-09-29}}</ref> On 17 September 2012 [[Eliud Williams|Eliud Thaddeus Williams]] was sworn in as President, replacing Dr Nicholas Liverpool who was reportedly removed from office due to ill health.
+On 30 September 2013, former Trade Union Leader and agitator Charles Savarin was elected President having only days before resigned as a Minister of Government.
+
+On 18 September 2017, Dominica suffered a direct landfall from Category 5 [[Hurricane Maria]].<ref>{{Cite news|title=Hurricane Maria 'devastates' Dominica: PM|url=https://www.bbc.com/news/world-latin-america-41317164|website=BBC News|accessdate=19 September 2017|date=19 September 2017}}</ref> Early estimates of damage suggested 90% of the buildings on the island had been destroyed, with infrastructure left in ruins.<ref>{{cite web|title=Dominica devastation emerges with fatalities and '90% of buildings destroyed'|url=http://wicnews.com/caribbean/dominica-devastation-emerges-fatalities-90-buildings-destroyed-44575828/|website=WIC News|accessdate=19 September 2017|date=19 September 2017}}</ref><ref name="Handy">{{Cite news|url=https://www.bbc.com/news/world-latin-america-41394645|title=Dominica grieves after Hurricane Maria|first=Gemma|last=Handy|date=25 September 2017|publisher=|via=www.bbc.com|work=BBC News}}</ref> The UK, France and the Netherlands set up shipping and air lifts to take aid to the island; the scale of destruction having left most people homeless and desperate.
+
+== Geography and climate ==
+[[File:Lesser Antilles 250m.jpg|thumb|right|Dominica is an island in the Eastern [[Caribbean Sea]], located about halfway between the French islands of [[Guadeloupe]] (to the north) and [[Martinique]] (to the south)]]
+[[File:Map of Dominica.gif|thumb|Map of Dominica.]]
+{{main|Geography of Dominica}}
+<!---Note:Before adding anything to this section make sure it's already in the main "Geography of Dominica" article--->
+
+Dominica is an [[island nation]] in the [[Caribbean Sea]], the northernmost of the [[Windward Islands]] (though it is sometimes considered the southernmost of the [[Leeward Islands]]). The size of the country is about {{convert|289.5|sqmi|km²}}.
+
+Dominica is largely covered by [[rainforest]] and is home to the world's second-largest [[hot spring]], [[Boiling Lake]].<ref>{{cite web |url=http://www.dominica.gov.dm/cms/index.php?q=node/520 |title=Between Two Reunions: Boiling Lake, 1988 to 2008 &#124; |publisher=The Government of the Commonwealth of Dominica's Official Website |date= |accessdate=2010-06-27}}</ref> Dominica has many waterfalls, springs, and rivers. The [[Calibishie]] area in the country's northeast has sandy beaches.<ref>{{cite web|url=http://www.calibishiecoast.com/en/phototour.htm |title=A Photo Tour of the Calibishie Coast |publisher=Calibishiecoast.com |date= |accessdate=2013-09-29}}</ref> Some plants and animals thought to be extinct on surrounding islands can still be found in Dominica's forests.<ref>Stephen Durand and Bertrand Jno. Baptiste, [http://www.birdlife.org/datazone/userfiles/file/IBAs/CaribCntryPDFs/dominica.pdf "Dominica"] (Forestry, Wildlife and Parks Division).</ref> The island has several [[protected area]]s, including [[List of national parks of Dominica|Cabrits National Park]], as well as 365 rivers.
+
+[[Morne Trois Pitons National Park]] is a tropical forest blended with volcanic features.<ref>{{cite web |url=http://whc.unesco.org/en/list/814 |title=Morne Trois Pitons National Park by World Heritage Sites |publisher=Whc.unesco.org |date=7 December 1997 |accessdate=2010-06-27}}</ref> It was recognised as a [[World Heritage Site]] on 4 April 1995, a distinction it shares with four other Caribbean islands.<ref>[[Pitons|St. Lucia]] (2004), [[Brimstone Hill|Saint Kitts]] (1999), Hispaniola (Dominican Republic [1990]/Haiti [1982]) and Cuba (multiple).</ref>
+
+The Commonwealth of Dominica is engaged in a long-running dispute with [[Venezuela]] over Venezuela's territorial claims to the sea surrounding [[Isla Aves]] (literally Bird Island, but in fact called Bird Rock by Dominica authorities),<ref name="MitchellGold1983">{{cite book|author1=Carlyle L. Mitchell|author2=Edgar Gold|author3=Dalhousie Ocean Studies Programme|title=Fisheries Development in Dominica: An Assessment of the New Law of the Sea Implications and Strategies|url=https://books.google.com/books?id=-1ARAAAAYAAJ|accessdate=8 October 2010|year=1983|publisher=Dalhousie Ocean Studies Programme, Dalhousie University|isbn=978-0-7703-0280-1| page =41}}</ref> a tiny islet located {{convert|140|mi|km|0}} west of the island of Dominica.
+
+There are two primary population centres: Roseau (with 14,725 inhabitants in 2011) and [[Portsmouth, Dominica|Portsmouth]] (with 4,167 inhabitants in 2011).
+
+Dominica, known as "The Nature Island of the Caribbean" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest, thermally active lake in the world possesses the most pristine wilderness in the Caribbean.<ref>{{cite book |last=Thompson |first=Keith |title=Life in the Caribbean |year=2010 |publisher=New Africa Press |isbn=978-9987160150 |page=288 |id= {{ASIN|9987160158|country=uk}} }} p.173.</ref> Originally, it was protected by sheer mountains which led the European powers to build ports and agricultural settlements on other islands. More recently,{{when|date=May 2017}} the citizens of this island have sought to preserve the natural environment by discouraging the type of high-impact tourism which has damaged nature in other parts of the Caribbean.{{citation needed|date=May 2017}}
+
+Visitors can find large tropical forests, including one which is on the UNESCO list of World Heritage sites, hundreds of streams, coastlines and coral reefs.
+
+Dominica is home to local artisans and traditional craftsman who cater to tourists, although not a thriving high end art scene.{{citation needed|date=May 2017}}
+
+The [[Imperial amazon|Sisserou parrot]] (''Amazona imperialis'') is Dominica's national bird and is [[endemism|endemic]] to its mountain forests. A related species, the Jaco or [[red-necked parrot]] (''A. arausiaca''), is also a Dominican endemic. Both birds are rare and protected, though some forest is still threatened by logging in addition to the long-standing threat of hurricanes.
+
+The Caribbean Sea offshore of the island of Dominica is home to many [[cetacean]]s. Most notably a group of [[sperm whale]]s live in this area year-round. Other cetaceans commonly seen in the area include [[spinner dolphin]]s, [[pantropical spotted dolphin]]s and [[bottlenose dolphin]]s. Less commonly seen animals include [[killer whales]], [[false killer whale]]s, [[pygmy sperm whale]]s, [[dwarf sperm whale]]s, [[Risso's dolphin]]s, [[common dolphin]]s, [[Atlantic spotted dolphin]]s, [[humpback whales]] and [[Bryde's whale]]s. This makes Dominica a destination for tourists interested in [[whale-watching]].
+
+Dominica is especially vulnerable to [[hurricane]]s as the island is located in what is referred to as the hurricane region. In 1979, [[Hurricane David]] struck the island as a Category&nbsp;4 hurricane, causing widespread and extreme damage. On 17 August 2007, [[Hurricane Dean]], a Category&nbsp;1 hurricane at the time, hit the island.  A mother and her seven-year-old son died when a [[landslide]] caused by the heavy rains crushed their house.<ref name="Forbes Haiti preps">{{cite news | title =  Hurricane Dean Gains Caribbean Strength | author = Jonathan Katz | agency = Associated Press | url = https://www.forbes.com/feeds/ap/2007/08/18/ap4033014.html | date = 18 August 2007 | accessdate = 2007-08-18 | work=Forbes}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> In another incident two people were injured when a tree fell on their house.<ref name="cbc_2007-08-17">{{cite web |date=17 August 2007|title=Hurricane claims one life in St. Lucia and possibly two in Dominica|publisher=CBC|accessdate=2007-08-17|url=http://www.cbc.bb/content/view/12195/45/ |archiveurl = https://web.archive.org/web/20070828065016/http://www.cbc.bb/content/view/12195/45/ <!-- Bot retrieved archive --> |archivedate = 28 August 2007}}</ref> [[Prime Minister of Dominica|Prime Minister]] [[Roosevelt Skerrit]] estimated that 100 to 125 homes were damaged, and that the agricultural sector was extensively damaged, in particular the banana crop.<ref name="cbc_2007-08-17_02">{{cite web |date=17 August 2007|title=Dominica Badly Affected|publisher=CBC|accessdate=2007-08-17|url=http://www.cbc.bb/content/view/12195/45/ |archiveurl = https://web.archive.org/web/20070828065016/http://www.cbc.bb/content/view/12195/45/ <!-- Bot retrieved archive --> |archivedate = 28 August 2007}}</ref> In August 2015, [[Tropical Storm Erika]] caused extensive flooding and landslides across the island. Multiple communities were evacuated and upwards of 30 people were killed.<ref>{{cite web |date=1 September 2015|title=Dominica pleads for help as storm death toll tops 30|publisher=Yahoo News|accessdate=2015-10-04|url=https://news.yahoo.com/dominica-pleads-help-storm-death-toll-tops-30-190228024.html}}</ref> According to a Rapid Damage and Impact Assessment prepared for Dominica by the World Bank, the total damage and losses from the storm were US$484.82 million or 90% of Dominica's yearly GDP.<ref>{{cite web |date=25 September 2015|title=Rapid Damage and Impact Assessment: Tropical Storm Erika|publisher=Government of Dominica|accessdate=2015-10-04|url=http://www.drrinacp.org/sites/drrinacp.org/files/publication/Commonwealth%20of%20Dominica%20-%20Rapid%20Damage%20and%20Needs%20Assessment%20Final%20Report%20.pdf}}</ref> Category 5 [[Hurricane Maria]] struck the island in 2017 and caused losses of approximately US$930 million or 226% of GDP.<ref name="Handy"/>
+
+== Government==
+{{main|Politics of Dominica}}
+{{see also|Foreign relations of Dominica}}
+<!---Please add new info to relevant articles (e.g. those linked immediately above) rather than here--->
+Dominica is a [[parliamentary democracy]] within the [[Commonwealth of Nations]].<ref name="English_constitution" /> The capital is [[Roseau]]. The Commonwealth of Dominica is one of the Caribbean's few [[republic]]s. The president is the [[head of state]], while executive power rests with the [[Cabinet (government)|cabinet]], headed by the [[prime minister]].<ref name="English_constitution" /> The [[unicameral]] [[parliament]] consists of the 30-member [[House of Assembly of Dominica|House of Assembly]], which consists of 21 directly elected members and nine senators, who may either be appointed by the president or elected by the other members of the House of Assembly.<ref name="English_constitution" />
+
+Unlike other former British colonies in the region, Dominica was never a [[Commonwealth realm]], instead becoming a republic on independence. Dominica is a full and participating member of the [[Caribbean Community|Caribbean Community (CARICOM)]] and the [[Organisation of Eastern Caribbean States]] (OECS).
+
+Dominica is also a member of the [[International Criminal Court]] with a [[Bilateral Immunity Agreement]] of protection for the US military, as covered under [[Rome Statute of the International Criminal Court|Article 98]]. In January 2008 Dominica joined the [[Bolivarian Alternative for the Americas]].{{citation needed|date=October 2013}}
+
+==Administrative divisions==
+{{Map of Dominica}}
+Dominica is divided into 10 [[parishes of Dominica|parishes]], given below with their 2011 Census populations:
+* [[Saint Andrew Parish, Dominica|Saint Andrew Parish]] (9,471)
+* [[Saint David Parish, Dominica|Saint David Parish]] (6,043)
+* [[Saint George Parish, Dominica|Saint George Parish]] (21,241)
+* [[Saint John Parish, Dominica|Saint John Parish]] (6,561)
+* [[Saint Joseph Parish, Dominica|Saint Joseph Parish]] (5,637)
+* [[Saint Luke Parish, Dominica|Saint Luke Parish]] (1,668)
+* [[Saint Mark Parish, Dominica|Saint Mark Parish]] (1,834)
+* [[Saint Patrick Parish, Dominica|Saint Patrick Parish]] (7,622)
+* [[Saint Paul Parish, Dominica|Saint Paul Parish]] (9,786)
+* [[Saint Peter Parish, Dominica|Saint Peter Parish]] (1,430)
+
+== Economy ==
+{{main|Economy of Dominica}}
+[[File:Tree map export 2009 Dominica.jpeg|thumb|Graphical depiction of Dominica's product exports in 28 colour-coded categories.]]Dominica's currency is the [[East Caribbean Dollar]]. In 2008, Dominica had one of the lowest [[per capita]] [[gross domestic product]] (GDP) rates of Eastern Caribbean states.<ref>{{cite web|url=https://www.state.gov/r/pa/ei/bgn/2295.htm|title=(Dominica 07/08, U.S. State Dept.)}}</ref><ref>{{cite web|url=http://siteresources.worldbank.org/INTOECS/Resources/Dominica.AAG.pdf|title=(World Bank 'At A Glance')|format=PDF}}</ref> The country nearly had a financial crisis in 2003 and 2004, but Dominica's economy grew by 3.5% in 2005 and 4.0% in 2006, following a decade of poor performance. Growth in 2006 was attributed to gains in tourism, construction, offshore and other services, and some sub-sectors of the banana industry. The [[International Monetary Fund]] (IMF) recently praised the Government of Dominica for its successful macroeconomic reforms. The IMF also pointed out remaining challenges, including the need for further reductions in public debt, increased financial sector regulation, and market diversification.<ref name="bn" />
+
+Bananas and other agriculture dominate Dominica's economy, and nearly one-third of the labour force works in agriculture. This sector, however, is highly vulnerable to weather conditions and to external events affecting commodity prices. In 2007, [[Hurricane Dean]] caused significant damage to the agricultural sector as well as the country's infrastructure, especially roads. In response to reduced [[European Union]] (EU) banana [[trade preference]]s, the government has diversified the agricultural sector by promoting the production of coffee, [[patchouli]], [[aloe vera]], cut flowers, and exotic fruits such as mango, guava, and papaya.
+
+The expected increase of Dominica's [[Immigrant investor programs|Citizenship by Investment]] (CBI) fees has been suspended with no implementation date in sight, as announced by Prime Minister Roosevelt Skerrit, in the 2016 budget speech.<ref>[http://www.ntltrust.com/news/2016/7/28/no-fee-increase-for-dominica-cip No Fee Increase for Dominica CIP]. ntltrust.com (2016-7-28)</ref>
+
+=== International trade ===
+Dominica is a beneficiary of the [[Caribbean Basin Initiative]] (CBI) that grants duty-free entry into the United States for many goods. Dominica also belongs to the predominantly English-speaking [[Caribbean Community]] (CARICOM), the [[CARICOM Single Market and Economy]] (CSME), and the [[Organisation of Eastern Caribbean States]] (OECS).<ref name="bn" />
+
+=== Financial services industry ===
+The Commonwealth of Dominica is becoming in recent years a major international financial centre. The largest sectors are "[[offshore banking]], [[payment processing]] companies, and general corporate activities". Regulation and supervision of the [[financial services]] industry is the responsibility of the [[Financial Service Unit of the Commonwealth of Dominica]] (FSU) under the supervision of the Ministry of Finance. There are a number of service providers. These include global financial institutions including [[Scotiabank]], [[Royal Bank of Canada]], [[Cathedral Investment Bank]], [[First Caribbean International Bank]], and The Interoceanic Bank of the Caribbean.
+
+Starting in the mid-late 1990s, [[offshore financial centres]], such as the Commonwealth of Dominica, came under increasing pressure from the [[OECD]] for their allegedly harmful tax regimes, where the OECD wished to prevent low-tax regimes from having an advantage in the global marketplace. The OECD threatened to place the Commonwealth of Dominica and other [[financial centres]] on a "black list" and impose sanctions against them.<ref name="Rogoff">{{cite web|url=https://www.pbs.org/wgbh/pages/frontline/shows/tax/schemes/cayman.html |title=Haven or havoc? |publisher=Pbs.org |date= |accessdate=2011-07-31}}</ref> However, the Commonwealth of Dominica successfully avoided being placed on the OECD black list by committing to regulatory reform to improve transparency and begin information exchange with OECD member countries about their citizens.<ref name="Rogoff" />
+
+Dominica supposedly offers tax-free status to companies locating from abroad. It is not known how many companies benefit from the tax-free status because of the strict confidentiality the government enforces, although it is known many [[Internet]] businesses and [[hedge fund]]s utilise Dominica for this reason. However, on 12 July 2012 Dominica signed an agreement with Poland to exchange tax information.<ref>{{cite web|url=http://www.archbip.mf.gov.pl/bip/14227.html |title=Ministerstwo Finansów |publisher=Mf.gov.pl |date= |accessdate=2013-09-29}}</ref>
+
+=== Economic immigrants ===
+The Commonwealth of Dominica offers an official and legally mandated [[economic citizenship]] to those seeking a valid second citizenship. The nationality law of Dominica authorises the government to waive the normal requirement of seven years of legal residence to acquire citizenship in exchange for an investment into their country's economy. The required contribution for a main applicant starts at US$100,000 through the Economic Diversification Fund.<ref>{{Cite news|url=https://cbiu.gov.dm/investment-options/economic-diversification-fund/|title=Economic Diversification Fund - Dominica|work=Dominica|access-date=2018-11-30|language=en-US}}</ref> Alternatively, since 2014, applicants can make a US$200,000 minimum investment in pre-approved real estate from island exclusive resorts or global brands like Marriott, Kempinski or Hilton.<ref>Dominica Citizenship by Investment Unit website http://cbiu.gov.dm/</ref> According to officials, the [[citizenship by investment]] (CBI) programme was an economic and fiscal "lifeline" in the aftermath of Tropical Storm Erika in 2015 and Hurricane Maria in 2017, and its new investment option had become the main source of Foreign Direct Investment into Dominica by early 2016.<ref>[http://dominicanewsonline.com/news/homepage/news/general/dominicas-citizenship-programme-main-source-of-fdi-officials-say/ "Dominica’s Citizenship Programme 'Main Source of FDI', Officials Say"], Dominica News Online, 16 February 2016.</ref> Dominican citizens can travel without a visa, or obtain a visa upon entry, to nearly 140 countries and territories, including the United Kingdom and the Schengen Zone.<ref>{{Cite web|url=https://www.goccp.com/ENG/travel.htm|title=Dominica Passport Visa Free Travel - Dominica Visa Free Countries|website=www.goccp.com|language=en|access-date=2018-11-30}}</ref> Applying for Dominica citizenship requires interacting with official Government Approved Economic Citizenship Agents as the first step in the application process.<ref>{{cite web|url=http://cbiu.gov.dm/citizenship/authorised-agents/|title=Authorised CBIU Agents – Government Approved CBIU Agents|publisher=}}</ref> This program is currently valued at 16% of the government's total revenue.<ref>{{Cite journal|url=https://www.economist.com/international/2018/09/29/selling-citizenship-is-big-business-and-controversial|title=Selling citizenship is big business—and controversial|journal=The Economist|date=2018-09-29}}</ref>
+
+The government's management of the economic citizenship programme and an initial perceived lack of transparency in the use of the revenues generated are a frequent topic of heated domestic political controversy. Referring to the opposition, Prime Minister Skerrit in 2016 stated that "If they can discredit the Citizenship by Investment Program and make Dominica an unattractive place to obtain citizenship, then revenues would fall and the government would not be able to rebuild the country. Or, the government would then have to increase taxes on the people; making itself unpopular in their sight."<ref>[http://dominicanewsonline.com/news/homepage/news/politics/full-speech-of-pm-skerrit-at-dlp-meeting-in-st-joseph/ "Full speech of PM Skerrit at DLP meeting in St. Joseph"], Dominica News Online, 3 February 2016.</ref> Since then, the Government of Dominica has improved transparency of CBI funds. According to Prime Minister Skerrit's 2018-2019 Budget Address,<ref>{{Cite web|url=http://dominicanewsonline.com/news/homepage/news/general/full-budget-speech-of-prime-minister-roosevelt-skerrit/|title=Full budget speech of Prime Minister Roosevelt Skerrit – Dominica News Online|website=dominicanewsonline.com|language=en-US|access-date=2018-11-30}}</ref> the island's CBI Programme has helped develop a National Health Insurance pilot that provides Dominican children in critical medical conditions with overseas treatment. Because many residents were displaced by Hurricane Maria's impact on the small Caribbean island, the government pledged to build 5,000 hurricane-proof homes, of which the first batch of 125 houses are scheduled for occupancy in February 2019.<ref>{{Cite web|url=http://dominicanewsonline.com/news/homepage/news/first-phase-of-cbi-funded-housing-projects-ready-for-occupation-in-february-2019/|title=First phase of CBI-funded housing projects ready for occupation in February 2019 – Dominica News Online|website=dominicanewsonline.com|language=en-US|access-date=2018-11-30}}</ref> The CBI Programme also helps develop significantly the island's eco-tourism sector and creating jobs along the way.<ref>{{Cite news|url=https://cbiu.gov.dm/how-dominicas-cbi-is-changing-the-lives-of-its-citizens/|title=How Dominica’s CBI is Changing the Lives of its Citizens - Dominica|date=2018-08-06|work=Dominica|access-date=2018-11-30|language=en-US}}</ref> Furthermore, the Skerrit administration sets aside EC$5m every month for the construction of a new airport.<ref>{{Cite web|url=https://dominicanewsonline.com/news/homepage/news/economy-development/land-acquisition-begins-for-international-airport-pm-skerrit/|title=Land acquisition begins for international airport – PM Skerrit – Dominica News Online|website=dominicanewsonline.com|language=en-US|access-date=2018-11-30}}</ref><ref>{{Cite news|url=https://www.economist.com/the-americas/2018/08/30/getting-over-hurricane-maria|title=Getting over Hurricane Maria|work=The Economist|access-date=2018-11-30|language=en}}</ref>
+
+The Financial Times' Professional Wealth Management publication ranked Dominica as the [http://www.tradearabia.com/news/MISC_344359.html world's best citizenship by investment programme] in its annual CBI Index.<ref>{{Cite web|url=http://cbiindex.com/rankings/|title=CBI Index {{!}} Rankings of the Best Programmes|website=cbiindex.com|language=en-US|access-date=2018-11-30}}</ref> According to the FT Specialist report, investors choose Dominica's citizenship because it has the most affordable investment threshold, the application process is straightforward and streamlined,<ref>{{Cite web|url=https://www.pwmnet.com/Special-Reports/The-CBI-Index-key-findings-Caribbean-continues-to-dominate|title=The CBI Index: key findings - Caribbean continues to dominate|last=Team|first=CBI Index Research|website=www.pwmnet.com|language=en-GB|access-date=2018-11-30}}</ref> while the due diligence (i.e. the security checks each applicant is subjected to) remains very strict.<ref>{{Cite web|url=https://www.pwmnet.com/Special-Reports/The-CBI-Index-the-due-diligence-process-in-the-Caribbean|title=The CBI Index: the due diligence process in the Caribbean|last=S-RM|first=Heyrick Bond Gunning, CEO of|website=www.pwmnet.com|language=en-GB|access-date=2018-11-30}}</ref>
+
+=== Tourism ===
+Dominica is mostly volcanic and has few beaches; therefore, [[Tourism in Dominica|tourism]] has developed more slowly than on neighbouring islands. Nevertheless, Dominica's mountains, rainforests, freshwater lakes, hot springs, waterfalls, and diving spots make it an attractive [[eco-tourism]] destination. Cruise ship stopovers have increased following the development of modern docking and waterfront facilities in Roseau, the capital.<ref name="bn" /> Out of 22 Caribbean islands tracked, Dominica had the fewest visitors in 2008 (55,800 or 0.3% of the total). This was about half as many as visited Haiti.<ref>{{cite news|title=Bookings started to fall along with stock market|date=19 January 2009|author1=DeLollis, Barbara|author2=Hansen, Barbara|work=USA Today}}</ref> The volcanic nature of the island has attracted [[scuba diving|scuba divers]].
+
+== Infrastructure ==
+=== Air ===
+There are two regional airports on the island, but no international airports. Therefore, flying to Dominica requires travelling through [[San Juan, Puerto Rico]] or other nearby islands in the Caribbean such as [[Martinique]], [[Guadeloupe]], or [[Barbados]]. The primary airport, [[Douglas-Charles Airport]] (DOM), is on the northeast coast and is about a 45-minute drive from Portsmouth (1 hour from Roseau). The second is [[Canefield Airport]] (DCF), about 15 minutes from Roseau on the southwest coast. Douglas-Charles Airport is suitable for limited use of commercial jets because of runway length. Douglas-Charles currently has regular service by [[Air Sunshine]], [[Winair]], [[Seaborne Airlines]] and [[LIAT]] using twin turboprop aircraft like the [[ATR (aircraft manufacturer)|ATR]] & [[Saab 340]], as well as [[Conviasa]] and [[Amerijet]], which, using [[Boeing 727|Boeing 727 Freighters]], is the only airline with jet service to the republic. A runway extension and service upgrade project began at Douglas-Charles Airport around 2006 and was finished in 2010. In March 2013, airline American Eagle halted flights to the island citing high labour costs.<ref>{{cite web|url=http://dominicanewsonline.com/news/homepage/news/business/american-eagle-worries/ |title=American Eagle worries |publisher=Dominica News Online |date= |accessdate=2013-09-29}}</ref>
+
+=== Roads ===
+Dominica's road network runs primarily along the coastline and along river valleys. Major roads are two-lane highways which connect the capital, Roseau, with Portsmouth (Edward Oliver Leblanc Highway) and the Douglas Charles Airport (Dr. Nicholas Liverpool Highway). It takes about 45 minutes to drive from Portsmouth to Roseau. Private minibuses form the major public transport system. These major roads were recently reconstructed with assistance from the People's Republic of China and the European Union.<ref>{{cite web|url=http://dominicanewsonline.com/news/homepage/news/economy-development/completion-ceremony-of-edward-oliver-leblanc-highway-today/ |title=Completion ceremony of Edward Oliver Leblanc Highway Friday |publisher=Dominica News Online |date= |accessdate=2013-09-29}}</ref><ref>{{cite web|url=http://news.gov.dm/index.php/news/1948-dr-nicholas-liverpool-highway-officially-commissioned|title=Dr Nicholas Liverpool Highway Officially Commissioned |publisher=Dominica Government Information Service |date= |accessdate=2015-10-04}}</ref>
+
+Due to Tropical Storm Erika, several road surfaces and bridges were damaged by flooding and landslides, including on the newly completed E.O. LeBlanc (Roseau to Portsmouth) and Dr. Nicholas Liverpool Highways (Pont Cassé to Douglas Charles Airport).<ref>{{cite web|url=http://dominicanewsonline.com/news/homepage/news/business/emergency-bridges-being-developed-pm-says/ |title=Emergency bridges being developed PM says |publisher=Dominica News Online |date= |accessdate=2015-10-04}}</ref>
+
+=== Green energy ===
+
+Dominica's electricity sector includes power from hydroelectricity, solar energy, and geothermal energy.<ref>{{cite web|url=http://dominicanewsonline.com/news/homepage/news/business/emergency-bridges-being-developed-pm-says/|title=Emergency Bridges Being Developed PM Says|publisher=Dominica News Online}}</ref>
+
+== Demographics ==
+{{main|Demographics of Dominica}}
+
+The vast majority of Dominicans are of African descent. There is a growing mixed population along with a small European origin minority (descendants of French and British colonists along with some people of Irish descent) and there are small numbers of Lebanese, Syrians and Asians. Dominica is also the only Eastern Caribbean island that still has a population of pre-Columbian native Kalinago (previously called Caribs), who were exterminated or driven from neighbouring islands. {{As of|2014}} there are more than 3,000 Kalinago remaining. They live in eight villages on the east coast of Dominica. This special [[Carib Territory]] (now Kalinago Territory) was granted by the British Crown in 1903.<ref>{{cite web |url=http://www.avirtualdominica.com/caribs.htm |title=The Carib Indians |publisher=Avirtualdominica.com |date= |accessdate=2010-06-27}}</ref> There are also about 1,000 medical students from the United States and Canada who study at the [[Ross University School of Medicine|Ross University]] School of Medicine in Portsmouth.
+
+The population growth rate of Dominica is very low, due primarily to emigration to other countries. In the early 21st century, emigrant numbers for the most popular countries are as follows: the United States (8,560), the United Kingdom (6,739), [[Canada]] (605) and France (394).
+
+Dominica has a relatively large number of [[centenarian]]s. As of March 2007, there are 22 centenarians out of the island's 70,000 inhabitants—three times the average incidence of centenarianism in developed countries.<ref name=FOOC>Pickford, John ''From Our Own Correspondent'' BBC Radio 4. First broadcast 31 March 2007. Dominica report 17'49" – 22'55"</ref> The reasons for this are the subject of current research being undertaken at Ross University School of Medicine.
+
+Dominica was partially integrated into the federal colony of the [[Leeward Islands]] in 1832. Later, in 1871, it became a full part of the Federation of the Leeward Islands. From the start it was a peculiar relationship for previously Dominica had played no part in the political or cultural traditions of the other more Anglophone islands of the federation. Now, as a Leeward Island, this much larger territory, with thousands of acres of forested unclaimed land, was open to the people of [[Montserrat]] and [[Antigua]]. At the beginning of the 20th century the Rose's Company, which produced [[Rose's lime juice]], saw demand for its product outgrow its ability to supply the product from Montserrat. Their response to the situation was to buy land on Dominica and encourage Montserrat farm labourers to relocate. As a result, there came to be two linguistic communities in Dominica, [[Wesley, Dominica|Wesley]] and [[Marigot, Dominica|Marigot]].
+
+In 1902, on 8 May, the [[Mount Pelée]] volcano on Martinique erupted destroying the city of [[Saint-Pierre, Martinique|Saint-Pierre]]. Refugees from Martinique arrived in boats to the southern villages of Dominica and some remained permanently on the island.
+
+=== Languages ===
+[[English language|English]] is the official language of Dominica and is universally spoken and understood. In addition, [[Dominican Creole]], an [[Antillean Creole]] based on [[French language|French]], is widely spoken. This is due to French migration to the island starting in 1690, a majority French Creole speaking population that resided on the island,<ref>{{cite book|last1=Honychurch|first1=Lennox|title=The Dominica story : a history of the island|date=1995|publisher=Macmillan|location=London|isbn=978-0333627761|pages=49–60|edition= 3rd}}</ref> and its location between the two French-speaking departments of [[Martinique]] and [[Guadeloupe]]. Since 1979, Dominica has been a member of [[La Francophonie]]. Dominican Creole is particularly used among the older generation, which also speaks a [[patois]] language. Because of a decline in the use of Creole by the younger generation, initiatives have been set up in an effort to increase usage and promote this unique part of the nation's history and culture.
+
+Along with Creole, a dialect known as Kokoy (or Cockoy) is spoken.<ref>{{Cite book|url=https://www.amazon.co.uk/gp/reader/0521710162/ref=sib_dp_pt#reader-link|title=Lesser-known varieties of English|year=2010|publisher=Cambridge University Press|display-authors=etal|author=Schreier, D|isbn=9780521710169}}</ref> It is a type of [[List of English-based pidgins|pidgin English]] which is a mix of Leeward Island [[English Creole]] and Dominican Creole,<ref>{{cite web|url=http://www.avirtualdominica.com/creole.htm|title=Creole for Beginners|date=|publisher=Avirtualdominica.com|accessdate=2010-06-27}}</ref> and is mainly spoken in the north-eastern villages of Marigot and Wesley, by the descendants of immigrants from [[Montserrat]] and [[Antigua]]. Over time there has been much intermarrying, but there are still traces of difference in origin.<ref>{{cite web|url=http://www.lennoxhonychurch.com/article.cfm?id=402|title=Migration from Montserrat to Dominica|date=|publisher=Lennoxhonychurch.com|accessdate=2010-06-27|deadurl=yes|archiveurl=https://web.archive.org/web/20110511073901/http://www.lennoxhonychurch.com/article.cfm?id=402|archivedate=11 May 2011|df=dmy-all}}</ref> As a result of this mixture of languages and heritage, Dominica is a member of both the French-speaking Francophonie and the English-speaking [[Commonwealth of Nations]].
+
+[[Island Carib language|Island Carib]], also known as Igneri (Iñeri, Igñeri, Inyeri), was an [[Arawakan language]] historically spoken by the [[Island Caribs]] of the [[Lesser Antilles]] in the [[Caribbean]]. The Island Caribs lived throughout the southern Lesser Antilles such as Dominica, [[Saint Vincent and the Grenadines|St Vincent]] and [[Trinidad and Tobago|Trinidad]], supposedly having conquered them from their previous inhabitants, the [[Igneri]]. Island Carib became extinct about 1920, but an offshoot survives as [[Garifuna language|Garifuna]], primarily in Central America.
+
+=== Religion ===
+{{main|Religion in Dominica}}
+61.4% of the population is [[Roman Catholic]],<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/do.html|title=The World Factbook — Central Intelligence Agency|website=www.cia.gov}}</ref> though in recent years a number of [[Protestant]] churches have been established.{{citation needed|date=February 2017}}  About 10–12% of the population belongs to one of the 7th day (Saturday) denominations, which includes Yahweh Congregation, [[Church of God (Seventh-Day)]] and the [[Seventh-day Adventist Church]].<ref>{{cite web|url=http://www.arabwashingtonian.org/english/article.php?articleID=547&issue=19|title=Tropical Islam|date=|publisher=Arabwashingtonian.org|accessdate=2010-06-27|deadurl=yes|archiveurl=https://web.archive.org/web/20090905155854/http://www.arabwashingtonian.org/english/article.php?articleID=547&issue=19|archivedate=5 September 2009|df=dmy-all}}</ref>
+
+According to the [[Association of Religion Data Archives]], in 2010 the World Christian Database reported that the largest non-Christian religious groups included: [[spiritualism]] followed by 2.6% of the population; [[Bahai]] followed by 1.7%; [[Agnosticism]] followed by 0.5%; [[Buddhism]], [[Hinduism]], and [[Islam]] followed by 0.1% each; and [[Chinese folk religion]], [[Neoreligion]]s, and [[Atheism]] each followed by non-negligible (i.e. <0.1%) of the population.<ref>{{Cite web|url=http://www.thearda.com/internationalData/countries/Country_69_2.asp|title=The Association of Religion Data Archives {{!}} National Profiles|website=www.thearda.com|access-date=2017-10-16}}</ref> The nation's first [[mosque]] was built near Ross University.{{Citation needed|date=August 2018}}
+
+=== Education ===
+{{main|Education in Dominica}}
+{{Refimprove section|date=February 2016}}
+School in Dominica is mandatory up to secondary school. After pre-school, pupils attend primary school for six or seven years, and are admitted into secondary school on the basis of a Common Entrance Exam. After five years the students take the General Certificate of Education (GCE), widely replaced by the current Caribbean Secondary Education Certificate (CSEC or CXC) administered by the Caribbean Examination Council (a 15-member confederation of the Caribbean community (CARICOM). The more advanced version of this examination (CAPE) can be taken upon completion of two years of community college. The island has its own [[Dominica State College|state college]], formerly named Clifton Dupigny Community College. Some Dominicans attend universities in Cuba on scholarships offered by its government. Others go to the [[University of the West Indies]] or to universities in the United Kingdom, the United States, or other countries. [[Ross University School of Medicine|Ross University]],<ref>{{cite web|url=http://www.rossu.edu/medical-school/|title=Ross University School of Medicine, Dominica|date=|publisher=Rossu.edu|accessdate=2013-09-29}}</ref> a medical school, is located at [[Portsmouth, Dominica|Portsmouth]]. Ross has been operating in Dominica since the 1980s. Archbold Tropical Research and Education Center (ATREC),<ref>{{cite web|url=http://www.clemson.edu/public/rec/archbold/|title=Clemson University ATREC|year=2012|accessdate=2012-10-07}}</ref> a biological field station owned by [[Clemson University]],<ref>{{cite web|url=http://www.clemson.edu|title=Clemson University|date=8 January 2010|publisher=Clemson.edu|accessdate=2010-06-27}}</ref> is located at Springfield Estate between Canefield and Pont Cassé. In 2006, All Saints University School of Medicine<ref>{{cite web|url=http://www.allsaintsuniversity.org/|title=All Saints University School of Medicine, Dominica|accessdate=2012-10-07}}</ref> opened in temporary facilities in Loubière, with a permanent campus being constructed in [[Grand Bay, Dominica|Grand Bay]]. Currently All Saints is located in [[Roseau, Dominica]]. A marine biology institute in Mahaut, ITME (Institute for Tropical Marine Ecology), closed in 2009.
+
+== Culture ==
+{{main|Culture of Dominica|Music of Dominica}}
+[[File:Carib Territory.svg|thumb|left|Dominica's east coast [[Carib Territory]]]]
+
+Dominica is home to a wide range of people. Although it was historically occupied by several native tribes, the [[Arawak peoples|Arawaks]] (Tainos) and Carib (Kalinago) tribes occupied it at the time European settlers reached the island. "Massacre" is a name of a river dedicated to the murders of the Native villagers by English settlers.<ref name=Hubbard>{{cite book|last1=Hubbard|first1=Vincent|title=A History of St. Kitts|date=2002|publisher=Macmillan Caribbean|isbn=9780333747605|page=17}}</ref> Both the French and British tried to claim the island and imported [[slaves]] from Africa for labour. The remaining Caribs now live on a {{convert|3700|acre|km2|0|adj=on}} territory on the east coast of the island. They elect their own chief. This mix of cultures has produced the current culture.
+
+Music and dance are important facets of Dominica's culture. The annual independence celebrations display a variety of traditional song and dance. Since 1997, there have also been weeks of Creole festivals, such as "Creole in the Park" and the "[[World Creole Music Festival]]".
+
+Dominica gained prominence on the international music stage when in 1973, [[Gordon Henderson (musician)|Gordon Henderson]] founded the group [[Exile One]] and an original musical genre, which he coined "[[Cadence-lypso]]". This paved the way for modern Creole music. Other musical genres include "[[Jing ping]]" and "[[Cadence rampa|Cadence]]". Jing ping features the accordion and is native to the island. Dominica's music is a melange of Haitian, Afro-Cuban, African and European traditions. Popular artists over the years include Chubby and the Midnight Groovers, Bells Combo, the Gaylords, [[Windward Caribbean Kulture|WCK]], and Triple Kay.
+
+The 11th annual World [[creole music|Creole Music]] Festival was held in 2007, part of the island's celebration of independence from Great Britain on 3 November. A year-long reunion celebration began in January 2008, marking 30 years of independence.
+
+Dominica is often seen as a society that is migrating from collectivism to that of individualism. The economy is a developing one that previously depended on agriculture. Signs of collectivism are evident in the small towns and villages which are spread across the island.
+
+The famed novelist [[Jean Rhys]] was born and raised in Dominica. The island is obliquely depicted in her best-known book, ''[[Wide Sargasso Sea]].'' Rhys's friend, the political activist and writer [[Phyllis Shand Allfrey]], set her 1954 novel, ''The Orchid House'' ({{ISBN|0-8135-2332-X}}), in Dominica.
+
+Much of the [[Walt Disney Pictures|Walt Disney]] film ''[[Pirates of the Caribbean: Dead Man's Chest]]'' (the second in the series, released on 7 July 2006), was shot on location on Dominica (though in the film it was known as "Pelegosto," a fictional island), along with some shooting for the third film in the series, [[Pirates of the Caribbean: At World's End|At World's End]] (released on 2 May 2007).
+
+=== Cuisine ===
+{{main|Dominica cuisine}}
+
+Dominica's cuisine is similar to that of other Caribbean islands, particularly Jamaica, Saint Lucia and Trinidad and Tobago. Like other [[Commonwealth Caribbean]] islands, Dominicans have developed a distinct twist to their cuisine. Breakfast is an important daily meal, typically including saltfish, dried and salted [[codfish]], and "bakes" (fried dough). Saltfish and bakes are combined for a fast food snack that can be eaten throughout the day; vendors on Dominica's streets sell these snacks to passersby, together with fried chicken, fish and fruit and yogurt "smoothies". Other breakfast meals include cornmeal [[porridge]], which is made with fine cornmeal or ''polenta,'' milk and condensed milk and sugar to sweeten. Traditional British-influenced dishes, such as eggs, bacon and toast, are also popular, as are fried fish and [[Plantain (cooking)|plantains]].
+
+Common vegetables include [[Plantain (cooking)|plantains]], tanias (a root vegetable), [[Yam (vegetable)|yams]], [[potatoes]], [[rice and peas]]. Meat and poultry typically eaten include chicken (which is very popular), beef, and fish. These are often prepared in stews with onions, carrots, garlic, ginger and herbs like thyme. The vegetables and meat are browned to create a rich dark sauce. Popular meals include rice and peas, [[brown stew chicken]], stew beef, fried and stewed fish, and many different types of hearty fish broths and soups. These are filled with dumplings, carrots and ground provisions.
+
+=== Sports ===
+{{Expand section|date=June 2013}}
+[[Cricket]] is a popular sport on the island, and Dominica competes in [[test cricket]] as part of the [[West Indies cricket team]]. In West Indies domestic first-class cricket, Dominica participates as part of the [[Windward Islands cricket team]], although they are often considered a part of the [[Leeward Islands]] geographically. This is due to being part of the [[British Windward Islands]] colony from 1940 until independence; its cricket federation remains a part of the Windward Islands Cricket Board of Control.
+
+On 24 October 2007, the 8,000-seat [[Windsor Park (Dominica)|Windsor cricket stadium]] was completed with a donation of [[EC$]]33&nbsp;million ([[US$]]17&nbsp;million, [[euro|€]]12&nbsp;million) from the [[government of the People's Republic of China]].
+
+[[Netball]], [[basketball]], [[Rugby football|rugby]], [[tennis]] and [[Association football]] are gaining popularity as well.
+
+During the [[2014 Winter Olympics]], a husband and wife team of Gary di Silvestri and Angela Morrone di Silvestri spent [[US$]]175,000 to register as Dominican citizens and enter the 15&nbsp;km men's and 10&nbsp;km women's [[Cross-country skiing at the 2014 Winter Olympics|cross-country skiing]] events, respectively. Angela did not start her race, and Gary pulled out several hundred meters into his race. To date, they are Dominica's only Winter Olympic athletes.<ref>{{cite web|url=http://deadspin.com/dominicas-fake-ski-team-scammed-the-olympics-and-the-p-1529973935|title=Dominica's Fake Ski Team Scammed The Olympics And The Press|date=2014-02-24|publisher=Deadspin|author=McKenna, Dave|accessdate=2014-02-25}}</ref>
+
+== Media ==
+Dominica has two major newspapers, ''The Sun'' and ''[[The Chronicle (Dominica)|The Chronicle]]''. There are two national television stations and a few radio stations, including Stations include: ZBC-AM 590, the first private local radio station is called Radio En Ba Mango 93.5/96.9FM in the Village of Berricoa Grand Bay and is owned by Urban Dangleben,   ZGBC-AM 740, ZGBC-FM 90.7 (Portsmouth), ZGBC-FM 102.1 (Roseau) and ZGBC-FM 106.1 (Marigot), Q95 FM,<ref>{{cite web |url=http://wiceqfm.com/index.html |title=Q95 FM |publisher=Wiceqfm.com |date= |accessdate=2010-06-27}}</ref> the [[Dominica Broadcasting Corporation]], and Kairi FM.<ref>{{cite web |url=http://www.kairifm.com/ |title=Kairi FM |publisher=Kairi FM |date= |accessdate=2010-06-27}}</ref> Before 2004, there were two telecommunication companies [[Cable and Wireless (Caribbean)|Cable and Wireless]] and [[Marpin TV]]<ref>{{cite web |url=http://www.marpin2k4.com |title=Marpin TV}}</ref> founded by Dominican, Ronald Bernard Maroni Abraham. In 2005, [[Digicel]] and a UK-based company [[Orange SA|Orange]] started to offer service to the island. There are a number of mobile networks operating on the island; LIME and Digicel compete for most of Dominica's wireless customers. Orange shut down in 2010 and is no longer operating on the island of Dominica.
+
+== See also ==
+{{portal|Caribbean|Caribbean Community|<!--Dominica-->}}
+* [[Index of Dominica-related articles]]
+* [[List of people from Dominica]]
+* [[Outline of Dominica]]{{-}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+=== {{No more links}} =========-->
+{{Sister project links|voy=Dominica}}
+* {{Official website|http://www.dominica.gov.dm/}} of the Government of the Commonwealth of Dominica.
+* [http://www.unesco.org/csi/YV/projects2007-08/dominica-creole/dominica-cr-classes.pdf Dominican creole or Kwéyòl] (presentation, vocabulary and conversation guide)}
+* {{Wikiatlas|Dominica}}
+* [http://www.discoverdominica.com Discover Dominica: Nature Island of the Caribbean], official government tourism website by the Discover Dominica Authority.
+{{Dominica topics}}
+{{Navboxes
+|title = Articles relating to Dominica
+|list =
+{{Countries of North America}}
+{{Caribbean Community (CARICOM) |collapsed}}
+{{Organisation of Eastern Caribbean States (OECS) |collapsed}}
+{{Bolivarian Alliance for the Americas (ALBA)}}
+{{Commonwealth of Nations}}
+}}
+{{Authority control}}
+
+[[Category:Dominica| ]]
+[[Category:Countries in the Caribbean]]
+[[Category:Windward Islands]]
+[[Category:City-states]]
+[[Category:Colonial government in the West Indies]]
+[[Category:Commonwealth republics]]
+[[Category:English-speaking countries and territories]]
+[[Category:Former French colonies]]
+[[Category:French Caribbean]]
+[[Category:Islands of Dominica]]
+[[Category:Member states of the Caribbean Community]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the Organisation of Eastern Caribbean States]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:1690 establishments in the French colonial empire]]
+[[Category:1690s establishments in the Caribbean]]
+[[Category:1690 establishments in North America]]
+[[Category:1805 establishments in the British Empire]]
+[[Category:1800s establishments in the Caribbean]]
+[[Category:1805 establishments in North America]]
+[[Category:States and territories established in 1978]]
+[[Category:1970s establishments in the Caribbean]]
+[[Category:1978 establishments in North America]]
+[[Category:Countries in North America]]
+[[Category:Island countries]]

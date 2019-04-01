@@ -1,0 +1,87 @@
+{{pp-pc1}}
+{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]]|expiry=03:21, 13 June 2019|small=yes}}
+{{wiktionary|Macedonia|macedonia|Makedonia}}
+[[File:Macedonia region map wikipedia.png|thumb|300px|alt=Map of the Balkan peninsula depicting approximate extent of the Macedonian region with borders of modern countries and the former capital cities of ancient Macedonia near the coast| 
+{{aligned table|cols=2
+| '''·····'''&nbsp;| [[Macedonia (region)]] approximate extent
+| '''●'''| Former capital cities of [[Macedonia (ancient kingdom)]]
+}}]]
+
+'''Macedonia''' most commonly refers to:
+* [[North Macedonia]], a country of southeastern Europe, formerly known as ''Republic of Macedonia''
+* [[Macedonia (ancient kingdom)]] or Macedon, a kingdom in Greek antiquity
+* [[Macedonia (Greece)]], a traditional geographic region spanning three administrative divisions of northern Greece
+* [[Macedonia (region)]], a geographic and historical region that today includes the above and parts of six Balkan countries (see map)
+
+'''Macedonia''', '''Makedonia''', '''Makedonija''', or '''Makedoniya''' may also refer to:
+{{stack|{{TOC right}}}}
+
+== Other historical entities ==
+*[[Achaemenid Macedonia]], a satrapy of Achaemenid Empire
+*[[Macedonia (Roman province)]], a province of the early Roman Empire
+* [[Diocese of Macedonia]], a late Roman administrative unit
+* [[Macedonia (theme)]], a province of the Byzantine Empire
+* [[Independent Macedonia (1944)]], a proposed puppet state of the Axis powers (1944)
+* [[Socialist Republic of Macedonia]], a part of the former Yugoslavia (1945–1991) and a predecessor of North Macedonia
+
+== Other geographical uses ==
+
+=== Within the region ===
+*[[Vardar Macedonia]], a geographic region corresponding roughly to the territory of North Macedonia
+*[[Central Macedonia]], a province in northern Greece
+*[[Eastern Macedonia and Thrace]], a province in northern Greece
+*[[Western Macedonia]], a province in northern Greece
+*[[Pirin Macedonia]], a geographic region of southwestern Bulgaria
+
+=== United States ===
+* [[Macedonia, Alabama]]
+* [[Macedonia, Georgia]]
+* [[Macedonia, Illinois]]
+* [[Macedonia, Indiana]]
+* [[Macedonia, Iowa]]
+* [[Macedonia, Kentucky]]
+* [[Macedonia, Missouri]]
+* [[Macedonia, New Jersey]]
+* [[Macedonia, Ohio]]
+* [[Macedonia, South Carolina]]
+* [[Macedonia, Tennessee]]
+* [[Macedonia, Liberty County, Texas]]
+* [[Macedonia, Williamson County, Texas]]
+* [[Macedonia, Virginia]]
+
+=== Others ===
+* [[Macedônia]], São Paulo, Brazil
+* Macedonia, a village of [[Ciacova#Macedonia|Ciacova]], Romania
+* Macedonia, area of [[Glenrothes]], Scotland, United Kingdom
+
+== Publications ==
+* [[Makedonia (newspaper)|''Makedonia'' (newspaper)]], a Greek newspaper established in 1911
+* [[Makedonia (Bulgarian newspaper)|''Makedonia'' (Bulgarian newspaper)]], a 19th-century Bulgarian newspaper published until 1872
+* [[Macedonia (comics)|''Macedonia'' (comics)]], a 2007 book by Harvey Pekar and Heather Roberson
+
+== Ships ==
+*[[MV Makedoniya|MV ''Makedoniya'']], a Bulgarian small cargo ship in service 1932–41
+*[[MV Makedonia|MV ''Makedonia'']], a Greek passenger ship in service 1984–85
+
+== Sports ==
+* [[FK Makedonija Gjorče Petrov]], a football club in Skopje
+* [[FC Macedonia]], a former football club in Skopje (1941 to 1944)
+
+== Other uses ==
+* [[Makedonia (dance)]], a Greek folk song
+* [[Macedonia (food)]], a fruit salad or vegetable dish
+* [[Macedonia (terminology)]]
+* [[Macedonia Airport]] or Thessaloniki International Airport, an airport in Thessaloniki, Greece
+* [[Makedonia TV]], a Greek television station
+
+== See also ==
+* [[Macedon (disambiguation)]]
+* [[Macedonian (disambiguation)]]
+* [[Macedonia naming dispute]] between Greece and North Macedonia (resolved in 2019)
+* [[United Macedonia]] or Greater Macedonia, an irredentist concept
+* {{Portal-inline|size=tiny|short=yes|Macedonia (Greece)|text=Portal:Macedonia (Greece)}}
+* {{Portal-inline|size=tiny|short=yes|North Macedonia|text=Portal:North Macedonia}}
+* {{Lookfrom}}
+* {{Intitle}}
+
+{{disambiguation|geo|ship}}

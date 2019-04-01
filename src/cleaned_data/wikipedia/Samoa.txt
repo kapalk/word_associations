@@ -1,0 +1,520 @@
+{{about|the nation of Samoa|the geographical region|Samoan Islands|the Samoan United States territory|American Samoa|other uses}}
+{{pp-move-indef}}
+{{more citations needed|date=December 2017}}
+{{Use British English|date=April 2013}}
+{{Use dmy dates|date=June 2018}}
+{{Coord|13|35|S|172|20|W|display=title}}
+
+{{Infobox country
+| conventional_long_name = Independent State of Samoa
+| common_name = Samoa
+| native_name = {{native name|sm|Malo Sa{{okina}}oloto Tuto{{okina}}atasi o Sāmoa<wbr />}}
+| image_flag = Flag of Samoa.svg
+| image_coat = Coat of arms of Samoa.svg
+| symbol_type = Coat of arms
+| national_motto = "Faʻavae i le [[Atua]] Sāmoa"<br />{{small|"Samoa is founded on God"}}
+| national_anthem = ''[[The Banner of Freedom|O le fuʻa o le saʻolotoga o Samoa]]''<br />{{small|"The Banner of Freedom"}}<br />[https://www.youtube.com/watch?v=oONi_M-Flpw The National Anthem of Samoa]
+| image_map = Samoa on the globe (Polynesia centered).svg
+| image_map2 = Samoa - Location Map (2013) - WSM - UNOCHA.svg
+| capital = [[Apia]]
+| coordinates = {{Coord|13|50|S|171|45|W|type:city}}
+| largest_city = Apia
+| official_languages = {{unbulleted list |[[English language|English]]|[[Samoan language|Samoan]]}}
+| religion = [[Christianity]] ([[#Religion|official]])<ref name="Religion"/>
+| ethnic_groups = {{unbulleted list
+  |  92.6% [[Samoans]]
+  |  7.0% [[Euronesian]]s
+  |  0.4% [[Europeans]]
+  |  0.1% [[East Asian]]<ref name=cia>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html |title=Samoa |work=CIA – The World Factbook}}</ref>
+ }}
+| ethnic_groups_year = 2001
+| demonym = [[Samoans|Samoan]]
+| government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Parliamentary system|parliamentary democracy]] with a trace of [[Fa'amatai|aristocracy]]
+| leader_title1 = [[O le Ao o le Malo]]
+| leader_name1 = [[Va'aletoa Sualauvi II]]<sup>a</sup>
+| leader_title2 = [[Prime Minister of Samoa|Prime Minister]]
+| leader_name2 = [[Tuilaepa Aiono Sailele Malielegaoi]]
+| legislature = [[Legislative Assembly of Samoa|Legislative Assembly]]
+| sovereignty_type = Independence from [[New Zealand]]
+| established_event1 = [[Treaty of Berlin (1889)|Treaty of Berlin]]
+| established_date1 = 14 June 1889
+| established_event2 = [[Tripartite Convention]]
+| established_date2 = 16 February 1900
+| established_event3 = [[German Samoa|Colonisation by Germany]]
+| established_date3 = 1 March 1900
+| established_event4 = [[Western Samoa Trust Territory|Colonisation by New Zealand]]
+| established_date4 = 30 August 1914
+| established_event5 = League mandate
+| established_date5 = 17 December 1920
+| established_event6 = UN trusteeship
+| established_date6 = 13 December 1946
+| established_event7 = Western Samoa Act 1961
+| established_date7 = 1 January 1962
+| established_event8 = [[United Nations Security Council Resolution 399|Admitted to the]] [[United Nations]]
+| established_date8 = 15 December 1976
+| area_km2 = 2,842
+| area_rank = 167th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 1097
+| percent_water = 0.3
+| population_census = 195,843<ref name=census2016>{{cite web |url=http://www.sbs.gov.ws/index.php/population-demography-and-vital-statistics |title=Population & Demography Indicator Summary |publisher=Samoa Bureau of Statistics |accessdate=25 June 2018}}</ref>
+| population_census_year = November 2016
+| population_density_km2 = 68
+| population_density_sq_mi = 175
+| GDP_PPP = $1.188 billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=61&pr.y=2&sy=2018&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=862&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|title=Samoa |publisher=International Monetary Fund}}</ref>
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $5,962<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $881 million<ref name=imf2/>
+| GDP_nominal_year = 2018
+| GDP_nominal_per_capita = $4,420<ref name=imf2/>
+| Gini = <!--number only-->
+| Gini_year = 
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = 
+| Gini_rank = 
+| HDI = 0.702 <!--number only-->
+| HDI_year = 2014<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase<!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report Statistical Annex |date=2015 |accessdate=14 December 2015 |publisher=United Nations Development Programme | page=13}}</ref>
+| HDI_rank = 105th
+| currency = WS[[Dollar sign|$]]{{sup|b}}, [[Samoan tala|Tala]]
+| currency_code = WST
+| time_zone = [[UTC+13:00]]
+| utc_offset = +13<sup>c</sup>
+| utc_offset_DST = +14
+| DST_note = 
+| time_zone_DST = [[UTC+14:00]]
+| date_format = DD/MM/YYYY
+| drives_on = left<sup>d</sup>
+| calling_code = [[+685]]
+| cctld = [[.ws]]
+| footnote_a = Head of state.
+| footnote_b = Symbols SAT, ST or T are in use as well. The terms tālā and sene are the English words ''dollar'' and ''cent'' in the [[Samoan language]].
+| footnote_c = Since 31 December 2011.<ref name="Samoa Changes Timezone">{{cite news |last=Staff/Agencies |title=Samoa skips Friday in time zone change |url=http://www.abc.net.au/news/2011-12-30/samoa-skips-friday-in-time-zone-change/3753350 |accessdate=16 January 2012 |newspaper=ABC Australia |date=31 December 2011 |archiveurl=https://www.webcitation.org/64jx2ob6X?url=http://www.abc.net.au/news/2011-12-30/samoa-skips-friday-in-time-zone-change/3753350 |archivedate=16 January 2012 |deadurl=yes |df=dmy-all }}</ref>
+| footnote_d = Since 7 September 2009.<ref>{{cite news |url=http://wheels.blogs.nytimes.com/2009/09/08/in-samoa-drivers-switch-to-left-side-of-the-road/ |work=The New York Times |title=In Samoa, Drivers Switch to Left Side of the Road |first=Richard S. |last=Chang |date=8 September 2009 |accessdate=23 May 2010}}</ref> Although driving is on the left side of the roadway centre line, Samoa allows cars with steering wheels on either the left or the right side of the vehicle to use the roads.
+}}
+
+'''Samoa''' ({{IPAc-en|s|ə|ˈ|m|o:|ə}}), officially the '''Independent State of''' '''Samoa''' ({{lang-sm|Malo Saʻoloto Tutoʻatasi o Sāmoa}}; {{lang-sm|Sāmoa}}, {{IPA-all|ˈsaːmoa}}) and, until 4 July 1997, known as '''Western Samoa''', is a country consisting of two main islands, [[Savai'i]] and [[Upolu]], and four smaller islands. The capital city is [[Apia]]. The [[Lapita culture|Lapita]] people discovered and settled the [[Samoan Islands]] around 3,500 years ago. They developed a unique [[Samoan language]] and [[Samoan culture|Samoan cultural identity]].
+
+Samoa is a  [[Unitary state|unitary]] [[Parliamentary system|parliamentary democracy]] with [[Politics of Samoa#Administrative divisions|eleven administrative divisions]].  The country is a member of the [[Commonwealth of Nations]]. Western Samoa was admitted to the [[Member states of the United Nations#Current members|United Nations]] on 15 December 1976.<ref name="UN">{{cite news | title=List of Member States: S | url =https://www.un.org/members/list.shtml | work =United Nations | accessdate =27 November 2007}}</ref> The entire [[island group]], which includes [[American Samoa]], was called "Navigator Islands" by European explorers before the 20th century because of the Samoans' seafaring skills.<ref>{{cite news |title=The Navigator Islands |newspaper=[[The Argus (Australia)|The Argus]] |date=2 January 1882 |url=http://nla.gov.au/nla.news-article11528257}}</ref><ref name="CC">{{cite news|title=Samoa – The Heart of Polynesia |url=http://www.polynesia.com/samoa/island-map.html |work=Polynesian Culture Center |deadurl=yes |archiveurl=https://web.archive.org/web/20110724221341/http://www.polynesia.com/samoa/island-map.html |archivedate=24 July 2011 }}</ref>
+
+==History==
+
+=== Early Samoa ===
+
+{{Main|History of Samoa}}
+
+New Zealand scientists have dated remains in Samoa to about 2900 years ago. These were found at a [[Lapita]] site at [[Mulifanua]] and the findings were published in 1974.<ref name=green>{{cite journal |url=http://www.jps.auckland.ac.nz/document/Volume_98_1989/Volume_98,_No._3/New_information_for_the_Ferry_Berth_site,_Mulifanua,_Western_Samoa,_by_H._M._Leach,_p_319-330/p1?page=0&action=searchresult&target= |title=New Information for the Ferry Berth Site, Mulifanua, Western Samoa |first=Roger C. |last=Green |first2=Helen M. |last2=Leach |journal=Journal of the Polynesian Society |volume=98 |issue=3 |year=1989 |pages=319–330 |accessdate=30 January 2011 }}</ref>
+
+The origins of the Samoans are closely studied in modern research about Polynesia in various scientific disciplines such as [[genetics]], [[linguistics]] and [[anthropology]]. Scientific research is ongoing, although a number of different theories exist; including one proposing that the Samoans originated from [[Austronesian]] predecessors during the terminal eastward Lapita expansion period from Southeast Asia and [[Melanesia]] between 2,500 and 1,500 [[BCE]].<ref>The Political Economy of Ancient Samoa: Basalt Adze Production and Linkages to Social Status” (Winterhoff 2007)</ref>
+
+Intimate sociocultural and genetic ties were maintained between Samoa, Fiji, and Tonga, and the archaeological record supports oral tradition and native genealogies that indicate inter-island voyaging and intermarriage between pre-colonial Samoans, Fijians, and Tongans. Notable figures in Samoan history included the [[Tui Manu'a]] line and Queen [[Salamasina]] (15th century). [[Nafanua]] was a famous woman warrior who was deified in ancient Samoan religion.
+[[File:3 Samoan girls making ava 1909.jpg|right|thumb|Studio photo depicting preparation of the [[Samoa 'ava ceremony]] c. 1911.]]
+[[File:Urville-Apia-public.jpg|right|thumb|Interior of Samoan house, Apia, Urville 1842.]]
+
+Contact with Europeans began in the early 18th century. [[Jacob Roggeveen]], a Dutchman, was the first known European to sight the Samoan islands in 1722. This visit was followed by French explorer [[Louis-Antoine de Bougainville]], who named them the ''Navigator Islands'' in 1768. Contact was limited before the 1830s, which is when English [[missionaries]] and traders began arriving.
+
+=== Samoa in the 1800s ===
+
+Visits by American trading and [[whaling]] vessels were important in the early economic development of Samoa. The [[Salem, Connecticut|Salem]] brig ''Roscoe'' (Captain Benjamin Vanderford), in October 1821, was the first American trading vessel known to have called, and the ''Maro'' (Captain Richard Macy) of [[Nantucket]], in 1824, was the first recorded United States whaler at Samoa.<ref>Rhys Richards, ''Samoa’s forgotten whaling heritage; American whaling in Samoan waters 1824-1878'', (1992) Wellington, Lithographic Services, pp.18-20.</ref> The whalers came for fresh drinking water, firewood and provisions, and later, they recruited local men to serve as crewmen on their ships.
+
+Christian missionary work in Samoa began in 1830 when [[John Williams (missionary)|John Williams]] of the [[London Missionary Society]] arrived in [[Sapapali'i]] from the [[Cook Islands]] and [[Tahiti]].<ref>{{cite book | last = Watson | first = R.M. | title = History of Samoa: THE ADVENT OF THE MISSIONARY. (1830.1839) | year = 1919| pages = Chapter III | url =http://www.samoa.co.uk/books/history-of-samoa/history-of-samoa-3.html | nopp = true}}</ref> According to Barbara A. West, "The Samoans were also known to engage in ‘headhunting', a ritual of war in which a warrior took the head of his slain opponent to give to his leader, thus proving his bravery."<ref>West, Barbara A. (2008). ''[https://books.google.com/books?id=pCiNqFj3MQsC Encyclopedia of the Peoples of Asia and Oceania]''. Infobase Publishing. p. 704. {{ISBN|0-8160-7109-8}}</ref> However, [[Robert Louis Stevenson]], who lived in Samoa from 1889 until his death in 1894, wrote in ''[[A Footnote to History: Eight Years of Trouble in Samoa]]'', "… the Samoans are gentle people."<ref>Stevenson, Robert Louis (1892). ''[http://www.gutenberg.org/ebooks/536 A Footnote to History: Eight Years of Trouble in Samoa]'' at Gutenberg. {{ISBN|978-1847187598}}</ref>
+
+[[File:Lauaki Namulauulu Mamoe.jpg|right|thumb|Exiled orator Lauaki Namulau'ulu Mamoe.]]
+The Germans, in particular, began to show great commercial interest in the Samoan Islands, especially on the island of Upolu, where German firms monopolised [[copra]] and [[cocoa bean]] processing. The United States laid its own claim, based on commercial shipping interests in Pearl River in Hawaii and Pago Pago Bay in Eastern Samoa, and forced alliances, most conspicuously on the islands of [[Tutuila]] and [[Manu'a]] which became American Samoa.
+
+Britain also sent troops to protect British business enterprise, harbour rights, and consulate office. This was followed by an [[Samoan Civil War|eight-year civil war]], during which each of the three powers supplied arms, training and in some cases combat troops to the warring Samoan parties. The [[Samoan crisis]] came to a critical juncture in March 1889 when all three colonial contenders sent warships into Apia harbour, and a larger-scale war seemed imminent. A massive storm on 15 March 1889 damaged or destroyed the warships, ending the military conflict.<ref>{{cite book |author=Stevenson, Robert Louis |title=A Footnote to History: Eight Years of Trouble in Samoa|year=1892|publisher=BiblioBazaar |isbn=978-1-4264-0754-3|title-link=A Footnote to History: Eight Years of Trouble in Samoa}}</ref>
+
+The [[Second Samoan Civil War]] reached a head in 1898 when [[German Empire|Germany]], the [[United Kingdom of Great Britain and Ireland|United Kingdom]], and the United States were locked in dispute over who should control the [[Samoa Islands]]. The [[Siege of Apia]] occurred in March 1899. Samoan forces loyal to Prince [[Malietoa Tanumafili I|Tanu]] were besieged by a larger force of Samoan rebels loyal to [[Mata'afa Iosefo]]. Supporting Prince Tanu were landing parties from four British and American warships. After several days of fighting, the Samoan rebels were finally defeated.<ref>Mains, P. John; McCarty, Louis Philippe (1906). The Statistician and Economist: Volume 23. p. 249</ref>
+[[File:Samoan Paramount chief Mataafa Iosefa, 1896.jpg|left|thumb|[[Mata'afa Iosefo]] (1832–1912) paramount chief and rival for the kingship of Samoa]]
+
+American and British warships shelled Apia on 15 March 1899, including the [[USS Philadelphia (C-4)|USS ''Philadelphia'']]. Germany, the United Kingdom and the United States quickly resolved to end the hostilities and divided the island chain at the [[Tripartite Convention (1899)|Tripartite Convention of 1899]], signed at Washington on 2 December 1899 with ratifications exchanged on 16 February 1900.<ref name=GHR>Ryden, George Herbert. ''The Foreign Policy of the United States in Relation to Samoa''. New York: Octagon Books, 1975. (Reprint by special arrangement with Yale University Press. Originally published at New Haven: Yale University Press, 1928), p. 574</ref>
+
+The eastern island-group became a territory of the United States (the Tutuila Islands in 1900 and officially Manu'a in 1904) and was known as [[American Samoa]]. The western islands, by far the greater landmass, became [[German Samoa]]. The United Kingdom had vacated all claims in Samoa and in return received (1) termination of German rights in [[Tonga]], (2) all of the Solomon Islands south of Bougainville, and (3) territorial alignments in West Africa.<ref>Ryden, p. 571</ref>
+
+=== German Samoa (1900–1914) ===
+
+[[File:Funeral of Tamesese.jpg|thumb|People in attendance at Tupua Tamesese's funeral.]]
+
+{{Main|German Samoa}}
+
+The German Empire governed the western Samoan islands from 1900 to 1914. [[Wilhelm Solf]] was appointed the colony's first governor. In 1908, when the non-violent [[Mau movement|Mau a Pule]] resistance movement arose, Solf did not hesitate to banish the Mau leader [[Lauaki Namulauulu Mamoe|Lauaki Namulau'ulu Mamoe]] to Saipan in the German [[Northern Mariana Islands]].<ref>[http://www.zum.de/whkmla/region/pacific/wsamoa18991918.html World History at KMLA], zum.de</ref>
+
+The German colonial administration governed on the principle that "there was only one government in the islands."<ref>Lewthwaite, Gordon R. “Life, Land and Agriculture to Mid-Century,” in ''Western Samoa''. Edited by James W. Fox and Kenneth Brailey Cumberland. Christchurch, New Zealand: Whitcomb & Tombs Ltd. 1962, p. 148</ref> Thus, there was no Samoan ''Tupu'' (king), nor an ''alii sili'' (similar to a governor), but two ''Fautua'' (advisors) were appointed by the colonial government. ''Tumua'' and ''Pule'' (traditional governments of Upolu and Savai'i) were for a time silent; all decisions on matters affecting lands and titles were under the control of the colonial Governor.
+
+In the first month of [[World War I]], on 29 August 1914, troops of the New Zealand Expeditionary Force landed unopposed on Upolu and [[Occupation of German Samoa|seized control]] from the German authorities, following a request by Great Britain for [[New Zealand]] to perform this "great and urgent imperial service."<ref>
+{{cite news | title= New Zealand goes to war: The Capture of German Samoa | url =http://www.nzhistory.net.nz/war/new-zealand-goes-to-war-first-world-war | work =nzhistory.net.nz }}</ref>
+
+===New Zealand rule (1914–1962)===
+
+{{Main|Western Samoa Trust Territory}}
+
+From the end of [[World War I]] until 1962, New Zealand controlled Samoa as a [[Western Samoa Trust Territory|Class C Mandate]] under [[trusteeship]] through the [[League of Nations]],<ref>{{cite news | title=Imperialism as a Vocation: Class C Mandates | url =http://www.jamesrmaclean.com/archives/archive_vocational_imperialism.html | accessdate =27 November 2007}}</ref> then through the United Nations. There followed a series of New Zealand administrators who were responsible for two major incidents. In the first incident, approximately one fifth of the Samoan population died in the [[Influenza epidemic of 1918|influenza epidemic of 1918–1919]].<ref>{{cite news | title=The 1918 flu pandemic | url =http://www.nzhistory.net.nz/culture/influenza-pandemic | work =NZHistory.net.nz | accessdate =26 November 2007}}</ref> Between 1919 and 1962, Samoa was administered by the [[Department of Island Territories (New Zealand)|Department of External Affairs]], a government department which had been specially created to oversee New Zealand's Island Territories and Samoa.<ref name="External Affairs Bill 1919">"External Affairs Bill", in ''New Zealand Parliamentary Debates'', Vol. 185 (3 October–5 November 1919), p.337.</ref> In 1943, this Department was renamed the [[Department of Island Territories (New Zealand)|Department of Island Territories]] after a separate [[Ministry of Foreign Affairs (New Zealand)|Department of External Affairs]] was created to conduct New Zealand's foreign affairs.<ref>{{cite book|last1=Templeton|first1=Malcolm|title=An Eye, An Ear, and a Voice: 50 Years in New Zealand's External Relations, 1943–1993|date=1993|publisher=Ministry of Foreign Affairs and Trade|location=Wellington|page=1}}</ref>
+
+===[[Spanish flu|Flu pandemic]]===
+In 1918, during the final stages of [[World War I]], the [[Spanish flu|flu pandemic]] had taken its toll, spreading rapidly from country to country.  American Samoa became one of only three places in the world (the others being [[New Caledonia]] and [[Marajó|Marajó island]] in Brazil) to have prevented any deaths during the pandemic through the quick response from [[John Martin Poyer|Governor John Martin Poyer]] after hearing news reports of the outbreak on the radio and requesting [[quarantine ships]] from the U.S. mainland.{{cn|date=January 2019}} On Samoa, there had been no epidemic of pneumonic influenza in Western Samoa before the arrival of the [[SS Talune|SS ''Talune'']] from [[Auckland]] on 7 November 1918. The NZ administration allowed the ship to berth in breach of quarantine; within seven days of this ship's arrival, influenza became epidemic in Upolu and then spread rapidly throughout the rest of the territory.<ref name=Wendt>{{Cite news| title=Guardians and Wards: (A study of the origins, causes, and the first two years of the Mau in Western Samoa.) | url =http://www.nzetc.org/tm/scholarly/tei-WenGua-c2.html | author = Albert Wendt }}</ref>  Samoa suffered the most of all [[Pacific Islands|Pacific islands]], with 90% of the population infected; 30% of adult men, 22% of adult women and 10% of children died. The cause of the epidemic was confirmed in 1919 by a Royal Commission of Inquiry into the Epidemic concluded that there had been no epidemic of pneumonic influenza in Western Samoa before the arrival of the [[SS Talune|SS ''Talune'']] from [[Auckland]] on 7 November 1918. <ref name=Wendt/>
+
+===Mau movement===
+The second major incident arose out of an initially peaceful protest by the [[Mau movement|Mau]] (which literally translates as "strongly held opinion"), a non-violent popular movement which had its beginnings in the early 1900s on Savai'i, led by [[Lauaki Namulauulu Mamoe]], an orator chief deposed by Solf. In 1909, Lauaki was exiled to [[Saipan]] and died en route back to Samoa in 1915.
+
+By 1918, Samoa had a population of some 38,000 Samoans and 1,500 Europeans.<ref>{{cite news | title=Wartime administration – capture of German Samoa | url =http://www.nzhistory.net.nz/war/capture-of-samoa/administration | work =NZHistory.net.nz | accessdate =18 October 2010}}</ref>
+
+However, Samoans greatly resented New Zealand's colonial rule, and blamed inflation and the catastrophic 1918 flu epidemic on its misrule.<ref>{{cite journal | last1 = Hiery | first1 = Hermann | year = 1992 | title = West Samoans between Germany and New Zealand 1914–1921 | url = | journal = War and Society | volume = 10 | issue = 1| pages = 53–80 | doi=10.1179/072924792791198986}}</ref> By the late 1920s the resistance movement against colonial rule had gathered widespread support. One of the Mau leaders was [[Olaf Frederick Nelson]], a half Samoan and half Swedish merchant.<ref>{{DNZB|title=Nelson, Olaf Frederick 1883 – 1944|last=Laracy|first=Hugh|id=4N5|accessdate=29 June 2011}}</ref> Nelson was eventually [[exile]]d during the late 1920s and early 1930s, but he continued to assist the organisation financially and politically. In accordance with the Mau's non-violent philosophy, the newly elected leader, High Chief Tupua Tamasese Lealofi, led his fellow uniformed Mau in a peaceful demonstration in downtown Apia on 28 December 1929.<ref>{{cite news | title=The Mau Movement | url =http://www.globaled.org.nz/comm/documents/GlobalBits_Parihaka_000.pdf |format=PDF| accessdate =27 November 2007 |archiveurl = https://web.archive.org/web/20071127054637/http://www.globaled.org.nz/comm/documents/GlobalBits_Parihaka_000.pdf |archivedate=27 November 2007 }}</ref>
+
+The New Zealand police attempted to arrest one of the leaders in the demonstration. When he resisted, a struggle developed between the police and the Mau. The officers began to fire randomly into the crowd and a [[Lewis machine gun]], mounted in preparation for this demonstration, was used to disperse the demonstrators.<ref>{{cite book |author=Field, Michael |title=Black Saturday: New Zealand's tragic blunders in Samoa |publisher=Reed Publishing (NZ) |location=Auckland, N.Z. |year=2006 |isbn=978-0-7900-1103-5}}</ref> Chief Tamasese was shot from behind and killed while trying to bring calm and order to the Mau demonstrators, screaming "Peace, Samoa". Ten others died that day and approximately 50 were injured by gunshot wounds and police batons.<ref>{{cite news | title=History and migration: Who are the Samoans? | url =http://www.teara.govt.nz/NewZealanders/NewZealandPeoples/Samoans/1/en | work =Ministry for Culture and Heritage / Te Manatū Taonga | accessdate =27 November 2007}}</ref> That day would come to be known in Samoa as Black Saturday. The Mau grew, remaining steadfastly non-violent, and expanded to include the highly influential women's branch.
+
+=== Independence (1962) ===
+
+After repeated efforts by the Samoan independence movement, the New Zealand [[Western Samoa Act 1961]] of 24 November 1961 granted Samoa independence, effective on 1 January 1962, upon which the Trusteeship Agreement terminated.<ref>[http://www.nzlii.org/nz/legis/hist_act/wsa19611961n68189/ Western Samoa Act 1961] (24 November 1961; 1961 No 68). [http://www.worldlii.org/int/other/UNGA/1961/33.pdf Resolution 1626 (XVI) of 18 October 1961] of the [[United Nations General Assembly]].</ref><ref>[https://www.un.org/en/sections/un-charter/chapter-xii/ Chapter XII. International Trusteeship System]. Charter of the United Nations. legal.un.org</ref> Samoa also signed a friendship treaty with New Zealand. Samoa, the first small-island country in the Pacific to become independent, joined the [[Commonwealth of Nations]] on 28 August 1970. While independence was achieved at the beginning of January, Samoa annually celebrates 1 June as its independence day.<ref>"[http://www.teara.govt.nz/en/photograph/4202/celebration-of-samoas-independence-day Celebration of Samoa’s Independence Day]", ''Te Ara Encyclopedia of New Zealand.'' Retrieved 1 June 2014.</ref><ref>"[http://www.un.int/samoa/event/independence-day Independence Day]", United Nations. Retrieved 1 June 2014.</ref>
+
+Travel writer [[Paul Theroux]] noted marked differences between the societies in Western Samoa and [[American Samoa]] in 1992.<ref>{{cite book |author=Theroux, Paul |title=The Happy Isles of Oceania: Paddling the Pacific |publisher=G.P. Putnam's Sons (NZ) |location=New York, NY |year=1992 |isbn=978-0-618-65898-5}}</ref>
+
+In 2002, New Zealand's prime minister [[Helen Clark]] formally apologised for New Zealand's role in the events of 1918 and 1929.<ref>{{cite news | title =New Zealand's apology to Samoa | url =http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=2044857 | work=The New Zealand Herald | date=4 June 2002}}</ref><ref>[http://192.54.242.122/details.php?table=doc_primary&id=164 Prime Minister Helen Clark's Historic Apology]</ref>
+
+===1997 name change===
+
+On 4 July 1997 the government amended the constitution to change the country's name from ''Western Samoa'' to ''Samoa''.<ref>[http://www.paclii.org/ws/legis/num_act/caa21997295/ Constitution Amendment Act (No 2) 1997]. Paclii.org. Retrieved on 9 November 2016.</ref> [[American Samoa]] protested against the move, asserting that the change diminished its own identity.<ref>{{cite web|title=Samoan History|url=https://ws.usembassy.gov/our-relationship/policy-history/samoan-history/|website=U.S. Embassy in Samoa|accessdate=17 January 2017}}</ref>
+
+===21st century===
+
+On 7 September 2009, the government changed the [[Right- and left-hand traffic|driving orientation for motorists]]: Samoans now drive on the left side of the road like in most other Commonwealth countries. This brought Samoa into line with many other countries in the region. Samoa thus became the first country in the 21st century to switch to driving on the left.<ref name="BBC">{{cite news |title= Samoa switches to driving on left |date= 7 September 2009 |work= BBC News |url= http://news.bbc.co.uk/2/hi/asia-pacific/8243110.stm |accessdate =7 September 2009 }}</ref>
+
+At the end of December 2011, Samoa jumped forward by one day, omitting 30 December from the local calendar, when the nation moved to the west of the [[International Date Line]].<ref name="BBC IDL">{{cite news |title=Samoa to jump forward in time by one day |date=9 May 2011 |work= BBC News |url =https://www.bbc.co.uk/news/business-13330592 | accessdate =9 May 2011}}</ref> This change aimed to help the nation boost its economy in doing business with [[Australia]] and [[New Zealand]]. Before this change, Samoa was 21 hours behind [[Sydney]], but the change means it is now three hours ahead. The previous time zone, implemented on 4 July 1892, operated in line with American traders based in [[California]].<ref>{{cite news |title= Samoa Sacrifices a Day for Its Future |last=Mydans |first=Seth |url= https://www.nytimes.com/2011/12/30/world/asia/samoa-to-skip-friday-and-switch-time-zones.html |newspaper=The New York Times |date=29 December 2011 |access-date=16 February 2017}}</ref>
+
+In June 2017, Parliament established an amendment to Article 1 of the Samoan Constitution, thereby making [[Christianity]] the state religion.<ref>{{cite news|last1=Wyeth|first1=Grant|title=Samoa Officially Becomes a Christian State|url=http://thediplomat.com/2017/06/samoa-officially-becomes-a-christian-state/|accessdate=16 June 2017|work=The Diplomat|date=16 June 2017}}</ref><ref>{{cite news|last1=Feagaimaali’i-Luamanu|first1=Joyetter|title=Constitutional Amendment Passes; Samoa Officially Becomes 'Christian State'|url=http://www.pireport.org/articles/2017/06/08/constitutional-amendment-passes-samoa-officially-becomes-christian-state|accessdate=16 June 2017|publisher=Pacific Islands Report|date=8 June 2017}}</ref>
+
+==Politics==
+
+{{Main|Politics of Samoa|Fa'amatai}}
+
+[[File:Samoa - Apia Govt buildings.jpg|thumb|Government buildings in Apia.]]
+
+The [[Constitution of Samoa|1960 constitution]], which formally came into force with independence from New Zealand in 1962, builds on the British pattern of [[Parliamentary system|parliamentary democracy]], modified to take account of Samoan customs.<ref name="DS">{{cite web |title = Background Note: Samoa |url = https://www.state.gov/r/pa/ei/bgn/1842.htm |publisher = U.S. State Department |access-date = 26 November 2007}}</ref> The national modern Government of Samoa is referred to as the ''Malo''.
+
+[[Fiame Mata'afa Faumuina Mulinu’u II]], one of the four highest-ranking [[paramount chief]]s in the country, became Samoa's first [[Prime Minister of Samoa|Prime Minister]]. Two other paramount chiefs at the time of independence were appointed joint [[head of state|heads of state]] for life. [[Tupua Tamasese Mea'ole]] died in 1963, leaving [[Malietoa Tanumafili II]] sole head of state until his death on 11 May 2007, upon which Samoa changed from a [[constitutional monarchy]] to a [[parliamentary republic]] ''de facto''.<ref>{{cite news |url = https://www.bbc.co.uk/news/world-asia-15663597 |title= Samoa profile |date= 11 November 2011 |access-date= 11 November 2011 |work= BBC News}}</ref>{{dubious|Monarchy of republic?|reason=There are also elective monarchies who periodically elect their monarch, like Malaysia, who come from hereditary nobles — which would be from among the four top chieftains in Samoa's case. Therefore, this article fails to explain why the simple election of a head of state makes Samoa a republic.|date=September 2017}} The next Head of State, [[Tuiatua Tupua Tamasese Efi]], was elected by the legislature on 17 June 2007 for a fixed five-year term,<ref>{{cite news | url= http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10446128 | title= New head of state for Samoa |access-date= 16 June 2007 |work= The New Zealand Herald |location = Auckland| date= 16 June 2007}}</ref> and was re-elected unopposed in July 2012. [[Tufuga Efi]] was succeeded by [[Va'aletoa Sualauvi II]] in 2017.
+
+The unicameral legislature (the [[Fono]]) consists of 49 members serving 5-year terms. Forty-seven are ''[[fa'amatai|matai]]'' title-holders elected from territorial districts by Samoans; the other two are chosen by non-Samoans with no chiefly affiliation on separate electoral rolls.<ref>{{cite news | title= Samoa: Key Facts: Political | url = http://www.mfat.govt.nz/Countries/Pacific/Samoa.php | work = New Zealand Ministry of Foreign Affairs & Trade | accessdate = 27 November 2007}}</ref> Universal suffrage was adopted in 1990, but only chiefs (matai) may stand for election to the Samoan seats. There are more than 25,000 matais in the country, about 5% of whom are women.<ref>{{cite web |title= Samoa: Country Reports on Human Rights Practices in 2006 |url = https://www.state.gov/g/drl/rls/hrrpt/2006/78789.htm | work = U.S. Bureau of Democracy, Human Rights, and Labor | accessdate = 27 November 2007}}</ref> The prime minister, chosen by a majority in the Fono, is appointed by the head of state to form a government. The prime minister's choices for the 12 cabinet positions are appointed by the head of state, subject to the continuing confidence of the Fono.
+
+Prominent women in Samoan politics include the late [[Laulu Fetauimalemau Mata'afa]] (1928–2007) from [[Lotofaga]] constituency, the wife of Samoa's first prime minister. Their daughter [[Fiame Naomi Mata'afa]] is a paramount chief and a long-serving senior member of cabinet. Other women in politics include Samoan scholar and eminent professor [[Aiono Fanaafi Le Tagaloa]], orator-chief [[Matatumua Maimoana]] and [[Safuneitu'uga Pa'aga Neri]] ({{as of | 2016 | lc = on}} the Minister of Communication and Technology).
+
+The judicial system incorporates [[English common law]] and local customs. The Supreme Court of Samoa is the court of highest jurisdiction. Its [[chief justice]] is appointed by the head of state upon the recommendation of the prime minister.
+
+===Administrative divisions===
+
+{{Main|Districts of Samoa|Electoral constituencies of Samoa}}
+
+Samoa comprises eleven ''itūmālō'' (political districts). These are the traditional eleven districts which predate European arrival. Each district has its own constitutional foundation (''faavae'') based on the traditional order of title precedence found in each district's ''faalupega'' (traditional salutations).<ref>{{cite web | url=http://www.samoagovt.ws/about-samoa/ | title=About Samoa | publisher=Government of Samoa | accessdate=30 December 2017}}</ref>
+
+The capital village of each district administers and coordinates the affairs of the district and confers each district's paramount title, amongst other responsibilities. For example, the District of A'ana has its capital at Leulumoega. The paramount title of A'ana is the TuiA'ana. The orator group which confers this title – the Faleiva (House of Nine) – is based at Leulumoega. This is also the same for the other districts. In the district of Tuamasaga, the paramount title of the district – the Malietoa title – is conferred by the FaleTuamasaga based in Afega.
+
+The eleven ''itūmālō'' are identified to be:
+
+[[File:Samoa districts numbered2.png|right|thumb|upright=1.45|Political districts of Samoa, including minor islands]]
+On '''[[Upolu]]''' <br>
+:1. [[Tuamasaga]] ([[Afega]])<sup>1</sup>
+:2. [[A'ana]] ([[Leulumoega]])
+:3. [[Aiga-i-le-Tai]] ([[Mulifanua]])<sup>2</sup>
+:4. [[Atua (district)|Atua]] ([[Lufilufi]])<sup>3</sup>
+:5. [[Va'a-o-Fonoti]] ([[Samamea]])
+On '''[[Savai'i]]''' <br>
+:6. [[Fa'asaleleaga]] ([[Safotulafai]])
+:7. [[Gaga'emauga]] ([[Saleaula]])<sup>4</sup>
+:8. [[Gaga'ifomauga]] ([[Safotu]])
+:9. [[Vaisigano]] ([[Asau (Samoa)|Asau]])
+:10. [[Satupa'itea]] ([[Satupa'itea]])
+:11. [[Palauli]] ([[Vailoa]])
+
+<sup>1</sup> {{small|including the faipule district of [[Siumu]]}}
+<br><sup>2</sup> {{small|including islands [[Manono Island|Manono]], [[Apolima]] and [[Nu'ulopa]]}}
+<br><sup>3</sup> {{small|including the [[Aleipata Islands]] and [[Nu'usafe'e]] Island}}
+<br><sup>4</sup> {{small|smaller parts also on [[Upolu]] (Salamumu, incl. Salamumu-Uta and Leauvaa villages)}}
+
+===Human rights===
+
+{{See also|Human rights in Samoa}}
+
+Major areas of concern include the under-representation of women, domestic violence and poor prison conditions. [[LGBT rights in Samoa|Homosexual acts]] are illegal in Samoa.<ref>[http://www.radioaustralia.net.au/international/2011-10-21/417010 "Homosexuality to remain illegal in Samoa, Solomon Islands and PNG"], Radio Australia, 21 October 2011</ref>
+
+===Christian revival===
+
+In June 2017, an Act was passed changing the country's constitution to include a reference to the [[Trinity]]. As amended, Article 1 of the Samoan Constitution states that “Samoa is a Christian nation founded of God the Father, the Son and the Holy Spirit”. According to ''[[The Diplomat]]'', "What Samoa has done is shift references to Christianity into the body of the constitution, giving the text far more potential to be used in legal processes."<ref name="report">{{cite web |url=http://thediplomat.com/2017/06/samoa-officially-becomes-a-christian-state/ |title=Samoa Officially Becomes a Christian State |last=Wyeth |first=Grant |date=16 June 2017 |publisher=''The Diplomat'' |access-date=19 June 2017}}</ref> The preamble to the constitution already described the country as "an independent State based on Christian principles and Samoan custom and traditions."<ref name=report/>
+
+==Geography==
+
+{{Main|Geography of Samoa}}
+
+[[File:Samoa Country map.png|thumb|upright=1.35|A map of Samoa.]]
+[[File:Samoa topography.png|thumb|upright=1.35|Topography of Samoa.]]
+
+Samoa lies south of the equator, about halfway between Hawaii and New Zealand, in the [[Polynesia]]n region of the Pacific Ocean. The total land area is 2,842&nbsp;km<sup>2</sup> (1,097&nbsp;sq&nbsp;mi),<ref>{{Cite journal|url= http://unstats.un.org/unsd/demographic/products/dyb/dyb2009-2010/Table03.pdf|format= PDF|title= Demographic Yearbook—Table 3: Population by sex, rate of population increase, surface area and density|publisher= United Nations Statistics Division|year= 2010}}</ref> consisting of the two large islands of [[Upolu]] and [[Savai'i]] (which together account for 99% of the total land area) and eight small islets.
+
+These are the three islets in the [[Apolima Strait]] ([[Manono Island]], [[Apolima]] and [[Nu'ulopa]]), the four [[Aleipata Islands]] off the eastern end of Upolu ([[Nu'utele]], [[Nu'ulua]], [[Namua]], and [[Fanuatapu]]), and [[Nu'usafe'e]] which is less than 1 hectare (2½ acres) in area and about 1.4&nbsp;km (0.9&nbsp;mi) off the south coast of Upolu at the village of ''Vaovai''.<ref name="DB">{{cite news |title= Samoa an Overview | url = http://www.donbosco.asn.au/Bulletins/2004/mar/overview.htm  | archiveurl = https://web.archive.org/web/20071120020749/http://www.donbosco.asn.au/Bulletins/2004/mar/overview.htm | archivedate = 20 November 2007|work=Salesian Bulletin}}</ref> The main island of Upolu is home to nearly three-quarters of Samoa's population, and to the capital city, [[Apia, Samoa|Apia]].
+
+The Samoan islands result geologically from [[volcanism]], originating with the [[Samoa hotspot]] which probably results from a [[mantle plume]].<ref>{{cite journal
+ | author = Koppers, Anthony A.P. 
+ | date= June 2008
+ | title = Samoa reinstated as a primary hotspot trail
+ | journal = [[Geology (journal)|Geology]]
+ | volume = 36
+ | issue = 6
+ | pages = 435–438
+ | doi = 10.1130/G24630A.1
+ }}
+</ref><ref>{{cite web|url= http://www.geosociety.org/news/pr/08-23.htm |title= GSA Press Release – GEOLOGY/GSA Today Media Highlights |publisher= Geosociety.org |date= 27 May 2008 |accessdate= 30 June 2010}}</ref> While all of the islands have volcanic origins, only Savai'i, the westernmost island in Samoa, remains volcanically active, with the most recent eruptions in [[Mt Matavanu]] (1905–1911), [[Mata Ole Afi|Mata o le Afi]] (1902) and [[Mauga Afi]] (1725). The highest point in Samoa is [[Silisili|Mt Silisili]], at 1858&nbsp;m (6,096&nbsp;ft). The [[Saleaula]] lava fields situated on the central north coast of Savai'i are the result of the Mt Matavanu eruptions which left 50&nbsp;km<sup>2</sup> (20&nbsp;sq&nbsp;mi) of solidified lava.<ref>[http://www.samoa.travel/sightseeing.aspx?sID=9 Savai'i – An Introduction], Samoa Tourism Authority.</ref>
+
+=== Climate ===
+
+The climate is equatorial/monsoonal, with an average annual temperature of 26.5&nbsp;°C (79.7&nbsp;°F) and a rainy season from November to April.<ref>{{cite news | title= Samoa: Climate | url = http://www.britannica.com/eb/article-54101/Samoa | work = Encyclopædia Britannica| accessdate = 26 November 2007}}</ref> Savai'i is the largest of the Samoan islands and the sixth largest Polynesian island (after New Zealand's [[North Island|North]], [[South Island|South]] and [[Stewart Island/Rakiura|Stewart Islands]] and the Hawaiian islands of [[Hawaii (island)|Hawaiʻi]] and [[Maui]]). The population of Savai'i is 42,000 people.
+{{Clear}}
+
+{{Weather box
+|location = Apia
+|metric first = yes
+|single line = yes
+|Jan high C = 30.4
+|Feb high C = 30.6
+|Mar high C = 30.6
+|Apr high C = 30.7
+|May high C = 30.4
+|Jun high C = 30.0
+|Jul high C = 29.5
+|Aug high C = 29.6
+|Sep high C = 29.9
+|Oct high C = 30.1
+|Nov high C = 30.3
+|Dec high C = 30.5
+|year high C =
+|Jan low C = 23.9
+|Feb low C = 24.2
+|Mar low C = 24.0
+|Apr low C = 23.8
+|May low C = 23.4
+|Jun low C = 23.2
+|Jul low C = 22.6
+|Aug low C = 22.8
+|Sep low C = 23.1
+|Oct low C = 23.4
+|Nov low C = 23.6
+|Dec low C = 23.8
+|year low C =
+|precipitation colour = green
+|Jan precipitation mm = 489.0
+|Feb precipitation mm = 368.0
+|Mar precipitation mm = 352.1
+|Apr precipitation mm = 211.2
+|May precipitation mm = 192.6
+|Jun precipitation mm = 120.8
+|Jul precipitation mm = 120.7
+|Aug precipitation mm = 113.2
+|Sep precipitation mm = 153.9
+|Oct precipitation mm = 224.3
+|Nov precipitation mm = 261.7
+|Dec precipitation mm = 357.5
+|year precipitation mm =
+|source 1 = [[World Meteorological Organization]] (UN)<ref name=WMO>[http://worldweather.wmo.int/184/c01230.htm World Weather Information Service – Apia], World Meteorological Organization. Retrieved 15 October 2012.</ref>
+|date= August 2010
+}}
+
+===Ecology===
+
+{{Further|List of mammals of Samoa|Samoan plant names}}
+
+{{See also|List of birds of Samoa|List of protected areas of Samoa}}
+
+Samoa forms part of the [[Samoan tropical moist forests]] ecoregion. Since human habitation began, about 80% of the lowland rainforests have been lost. Within the ecoregion about 28% of plants and 84% of land birds are endemic.<ref>
+{{WWF ecoregion|id= oc0112|name= Samoan tropical moist forests|accessdate= 30 December 2011}}
+</ref>
+
+==Economy==
+
+{{Main|Economy of Samoa}}
+
+[[File:Central Bank of Samoa (2009).jpg|thumb|[[Central Bank of Samoa]]]]
+
+[[File:Colocasia esculenta dsc07801.jpg|thumb|[[Taro]], a root crop, traditionally was Samoa's largest export, generating more than half of all export revenue in 1993. A fungal blight decimated the plants, and in each year since 1994 taro exports have accounted for less than 1% of export revenue.]]
+
+The [[United Nations]] has classified Samoa as an [[developing country|economically developing country]] since 2014.<ref>{{cite web |url=https://www.un.org/ldcportal/samoa-graduates-from-the-ldc-category/ |title=Samoa graduates from the LDC category |publisher=United Nations Committee for Development Policy |date=8 January 2014 |accessdate=11 March 2018}}</ref> In 2017, Samoa's gross domestic product in [[purchasing power parity]] was estimated to be $1.13 billion [[United States dollar|U.S. dollars]], ranking 204th among all countries. The [[tertiary sector of the economy|services sector]] accounted for 66% of GDP, followed by [[industry]] and [[agriculture]] at 23.6% and 10.4%, respectively.<ref name="CIASamoa">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html |title=Samoa |accessdate=11 March 2018 |publisher=Central Intelligence Agency |work=CIA World Factbook}}</ref> The same year, the Samoan [[workforce|labour force]] was estimated at 50,700.<ref name="CIASamoa"/>
+
+The country's currency is the [[Samoan tala|Samoan tālā]], issued and regulated by the [[Central Bank of Samoa]].<ref>{{cite web |url=http://www.cbs.gov.ws/about/intro/index.html |title=Introduction |work=Central Bank of Samoa website }}</ref>
+The economy of Samoa has traditionally been dependent on agriculture and fishing at the local level. In modern times, [[development aid]], private family [[remittances from overseas]], and agricultural exports have become key factors in the nation's economy. Agriculture employs two-thirds of the labour force and furnishes 90% of exports, featuring [[coconut]] cream, [[coconut oil]], [[noni]] (juice of the ''nonu'' fruit, as it is known in Samoan), and [[copra]].<ref name=cia/>
+
+Outside of a large automotive [[wire harness]] factory ([[Yazaki|Yazaki Corporation]] which ended production in August 2017<ref>{{cite web |url=http://www.radionz.co.nz/international/pacific-news/337928/yazaki-samoa-employees-work-final-shift-after-25-years-in-business |title=Yazaki Samoa employees work final shift after 25 years in business |work=Radio New Zealand website |date=2017-08-24 }}</ref>), the manufacturing sector mainly processes agricultural products. Tourism is an expanding sector which now accounts for 25% of GDP. Tourist arrivals have been increasing over the years with more than 100,000 tourists visiting the islands in 2005, up from 70,000 in 1996.
+
+The Samoan government has called for [[deregulation]] of the financial sector, encouragement of investment, and continued fiscal discipline. {{Citation needed|date=October 2008}} Observers point to the flexibility of the labour market as a basic strength for future economic advances. {{Citation needed|date=October 2008}} The sector has been helped enormously by major capital investment in hotel infrastructure, political instability in neighbouring Pacific countries, and the 2005 launch of [[Virgin Samoa]] a joint-venture between the government and [[Virgin Australia]] (then Virgin Blue).
+
+In the period before German colonisation, Samoa produced mostly copra. German merchants and settlers were active in introducing large scale [[plantation]] operations and developing new industries, notably, cocoa bean and rubber, relying on imported labourers from China and [[Melanesia]]. When the value of natural rubber fell drastically, about the end of the Great War (World War I), the New Zealand government encouraged the production of bananas, for which there is a large market in New Zealand. {{Citation needed|date=October 2008}}
+
+Because of variations in altitude, a large range of tropical and subtropical crops can be cultivated, but land is not generally available to outside interests. Of the total land area of 2,934&nbsp;km<sup>2</sup> (725,000 acres), about 24.4% is in permanent crops and another 21.2% is arable. About 4.4% is Western Samoan Trust Estates Corporation (WSTEC). {{Citation needed|date=July 2008}}
+
+The staple products of Samoa are copra (dried coconut meat), [[cocoa bean]] (for chocolate), and bananas. The annual production of both bananas and copra has been in the range of 13,000 to 15,000 metric tons (about 14,500 to 16,500 short tons). If the [[rhinoceros beetle]] in Samoa were eradicated, Samoa could produce in excess of 40,000 metric tons (44,000 short tons) of copra. Samoan cocoa beans are of very high quality and used in fine New Zealand chocolates. Most are [[Criollo (cocoa bean)|Criollo]]-Forastero hybrids. Coffee grows well, but production has been uneven. WSTEC is the biggest coffee producer. Rubber has been produced in Samoa for many years, but its export value has little impact on the economy. {{Citation needed|date=October 2008}}
+
+Other agricultural industries have been less successful. [[Sugarcane]] production, originally established by Germans in the early 20th century, could be successful. Old train tracks for transporting cane can be seen at some plantations east of [[Apia]]. [[Pineapple]]s grow well in Samoa, but beyond local consumption have not been a major export.
+
+Sixty percent of Samoa's electricity comes from renewable hydro, solar, and wind sources, with the remainder from diesel generators. The Electric Power Corporation has a goal of 100% renewable energy by 2021.<ref>{{Cite news|url=https://www.radionz.co.nz/international/pacific-news/358097/samoa-making-progress-on-renewable-energy-goal|title=Samoa making progress on renewable energy goal|date=2018-05-24|work=Radio New Zealand|access-date=2018-07-31|language=en-nz}}</ref>
+
+==Demographics==
+
+[[File:Samoa Familie.JPG|thumb|A Samoan family.]]
+{{Main|Demographics of Samoa}}
+
+Samoa reported a population of 194,320 in its 2016 census.<ref name=census2016/> About three-quarters of the population live on the main island of [[Upolu]].<ref name="DS"/>
+
+=== Ethnic groups ===
+
+92.6% of the population are [[Samoans]], 7% [[Euronesian]]s (people of mixed European and [[Polynesians|Polynesian]] ancestry) and 0.4% are [[European ethnic groups|Europeans]], according to the [[The World Factbook|CIA World Factbook]].
+
+Only the [[Māori people|Māori]] of New Zealand outnumber Samoans among Polynesian groups.
+
+=== Languages ===
+
+:''Further information: [[Polynesian languages|List of Polynesian languages]]''
+
+[[Samoan language|Samoan]] (Gagana Fa'asāmoa) and [[English language|English]] are the official languages.  Including second-language speakers, there are more speakers of Samoan than English in Samoa.<ref>{{cite web|url=http://www.ethnologue.com/country/ws/languages/|title=Samoa|publisher=}}</ref> [[Samoan Sign Language]] is also commonly used among the [[Hearing loss|deaf]] population of Samoa. To emphasize the importance of full inclusion with sign language, elementary Samoan Sign Language was taught to members of the Samoa Police Service, Red Cross Society, and public during the 2017 International Week of the Deaf.<ref>{{cite news |last1=Nuanua o le Alofa |first1=Home News |title=Historic training for Samoa Police on International Week of the Deaf |url=http://www.samoaplanet.com/historic-training-samoa-police-international-week-deaf/ |accessdate=21 June 2018 |work=Staff Writers |agency=Samoa Planet |date=25 September 2017}}</ref>
+
+=== Religion ===
+
+{{Further|Religion in Samoa}}
+
+Since 2012, Article 1 of the Samoan Constitution states that  “Samoa is a Christian nation founded of God the Father, the Son and the Holy Spirit”.<ref name="Religion">{{cite news |publisher=''[[The Diplomat]]'' |title=Samoa Officially Becomes a Christian State |first=Grant |last=Wyeth |url=http://thediplomat.com/2017/06/samoa-officially-becomes-a-christian-state/ |date=16 June 2017 |access-date=16 June 2017 |archive-url=https://web.archive.org/web/20170616153746/http://thediplomat.com/2017/06/samoa-officially-becomes-a-christian-state/ |archive-date=16 June 2017}}</ref>
+
+[[Religion in Samoa|Samoans' religious adherence]] includes the following: [[Christian Congregational Church of Samoa]] 31.8%, [[Roman Catholic Church|Roman Catholic]] 19.4%, [[Methodist]] 15.2%, [[Samoan Assemblies of God|Assembly of God]] 13.7%, [[The Church of Jesus Christ of Latter-day Saints]] 7.6%, [[Seventh-day Adventist Church|Seventh-day Adventist]] 3.9%, Worship Centre 1.7%, other Christian 5.5%, other 0.7%, none 0.1%, unspecified 0.1% (2011 estimate).<ref name=cia/> The Head of State until 2007, His Highness [[Malietoa Tanumafili II of Samoa|Malietoa Tanumafili II]], was a [[Bahá'í Faith|Bahá'í]]. Samoa hosts the seventh (of nine current) [[Bahá'í House of Worship|Bahá'í Houses of Worship]] in the world; completed in 1984 and dedicated by the Head of State, it is located in [[Tiapapata]], 8&nbsp;km (5&nbsp;mi) from [[Apia]].
+
+==Education==
+
+The Samoan government provides eight years of primary and secondary education that is tuition-free and is compulsory through age 16.<ref>{{cite web |title=Samoa |url=http://www.dol.gov/ilab/media/reports/iclp/tda2001/samoa.htm |work=2001 Findings on the Worst Forms of Child Labor |publisher=[[Bureau of International Labor Affairs|U.S. Bureau of International Labor Affairs]] |deadurl=yes |archiveurl=https://web.archive.org/web/20081105225107/http://www.dol.gov/ilab/media/reports/iclp/tda2001/samoa.htm |archivedate=5 November 2008 |accessdate=27 February 2018}}</ref>
+
+Samoa's main post-secondary educational institution is the [[National University of Samoa]], established in 1984. The country is also home to several branches of the multi-national [[University of the South Pacific]] and the [[Oceania University of Medicine]].<ref>{{cite web |title=Education in Samoa |url=http://www.commonwealthofnations.org/sectors-samoa/education/ |publisher=Nexus Commonwealth Network |accessdate=27 February 2018}}</ref>
+
+Education in Samoa has proved to be effective as a 2012 [[UNESCO]] report stated that 99 per cent of Samoan adults are literate.<ref>{{Cite web|url=http://uis.unesco.org/sites/default/files/documents/pacific-education-for-all-2015-review-en_1.pdf|title=Pacific Education for All 2015 Review|last=UNESCO|first=|date=2015|website=UNESCO|archive-url=https://web.archive.org/web/20180406041009/http://uis.unesco.org/sites/default/files/documents/pacific-education-for-all-2015-review-en_1.pdf|archive-date=6 April 2018|dead-url=|access-date=}}</ref>
+
+==Culture==
+
+{{Main|Culture of Samoa}}
+{{See also|Music of Samoa}}
+
+[[File:Samoa upolu.jpg|thumb|A view of [[Falefa Valley]] from Le Mafa Pass, east [[Upolu]].]]
+
+The [[fa'a Samoa]], or traditional Samoan way, remains a strong force in Samoan life and politics. Despite centuries of European influence, Samoa maintains its historical customs, social and political systems, and [[Samoan language|language]]. Cultural customs such as the [[Samoa 'ava ceremony]] are significant and solemn rituals at important occasions including the bestowal of ''[[fa'amatai|matai]]'' chiefly titles. Items of great cultural value include the finely woven ''[['ie toga]]''.
+
+[[Samoan mythology]] includes many gods with creation stories and figures of legend such as [[Tagaloa]] and the goddess of war [[Nafanua]], the daughter of [[Saveasi'uleo]], ruler of the spirit realm [[Pulotu]]. Other legends include the well known story of [[Sina and the Eel]] which explains the origins of the first coconut tree.
+
+Some Samoans are spiritual and religious, and have subtly adapted the dominant religion of Christianity to 'fit in' with fa'a Samoa and vice versa. Ancient beliefs continue to co-exist side-by-side with Christianity, particularly in regard to the traditional customs and rituals of fa'a Samoa. The Samoan culture is centred around the principle of vāfealoa'i, the relationships between people. These relationships are based on respect, or [[fa'aaloalo]]. When Christianity was introduced in Samoa, most Samoan people converted. Currently 98% of the population identify themselves as Christian.
+
+Some Samoans live a communal way of life, participating in activities collectively. Examples of this are the traditional Samoan ''[[Architecture of Samoa|fale]]'' (houses) which are open with no walls, using blinds made of coconut palm fronds during the night or bad weather.
+
+The Samoan ''[[siva Samoa|siva]]'' dance has unique gentle movements of the body in time to music and tells a story, although the Samoan male dances can be more snappy.<ref>{{cite news | title=Dance: Siva | url =http://www.samoa.co.uk/dance.html | work =Samoa.co.uk}}</ref> The ''[[sasa (dance)|sasa]]'' is also a traditional dance where rows of dancers perform rapid [[synchronization|synchronised]] movements in time to the rhythm of wooden drums ''([[pate (musical instrument)|pate]])'' or rolled mats. Another dance performed by males is called the ''[[fa'ataupati]]'' or the slap dance, creating rhythmic sounds by slapping different parts of the body. This is believed to have been derived from slapping insects on the body.{{citation needed|date=November 2017}}
+
+The form and construction of traditional [[architecture of Samoa]] was a specialised skill by ''Tufuga fai fale'' that was also linked to other cultural artforms.
+
+<gallery mode="packed">
+File:Catholic church in Samoa-2.jpg|Roman Catholic [[Immaculate Conception]] of Mary cathedral.
+File:Siva Afi - Fire spinning.jpg|A Samoan fire dancer.
+File:Fale on Manono Island.jpg|A [[Architecture of Samoa|fale]] on [[Manono Island]]
+File:Apia Samoa Temple-new.jpg|LDS [[Apia Samoa Temple]]
+</gallery>
+
+===Tattooing===
+
+[[File:Samoan Malu.jpg|thumb|A Samoan woman with a traditional [[malu]].]]
+
+As with other Polynesian cultures ([[Hawaiian culture|Hawaiian]], [[Tahitians|Tahitian]] and [[Māori culture|Māori]]) with significant and unique tattoos, Samoans have two gender specific and culturally significant tattoos. For males, it is called the [[Pe'a]] and consists of intricate and geometrical patterns [[tattoo]]ed that cover areas from the knees up towards the ribs. A male who possesses such a tatau is called a [[soga'imiti]]. A Samoan girl or ''teine'' is given a [[malu]], which covers the area from just below her knees to her upper thighs.<ref>{{cite news | title =Worn With Pride – Tatau (Tatoo) | url =http://www.oma-online.org/worn_with_pride_04.html | work =Oceanside Museum of Art | accessdate =26 November 2007 | deadurl =yes | archiveurl =https://web.archive.org/web/20090330024149/http://www.oma-online.org/worn_with_pride_04.html | archivedate =30 March 2009 | df =dmy-all }}</ref>
+
+===Contemporary culture===
+
+[[Albert Wendt]] is a significant Samoan writer whose novels and stories tell the Samoan experience. In 1989, his novel ''Flying Fox in a Freedom Tree'' was made into a feature film in New Zealand, directed by Martyn Sanderson.<ref>{{cite web |url=http://www.filmarchive.org.nz/feature-project/pages/Flying-Fox.php |title=NZ Feature Project: Flying Fox in a Freedom Tree – The New Zealand Film Archive |accessdate=30 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100525162414/http://www.filmarchive.org.nz/feature-project/pages/Flying-Fox.php |archivedate=25 May 2010 |df=dmy-all }}</ref> Another novel ''Sons for the Return Home'' had also been made into a feature film in 1979, directed by Paul Maunder.<ref>{{cite web |url=http://www.filmarchive.org.nz/feature-project/pages/SFTRH.php |title=NZ Feature Project: Sons For the Return Home – The New Zealand Film Archive |accessdate=30 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100525170130/http://www.filmarchive.org.nz/feature-project/pages/SFTRH.php |archivedate=25 May 2010 |df=dmy-all }}</ref>
+The late [[John Kneubuhl]], born in American Samoa, was an accomplished playwright and screenwriter and writer.
+[[Sia Figiel]] won the 1997 [[Commonwealth Writers' Prize]] for fiction in the south-east Asia/South Pacific region with her novel "Where We Once Belonged".
+[[Momoe Malietoa Von Reiche]] is an internationally recognised poet and artist.
+[[Tusiata Avia]] is a performance poet. Her first book of poetry ''Wild Dogs Under My Skirt'' was published by Victoria University Press in 2004.
+[[Dan Taulapapa McMullin]] is an artist and writer.
+Other Samoan poets and writers include [[Sapa'u Ruperake Petaia]], [[Eti Sa'aga]] and [[Savea Sano Malifa]], the editor of the [[Samoa Observer]].
+
+In music, popular local bands include [[The Five Stars]], Penina o Tiafau and Punialava'a.
+[[The Yandall Sisters]]' cover of the song ''Sweet Inspiration'' reached number one on the New Zealand charts in 1974.
+[[King Kapisi]] was the first hip hop artist to receive the prestigious New Zealand [[Australasian Performing Right Association|APRA]] Silver Scroll Award in 1999 for his song ''Reverse Resistance''. The music video for ''Reverse Resistance'' was filmed in Savai'i at his villages.
+Other successful Samoan hip hop artists include rapper [[Scribe (rapper)|Scribe]], [[Dei Hamo]], [[Savage (rapper)|Savage]] and [[Tha Feelstyle]] whose music video ''Suamalie'' was filmed in Samoa.
+
+[[Lemi Ponifasio]] is a director and choreographer who is prominent internationally with his dance Company MAU.<ref>[http://www.mau.co.nz/ Home]. Mau.co.nz. Retrieved on 9 November 2016.</ref>
+[[Neil Ieremia]]'s company [[Black Grace]] has also received international acclaim with tours to Europe and New York.
+[[Hip hop]] has had a significant impact on Samoan culture. According to Katerina Martina Teaiwa, PhD from the University of Hawaii at Manoa, "Hip hop culture in particular is popular amongst Samoan youth."<ref name="Dances">[https://web.archive.org/web/20080308172004/http://www.piccom.org/dancesoflife/samoa.html Dances of Life | American Samoa]. piccom.org</ref> As in many other countries, hip hop music is popular. In addition, the integration of hip hop elements into Samoan tradition also "testifies to the transferability of the dance forms themselves," and to the "circuits through which people and all their embodied knowledge travel."<ref>Henderson, April K. “Dancing Between Islands: Hip Hop and the Samoan Diaspora.” In The Vinyl Ain’t Final: Hip Hop and the Globalization of Black Popular Culture, ed. by Dipannita Basu and Sidney J. Lemelle, 180–199. London; Ann Arbor, MI: Pluto Press, 2000</ref> Dance both in its traditional form and its more modern forms has remained a central cultural currency to Samoans, especially youths.<ref name="Dances"/>
+
+The arts organisation ''Tautai'' is a collective of visual artists including [[Fatu Feu'u]], [[Johnny Penisula]], [[Shigeyuki Kihara]], [[Michel Tuffery]],  and [[Lily Laita]].<ref>{{cite web|url=http://www.tautaipacific.com/ |title=Home – Tautai Contemporary Pacific Arts Trust |publisher=Tautaipacific.com |accessdate=30 June 2010}}</ref>
+
+Director [[Sima Urale]] is an award-winning filmmaker. Urale's short film ''O Tamaiti'' won the prestigious Best Short Film at the [[Venice Film Festival]] in 1996. Her first feature film ''Apron Strings'' opened the 2008 [[New Zealand International Film Festivals|NZ International Film Festival]]. The feature film ''[[Siones Wedding]]'', co-written by [[Oscar Kightley]], was financially successful following premieres in Auckland and Apia. The 2011 film [[The Orator (film)|The Orator]] was the first ever fully Samoan film, shot in Samoa in the Samoan language with a Samoan cast telling a uniquely Samoan story. Written and directed by [[Tusi Tamasese]], it received much critical acclaim and attention at film festivals throughout the world.
+
+===Sport===
+
+{{See also|Sport in Samoa}}
+
+[[File:Percy Montgomery against Samoa.jpg|thumb|Samoa (blue) vs. South Africa in June 2007.]]
+
+The main sports played in Samoa are [[rugby union]], [[Samoan cricket]] and [[netball]]. Rugby union is the national football code of Samoa. In Samoan villages, volleyball is also popular.
+
+Rugby union is the national sport in Samoa and the [[Samoa national rugby union team|national team]], nicknamed the Manu Samoa, is consistently competitive against teams from vastly more populous nations. Samoa has competed at every [[Rugby World Cup]] since [[1991 Rugby World Cup|1991]], and made the quarter finals in 1991, [[1995 Rugby World Cup|1995]] and the second round of the [[1999 Rugby World Cup|1999]] World Cup.<ref>{{cite news| title=Rugby in Samoa | url =http://www.manusamoa.net/history.htm | work =ManuSamoa.net | accessdate =26 November 2007}}</ref> At the 2003 world cup, Manu Samoa came close to beating eventual world champions, England. Samoa also played in the [[Pacific Nations Cup]] and the [[Pacific Tri-Nations]]. The sport is governed by the [[Samoa Rugby Football Union]], who are members of the [[Pacific Islands Rugby Alliance]], and thus, also contribute to the international [[Pacific Islanders rugby union team]].
+
+At club level, there is the [[Samoa National Provincial Championship|National Provincial Championship]] and [[Pacific Rugby Cup]]. They also took home the cup at Wellington and the Hong Kong Rugby Sevens in 2007—for which the Prime Minister of Samoa, also Chairman of the national rugby union, Tuila’epa Sa’ilele Malielegaoi, declared a national holiday. They were also the [[IRB World Sevens Series]] Champions in 2010 capping a year of achievement for the Samoans, following wins in the US, Australia, Hong Kong and Scotland Sevens tournaments.
+
+Prominent Samoan players include [[Pat Lam]] and [[Brian Lima]]. In addition, many Samoans have played for or are playing for [[New Zealand national rugby union team|New Zealand]].
+
+[[Rugby league]] is mostly played by Samoans living in New Zealand and Australia.{{citation needed|date=August 2014}} [[Samoa national rugby league team|Samoa]] reached the quarter finals of the [[2013 Rugby League World Cup]], the team comprising players from the [[NRL]] and [[Super League]] plus domestic players. Many Samoans and New Zealanders or Australians of Samoan descent play in the Super League and National Leagues in Britain, including Francis Meli, Ta'ane Lavulavu of Workington Town, Maurie Fa'asavalu of St Helens and David Fatialofa of Whitehaven and Setima Sa who signed with London Irish rugby club. Other noteworthy players from NZ and Australia have represented the [[Samoa national rugby league team|Samoan National team]]. The 2011 domestic Samoan rugby league competition contained 10 teams with plans to expand to 12 in 2012.<ref name="Rugby League Planet">{{cite web|work= rugbyleagueplanet.com|title=Samoa|url=http://rugbyleagueplanet.com/rugby-league-rlp/rlp-nations/samoa}}</ref>
+
+Samoans have been very visible in [[boxing]], [[kickboxing]], [[Professional wrestling|wrestling]], and [[sumo]]; some Samoan sumo wrestlers, most famously [[Musashimaru]] and [[Konishiki]], have reached the highest rank of ''[[Ōzeki|Ozeki]]'' and ''[[Yokozuna (sumo)|yokozuna]]''.
+
+[[American football]] is occasionally played in Samoa, reflecting its wide popularity in [[American Samoa]], where the sport is played under high school sanction. About 30 ethnic Samoans, many from American Samoa, currently play in the [[National Football League]]. A 2002 article from ''[[ESPN]]'' estimated that a Samoan male (either an American Samoan or a Samoan living in the mainland United States) is 40 times more likely to play in the NFL than a non-Samoan American.<ref>{{cite news |title=American football, Samoan style |url=http://espn.go.com/gen/s/2002/0527/1387562.html |work=ESPN |accessdate=26 November 2007}}</ref>
+
+==See also==
+{{portal|Samoa|Oceania}}
+* [[Outline of Samoa]]{{-}}
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin}}
+* Watson, R M, ''History of Samoa'' (Wellington, 1918)
+* Meleisea, Malama. ''The Making of Modern Samoa: Traditional Authority and Colonial Administration in the Modern History of Western Samoa''. (Suva, 1987) Institute of Pacific Studies, University of the South Pacific.
+* Schnee, Dr. Heinrich (former Deputy Governor of [[German Samoa]] and last Governor of [[German East Africa]]). 1926. ''German Colonization, Past and Future: The Truth about the German Colonies.'' London: [[George Allen & Unwin]].
+* Eustis, Nelson. [1979] 1980. ''[[Aggie Grey]] of Samoa.'' Adelaide, South Australia: Hobby Investments. {{ISBN|0-9595609-0-4}}.
+* {{Cite book |author=Stevenson, Robert Louis |title=A Footnote to History: Eight Years of Trouble in Samoa |publisher=BiblioBazaar |isbn=978-1-4264-0754-3}}
+* Mead, Margaret. 1928, ''Coming of Age in Samoa: A Study of Adolescence and Sex in Primitive Societies''. 
+* Freeman, Derek. 1983. ''Margaret Mead in Samoa: the Making and Unmaking of an Anthropological Myth''.
+* Urmenyhazi Attila. 2013 ''Samoan & Marquesan Life in Oceania: a probing travelogue''. {{ISBN|9780646909127}} – National Library of Australia, Bib ID: 6377055.
+* Mallon, Sean. 2002. ''Samoan Art and Artists''. O Measina a Samoa. Honolulu: University of Hawaii Press. {{ISBN|0-8248-2675-2}}
+* {{cite journal |last=Gill |first= B.J. |year=1993 |title= The land reptiles of Western Samoa |journal=Journal of the Royal Society of New Zealand |volume=23 |number=2 |pages=79–89 |doi=10.1080/03036758.1993.10721219}}
+{{Refend}}
+
+==External links==
+
+{{Sister project links|voy=Samoa|d=Q683}}
+; Government
+* [http://www.samoagovt.ws/ Government of Samoa]
+* [https://www.cia.gov/library/publications/resources/world-leaders-1/WS.html Chief of State and Cabinet Members]
+; General information
+* {{CIA World Factbook link|ws|Samoa}}
+* [http://ucblibraries.colorado.edu/govpubs/for/samoa.htm University of Colorado] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Oceania/Samoa}}
+* [https://www.bbc.co.uk/news/world-asia-15655855 Samoa] from the [[BBC News]]
+* {{wikiatlas|Samoa}}
+* [http://www.samoa.travel Samoa Tourism Authority]
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=WS Key Development Forecasts for Samoa] from [[International Futures]]
+* {{Osmrelation-inline|1872673}}
+
+{{Samoa topics}}
+{{Polynesia}}
+{{Countries and territories of Oceania}}
+{{Pacific Islands Forum (PIF)}}
+{{Authority control}}
+
+[[Category:Samoa| ]]
+[[Category:1962 establishments in Oceania]]
+[[Category:Archipelagoes of the Pacific Ocean]]
+[[Category:Countries in Polynesia]]
+[[Category:English-speaking countries and territories]]
+[[Category:Island countries]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:States and territories established in 1962]]
+[[Category:Commonwealth republics]]
+[[Category:Christian states]]

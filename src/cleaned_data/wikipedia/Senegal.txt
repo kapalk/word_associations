@@ -1,0 +1,452 @@
+{{pp-move|small=yes}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox country
+| conventional_long_name = Republic of Senegal
+| native_name = {{ubl|{{native name|wo|Réewum Senegaal}}|{{native name|fr|République du Sénégal}}}}
+| common_name = Senegal
+| image_flag = Flag of Senegal.svg
+| image_coat = Coat of arms of Senegal.svg
+| image_map = Location Senegal AU Africa.svg
+| map_caption = {{map caption|countryprefix=|location_color=dark blue|region=the [[African Union]]|region_color=light blue}}
+| image_map2 = Senegal - Location Map (2011) - SEN - UNOCHA.svg
+| national_motto = {{native phrase|fr|"Un Peuple, Un But, Une Foi"|italics=off}}<br/>{{small|"One People, One Goal, One Faith"}}
+| national_anthem = <br/>{{nowrap|"[[Pincez Tous vos Koras, Frappez les Balafons]]"}}<br/>{{small|"Everyone strum your [[Kora (instrument)|kora]]s, strike the [[balafon]]s"}}<br /><center>[[File:National Anthem of Senegal.ogg]]</center>
+| official_languages = [[French language|French]]
+| languages_type = [[Lingua franca]]
+| languages = [[Wolof language|Wolof]]
+| languages2_type = National languages
+| languages2 = {{collapsible list|bullets=y|title={{nobold|List:}}
+|[[Balanta language|Balanta]]|[[Hassaniya Arabic]]|[[Jola-Fonyi language|Jola-Fonyi]]|[[Mandinka language|Mandinka]]|[[Mandjak language|Mandjak]]|[[Mankanya language|Mankanya]]|[[Noon language|Noon]]|[[Pulaar language|Pulaar]]|[[Serer language|Serer]]|[[Soninke language|Soninke]]}}
+| ethnic_groups = {{ubl|[[Wolof people|Wolof]] (41.3%)|[[Fula people|Fula]] (17.8%)|[[Serer people|Serer]] (15.7%)|[[Mandinka people|Mandinka]] (14.0%)|[[Jola people|Jola]] (3.7%)|[[Soninke people|Soninke]] (1.1%)|Other (7.4%)}}
+| ethnic_groups_year = 
+| demonym = Senegalese
+| capital = [[Dakar]]
+| coordinates = {{Coord|14|40|N|17|25|W|type:city}}
+| largest_city = capital
+| government_type = [[Unitary state|Unitary]] {{nowrap|[[Semi-presidential system|semi-presidential republic]]}}
+| leader_title1 = [[List of Presidents of Senegal|President]]
+| leader_name1 = [[Macky Sall]]
+| leader_title2 = [[Prime Minister of Senegal|Prime Minister]]
+| leader_name2 = [[Mohammed Dionne]]
+| legislature = [[National Assembly (Senegal)|National Assembly]]
+| area_rank = 86th <!-- Area rank should match [[List of countries and dependencies by area]]-->
+| area_km2 = 196,712
+| area_sq_mi = 76,000
+| percent_water = 2.1
+| population_estimate = {{UN_Population|Senegal}}{{UN_Population|ref}}
+| population_estimate_year = {{UN_Population|Year}}
+| population_estimate_rank = 72nd
+| population_census_rank = 73rd
+| population_census = 14,668,522<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html |title=Senegal |publisher=Central Intelligence Agency |accessdate=20 October 2018}}</ref>
+| population_census_year = 2016
+| population_density_km2 = 68.7
+| population_density_sq_mi = 177.7
+| population_density_rank = 134th
+| GDP_PPP = $59.987 billion<ref name=imf2>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=52&pr.y=7&sy=2016&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=722&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=1 February 2019}}</ref>
+| GDP_PPP_rank = 112th
+| GDP_PPP_year = 2018
+| GDP_PPP_per_capita = $3,675<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 158th
+| GDP_nominal_rank = 108th
+| GDP_nominal = $24.240 billion<ref name=imf2/>
+| GDP_nominal_year = 2018
+| GDP_nominal_per_capita = $1,485<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 158th
+| sovereignty_type = [[History of Senegal|Independence]]
+| established_event1 = from [[France]]<sup>a</sup>
+| established_date1 = 4 April 1960
+| established_event2 = Withdrawal from<br/>the [[Mali Federation]]
+| established_date2 = 20 August 1960
+| Gini_year = 2011
+| Gini_change = <!--increase/decrease/steady-->
+| Gini = 40.3 <!--number only-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2 March 2011}}</ref>
+| Gini_rank = 
+| HDI = 0.505 <!--number only-->
+| HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase<!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 164th
+| currency = [[West African CFA franc]]
+| currency_code = XOF
+| country_code = 
+| time_zone = [[Greenwich Mean Time|GMT]]
+| utc_offset = +0
+| time_zone_DST = 
+| utc_offset_DST = 
+| drives_on = right
+| calling_code = [[+221]]
+| cctld = [[.sn]]
+| footnote_a = With [[French Sudan]], as the [[Mali Federation]].
+}}
+
+'''Senegal''' ({{IPAc-en|audio=En-us-Senegal.ogg|ˌ|s|ɛ|n|ᵻ|ˈ|ɡ|ɔː|l|,_|-|ˈ|ɡ|ɑː|l}};<ref>{{cite web |url=http://www.thefreedictionary.com/Senegal |title=Definition of Senegal |publisher=The Free Dictionary |accessdate=6 November 2013 }}</ref><ref>{{cite web |url=http://dictionary.reference.com/browse/Senegal |title=Define Senegal |publisher=Dictionary.com |accessdate=6 November 2013 }}</ref> {{lang-fr|link=no|Sénégal}}), officially the '''Republic of Senegal''' ({{lang-fr|link=no|République du Sénégal}}), is a country in [[West Africa]]. Senegal is bordered by [[Mauritania]] in the north, [[Mali]] to the east, [[Guinea]] to the southeast, and [[Guinea-Bissau]] to the southwest. Senegal also borders [[The Gambia]], a country occupying a narrow sliver of land along the banks of the [[Gambia River]], which separates Senegal's southern region of [[Casamance]] from the rest of the country. Senegal also shares a maritime border with [[Cape Verde]]. Senegal's economic and political capital is [[Dakar]].
+
+The [[Unitary state|unitary]] [[Semi-presidential system|semi-presidential republic]]  is the westernmost country in the mainland of the [[Old World]], or [[Afro-Eurasia]],<ref>Janet H. Gritzner, Charles F. Gritzner – 2009, Senegal – Page 8</ref> and owes its name to the [[Senegal River]], which borders it to the east and north. Senegal covers a land area of almost {{convert|197000|km2}} and has an estimated population of about {{#expr:{{replace|{{UN_Population|Senegal}}|,||}}/1e6 round 0}} million.{{UN_Population|ref}} The climate is typically [[Sahel]]ian, though there is a [[Wet season|rainy season]].
+
+== Etymology ==
+Probably from a [[Portuguese language|Portuguese]] transliteration of the name of the [[Zenaga language|Zenaga]] also known as the [[Sanhaja]],<ref name=fas>{{Cite web|url=https://theculturetrip.com/africa/senegal/articles/the-real-story-behind-senegals-name/|title=The Real Story Behind Senegal’s Name|first=Beetle|last=Holloway|website=Culture Trip}}</ref> or a combination of the supreme deity in {{w|Serer religion}} (''Rog Sene'') and ''o gal'' meaning ''body of water'' in the [[Serer language]]. Alternatively, the name could derive from the [[Wolof language|Wolof]] phrase "Sunuu Gaal," which means "our boat."
+
+== Cultures and influences ==
+{{refimprove section|date=January 2019}}
+The territory of modern Senegal has been inhabited by various ethnic groups since [[prehistory]]. Organized kingdoms emerged around the seventh century, and parts of the country were ruled by prominent regional empires such as the [[Jolof Empire]]. The present state of Senegal has its roots in European colonialism, which began during the mid-15th century, when various European powers began competing for trade in the area. The establishment of coastal trading posts gradually led to control of the mainland, culminating in French rule of the area by the 19th century, albeit amid much local resistance. Senegal peacefully attained independence from France in 1960, and has since been among the more politically stable countries in Africa.
+
+Senegal's economy is centered mostly on commodities and natural resources. Major industries are fish processing, [[phosphate]] mining, fertilizer production, [[petroleum]] refining, construction materials, and ship construction and repair. As in most African nations, agriculture is a major sector, with Senegal producing several important cash crops, including [[peanut]]s, [[sugarcane]], [[cotton]], [[green bean]]s, [[tomato]]es, [[melon]]s, and [[mango]]es.<ref name=fas/> Owing to its relative stability, tourism and hospitality are also burgeoning sectors.
+
+With it being a multiethnic and secular nation, Senegal is predominantly [[Sunni Islam|Sunni Muslim]] with [[Sufism|Sufi]] and [[traditional African religion|animist]] influences. French is the [[official language]], although many native languages are spoken and recognized. Since April 2012, Senegal's president has been [[Macky Sall]]. Senegal has been a member of the [[Organisation internationale de la Francophonie]] since 1970.
+
+==History==
+{{main|History of Senegal}}
+
+===Early and pre-colonial eras===
+Archaeological findings throughout the area indicate that Senegal was inhabited in prehistoric times and has been continuously occupied by various ethnic groups. Some kingdoms were created around the 7th century: [[Takrur]] in the 9th century, {{ILL|Namandiru|wo}} and the [[Jolof Empire]] during the 13th and 14th centuries. Eastern Senegal was once part of the [[Ghana Empire]].
+
+Islam was introduced through [[Toucouleur people|Toucouleur]] and [[Soninke people|Soninke]] contact with the [[Almoravid dynasty]] of the [[Maghreb]], who in turn propagated it with the help of the Almoravids, and Toucouleur allies. This movement faced resistance from ethnicities of traditional religions, the Serers in particular.<ref>Klein, Martin A., ''Islam and Imperialism in Senegal: Sine-Saloum, 1847–1914'', p. 7, Edinburgh University Press (1968) {{ISBN|0-8047-0621-2}}</ref><ref>[[Henry Gravrand|Gravrand, Henry]], ''La civilisation Sereer, Pangool,'' p. 13. Dakar, Nouvelles Editions Africaines (1990), {{ISBN|2-7236-1055-1}}</ref>
+
+In the 13th and 14th centuries, the area came under the influence of the empires to the east; the Jolof Empire of Senegal was also founded during this time. In the Senegambia region, between 1300 and 1900, close to one-third of the population was [[Slavery in Africa|enslaved]], typically as a result of captives taken in warfare.<ref>[http://www.britannica.com/blackhistory/article-24157 "Slavery"], ''Encyclopædia Britannica's Guide to Black History'' {{webarchive |url=https://web.archive.org/web/20141006131931/http://www.britannica.com/blackhistory/article-24157 |date=6 October 2014 }}</ref>
+
+In the 14th century the Jolof Empire grew more powerful, having united [[Cayor]] and the kingdoms of [[Baol]], [[Kingdom of Sine|Sine]], [[Saloum]], [[Waalo]], [[Futa Tooro]] and [[Bambouk]], or much of present-day West Africa. The empire was a voluntary confederacy of various states rather than an empire built on military conquest.<ref name=charles/><ref>Ham, Anthony. ''West Africa.'' Lonely Planet. 2009. p. 670. {{ISBN|1-74104-821-4}}</ref> The empire was founded by Ndiadiane Ndiaye, a part [[Serer people|Serer]]<ref>''Research in African literatures,'' Volume 37. University of Texas at Austin, p. 8. African and Afro-American Studies and Research Center, University of Texas (at Austin) (2006)</ref><ref>[[Cheikh Anta Diop|Diop, Cheikh Anta]] & Modum, Egbuna P. ''Towards the African renaissance: essays in African culture & development,'' 1946–1960, p. 28. Karnak House (1996). {{ISBN|0-907015-85-9}}</ref> and part [[Toucouleur people|Toucouleur]], who was able to form a coalition with many ethnicities, but collapsed around 1549 with the defeat and killing of Lele Fouli Fak by {{ILL|Amari Ngone Sobel Fall|fr}}.
+
+===Colonial era===
+{{Main|Senegambia (Dutch West India Company)|French conquest of Senegal}}
+
+In the mid-15th century, the Portuguese landed on the Senegal coastline, followed by traders representing other countries, including the French.<ref name="ross"/> Various European powers—Portugal, the Netherlands, and Great Britain—competed for trade in the area from the 15th century onward. In 1677, France gained control of what had become a minor departure point in the [[Atlantic slave trade]]—the island of [[Gorée]] next to modern Dakar, used as a base to purchase slaves from the warring chiefdoms on the mainland.<ref name="h-net.org">{{cite web|url=http://www.h-net.org/~africa/threads/goree.html |title="Goree and the Atlantic Slave Trade", Philip Curtin, History Net, accessed 9 July 2008 |publisher=H-net.org |accessdate=20 June 2010}}</ref><ref>''Les Guides Bleus: Afrique de l'Ouest''(1958 ed.), p. 123</ref>
+
+[[File:Marchands d'esclaves de Gorée-Jacques Grasset de Saint-Sauveur mg 8526.jpg|thumb|upright|Slave traders in [[Gorée]], 18th century]]
+European missionaries introduced Christianity to Senegal and the [[Casamance]] in the 19th century. It was only in the 1850s that the French began to expand onto the Senegalese mainland after they abolished slavery and began promoting an [[Abolitionism in France|abolitionist]] doctrine,<ref>"[http://www.ohio.edu/chastain/rz/senegal.htm Senegal in 1848]" by Bruce Vandervort.</ref> adding native kingdoms like the Waalo, Cayor, Baol, and Jolof Empire. French colonists progressively invaded and took over all the kingdoms except Sine and Saloum under Governor [[Louis Faidherbe]].<ref name=charles>Charles, Eunice A. '' Precolonial Senegal: the Jolof Kingdom, 1800–1890.'' African Studies Center, Boston University, 1977. p. 3</ref><ref>Klein, Martin A. ''Islam and Imperialism in Senegal: Sine-Saloum, 1847–1914,'' Edinburgh University Press (1968). p. X {{ISBN|0-8047-0621-2}}</ref> [[Yoro Dyao]] was in command of the canton of Foss-Galodjina and was set over Wâlo (Ouâlo) by [[Louis Faidherbe]],<ref name="Royal II">{{cite book |title=Journal of the African Society |date=1912 |publisher=MacMillan |location=Africa |edition=Volume 11 |url=https://books.google.com/books?id=LUs8AAAAIAAJ&pg=PA476|page=476}}</ref> where he served as a chief from 1861 to 1914.<ref name="Wolof">{{cite book |title=1851–1865 |publisher=University of Wisconsin-Madison Libraries |page=167 |url=http://images.library.wisc.edu/AfricanStudies/EFacs/Fage01/reference/africanstudies.fage01.i0021.pdf}}</ref> Senegalese resistance to the French expansion and curtailing of their lucrative slave trade was led in part by [[Lat-Dior]], [[Damel]] of Cayor, and [[Maad a Sinig Kumba Ndoffene Famak Joof]], the [[Maad a Sinig]] of Sine, resulting in the [[Battle of Logandème]].
+
+===Independence (1960)===
+On 4 April 1959 Senegal and the [[French Sudan]] merged to form the [[Mali Federation]], which became fully independent on 20 June 1960, as a result of a transfer of power agreement signed with France on 4 April 1960. Due to internal political difficulties, the Federation broke up on 20 August, when Senegal and French Sudan (renamed the Republic of [[Mali]]) each proclaimed independence.
+
+[[Léopold Sédar Senghor]] was Senegal's first president in September 1960. Senghor was a very well-read man, educated in France. He was a poet and philosopher who personally drafted the Senegalese national anthem, "Pincez tous vos koras, frappez les balafons". Pro-African, he advocated a brand of African socialism.<ref>''A Critical bibliography of French literature: in three parts. The Twentieth.'' Edited by David Clark Cabeen, Richard A. Brooks, Douglas W. Alden</ref>
+
+[[File:Colonial Saint Louis.jpg|thumb|Colonial [[Saint-Louis, Senegal|Saint Louis]] c. 1900. Europeans and Africans on the Rue Lebon.]] 
+In 1980, President Senghor decided to retire from politics. The next year, he transferred power in 1981 to his hand-picked successor, [[Abdou Diouf]]. Former prime minister [[Mamadou Dia]], who was Senghor's rival, ran for election in 1983 against Diouf, but lost. Senghor moved to France, where he died at the age of 96.
+
+In the 1980s, [[Boubacar Lam]] discovered Senegalese oral history that was initially compiled by the [[Toucouleur people|Tuculor]] noble, [[Yoro Dyâo]], not long after [[World War I]], which documented migrations into [[West Africa]] from the [[Nile Valley]]; ethnic groups, from the [[Senegal River]] to the [[Niger Delta]], retained traditions of having an eastern origin.<ref name="AfrAm">{{cite book |last1=Gordon |first1=Jane |title=A Companion to African-American Studies |date=15 April 2008 |publisher=John Wiley & Sons |page=463 |url=https://books.google.com/books?id=ODmpx1fgJNIC&pg=PA463|isbn=978-1-4051-5466-6}}</ref>
+
+Senegal joined with [[the Gambia]] to form the nominal [[Senegambia Confederation]] on 1 February 1982. However, the union was dissolved in 1989. Despite peace talks, a southern separatist group ([[Movement of Democratic Forces of Casamance]] or MFDC) in the [[Casamance]] region has clashed sporadically with government forces since 1982 in the [[Casamance conflict]]. In the early 21st century, violence has subsided and President [[Macky Sall]] held talks with rebels in Rome in December 2012.<ref>[http://www.ucdp.uu.se/gpdatabase/gpcountry.php?id=135&regionSelect=2-Southern_Africa# "[[Uppsala Conflict Data Program]]: Senegal: Casamance, In-depth Developments since 2005"], ''Conflict Encyclopedia''</ref>
+
+Abdou Diouf was president between 1981 and 2000. He encouraged broader political participation, reduced government involvement in the economy, and widened Senegal's diplomatic engagements, particularly with other developing nations. Domestic politics on occasion spilled over into street violence, border tensions, and a violent separatist movement in the southern region of the Casamance. Nevertheless, Senegal's commitment to democracy and human rights strengthened. Abdou Diouf served four terms as president.
+
+In the presidential election of 1999, opposition leader [[Abdoulaye Wade]] defeated Diouf in an election deemed free and fair by international observers. Senegal experienced its second peaceful transition of power, and its first from one political party to another. On 30 December 2004 President Wade announced that he would sign a peace treaty with the separatist group in the Casamance region. This, however, has yet to be implemented. There was a round of talks in 2005, but the results have not yet yielded a resolution.
+
+==Politics==
+[[File:Macky Sall - 2008.jpg|thumb|upright|[[Macky Sall]], President of Senegal (2012–present)]]
+[[File:Abdoulaye Wade in 16-05-2007.jpg|thumb|upright|[[Abdoulaye Wade]], President of Senegal (2000–2012)]]
+
+Senegal is a [[republic]] with a presidency; the president is [[Elections in Senegal|elected]] every five years as of 2001, previously being seven years, by adult voters. The first president, [[Léopold Sédar Senghor]], was a poet and writer, and was the first African elected to the ''Académie française''. Senegal's second president, [[Abdou Diouf]], later served as general secretary of the ''Organisation de la Francophonie''. The third president was [[Abdoulaye Wade]], a lawyer. The current president is [[Macky Sall]], elected in March 2012.
+
+Senegal has more than 80 political parties. The [[unicameral]] parliament consists of the [[National Assembly of Senegal|National Assembly]], which has 150&nbsp;seats (a [[Senate (Senegal)|Senate]] was in place from 1999 to 2001 and 2007 to 2012).<ref name=cia>{{cite web |author=Central Intelligence Agency |authorlink=CIA |work=[[The World Factbook]]|title=Senegal |url=https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html |year=2009|accessdate=12 October 2015}}</ref> An independent judiciary also exists in Senegal. The nation's highest courts that deal with business issues are the constitutional council and the court of justice, members of which are named by the president.
+
+===Political culture===
+Currently, Senegal has a quasi-democratic political culture, one of the more successful post-colonial democratic transitions in Africa. Local administrators are appointed and held accountable by the president. [[Marabout]]s, religious leaders of the various [[Muslim brotherhoods of Senegal]], have also exercised a strong political influence in the country especially during Wade's presidency. In 2009, [[Freedom House]] downgraded Senegal's status from "Free" to "Partially Free", based on increased centralisation of power in the executive. However, it has since recovered its Free status by 2014.<ref>{{cite web|url=http://www.freedomhouse.org/report/freedom-world/2014/senegal-0#.VEWVY_nF-So|title=Senegal - Country report - Freedom in the World - 2014|website=Freedomhouse.org|accessdate=23 August 2017}}</ref>
+
+In 2008, Senegal finished in 12th position on the [[Ibrahim Index of African Governance]].<ref name="ibrahim_index">{{cite web|url=http://www.moibrahimfoundation.org/en/section/the-ibrahim-index |title=The Ibrahim Index » Mo Ibrahim Foundation |publisher=Moibrahimfoundation.org |accessdate=3 January 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20111229141051/http://www.moibrahimfoundation.org/en/section/the-ibrahim-index |archivedate=29 December 2011 }}</ref> The Ibrahim Index is a comprehensive measure of African governance (limited to [[sub-Saharan Africa]] until 2008), based on a number of different variables which reflect the success with which governments deliver essential political goods to their citizens. When the Northern African countries were added to the index in 2009, Senegal's 2008 position was retroactively downgraded to 15th place (with Tunisia, Egypt and Morocco placing themselves ahead of Senegal). {{As of|2012}}, Senegal's rank in the Ibrahim Index has decreased another point to 16 out of 52 African countries.
+
+On 22 February 2011, Senegal reportedly severed diplomatic ties with [[Iran]], saying it supplied rebels with weapons which killed Senegalese troops in the [[Casamance conflict]].<ref>{{cite news|url=http://www.aljazeera.com/news/africa/2011/02/201122392022223897.html |title=Senegal severs ties with Iran: Senegal's foreign ministry accuses Tehran of supplying weapons to separatist rebels in its southern Casamance region|date=23 February 2011|publisher=Al Jazeera}}</ref>
+
+The [[Senegalese presidential election, 2012|2012 presidential election]] was controversial due to President Wade's candidacy, as the opposition argued he should not be considered eligible to run again. Several youth opposition movements, including M23 and [[Y'en a Marre]], emerged in June 2011. In the end, Macky Sall of the [[Alliance for the Republic (Senegal)|Alliance for the Republic]] won, and Wade conceded the election to Sall. This peaceful and democratic transition was hailed by many foreign observers, such as the [[European Union|EU]]<ref>{{cite web |url=http://world.myjoyonline.com/pages/africa/201203/83756.php |title=Macky Sall Senegal election win 'example for Africa' &#124; Africa |publisher=World.myjoyonline.com |date=26 August 2012 |accessdate=25 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130509000049/http://world.myjoyonline.com/pages/africa/201203/83756.php |archivedate=9 May 2013  }}</ref> as a show of "maturity".
+
+On 19 September 2012, lawmakers voted to do away with the Senate to save an estimated $15 million.<ref>{{cite news|title=SENEGAL VOTES TO DO AWAY WITH SENATE TO SAVE MONEY|url=http://bigstory.ap.org/article/senegal-votes-do-away-senate-save-money|agency=Associated Press|accessdate=20 September 2012}}</ref>
+
+===Administrative divisions===
+[[File:Senegal, administrative divisions in colour 2.svg|thumb|upright=2.05|Regions of Senegal]]
+{{Main|Regions of Senegal|Departments of Senegal|Arrondissements of Senegal|Communes of Senegal}}
+
+Senegal is subdivided into 14 regions,<ref>[http://www.statoids.com/usn.html Statoids page on Senegal] (noting that three new regions were split off on 10 September 2008).</ref> each administered by a ''Conseil Régional'' (Regional Council) elected by population weight at the ''Arrondissement'' level. The country is further subdivided by 45 ''Départements'', 113 ''Arrondissements'' (neither of which have administrative function) and by ''Collectivités Locales'', which elect administrative officers.<ref>[http://www.uael.sn/article.php3?id_article=32 List of current local elected officials] {{webarchive|url=https://web.archive.org/web/20070819053719/http://www.uael.sn/article.php3?id_article=32 |date=19 August 2007 }} from Union des ''Associations d' Elus Locaux (UAEL) du Sénégal''. See also the law creating current local government structures: {{fr icon}} [http://www.demarches.gouv.sn/collectivites-locales/pdf/code-collec-locales-sen.pdf Code des collectivités locales], Loi n° 96-06 du 22 mars 1996.</ref>
+
+Regional capitals have the same name as their respective regions:
+{{Div col}}
+* [[Dakar Region|Dakar]]
+* [[Diourbel Region|Diourbel]]
+* [[Fatick Region|Fatick]]
+* [[Kaffrine Region|Kaffrine]]
+* [[Kaolack Region|Kaolack]]
+* [[Kédougou Region|Kédougou]]
+* [[Kolda Region|Kolda]]
+* [[Louga Region|Louga]]
+* [[Matam Region|Matam]]
+* [[Saint-Louis Region|Saint-Louis]]
+* [[Sédhiou Region|Sédhiou]]
+* [[Tambacounda Region|Tambacounda]]
+* [[Thiès Region|Thiès]]
+* [[Ziguinchor Region|Ziguinchor]]
+{{Div col end}}
+
+===Foreign relations===
+{{Further|Foreign relations of Senegal}}
+
+Senegal has a high profile in many international organizations and was a member of the [[UN Security Council]] in 1988–89 and 2015–2016. It was elected to the [[UN Commission on Human Rights]] in 1997. Friendly to the West, especially to France and to the [[United States]], Senegal also is a vigorous proponent of more assistance from developed countries to the [[Third World]].
+
+Senegal enjoys mostly cordial relations with its neighbors. In spite of clear progress on other fronts with [[Mauritania]] (border security, resource management, economic integration, etc.), an estimated 35,000 Mauritanian refugees (of the estimated 40,000 who were expelled from their home country in 1989) remain in Senegal.<ref>{{cite news|url=https://www.aljazeera.com/video/africa/2014/05/mauritanian-refugees-refuse-leave-senegal-20145872721336117.html|title=Mauritanian refugees refuse to leave Senegal|date=8 May 2014|publisher=Al Jazeera}}</ref>
+
+Senegal is part of the [[Economic Community of West African States]] (ECOWAS). Integrated with the main bodies of the international community, Senegal is also a member of the [[African Union]] (AU) and the [[Community of Sahel-Saharan States]].
+
+===Military===
+[[File:Landmine warning sign near Ziguinchor, Senegal.jpg|thumb|Land mines were widely used in the [[Casamance conflict]] between separatist rebels and the central government.]]
+The Senegalese armed forces consist of about 19,000 personnel in the army, [[Senegalese Air Force|air force]], navy, and gendarmerie. The Senegalese military force receives most of its training, equipment, and support from France and the United States. Germany also provides support but on a smaller scale.
+
+Military noninterference in political affairs has contributed to Senegal's stability since independence. Senegal has participated in many international and regional peacekeeping missions. Most recently, in 2000, Senegal sent a battalion to the [[Democratic Republic of Congo]] to participate in [[MONUC]], the [[United Nations]] peacekeeping mission, and agreed to deploy a United States-trained battalion to [[Sierra Leone]] to participate in [[UNAMSIL]], another UN peacekeeping mission.
+
+In 2015, Senegal participated in the Saudi Arabian-led [[Saudi Arabian-led intervention in Yemen|military intervention in Yemen]] against the [[Shia Islam|Shia]] [[Houthis]].<ref>{{cite news|title=Senegal to send 2,100 troops to join Saudi-led alliance|url=https://www.reuters.com/article/2015/05/04/us-yemen-saudi-senegal-idUSKBN0NP1N920150504|date=4 May 2015|agency=Reuters}}</ref>
+
+===Law===
+Senegal is a secular state, as defined in its [[Constitution of Senegal|Constitution]].<ref name="Constitution of Senegal">{{cite web|url=http://www.wipo.int/edocs/lexdocs/laws/en/sn/sn014en.pdf|title=Constitution of Senegal (Article 1)|accessdate=4 August 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150930153624/http://www.wipo.int/edocs/lexdocs/laws/en/sn/sn014en.pdf|archivedate=30 September 2015}}</ref>
+
+To fight corruption, the government has created the National Anti-Corruption Office (OFNAC) and the Commission of Restitution and Recovery of Illegally Acquired Assets. According to Business Anti-Corruption Portal, President Sall created the OFNAC to replace the Commission Nationale de Lutte Contre la non Transparence, la Corruption et la Concussion (CNLCC). It is said that the OFNAC represents a more effective tool for fighting corruption than the CNLCC established under former President Wade.<ref>{{cite web|title=Public Anti-Corruption Initiatives|url=http://www.business-anti-corruption.com/country-profiles/sub-saharan-africa/senegal/show-all.aspx|publisher=Business Anti-Corruption Portal|accessdate=27 March 2014}}</ref> The mission of OFNAC is to fight corruption, embezzlement of public funds and fraud. OFNAC has the power of self-referral (own initiative investigation). OFNAC is composed of twelve members appointed by decree.
+
+[[LGBT rights in Senegal|Homosexuality]] is illegal in Senegal.<ref>{{cite web|url=https://www.washingtonpost.com/news/worldviews/wp/2016/06/13/here-are-the-10-countries-where-homosexuality-may-be-punished-by-death-2/|title=Here are the 10 countries where homosexuality may be punished by death|last=Bearak|first=Max|last2=Cameron|first2=Darla|date=16 June 2016|work=The Washington Post}}</ref> According to 2013 survey by the [[Pew Research Center]], 96% of Senegalese believe that homosexuality should not be accepted by society.<ref name="pewglobal.org">[http://www.pewglobal.org/2013/06/04/the-global-divide-on-homosexuality/ "The Global Divide on Homosexuality."] ''pewglobal''. 4 June 2013. 4 June 2013.</ref>
+
+==Geography==
+{{Main|Geography of Senegal}}
+[[File:Senegal map of Köppen climate classification.svg|thumb|Senegal map of Köppen climate classification]]
+[[File:Casamance landscape.jpg|thumb|Landscape of [[Casamance]]]]
+Senegal is located on the west of the African continent. It lies between latitudes [[12th parallel north|12°]] and [[17th parallel north|17°N]], and longitudes [[11th meridian west|11°]] and [[18th meridian west|18°W]].
+
+Senegal is externally bounded by the [[Atlantic Ocean]] to the west, [[Mauritania]] to the north, [[Mali]] to the east, and [[Guinea]] and [[Guinea-Bissau]] to the south; internally it almost completely surrounds [[The Gambia]], namely on the north, east and south, except for Gambia's short Atlantic coastline.
+
+The Senegalese landscape consists mainly of the rolling sandy plains of the western [[Sahel]] which rise to foothills in the southeast. Here is also found Senegal's highest point, an otherwise unnamed feature 2.7&nbsp;km southeast of [[Nepen Diakha]] at {{convert|648|m|ft|0|abbr=on}}.<ref>{{cite web|url= http://www.peakbagger.com/peak.aspx?pid=11080|title=Senegal High Point|publisher=[[SRTM]]}}</ref>  The northern border is formed by the [[Senegal River]]; other rivers include the [[Gambia River|Gambia]] and [[Casamance River]]s. The capital Dakar lies on the [[Cap-Vert]] peninsula, the westernmost point of continental Africa.
+
+The [[Cape Verde]] islands lie some {{convert|560|km}} off the Senegalese coast, but Cap-Vert ("Cape Green") is a maritime placemark, set at the foot of "Les Mammelles", a {{convert|105|m|ft|0|adj=on}} cliff resting at one end of the Cap-Vert peninsula onto which is settled Senegal's capital Dakar, and {{convert|1|km|mi|1}} south of the "Pointe des Almadies", the westernmost point in Africa.
+
+===Climate===
+{{Main|Climate of Senegal}}
+[[File:Ngor Beach.jpg|thumb|Beach at N'Gor]]
+Senegal has a [[tropical climate]] with pleasant heat throughout the year with well-defined dry and humid seasons that result from northeast winter winds and southwest summer winds. The dry season (December to April) is dominated by hot, dry, [[harmattan]] wind.<ref name=cia/>
+Dakar's annual rainfall of about {{convert|600|mm|in|abbr=on}} occurs between June and October when maximum temperatures average {{convert|30|°C|°F|1}} and minimums {{convert|24.2|°C|°F|1}}; December to February maximum temperatures average {{convert|25.7|°C|°F|1}} and minimums {{convert|18|°C|°F|1}}.<ref>{{cite web|url=http://www.senegal.climatemps.com/|title=Dakar, Senegal Climate Information&nbsp;– ClimateTemp.info, Making Sense of Average Monthly Weather & Temperature Data with Detailed Climate Graphs That Portray Average Rainfall & Sunshine Hours |publisher=ClimaTemps.com |date=22 July 2011 |accessdate=29 March 2012}}</ref>
+
+Interior temperatures are higher than along the coast (for example, average daily temperatures in Kaolack and Tambacounda for May are {{convert|30|°C|°F|1}} and {{convert|32.7|°C|°F|1}} respectively, compared to Dakar's {{convert|23.2|°C|°F|1}} ),<ref>{{cite web|url=http://www.worldclimate.com/|title=Weather rainfall and temperature data |publisher=World Climate}}</ref> and rainfall increases substantially farther south, exceeding {{convert|1500|mm|in|1|abbr=on}} annually in some areas.
+
+In Tambacounda in the far interior, particularly on the border of Mali where desert begins, temperatures can reach as high as {{convert|54|°C|°F|1}}. The northernmost part of the country has a near [[hot desert climate]], the central part has a [[hot semi-arid climate]] and the southernmost part has a [[tropical wet and dry climate]]. Senegal is mainly a sunny and dry country.
+
+==Environment==
+{{main|environmental issues in Senegal}}
+
+==Economy==
+{{Main|Economy of Senegal}}
+[[File:Senegal Export Treemap.png|thumb|upright=1.6|A proportional representation of Senegal's exports]]
+
+After its economy contracted by 2.1% in 1993, Senegal instituted a major economic reform program with the support of international donors. This reform began with a 50 percent devaluation of the country's currency (the [[CFAF|CFA franc]]). Government price controls and subsidies were also dismantled. As a result, Senegal's inflation went down, investment went up, and the gross domestic product rose approximately 5% a year between 1995 and 2001.<ref name=cia/>
+
+The main industries include [[food processing]], [[mining]], cement, [[artificial fertilizer]], [[chemical industry|chemicals]], [[textile industry|textiles]], [[refining]] imported petroleum, and [[Tourism in Senegal|tourism]]. Exports include fish, chemicals, cotton, fabrics, [[Bambara groundnut|groundnuts]], and [[calcium phosphate]]. The principal foreign market is India with 26.7% of exports (as of 1998). Other foreign markets include the United States, Italy and the United Kingdom.
+
+[[File:20130513-DSC 8564 (8750149526).jpg|thumb|Fishing boats in Dakar]]
+Senegal has a {{convert|12|nmi|km mi|adj=on}} exclusive fishing zone that has been regularly breached in recent years ({{As of|2014|lc=y}}). It has been estimated that the country's fishermen lose 300,000 tonnes of fish each year to [[illegal fishing]]. The Senegalese government have tried to control the illegal fishing which is conducted by [[fishing trawlers]], some of which are registered in [[Russia]], [[Mauritania]], [[Belize]] and [[Ukraine]]. In January 2014, a Russian trawler, ''Oleg Naydenov'', was seized by Senegalese authorities close to the maritime border with [[Guinea-Bissau]].<ref>'Russia says factory ship was seized on Greenpeace's orders; Trawler held by Senegal over alleged illegal fishing' by John Vidal The Guardian (UK newspaper) 10 January 2014 page 23</ref>
+
+As a member of the [[West African Economic and Monetary Union]] (WAEMU), Senegal is working toward greater regional integration with a unified external [[tariff]]. Senegal is also a member of the [[OHADA|Organization for the Harmonization of Business Law in Africa]].<ref name="ohada.com">
+{{cite web
+|title = OHADA.com: The business law portal in Africa
+|url = http://www.ohada.com/index.php
+|accessdate =22 March 2009}}
+</ref>
+
+Senegal achieved full Internet connectivity in 1996, creating a mini-boom in information technology-based services. Private activity now accounts for 82 percent of its GDP. On the negative side, Senegal faces deep-seated urban problems of chronic high unemployment, [[Income disparity|socioeconomic disparity]], [[juvenile delinquency]], and drug addiction.<ref>{{cite web|url=http://www.chinadaily.com.cn/hellochina/helloSenegal2009/2009-09/01/content_8643211.htm|title=Economy of Senegal|website=www.chinadaily.com.cn|accessdate=23 August 2017}}</ref>
+
+Senegal is a major recipient of international development assistance. Donors include the [[United States Agency for International Development]] (USAID), Japan, France and China. Over 3,000 [[Peace Corps]] Volunteers have served in Senegal since 1963.<ref name="pcsenegal.org">{{cite web|url=http://www.pcsenegal.org |title=Peace Corps Senegal |publisher=Pcsenegal.org |accessdate=20 June 2010}}</ref>
+
+==Demographics==
+[[File:Senegal-demography2004.gif|thumb|upright=2.05|Senegal's population from 1962 to 2004]]
+[[File:SG popgraph 2016.png|thumb|Population pyramid 2016]]
+{{Main|Demographics of Senegal}}
+
+Senegal has a population of around {{#expr:{{replace|{{UN_Population|Senegal}}|,||}}/1e6 round 1}}&nbsp;million{{UN_Population|ref}}, about 42 percent of whom live in rural areas. Density in these areas varies from about {{convert|77|PD/km2}} in the west-central region to {{convert|2|/km2}} in the arid eastern section.
+
+===Ethnic groups===
+{{Main|Ethnic groups in Senegal}}
+
+Senegal has a wide variety of [[ethnic group]]s and, as in most West African countries, several languages are widely spoken. The [[Wolof people|Wolof]] are the largest single ethnic group in Senegal at 43 percent; the [[Fula people|Fula]]<ref>{{lang-fr|link=no|Peul}}; {{lang-ff|Fulɓe}}</ref> and [[Toucouleur people|Toucouleur]] (also known as [[Halpulaar]]'en, literally "[[Pulaar]]-speakers") (24%) are the second biggest group, followed by the [[Serer people|Serer]] (14.7%),<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html Gambia]. CIA. The World Factbook</ref> then others such as [[Jola people|Jola]] (4%), [[Mandinka people|Mandinka]] (3%), [[Moors|Maures]] or (Naarkajors), [[Soninke people|Soninke]], [[Bassari people|Bassari]] and many smaller communities (9%). (See also the [[Bedick]] ethnic group.)
+
+About 50,000 Europeans (mostly French) and [[Lebanese people in Senegal|Lebanese]]<ref>[https://web.archive.org/web/20081210055404/https://www.state.gov/r/pa/ei/bgn/2862.htm Senegal (09/08)], U. S. Department of State, archived</ref> as well as smaller numbers of Mauritanians and [[Morocco|Moroccans]]{{citation needed|date=May 2012}} reside in Senegal, mainly in the cities and some retirees who reside in the resort towns around Mbour. The majority of Lebanese work in commerce.<ref>[http://www1.voanews.com/english/news/a-13-2007-07-10-voa46.html Lebanese Immigrants Boost West African Commerce], By Naomi Schwarz, voanews.com, 10 July 2007</ref> The country experienced a wave of immigration from France in the decades between World War II and Senegalese independence; most of these French people purchased homes in Dakar or other major urban centers.<ref name=Mercier>{{cite book|last=Mercier|first=Paul|editor-last=Van den Berghe|editor-first=Pierre|title=Africa: Social Problems of Change and Conflict|date=1965|pages=285–296|publisher=Chandler Publishing Company|location=San Francisco|asin=B000Q5VP8U}}</ref> Also located primarily in urban settings are small [[Vietnamese community in Senegal|Vietnamese communities]] as well as a growing number of [[Chinese people in Senegal|Chinese immigrant traders]], each numbering perhaps a few hundred people.<ref name="VOA">{{Cite news|last=Phuong |first=Tran |title=Vietnamese Continue Traditions in Senegal |periodical=Voice of America |date=9 July 2007 |url=http://www.voanews.com/english/2007-07-09-voa19.cfm |accessdate=27 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20070711163221/http://www.voanews.com/english/2007-07-09-voa19.cfm |archivedate=11 July 2007 }}</ref><ref name="SCMP">{{Cite news|periodical=South China Morning Post|title=A troubled frontier: Chinese migrants in Senegal|date=17 January 2008|accessdate=31 March 2009|url=http://www.caitlinfitzsimmons.com/wp-content/uploads/2008/01/caitlin1.pdf|last=Fitzsimmons|first=Caitlin|deadurl=yes|archiveurl=https://web.archive.org/web/20110511162421/http://www.caitlinfitzsimmons.com/wp-content/uploads/2008/01/caitlin1.pdf|archivedate=11 May 2011}}</ref> There are also tens of thousands of [[Mauritanians in Senegal|Mauritanian refugees in Senegal]], primarily in the country's north.<ref>{{Cite news|url=http://www.unhcr.org/news/NEWS/492d41584.html|periodical=UNHCR News|title=Boost for the reintegration of Mauritanian returnees|date=26 November 2008|accessdate=12 January 2010}}</ref>
+
+According to the ''World Refugee Survey 2008'', published by the U.S. Committee for Refugees and [[Immigrants]], Senegal has a population of [[refugees]] and asylum seekers numbering approximately 23,800 in 2007. The majority of this population (20,200) is from [[Mauritania]]. Refugees live in N'dioum, Dodel, and small settlements along the [[Senegal River]] valley.<ref name="World Refugee Survey 2008">{{cite news|title=World Refugee Survey 2008 |publisher=U.S. Committee for Refugees and Immigrants |date=19 June 2008 |url=http://www.refugees.org/survey |deadurl=yes |archiveurl=https://web.archive.org/web/20100528032724/http://www.refugees.org/survey/ |archivedate=28 May 2010 }}</ref>
+
+===Languages===
+{{Main|Languages of Senegal}}French is the [[official language]], spoken at least by all those who enjoyed several years in the educational system that is of French origin (Koranic schools are even more popular, but Arabic is not widely spoken outside of the context of recitation). Most people also speak their own ethnic language while, especially in Dakar, [[Wolof language|Wolof]] is the [[lingua franca]].<ref>{{cite web|title=Wolof|author=National African Language Research Center|publisher=University of Wisconsin |location=Madison}}</ref> [[Pulaar]] is spoken by the Fulas and Toucouleur. The [[Serer language]] is widely spoken by both Serers and non-Serers (including President Sall, whose wife is Serer); so are the [[Cangin languages]], whose speakers are ethnically Serers. [[Jola languages]] are widely spoken in the [[Casamance]].
+
+Several of the Senegalese languages have the legal status of "[[national language]]s": [[Balanta-Ganja language|Balanta-Ganja]], [[Hassaniya Arabic]], [[Jola-Fonyi language|Jola-Fonyi]], [[Mandinka language|Mandinka]], [[Mandjak language|Mandjak]], [[Mankanya language|Mankanya]], [[Noon language|Noon]] (Serer-Noon), [[Pulaar language|Pulaar]], [[Serer language|Serer]], [[Soninke language|Soninke]], and [[Wolof language|Wolof]].
+
+[[Portuguese Creole]], locally known as Portuguese, is a prominent minority language in [[Ziguinchor]], regional capital of the [[Casamance]], spoken by local Portuguese creoles and immigrants from Guinea-Bissau. The local Cape Verdean community speak a similar Portuguese creole, [[Cape Verdean Creole]], and standard Portuguese. Portuguese was introduced in Senegal's secondary education in 1961 in Dakar by the country's first president, [[Léopold Sédar Senghor]]. It is currently available in most of Senegal and in higher education. It is especially prevalent in Casamance as it relates with the local cultural identity.<ref>{{cite web | url=http://www.instituto-camoes.pt/encarte/encarte98a.htm | title=A Língua Portuguesa no Senegal | date=12–25 April 2006 | accessdate=10 December 2014 | author=José Horta | publisher=Instituto Camões | deadurl=yes | archiveurl=https://web.archive.org/web/20160304000233/http://www.instituto-camoes.pt/encarte/encarte98a.htm | archivedate=4 March 2016 | df=dmy-all }}</ref>
+[[File:Dakar Roofs - Beach & Ocean (5651584098).jpg|thumb|Aerial view of Yoff Commune, Dakar]]
+
+French is the only official language in the country, but a backlash in the form of a rising Senegalese linguistic nationalist movement supports the integration of Wolof, the common vernacular language of the country, into the national constitution.<ref>{{cite web | url=http://www.slateafrique.com/21377/linguistique-senegal-est-il-encore-un-pays-francophone | title=Le Sénégal est-il encore un pays francophone? | date=19 August 2012 | accessdate=19 August 2012 | author=Pierre Cherruau}}</ref>
+
+Senegalese regions of Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies and Ziguinchor are members of the International Association of Francophone regions
+
+===Largest cities===
+{{See also|List of cities in Senegal}}
+
+Senegal's capital of Dakar is by far the largest city in Senegal, with over two million residents.<ref name="ANSD-population">{{cite web
+| url = http://www.ansd.org/SES2005.pdf
+| title = Situation économique et sociale du Sénégal
+| author=Agence Nationale de la Statistique et de la Démographie
+| publisher=Government of Senegal
+| language = French
+| format= PDF
+| year = 2005
+| accessdate =18 November 2008
+|archiveurl = https://web.archive.org/web/20080625002308/http://www.ansd.org/SES2005.pdf <!-- Bot retrieved archive --> |archivedate = 25 June 2008}}</ref> The second most populous city is [[Touba, Senegal|Touba]], a ''[[de jure]] communaute rurale'' (rural community), with half a million.<ref name="ANSD-population"/>
+
+{{Largest cities of Senegal}}
+
+===Religion===
+{{Pie chart
+|thumb = right
+|caption = Religion in Senegal (2013)<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html|title=The World Factbook — Central Intelligence Agency|website=www.cia.gov|accessdate=23 August 2017}}</ref>
+|label1 = [[Islam]]
+|value1 = 92
+|color1 = MediumSeaGreen
+|label2 = [[Christianity]] (mostly Roman Catholicism)
+|value2 = 7
+|color2 = DodgerBlue
+|label3 = [[Traditional African religion]] and others
+|value3 = 1
+|color3 = Yellow
+|label4 = [[Bahá'í Faith]] 
+|value4 = 0.2
+|color4 = Red
+}}
+{{main|Religion in Senegal}}
+
+Senegal is a secular state.<ref name="Constitution of Senegal" /> [[Islam in Senegal|Islam]] is the predominant religion in the country, practiced by approximately 92% of the country's population; the Christian community, at 7% of the population, are mostly [[Roman Catholic]]s but there are still diverse [[Protestant]] denominations. One percent have [[animism|animist]] beliefs, particularly in the southeastern region of the country.<ref name=cia/> Some [[Serer people]] follow the [[Serer religion]].<ref>Conklin, Alice L. ''A Mission to Civilize: The Republican Idea of Empire in France and West Africa, 1895–1930''. Stanford University Press, 1997. {{ISBN|0-8047-2999-9}}. p. 27.</ref><ref>Lewis, M. Paul (ed.), 2009. ''Ethnologue: Languages of the World'', Sixteenth edition. Dallas, Tex.: SIL International</ref>
+
+[[File:Touba moschee.jpg|thumb|The [[Great Mosque of Touba]]; home of the [[Mouride]] [[Sufi]] brotherhood, it is also one of the finest examples of [[Islamic architecture]] in Africa.]]
+[[File:Dakar cathedrale.jpg|thumb|The [[Dakar]] Cathedral]]
+A majority of the Muslims in Senegal are [[Sunni Islam|Sunni]] with [[Sufi]] influences. Islamic communities in Senegal are generally organized around one of several Islamic [[Sufi]] orders or brotherhoods, headed by a ''[[khalif]]'' (''xaliifa'' in [[Wolof language|Wolof]], from [[Arabic language|Arabic]] ''khalīfa''), who is usually a direct descendant of the group's founder. The two largest and most prominent Sufi orders in Senegal are the [[Tijaniyya]], whose largest sub-groups are based in the cities of [[Tivaouane]] and [[Kaolack]], and the [[Mouride|Murīdiyya (Murid)]], based in the city of [[Touba, Senegal|Touba]]. 27% are [[nondenominational Muslims]].<ref>{{cite web|url=http://www.pewforum.org/2012/08/09/the-worlds-muslims-unity-and-diversity-1-religious-affiliation/|title=Chapter 1: Religious Affiliation|date=9 August 2012|website=Pewforum.org|accessdate=23 August 2017}}</ref>
+
+The [[Halpulaar]] ([[Pulaar]]-speakers), composed of [[Fula people]], a widespread group found along the Sahel from Chad to Senegal, and ''[[Toucouleur people|Toucouleurs]]'', represent 23.8 percent of the population.<ref name=cia/> Historically, they were the first to become Muslim. Many of the ''Toucouleurs'', or sedentary Halpulaar of the Senegal River Valley in the north, converted to Islam around a millennium ago and later contributed to Islam's propagation throughout Senegal. Success was gained among the Wolofs, but repulsed by the Serers.
+
+Most communities south of the Senegal River Valley, however, were not thoroughly [[Islamization|Islamized]]. The Serer people stood out as one of this group, who spent over one thousand years resisting Islamization (see [[Serer history (medieval era to present)|Serer history]]). Although many Serers are Christians or Muslim, their conversion to Islam in particular is very recent, who converted on their own free will rather than by force, although force had been tried centuries earlier unsuccessfully (see [[the Battle of Fandane-Thiouthioune]]).<ref>{{cite book|author1=Hans Bressers|author2=Walter A. Rosenbaum|title=Achieving Sustainable Development: The Challenge of Governance Across Social Scales|url=https://books.google.com/books?id=SvAGAeQNo7oC&pg=PA151|year=2003|publisher=Greenwood Publishing Group|isbn=978-0-275-97802-0|pages=151–}}</ref>
+
+The spread of formal Quranic school (called ''daara'' in Wolof) during the colonial period increased largely through the effort of the Tidjâniyya. In Murid communities, which place more emphasis on the work ethic than on literary Quranic studies, the term ''daara'' often applies to work groups devoted to working for a religious leader. Other Islamic groups include the much older Qādiriyya order and the Senegalese [[Layene|Laayeen]] order, which is prominent among the coastal Lebu. Today, most Senegalese children study at ''daara''s for several years, memorizing as much of the Qur'an as they can. Some of them continue their religious studies at councils (''majlis'') or at the growing number of private Arabic schools and publicly funded Franco-Arabic schools.
+
+Small Roman Catholic communities are mainly found in coastal Serer, [[Jola people|Jola]], [[Mankanya people|Mankanya]] and Balant populations, and in eastern Senegal among the Bassari and Coniagui. The Protestant churches are mainly attended by immigrants but during the second half of the 20th century Protestant churches led by Senegalese leaders from different ethnic groups have evolved. In Dakar Catholic and Protestant rites are practiced by the Lebanese, Cape Verdean, European, and American immigrant populations, and among certain Africans of other countries as well as by the Senegalese themselves. Although Islam is Senegal's majority religion, Senegal's first president, [[Léopold Sédar Senghor]], was a Catholic Serer.
+
+[[Serer religion]] encompasses a belief in a supreme deity called [[Roog]] ([[Koox]] among the [[Cangin languages|Cangin]]), [[Serer creation myth|Serer cosmogony]], [[Religious cosmology|cosmology]] and [[divination]] ceremonies such as the annual ''Xoy'' (or ''Khoye'') ceremony precided over by the Serer [[Saltigue]]s (high priests and priestesses). [[Senegambia]]n (both Senegal and [[the Gambia]]) Muslim festivals such as ''Tobaski'', ''Gamo'', ''Koriteh'', ''Weri Kor'', etc., [[Serer religion#Influence in Senegambia|are all borrowed words from the Serer religion]].<ref name="N.Diouf"/> They were ancient Serer festivals rooted in Serer religion, not Islam.<ref name="N.Diouf">Diouf, Niokhobaye, « Chronique du royaume du Sine, suivie de Notes sur les traditions orales et les sources écrites concernant le [[Kingdom of Sine|royaume du Sine]] par Charles Becker et Victor Martin (1972)», . (1972). Bulletin de l'IFAN, tome 34, série B, no 4, 1972, pp. 706–7 (pp. 4–5), pp. 713–14 (pp. 9–10)</ref>
+
+The [[Boukout]] is one of the Jola's religious ceremonies.
+
+There are small numbers of adherents of [[Judaism]] and [[Buddhism]]. Judaism is followed by members of several ethnic groups, {{who|date=October 2011}} while Buddhism is followed by a number of Vietnamese. {{Citation needed|date=October 2011}} The [[Bahá'í Faith in Senegal]] was established after [['Abdu'l-Bahá]], the son of the founder of the religion, mentioned Africa as a place that should be more broadly visited by Bahá'ís.<ref name="ToDP8">{{cite book |author='Abdu'l-Bahá |authorlink =Abdu'l-Bahá |year = 1991 |title = Tablets of the Divine Plan |edition = Paperback |publisher=Bahá'í Publishing Trust |location = Wilmette, IL |isbn = 0-87743-233-3 |url =http://reference.bahai.org/en/t/ab/TDP/tdp-8.html.iso8859-1|pages = 47–59 |origyear = 1916–17}}</ref> The first Bahá'is to set foot in the territory of [[French West Africa]] that would become Senegal arrived in 1953.<ref name="hassal-egypt">{{cite web|last = Hassall|first = Graham|title = Egypt: Baha'i history|work=Asia Pacific Bahá'í Studies: Bahá'í Communities by country|publisher=Bahá'í Online Library|date = c. 2000| url = http://bahai-library.com/asia-pacific/country%20files/egypt.htm|accessdate =24 May 2009}}</ref> The first Bahá'í [[Local Spiritual Assembly]] of Senegal was elected in 1966 in [[Dakar]].<ref name="50th">{{Cite news|last = Bahá'í International Community|author-link = Bahá'í International Community|title = National communities celebrate together|newspaper = Bahá'í International News Service|date = 28 December 2003|url = http://hfa01.news.bahai.org/story/283|deadurl = yes|archiveurl = https://archive.is/20130112122749/http://hfa01.news.bahai.org/story/283|archivedate = 12 January 2013|df = dmy-all}}</ref> In 1975 the Bahá'í community elected the first [[National Spiritual Assembly]] of Senegal. The most recent estimate, by the [[Association of Religion Data Archives]] in a 2005 report details the population of Senegalese Bahá'ís at 22,000.<ref name="WCE-05">{{cite web| title = Most Baha'i Nations (2005)|work=QuickLists > Compare Nations > Religions >|publisher=The Association of Religion Data Archives|year = 2005| url =http://www.thearda.com/QuickLists/QuickList_40c.asp|accessdate =4 July 2009}}</ref>
+
+===Health===
+{{Main|Health in Senegal}}
+Life expectancy by birth is estimated to 57.5 years.<ref name=ANSD>{{fr icon}} [http://www.ansd.sn/senegal_indicateurs.html ANSD] {{webarchive|url=https://web.archive.org/web/20120117060113/http://www.ansd.sn/senegal_indicateurs.html |date=17 January 2012 }} Retrieved 10 December 2013.</ref> Public expenditure on health was at 2.4 percent of the GDP in 2004, whereas private expenditure was at 3.5 percent.<ref name="hdrstats.undp.org">{{cite web |url=http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_SEN.html |title=Human Development Report 2009&nbsp;– Senegal |publisher=Hdrstats.undp.org |accessdate=20 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100715090901/http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_SEN.html |archivedate=15 July 2010  }}</ref> Health expenditure was at US$72 (PPP) per capita in 2004.<ref name="hdrstats.undp.org"/> The fertility rate ranged 5 to 5.3 between 2005 and 2013, with 4.1 in urban areas and 6.3 in rural areas, as official survey (6.4 in 1986 and 5.7 in 1997) point out.<ref>{{cite web |url=http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/EDS-continue_2012-2013.pdf |title=Archived copy |accessdate=27 January 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131113162733/http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/EDS-continue_2012-2013.pdf |archivedate=13 November 2013  }}</ref> There were six physicians per 100,000 persons in the early 2000s (decade).<ref name="hdrstats.undp.org"/> [[Infant mortality]] was at 77 per 1,000 live births in 2005,<ref name="hdrstats.undp.org"/> but in 2013 this figure had dropped to 47 within the first 12 months after birth.<ref name="ANSD"/> In the past 5 years infant mortality rates of malaria have dropped. According to a 2013 UNICEF report,<ref name=UNICEF2013p27>[http://www.unicef.org/media/files/FGCM_Lo_res.pdf UNICEF 2013], p. 27.</ref> 26% of women in Senegal have undergone [[female genital mutilation]].
+
+===Education===
+[[File:Senegal students.jpg|thumb|Students in Senegal]]
+{{main|Education in Senegal}}
+Articles 21 and 22 of the Constitution adopted in January 2001 guarantee access to education for all children.<ref name=ilab>"Senegal". [http://www.dol.gov/ilab/media/reports/iclp/tda2005/tda2005.pdf ''2005 Findings on the Worst Forms of Child Labor'']. [[Bureau of International Labor Affairs]], [[U.S. Department of Labor]] (2006). ''This article incorporates text from this source, which is in the [[public domain]]''. {{webarchive |url=https://web.archive.org/web/20140109071239/http://www.dol.gov/ilab/media/reports/iclp/tda2005/tda2005.pdf |date=9 January 2014 }}</ref> Education is compulsory and free up to the age of 16.<ref name=ilab/> The Ministry of Labor has indicated that the public school system is unable to cope with the number of children that must enroll each year.<ref name=ilab/>
+
+[[Literacy|Illiteracy]] is high, particularly among women.<ref name="hdrstats.undp.org"/> The net primary enrollment rate was 69 percent in 2005. Public expenditure on education was 5.4 percent of the 2002–2005 GDP.
+
+==Culture==
+
+Senegal is well known for the West African tradition of storytelling, which is done by ''[[griot]]s'', who have kept West African history alive for thousands of years through words and music. The ''griot'' profession is passed down generation to generation and requires years of training and apprenticeship in genealogy, history and music. ''Griots'' give voice to generations of West African society.<ref name="ross">Eric S. Ross, Culture and Customs of Senegal, Greenwood Press, Westport, CT, 2008 {{ISBN|0-313-34036-6}}</ref>
+
+The [[African Renaissance Monument]] built in 2010 in [[Dakar]] is the [[List of statues by height|tallest statue in Africa]]. Dakar also hosts a film festival, Recidak.<ref>{{cite news|url=http://fr.africatime.com/senegal/articles/apres-dix-annees-dinterruption-les-recidak-nouvelles-arrivent-en-2014|title=Après dix années d'interruption : Les RECIDAK nouvelles arrivent en 2014|author=Baba Diop|language=fr|publisher=Africatime|accessdate=30 November 2016|archive-url=https://web.archive.org/web/20161130190636/http://fr.africatime.com/senegal/articles/apres-dix-annees-dinterruption-les-recidak-nouvelles-arrivent-en-2014|archivedate=30 November 2016|dead-url=yes}}</ref>
+
+===Cuisine===
+{{Further|Senegalese cuisine}}
+Because Senegal borders the [[Atlantic Ocean]], [[Fish as food|fish]] is very important. [[Chicken as food|Chicken]], [[Lamb and mutton|lamb]], [[pea]]s, [[Egg (food)|eggs]], and [[beef]] are also used in Senegalese cooking, but not [[pork]], due to the nation's largely [[Muslim]] population. [[Peanut]]s, the primary crop of Senegal, as well as [[couscous]], [[white rice]], [[sweet potato]]es, [[lentil]]s, [[black-eyed pea]]s and various vegetables, are also incorporated into many recipes. Meats and vegetables are typically stewed or marinated in herbs and spices, and then poured over rice or couscous, or eaten with bread.
+
+Popular fresh juices are made from [[Hibiscus|bissap]], [[ginger]], ''buy'' (pronounced 'buoy', which is the fruit of the [[Adansonia digitata|baobab]] tree, also known as "monkey bread fruit"), [[mango]], or other fruit or wild trees (most famously [[soursop]], which is called ''corossol'' in French). Desserts are very rich and sweet, combining native ingredients with the extravagance and style characteristic of the French impact on Senegal's culinary methods. They are often served with fresh fruit and are traditionally followed by [[coffee]] or [[tea]].
+
+===Music===
+{{Further|Music of Senegal}}
+[[File:Solo cissokho DSC 0448.JPG|thumb|upright|[[Kora (instrument)|Kora]] player from Senegal]]
+Senegal is known across Africa for its musical heritage, due to the popularity of [[mbalax]], which originated from the Serer [[percussion instrument|percussive]] tradition especially the [[Njuup]], it has been popularized by [[Youssou N'Dour]], [[Omar Pene]] and others. [[Sabar]] drumming is especially popular. The sabar is mostly used in special celebrations like weddings. Another instrument, the [[Talking drum|tama]], is used in more ethnic groups. Other popular international renowned Senegalese musicians are [[Ismael Lô]], [[Cheikh Lô]], [[Orchestra Baobab]], [[Baaba Maal]], [[Akon]] [[Thione Seck]], Viviane, [[Titi (singer)|Titi]] and [[Pape Diouf]].
+
+===Cinema===
+{{main|Cinema of Senegal}}
+
+===Media===
+{{main|Media of Senegal}}
+
+===Hospitality===
+Hospitality, in theory, is given such importance in Senegalese culture that it is widely considered to be part of the national identity. The Wolof<ref name="Serer Jom">The word ''taranga'' (hospitality), ''jom'' (honour), etc., are all [[Serer people|Serer]] from the [[Serer language]], rooted in Serer values and [[serer religion]], not Wolof. See: {{fr icon}} [[Henry Gravrand|Gravrand, Henry]], "L'HERITAGE SPIRITUEL SEREER: VALEUR TRADITIONNELLE D'HIER, D'AUJOURD'HUI ET DE DEMAIN" [in] Ethiopiques, numéro 31, révue socialiste de culture négro-africaine, 3e trimestre 1982 [http://ethiopiques.refer.sn/spip.php?article895]</ref> word for hospitality is "teranga" and it is so identified with the pride of Senegal that the national football team is known as the [[Senegal national football team|Lions of Teranga]].<ref name="ross"/>{{Original research inline|date=October 2011}}
+
+=== Sport ===
+[[File:MurPeint-ElHadjDiouf-Dakar-Sénégal.jpg|thumb|upright|Painting of footballer [[El Hadji Diouf]] in Dakar]]
+Senegalese play many sports. [[Wrestling]] and [[association football|football]] are the most popular sports in the country. Senegal will host the [[2022 Summer Youth Olympics]] in [[Dakar]], making Senegal the first African country to host the Olympics.<ref>{{Cite web|url=https://www.washingtonpost.com/sports/olympics/senegal-to-be-1st-african-olympic-host-at-2022-youth-games/2018/09/07/4a0d6548-b2c2-11e8-8b53-50116768e499_story.html|title=Senegal to be 1st African Olympic host at 2022 Youth Games|website=Washington Post|accessdate=10 September 2018}}</ref><ref>{{Cite web|url=https://www.aljazeera.com/news/2018/09/senegal-african-nation-host-olympic-event-180907175449927.html|title=Senegal first African nation to host an Olympic event|website=www.aljazeera.com|accessdate=10 September 2018}}</ref>
+
+====Wrestling====
+{{See also|Senegalese wrestling}}
+
+Wrestling is Senegal's most popular sport<ref>{{cite web|url=http://www.ohio.edu/sportsafrica/communicationmedia/ousmane.htm|title=Sports in Africa: Communication and Media|accessdate=3 April 2015|publisher=Ohio University}}</ref> and has become a national obsession.<ref>{{cite web|url=http://www.pri.org/stories/2011-06-09/wrestling-solution-poverty-senegal|title=Wrestling As a Solution to Poverty in Senegal|last=Skelton|first=Rose|last2=Werman|first2=Marco|date=9 June 2011|publisher=PRI|accessdate=3 April 2015}}</ref> It traditionally serves many young men to escape poverty and it is the only sport recognized as developed independently of Western culture.
+
+====Football====
+[[File:Senegal fans Russia 2018.jpg|thumb|Senegalese football fans at the [[2018 FIFA World Cup]] in Russia]]
+[[Association football|Football]] is a popular sport in Senegal. In 2002, the team finished as runners-up at the [[Africa Cup of Nations]] and became one of only three African teams to ever reach the quarter-finals of the [[FIFA World Cup]], defeating holders [[France national football team|France]] in their first game. Popular players of Senegal include [[El Hadji Diouf]], [[Khalilou Fadiga]], [[Henri Camara]], [[Papa Bouba Diop]], [[Salif Diao]], [[Kalidou Koulibaly]], [[Ferdinand Coly]], and [[Sadio Mané]]  all of whom played in Europe.
+Senegal also qualified for the 2018 FIFA World Cup in Russia, playing in Group H alongside Japan, Colombia and Poland.
+
+====Basketball====
+[[Basketball]] is also a popular sport in Senegal. The country has traditionally been one of Africa's dominant basketball powers. The [[Senegal national basketball team|men's team]] performed better than that of any other African nation at the [[2014 FIBA World Cup]], where they reached the playoffs for the first time. The [[Senegal women's national basketball team|women's team]] won 19 medals at 20 [[FIBA Africa Championship for Women|African Championships]], more than twice as many medals as any competitor.
+
+In 2016, the [[National Basketball Association|NBA]] announced the launch of an Elite's Academy in Africa, and more precisely in Senegal.<ref>{{Cite web|url=http://www.nba.com/article/2016/12/21/nba-academy-africa|title=NBA to open academy in Africa in 2017 - NBA.com|website=www.nba.com|accessdate=26 December 2016}}</ref>
+
+====Motorsport====
+The country hosted the [[Dakar Rally|Paris–Dakar rally]] from [[1979 Paris–Dakar Rally|1979]] until [[2007 Dakar Rally|2007]]. The Dakar Rally was an off-road endurance motorsport race which followed a course from Paris, France to Dakar, Senegal. The competitors used off-road vehicles to cross the difficult geography. The last race was held in 2007, before the 2008 rally was canceled a day before the event due to security concerns in [[Mauritania]].<ref>{{Cite web|url=https://www.theguardian.com/world/2008/jan/05/france.sport|title=Dakar rally cancelled at last minute over terrorist threat|last=Hamilos|first=Paul|date=4 January 2008|website=The Guardian|accessdate=10 February 2018}}</ref>
+
+==See also==
+{{portal|Senegal|Africa}}
+* [[Outline of Senegal]]
+* [[Index of Senegal-related articles]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* Babou, Cheikh Anta, ''Fighting the Greater Jihad: Amadu Bamba and the Founding of the Muridiyya of Senegal, 1853–1913'', (Ohio University Press, 2007)
+* Behrman, Lucy C, ''Muslim Brotherhood and Politics in Senegal'', (iUniverse.com, 1999)
+* Buggenhage, Beth A, ''Muslim Families in Global Senegal: Money Takes Care of Shame'', (Indiana University Press, 2012)
+* Bugul, Ken, ''The Abandoned Baobab: The Autobiography of a Senegalese Woman'', (University of Virginia Press, 2008)
+* Foley, Ellen E, ''Your Pocket is What Cures You: The Politics of Health in Senegal'', (Rutgers University Press, 2010)
+* Gellar, Sheldon, ''Democracy in Senegal: Tocquevillian Analytics in Africa'', (Palgrave Macmillan, 2005)
+* Glover, John, ''Sufism and Jihad in Modern Senegal: The Murid Order'', (University of Rochester Press, 2007)
+* Kane, Katharina, ''Lonely Planet Guide: The Gambia and Senegal'', (Lonely Planet Publications, 2009)
+* Kueniza, Michelle, ''Education and Democracy in Senegal'', (Palgrave Macmillan, 2011)
+* Mbacké, Khadim, ''Sufism and Religious Brotherhoods in Senegal'', (Markus Wiener Publishing Inc., 2005)
+* Streissguth, Thomas, ''Senegal in Pictures'', (Twentyfirst Century Books, 2009)
+* Various, ''Insight Guide: Gambia and Senegal'', (APA Publications Pte Ltd., 2009)
+* Various, ''New Perspectives on Islam in Senegal: Conversion, Migration, Wealth, Power, and Femininity'', (Palgrave Macmillan, 2009)
+* Various, ''Senegal: Essays in Statecraft'', (Codesria, 2003)
+* Various, ''Street Children in Senegal'', (GYAN France, 2006)
+{{Refend}}
+
+==External links==
+{{Sister project links|voy=Senegal}}
+* [http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1064496.stm Country Profile] from [[BBC News]]
+* {{CIA World Factbook link|sg|Senegal}}
+* {{dmoz|Regional/Africa/Senegal}}
+* {{wikiatlas|Senegal}}
+; Trade
+* [http://www.business-anti-corruption.com/country-profiles/sub-saharan-africa/senegal/business-corruption-in-senegal.aspx Senegal Corruption Profile] from the [[Business-Anti-Corruption Portal|Business Anti-Corruption Portal]]
+* [http://wits.worldbank.org/CountryProfile/Country/SEN/Year/2012/Summary Senegal 2012 Summary Trade Statistics]
+
+{{Senegal topics}}
+{{Navboxes
+| list =
+{{Countries of Africa}}
+{{African Union}}
+{{G15}}
+{{Organisation of Islamic Cooperation}}
+{{La Francophonie}}
+{{Community of Portuguese Language Countries (CPLP)}}
+}}
+{{Authority control}}
+
+[[Category:Senegal| ]]
+[[Category:Member states of the African Union]]
+[[Category:Economic Community of West African States]]
+[[Category:G15 nations]]
+[[Category:French-speaking countries and territories]]
+[[Category:Least developed countries]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the Organisation of Islamic Cooperation]]
+[[Category:Republics]]
+[[Category:States and territories established in 1960]]
+[[Category:Member states of the United Nations]]
+[[Category:West African countries]]
+[[Category:1960 establishments in Senegal]]
+[[Category:Countries in Africa]]

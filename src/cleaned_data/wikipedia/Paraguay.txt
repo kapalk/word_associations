@@ -1,0 +1,517 @@
+{{pp-move|small=yes}}
+{{about|the country}}
+{{Use dmy dates|date=October 2018}}
+{{Coord|23|S|58|W|display=title}}
+{{Infobox country
+| conventional_long_name = Republic of Paraguay
+| native_name = {{ubl|{{native name|es|República del Paraguay}}|{{native name|gn|Tetã Paraguái}}}}
+| common_name = Paraguay
+| image_flag = Flag_of_Paraguay.svg
+| flag_caption = {{nowrap|Flag{{tsp}}<small>{{#tag:ref |The reverse side of the Flag of Paraguay:<br/>[[File:Flag_of_Paraguay_(reverse).svg|100px|left]]{{-}} |group="nb"}}</small><!--(end nowrap:)-->}}
+| image_coat = Coat of arms of Paraguay.svg
+| symbol_type = {{nowrap|[[Coat of arms of Paraguay|Seal]]{{tsp}}{{#tag:ref |The reverse side of the National Seal of Paraguay:<br/>[[File:Coat of arms of Paraguay (reverse).svg|100px|left]]{{-}} |group="nb"}}<!--(end nowrap:)-->}}
+| image_map = PRY orthographic.svg
+| map_caption = {{map caption |location_color=dark green |region=[[South America]] |region_color= grey }}
+| image_map2 = Paraguay - Location Map (2012) - PRY - UNOCHA.svg
+| national_motto = {{native phrase|es|"Paz y justicia"|italics=off|nolink=on}}<br/>{{small|"Peace and justice"}}
+| national_anthem = <br/>{{native name|es|[[Paraguayan National Anthem|Himno Nacional Paraguayo]]|nolink=on}}<br/>{{small|''Paraguayan National Anthem''}}<div style="padding-top:0.5em;">[[File:Paraguayan National Anthem.oga|center]]</div>
+| languages_type = [[Official language]]s<ref name=languages>{{cite journal |url=http://www.servat.unibe.ch/icl/pa00000_.html#A140_ |title=Paraguay – Constitution, Article 140 About Languages |publisher=International Constitutional Law Project |accessdate=3 December 2007 }} (see [http://www.servat.unibe.ch/icl/pa__indx.html translator's note])</ref><ref>{{cite web |url=http://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf |title=8 LIZCANO |publisher=Convergencia.uaemex.mx |accessdate=5 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130115054959/http://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf |archivedate=15 January 2013 |df=dmy-all }}</ref>
+| official_languages = {{hlist |[[Paraguayan Spanish|Spanish]] | [[Guarani language|Guarani]]}}
+| demonym = Paraguayan<br>Guaraní (colloquial)<ref>{{cite web|url=https://books.google.com/books?id=lwGSDQAAQBAJ&pg=PA14&lpg=PA14&dq=paraguayans+refer+to+themselves+as+Guarani&source=bl&ots=pIzaOs2Dxl&sig=DOfsXm7hfsqIPBCn2qrJtOzP7Ho&hl=en&sa=X&ved=0ahUKEwjYtdrLmZjYAhVE4iYKHUXmAQEQ6AEIPzAE#v=onepage&q=paraguayans+refer+to+themselves+as+Guarani&f=false|title=Prophets of Agroforestry: Guaraní Communities and Commercial Gathering|first=Richard K.|last=Reed|date=1 May 1995|publisher=University of Texas Press|via=Google Books}}</ref>
+| ethnic_groups = {{unbulleted list
+ | 95% [[Mestizo]] 
+ | 5% Other
+}}
+| ethnic_groups_year = 2016<ref name=CIA>{{cite web |author=Central Intelligence Agency |title=Paraguay |work=The World Factbook |publisher=Central Intelligence Agency |location=Langley, Virginia |year=2016 |url=https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html |accessdate=1 January 2017}}</ref>
+| capital = [[Asunción]]
+| coordinates = {{Coord|25|16|S|57|40|W|type:city}}
+| largest_city = Asunción
+| religion_year = 2017
+| religion_ref = <ref name="Latinobarometro 2017">{{cite web|title=Latinobarómetro 1995 - 2017: El Papa Francisco y la Religión en Chile y América Latina|url=http://www.cooperativa.cl/noticias/site/artic/20180112/asocfile/20180112124342/f00006494_religion_chile_america_latina_2017.pdf|accessdate=19 January 2018|language=es|date=January 2018}}</ref>
+| religion = {{ublist |item_style=white-space:nowrap; |89% [[Roman Catholicism]] |5% [[Protestantism|Protestant]] |4% [[Irreligion|Non-religious]] |2% Other}}
+| government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Presidential system|presidential]] [[republic]]
+| leader_title1 = [[President of Paraguay|President]]
+| leader_name1 = [[Mario Abdo Benítez]]
+| leader_title2 = [[Vice President of Paraguay|Vice President]]
+| leader_name2 = [[Hugo Velázquez Moreno|Hugo Velázquez]]
+| leader_title3 = [[List of Presidents of the Senate of Paraguay|Senate President]]
+| leader_name3 = Silvio Ovelar
+| legislature = [[Congress of Paraguay|Congress]]
+| upper_house = [[Senate of Paraguay|Senate]]
+| lower_house = [[Chamber of Deputies of Paraguay|Chamber of Deputies]]
+| area_rank = 59th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2 = 406752
+| percent_water = 2.3
+| population_estimate = 7,152,703<ref name=imf2>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=56&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=288&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|work=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]]|title=Paraguay|date=9 October 2018|accessdate=9 October 2018}}</ref>
+| population_estimate_rank = 104th
+| population_estimate_year = 2019
+| population_census = 
+| population_census_year = 
+| population_density_km2 = 17.58
+| population_density_sq_mi = 39 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 210th
+| GDP_PPP = $101.075 billion<ref name=imf2>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=56&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=288&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|work=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]]|title=Paraguay|date=9 October 2018|accessdate=9 October 2018}}</ref>
+| GDP_PPP_rank = 88th
+| GDP_PPP_year = 2019
+| GDP_PPP_per_capita = $14,131<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 96th
+| GDP_nominal_year = 2019
+| GDP_nominal = $44.557 billion<ref name=imf2/>
+| GDP_nominal_rank = 94th
+| GDP_nominal_per_capita = $6,229<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 94th
+| sovereignty_type = Independence {{nobold|from [[Spain]]}}
+| established_event1 = Declared
+| established_date1 = 14 May 1811
+| established_event2 = Recognized
+| established_date2 = 25 November 1842
+| established_event3 = [[United Nations Charter|Admitted to the]] [[United Nations]]
+| established_date3 = 24 October 1945
+| Gini_year = 2016
+| Gini_change = increase <!--increase/decrease/steady-->
+| Gini = 47.9 <!--number only-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=PY |title=Gini Index |publisher=[[World Bank]] |accessdate=15 September 2018}}</ref>
+| Gini_rank = 
+| HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = steady<!--increase/decrease/steady-->
+| HDI = 0.702 <!--number only-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme}}</ref>
+| HDI_rank = 110th
+| currency = [[Paraguayan guaraní|Guaraní]]
+| currency_code = PYG
+| time_zone = [[UTC–4|PYT]]
+| utc_offset = –4
+| time_zone_DST = [[Daylight saving time in Paraguay|PYST]]
+| utc_offset_DST = –3
+| drives_on = right
+| calling_code = [[+595]]
+| cctld = [[.py]]
+| footnote_a = Mixed European and [[Amerindian]].
+}}
+
+'''Paraguay''' ({{IPAc-en|ˈ|p|ær|ə|ɡ|w|aɪ}}; {{IPA-es|paɾaˈɣwaj}}; {{lang-gn|Paraguái}}, {{IPA-gn|paɾaˈɰwaj|}}), officially the '''Republic of Paraguay''' ({{lang-es|República del Paraguay|links=no}}<!--{{IPA-es|reˈpuβlika ðel paɾaˈɣwai̯|}}-->; {{lang-gn|Tetã Paraguái|links=no}}<!--{{IPA-gn|teˈtã paɾaˈɣwaj|}}-->), is a [[country]] of [[South America]]. It is bordered by [[Argentina]] to the south and southwest, [[Brazil]] to the east and northeast, and Bolivia to the northwest. Although it is one of the only two [[landlocked country|landlocked countries]] in [[South America]] (the other is [[Bolivia]]), the country has [[coast]]s,<ref>{{cite web|url=https://www.ultimahora.com/navegacion-vela-opcion-que-se-incorpora-la-costa-paraguaya-n821419.html |title=Sailing, option incorporated in the Paraguayan coasts|language=es|access-date=2014-08-17}}</ref> [[beach]]es<ref>{{cite web|url=https://www.minube.com/tag/playas-paraguay-p160 |title=The best beaches of Paraguay|language=es|access-date=2013-03-16}}</ref> and [[ports]] on the [[Paraguay River|Paraguay]] and [[Paraná River|Paraná]] [[river]]s that give exit to the [[Atlantic Ocean]] through the [[:es:Hidrovía Paraná-Paraguay|Paraná-Paraguay Waterway]].<ref>{{cite web|url=https://www.agroindustria.gob.ar/sitio/areas/ss_mercados_agropecuarios/infraestructura/_archivos/000070_Hidrov%C3%ADas/000010_Hidrov%C3%ADa%20Paran%C3%A1%20Paraguay.pdf |title=Paraná-Paraguay Waterway|language=es|access-date=2015-10-20}}</ref> Due to its central location in South America, it is sometimes referred to as ''Corazón de Sudamérica'' ("Heart of South America").<ref>{{cite web|url=http://www.abc.com.py/edicion-impresa/locales/en-el-corazon-de-sudamerica-1220500.html |title=En el corazón de Sudamérica |publisher=ABC|accessdate=12 December 2015}}</ref>
+
+Spanish [[conquistador]]es arrived in 1524 after navigating northwards from the [[Río de la Plata]] to the [[Paraná River]], and finally up the [[Paraguay River]]. In 1537, they established the city of [[Asunción]],<ref>"Paraguay: cómo Asunción se convirtió en "madre" de más de 70 ciudades de Sudamérica hace 480 años". BBC (London, UK). Link: https://www.bbc.com/mundo/noticias-america-latina-40920828</ref> which was the first capital of the [[Governorate of the Río de la Plata|Governorate of Paraguay and Río de la Plata]]. Paraguay was the epicenter of the [[Reductions|Jesuit Missions]], where the [[Guaraní people]] were educated and introduced to [[Christianity]] and European culture under the direction of the [[Society of Jesus]] in [[Jesuit reduction]]s, mainly during the 17th century.<ref>Caraman, Philip (1976): "The lost paradise: the Jesuit Republic in South America", New York: Seabury Press.</ref> However, after the [[Suppression of the Society of Jesus|expulsion of the Jesuits]] from Spanish territories in 1767, Paraguay increasingly became a peripheral colony, with few urban centers and settlers. Following [[Independence of Paraguay|independence from Spain]] at the beginning of the 19th century, Paraguay was ruled by a series of [[Authoritarianism|authoritarian]] governments who generally implemented [[nationalist]], [[isolationism|isolationist]] and [[protectionism|protectionist]] policies. This period ended with the disastrous [[Paraguayan War]], during which Paraguay lost at least 50% of its prewar population and around 25–33% of its territory to the [[Treaty of the Triple Alliance|Triple Alliance]] of [[Argentina]], [[Brazil]] and [[Uruguay]]. In the 20th century, Paraguay faced another major international conflict – the [[Chaco War]] – against Bolivia, from which the Paraguayans emerged victorious. Afterwards, the country entered a period of military dictatorships, ending with the 35 year regime of [[Alfredo Stroessner]] that lasted until he was toppled in 1989 by an internal military coup. This marked the beginning of the "democratic era" of Paraguay.
+
+With around 7 million inhabitants, Paraguay is a founding member of [[Mercosur]], an original member of the [[United Nations]], the [[Organization of American States]], the [[Non-Aligned Movement]] and the [[Lima Group]]. Also, the city of [[Luque]], in Asuncion's Metropolitan Area, is the seat of the [[CONMEBOL]]. The Guarani culture is very influential and more than 90% of the people speak different forms of the Guarani language on top of Spanish. Paraguayans are known for being a very happy and easy-living people and many times the country topped the "world's happiest place" charts because of the "positive experiences" lived and expressed by the population.<ref>{{cite news|title=World's Happiest Country? Would You Believe Paraguay?|publisher=NBC News|date=21 May 2014|url=https://www.nbcnews.com/health/health-news/worlds-happiest-country-would-you-believe-paraguay-n110981}}</ref><ref>{{cite news|title=Global Misery Worst Since Records Began, Poll Finds|newspaper=Newsweek|date=14 September 2018|url=https://www.newsweek.com/global-misery-worst-records-began-poll-finds-1121134}}</ref>
+
+==History==
+{{Main|History of Paraguay}}
+
+=== Pre-Columbian Era ===
+The [[indigenous people|indigenous]] [[Guaraní people|Guaraní]] had been living in eastern Paraguay for at least a millennium before the arrival of the [[Spanish Empire|Spanish]]. Western Paraguay, the [[Gran Chaco]], was inhabited by nomads of whom the [[Guaycuru]] peoples were the most prominent. The Paraguay River was roughly the dividing line between the agricultural Guarani people to the east and the nomadic and semi-nomadic people to the west in the Gran Chaco. The Guarcuru nomads were known for their warrior traditions and were not fully pacified until the late 19th century. These indigenous tribes belonged to five distinct language families, which were the bases of their major divisions. Differing language speaking groups were generally competitive over resources and territories. They were further divided into tribes by speaking languages in branches of these families. Today 17 separate [[Ethnolinguistics|ethnolinguistic]] groups remain.
+
+=== Colonization ===
+The first Europeans in the area were Spanish explorers in 1516.<ref name=eec>Sacks, Richard S. "Early explorers and conquistadors". In Hanratty & Meditz.</ref> The Spanish explorer [[Juan de Salazar de Espinosa]] founded the settlement of [[Asunción]] on 15 August 1537. The city eventually became the center of a [[Spanish colonization of the Americas|Spanish colonial province of Paraguay]].
+
+An attempt to create an autonomous Christian Indian nation <ref name="cite wdl|#2581">{{cite web |url={{wdl|2581}} |title=Paraguariae Provinciae Soc. Jesu cum Adiacentibg. Novissima Descriptio |language=Latin |trans-title=A Current Description of the Province of the Society of Jesus in Paraguay with Neighboring Areas |work=World Digital Library |date=1732 }}</ref> was undertaken by [[Society of Jesus|Jesuit]] missions and settlements in this part of South America in the eighteenth century, which included portions of Uruguay, Argentina, and Brazil. They developed [[Jesuit reduction]]s to bring Guarani populations together at Spanish missions and protect them from virtual slavery by Spanish settlers and Portuguese slave raiders, the [[Bandeirantes]]. In addition to seeking their conversion to Christianity. Catholicism in Paraguay was influenced by the indigenous peoples; the [[syncretic]] religion has absorbed native elements. The ''reducciones'' flourished in eastern Paraguay for about 150 years, until the expulsion of the Jesuits by the Spanish Crown in 1767. The ruins of two 18th-century [[Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue]] have been designated as [[World Heritage Sites]] by [[UNESCO]].<ref name="cite wdl|#2581"/>
+
+In western Paraguay Spanish settlement and Christianity were strongly resisted by the nomadic Guaycuru and other nomads from the 16th century onward. Most of these peoples were absorbed into the [[mestizo]] population in the 18th and 19th centuries.
+
+=== Independence and rule of Francia===
+{{main|Independence of Paraguay}}
+[[File:José Gaspar Rodríguez de Francia.jpg|left|thumb|[[José Gaspar Rodríguez de Francia]], Paraguay's first dictator.]]
+Paraguay overthrew the local Spanish administration on 14 May 1811. Paraguay's first dictator was [[José Gaspar Rodríguez de Francia]] who ruled Paraguay from 1814 until his death in 1840, with very little outside contact or influence. He intended to create a [[utopian]] society based on the French theorist [[Jean-Jacques Rousseau]]'s [[The Social Contract|''Social Contract'']].<ref>[http://warofthepacific.com/warofthetriplealliance.htm War of The Triple Alliance] {{Webarchive|url=https://web.archive.org/web/20140807073919/http://warofthepacific.com/warofthetriplealliance.htm# |date=7 August 2014 }}, War of the Pacific. Retrieved 14 November 2010</ref>
+
+Rodríguez de Francia established new laws that greatly reduced the powers of the Catholic church (Catholicism was then an established state religion) and the cabinet, forbade colonial citizens from marrying one another and allowed them to marry only blacks, [[mulattoes]] or natives, in order to break the power of colonial-era elites and to create a [[mixed-race]] or mestizo society.<ref>{{cite news|last1=Romero|first1=Simon|title=In Paraguay, Indigenous Language With Unique Staying Power|url=https://www.nytimes.com/2012/03/12/world/americas/in-paraguay-indigenous-language-with-unique-staying-power.html|website=The New York Times|accessdate=5 October 2015}}</ref> He cut off relations between Paraguay and the rest of South America. Because of Francia's restrictions of freedom, [[Fulgencio Yegros]] and several other Independence-era leaders in 1820 planned a ''coup d’état'' against Francia, who discovered the plot and had its leaders either executed or imprisoned for life.
+
+===Rule of the López family===
+After Francia's death in 1840, Paraguay was ruled by various military officers under a new ''[[military junta|junta]]'', until [[Carlos Antonio López]] (allegedly Rodríguez de Francia's nephew) came to power in 1841. López modernized Paraguay and opened it to foreign commerce. He signed a [[non-aggression pact]] with Argentina and officially declared independence of Paraguay in 1842. After López's death in 1862, power was transferred to his eldest son, [[Francisco Solano López]].
+
+The regime of the López family was characterized by pervasive and rigid centralism in production and distribution. There was no distinction between the public and the private spheres, and the López family ruled the country as it would a large estate.<ref>[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+py0019) "Carlos Antonio López"], Library of Congress Country Studies, December 1988. URL accessed 30 December 2005.</ref>
+
+The government exerted control on all exports. The export of [[yerba mate]] and valuable wood products maintained the balance of trade between Paraguay and the outside world.<ref>{{worldhistory|section=1665|quote=Page 630}}</ref> The Paraguayan government was extremely protectionist, never accepted loans from abroad and levied high [[tariff]]s against imported foreign products. This [[protectionism]] made the society self-sufficient, and it also avoided the debt suffered by Argentina and Brazil. Slavery existed in Paraguay, although not in great numbers, until 1844, when it was legally abolished in the new Constitution.{{sfn|Cunninghame Graham|1933|p=39-40}}
+
+[[Francisco Solano López]], the son of Carlos Antonio López, replaced his father as the President-Dictator in 1862, and generally continued the political policies of his father. Both wanted to give an international image of Paraguay as "democratic and republican", but in fact, the ruling family had almost total control of all public life in the country, including Church and colleges.{{sfn|Cunninghame Graham|1933|p=41-42}}
+
+Militarily, Carlos Antonio López modernized and expanded industry and the [[Paraguayan Army]] and greatly strengthened the strategic defences of Paraguay by developing the [[Fortress of Humaitá]].<ref>Robert Cowley, ''The Reader's Encyclopedia to Military History''. New York, New York: Houston Mifflin, 1996. Page 479.</ref>  The government hired more than 200 foreign technicians, who installed [[telegraph]] lines and [[railroad]]s to aid the expanding steel, textile, paper and ink, naval construction, weapons and gunpowder industries.  The [[Ybycuí]] foundry, completed in 1850, manufactured cannons, mortars and bullets of all calibers. River warships were built in the shipyards of Asunción. Fortifications were built, especially along the [[Apa River]] and in [[Gran Chaco]].<ref name=Hooker>Hooker, T.D., 2008, The Paraguayan War, Nottingham: Foundry Books, {{ISBN|1901543153}}</ref>{{rp|22}}  The work was continued by his son Francisco Solano and in terms of socio-economic development, the country was dubbed as "the most advanced Republic in South America", notably by the British judge and politician [[Robert Phillimore|Sir Robert Phillimore]].<ref>Robert Phillimore (1860), ''A Statement of the Facts of the Controversy Between the Governments of Great Britain and Paraguay'', page 2. William Moore Printing. Washington D.C. USA.</ref>
+[[File:1864 Mitchell Map of Brazil, Bolivia and Chili - Geographicus - SouthAmericaSouth-mitchell-1864.jpg|thumbnail|right|Political map of the region, 1864]]
+According to George Thompson, C.E., Lieutenant Colonel of Engineers in the Paraguayan Army prior to and during the war, López's government was comparatively a good one for Paraguay:
+{{quote|Probably in no other country in the world has life and property been so secure as all over Paraguay during his (Antonio Lopez's) reign. Crime was almost unknown, and when committed, immediately detected and punished. The mass of the people was, perhaps, the happiest in existence. They had hardly to do any work to gain a livelihood. Each family had its house or hut in its own ground. They planted, in a few days, enough tobacco, maize and mandioca for their own consumption [...]. Having at every hut a grove of oranges [...] and also a few cows, they were almost throughout the year under little necessity [...]. The higher classes, of course, lived more in the European way...|George Thompson, C.E.{{sfn|Thompson|1869|p=10}} }}
+
+===Paraguayan War (1864–1870)===
+{{main|Paraguayan War|Paraguayan War casualties}}
+[[File:FRANCISCO SOLANO LOPEZ (From a Photograph taken in 1859).jpg|thumb|[[Francisco Solano López]]]]
+On 12 October 1864, despite Paraguayan ultimatums, the [[Empire of Brazil|Brazilian Empire]] (sided with the Argentine Government under Gen. [[Bartolomé Mitre]] and the rebellious [[Colorado Party (Uruguay)|Uruguayan colorados]] led by Gen. [[Venancio Flores]]) invaded the Republic of Uruguay in order to overthrow the Government of that time (which was under the rule of the [[National Party (Uruguay)|Blanco Party]], an ally of López)<ref>The Blanco Party of Uruguay, hardline right wing and reactionary at those days, was in the Uruguayan Government during the outbreak of the war and were allies of the Paraguayan Government. See the classic book of the Blanco Leader Luis Alberto de Herrera (1927): "El Drama del 65 - La Culpa Mitrista", pp. 11 - 33. Bareiro y Ramos Editors. Montevideo, Uruguay</ref>{{citation needed|date=October 2016}}, thus starting the [[Paraguayan War]].<ref>Sir Richard Francis Burton: "Letters from the Battlefields of Paraguay", p.76 – Tinsley Brothers Editors – London (1870) – Burton, as a witness of the conflict, marks this date (12–16 October 1864) as the real beginning of the war. He writes (and it's the most logic account, considering the facts): ''The Brazilian Army invades the Banda Oriental, despite the protestations of President López, who declared that such invasion would be held a "casus belli"''.</ref>
+
+The Paraguayans, led by the [[Grand marshal|Marshal of the Republic]] Francisco Solano López, retalliated by [[Mato Grosso Campaign|attacking the Matto Grosso]] on 15 December 1864 and later declared war against Argentina on 23 March 1865. The "Blanco Government" was toppled and replaced by a "Colorado Government" under Gen. Venancio Flores on 22 February 1865 and afterwards, the [[Argentine Republic]], the [[Empire of Brazil]] and the [[Republic of Uruguay]] signed the infamous [[Treaty of the Triple Alliance|Secret Treaty of the Triple Alliance]] against the Paraguayan Government, on 1 May 1865.<ref>Pomer, León (2008): "La Guerra del Paraguay: Estado, Política y Negocios" (in Spanish), pp. 240 - 241. Buenos Aires: Editorial Colihue.</ref>
+
+The Paraguayans held a ferocious resistance but were ultimately defeated in 1870 after the [[Battle of Cerro Corá]], where Marshal Solano López was killed in action, refusing to surrender.<ref>Hooker, T.D., 2008, "The Paraguayan War". Nottingham: Foundry Books, pp. 105–108. {{ISBN|1901543153}}</ref> The real causes of this war, which remains the bloodiest international conflict in the history of [[The Americas]], are still highly debated.<ref>The classical view asserts that Francisco Solano López's expansionist and hegemonic views are the main reason for the outbreak of the conflict. The traditional Paraguayan view, held by the "''lopistas''" (supporters of Solano López, both in Paraguay and worldwide), affirms that Paraguay acted in self-defense and for the protection of the "Equilibrium of the Plate Basin". This view is usually contested by the "''anti-lopistas''" (also known in Paraguay as "''legionarios''"), who favoured the "Triple Alliance". Revisionist views, both from right and left wing national-populists, put a great emphasis on the influence of the British Empire in the conflict, a view that is discarded by a majority of historians.</ref>
+
+Paraguay lost 25-33% of its territory to Argentina and Brazil, was forced to pay an enormous war debt and to sell large amounts of national properties in order to restore its internal budget. But the worst consequence of the war was the catastrophic loss of population. At least 50% of the Paraguayans died during the conflict and took long decades for the country to recover. About the disaster suffered by the Paraguayans at the outcome of the war, [[William D. Rubinstein]] wrote:
+
+"The normal estimate is that of a Paraguayan population of somewhere between 450,000 and 900,000, only 220,000 survived the war, of whom only 28,000 were adult males."<ref>{{Cite book | last = Rubinsein | first = W. D. | title = Genocide: a history|url=https://books.google.com/books?id=nMMAk4VwLLwC | publisher = Pearson Education | year = 2004 | page = 94 | isbn = 0-582-50601-8 }}</ref>
+
+During the pillaging of Asunción in 1869, the [[Imperial Brazilian Army]] packed up and transported the Paraguayan National Archives to [[Rio de Janeiro]].<ref>Hipólito Sanchez Quell: "Los 50.000 Documentos Paraguayos Llevados al Brasil". Ediciones Comuneros, Asunción (2006).</ref><ref>Some of the documents taken by Brasil during the war, were returned to Paraguay in the collection known as "Colección de Río Branco", nowadays in the National Archives of Asunción, Paraguay</ref> Brazil's records from the war have remained classified.<ref>{{cite web|author=Barbara Weinstein |url=http://www.historians.org/perspectives/issues/2007/0704/0704pre1.cfm |title=Let the Sunshine In: Government Records and National Insecurities |publisher=Historians.org |date=28 January 2008 |accessdate=5 October 2012}}</ref> This has made Paraguayan history in the Colonial and early National periods difficult to research and study.
+[[File:TuyutiDetail.jpg|thumb|The [[Battle of Tuyutí]], May 1866]]
+
+=== 20th century ===
+[[File:Chacokrieg.jpg|thumb|[[Gran Chaco]] was the site of the [[Chaco War]] (1932–35), in which Bolivia lost most of the disputed territory to Paraguay.]] 
+[[File:Recrutas paraguaios..jpg|thumbnail|right|Paraguayan recruits during the Chaco war]]
+In 1904 the Liberal revolution against the rule of Colorados broke out. The Liberal rule started a period of great political instability. Between 1904 and 1954 Paraguay had thirty-one [[President of Paraguay|presidents]], most of whom were removed from office by force.<ref>{{Cite journal | last = Hanratty| first = Dannin M.| last2 = Meditz| first2 = Sandra W.| title = Paraguay: A Country Study| place = Washington| publisher = GPO for the Library of Congress| year = 1988| url = http://countrystudies.us/paraguay/2.htm }}</ref> Conflicts between the factions of the ruling Liberal party led to the [[Paraguayan Civil War (1922)|Paraguayan Civil War of 1922]].
+
+The unresolved border conflict with Bolivia over the Chaco region finally erupted in the early 1930s in the [[Chaco War]]. After great losses Paraguay defeated Bolivia and established its sovereignty over most of the disputed Chaco region. After the war, military officers used popular dissatisfaction with the Liberal politicians to seize the power for themselves. On 17 February 1936, the [[February Revolution (Paraguay)|February Revolution]] brought colonel [[Rafael Franco]] to power. Between 1940 and 1948, the country was ruled by general [[Higinio Morínigo]]. Dissatisfaction with his rule resulted in the [[Paraguayan Civil War (1947)|Paraguayan civil war of 1947]].<ref>{{cite web|url=http://www.onwar.com/aced/nation/pat/paraguay/fparaguay1947.htm |title=Paraguay Civil War 1947 |publisher=Onwar.com |accessdate=2 May 2010}}</ref> In its aftermath [[Alfredo Stroessner]] began involvement in a string of plots, which resulted in his military [[coup d'état]] of 4 May 1954.
+
+===Stroessner era, 1954–1989===
+{{See also|El Stronato}}
+[[File:Alfredo Stroessner Paraguay stamp.jpg|thumb|200px|[[Alfredo Stroessner]], Paraguayan dictator from 1954 to 1989]]
+A series of unstable governments ensued until the establishment in 1954 of the regime of dictator [[Alfredo Stroessner]], who remained in office for more than three decades until 1989. Paraguay was modernized to some extent under Stroessner's regime, although his rule was marked by extensive human rights abuses.<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/08/16/AR2006081601729.html |title=Alfredo Stroessner; Paraguayan Dictator |work=The Washington Post |date= 17 August 2006|accessdate=2 May 2010 | first=Adam | last=Bernstein}}</ref>
+
+Stroessner and the ''Colorado'' party ruled the country from 1954 to 1989. The dictator oversaw an era of economic expansion, but also had a poor human rights and environmental record (see "Political History"). Paraguay actively participated in [[Operation Condor]].<ref>{{cite web |last1=Dinges |first1=John |title=Operation Condor |url=http://www.latinamericanstudies.org/chile/operation-condor.htm |website=latinamericanstudies.org |publisher=Columbia University}}</ref> Torture and death for political opponents was routine. After his overthrow, the ''Colorado'' continued to dominate national politics until 2008.
+
+The splits in the ''Colorado'' Party in the 1980s, and the prevailing conditions: Stroessner's advanced age, the character of the regime, the economic downturn, and [[international isolation]], were catalysts for anti-regime demonstrations and statements by the opposition prior to the 1988 general elections.{{Citation needed|date=January 2010}}
+
+''[[Authentic Radical Liberal Party|PLRA]]'' leader [[Domingo Laíno]] served as the focal point of the opposition in the second half of the 1980s. The government's effort to isolate Laino by exiling him in 1982 had backfired. On his sixth attempt to re-enter the country in 1986, Laino returned with three television crews from the U.S., a former United States ambassador to Paraguay, and a group of Uruguayan and Argentine congressmen. Despite the international contingent, the police violently barred Laino's return.{{Citation needed|date=January 2010}}
+
+The Stroessner regime relented in April 1987, and permitted Laino to return to Asunción. Laino took the lead in organizing demonstrations and reducing infighting among the opposition party. The opposition was unable to reach agreement on a common strategy regarding the elections, with some parties advocating abstention, and others calling for blank voting. The parties held numerous 'lightning demonstrations' (''mítines relámpagos''), especially in rural areas. Such demonstrations were gathered and quickly disbanded before the arrival of the police.
+
+In response to the upsurge in opposition activities, Stroessner condemned the Accord for advocating "sabotage of the general elections and disrespect of the law".  He used national police and civilian [[vigilantes]] of the ''Colorado'' Party to break up demonstrations. A number of opposition leaders were imprisoned or otherwise harassed. [[Hermes Rafael Saguier]], another key leader of the ''PLRA'', was imprisoned for four months in 1987 on charges of sedition. In early February 1988, police arrested 200 people attending a National Coordinating Committee meeting in [[Coronel Oviedo]]. Laino and several other opposition figures were arrested before dawn on the day of the election, 14 February, and held for twelve hours. The government declared Stroessner's re-election with 89% of the vote.<ref>[https://www.nytimes.com/1988/02/15/world/paraguayan-wins-his-eighth-term.html?scp=3&sq=Paraguay%20february%201988&st=cse "Paraguayan Wins His Eighth Term"], ''The New York Times'', 15 February 1988.</ref>
+
+The opposition attributed the results in part to the virtual Colorado monopoly on the mass media. They noted that 53% of those polled indicated that there was an "uneasiness" in Paraguayan society. 74% believed that the political situation needed changes, including 45% who wanted a substantial or total change. Finally, 31% stated that they planned to abstain from voting in the February elections. {{Citation needed|date=September 2008}}
+
+===Stroessner's overthrow, post-1989===
+On 3 February 1989, Stroessner was overthrown in a military coup headed by General [[Andrés Rodríguez (President)|Andrés Rodríguez]]. As president, Rodríguez instituted political, legal, and economic reforms and initiated a ''rapprochement'' with the international community. Reflecting the deep hunger of the rural poor for land, hundreds immediately occupied thousands of acres of unused territories belonging to Stroessner and his associates; by mid-1990, 19,000 families occupied {{convert|340000|acres|-3|abbr=on}}. At the time, 2.06 million people lived in rural areas, more than half of the 4.1 million total population, and most were landless.<ref name="nagel"/>
+
+The June 1992 constitution established a democratic system of government and dramatically improved protection of fundamental human rights. In May 1993, Colorado Party candidate [[Juan Carlos Wasmosy]] was elected as Paraguay's first civilian president in almost 40 years, in what international observers deemed fair and free elections.
+
+With support from the United States, the Organization of American States, and other countries in the region, the Paraguayan people rejected an April 1996 attempt by then Army Chief General [[Lino Oviedo]] to oust President Wasmosy.
+
+Oviedo was nominated as the Colorado candidate for president in the 1998 election, however, when the Supreme Court upheld in April his conviction on charges related to the 1996 coup attempt, he was not allowed to run and was detained in jail. His former running mate, [[Raúl Cubas]], became the Colorado Party's candidate, and was elected in May in elections deemed by international observers to be free and fair. One of Cubas' first acts after taking office in August was to commute Oviedo's sentence and release him. In December 1998, Paraguay's Supreme Court declared these actions unconstitutional. In this tense atmosphere, the murder of Vice President and long-time Oviedo rival [[Luis María Argaña]] on 23 March 1999, led the Chamber of Deputies to impeach Cubas the next day.{{Citation needed|date=March 2010}} On 26 March, eight student anti-government demonstrators were murdered, widely believed to have been carried out by Oviedo supporters. This increased opposition to Cubas, who resigned on 28 March. Senate President [[Luis González Macchi]], a Cubas opponent, was peacefully sworn in as president the same day.
+
+In 2003, Nicanor Duarte Frutos was elected as president.
+
+===Election of Fernando Lugo===
+For the 2008 general elections, the Colorado Party was favored in polls. Their candidate was Minister of Education [[Blanca Ovelar]], the first woman to be nominated as a candidate for a major party in Paraguayan history. After sixty years of Colorado rule, voters chose [[Fernando Lugo]], a former Roman Catholic Bishop and not a professional politician in civil government, and a member of the Authentic Radical Liberal Party, Paraguay's largest opposition party. Lugo was an adherent of [[liberation theology]]. Lugo achieved a historic victory in Paraguay's presidential election, defeating the ruling party candidate, and ending 61 years of conservative rule. Lugo won with nearly 41% of the vote, compared to almost 31% for Blanca Ovelar of the Colorado party.<ref>{{Cite journal | doi = 10.1016/j.electstud.2008.10.001 | author = Nickson, Andrew | year = 2009 | title = The general election in Paraguay, April 2008 | journal = Journal of Electoral Studies | volume = 28 | issue = 1| pages = 145–9 }}</ref> Outgoing President Nicanor Duarte Frutos hailed the moment as the first time in the history of the nation that a government had transferred power to opposition forces in a constitutional and peaceful fashion.
+
+Lugo was sworn in on 15 August 2008. The Lugo administration set its two major priorities as the reduction of corruption and economic inequality.<ref name="state.gov">{{cite web|url=https://www.state.gov/r/pa/ei/bgn/1841.htm#econ |title=Paraguay |publisher=State.gov |date=15 March 2012 |accessdate=5 October 2012}}</ref>
+
+[[File:Saludo de Piñera a Cartes.jpg|thumb|Inauguration of former President [[Horacio Cartes]], 15 August 2013]] 
+Political instability following Lugo's election and disputes within his cabinet encouraged some renewal of popular support for the Colorado Party. Reports suggested that the businessman Horacio Cartes became the new political figure amid disputes. Despite the US [[Drug Enforcement Administration]]'s strong accusations against Cartes related to drug trafficking, he continued to amass followers in the political arena.
+
+On 14 January 2011, the Colorado Party convention nominated Horacio Cartes as the presidential candidate for the party. However, the party's constitution didn't allow it.{{clarify|date=April 2012}}
+On 21 June 2012, [[Impeachment of Fernando Lugo|impeachment proceedings against President Lugo]] began in the country's lower house, which was controlled by his opponents. Lugo was given less than twenty-four hours to prepare for the proceedings and only two hours in which to mount a defense.<ref name=Guardian>{{cite news |title=What will Washington do about Fernando Lugo's ouster in Paraguay? |author=Mark Weisbrot |url=https://www.theguardian.com/commentisfree/2012/jun/22/washington-fernando-lugo-ouster-paraguay |newspaper=The Guardian |date=22 June 2012 |accessdate=23 June 2012}}</ref> Impeachment was quickly approved and the resulting trial in Paraguay's Senate, also controlled by the opposition, ended with the removal of Lugo from office and Vice President Federico Franco assuming the duties of president.<ref name=CNN22>{{cite news |title=Paraguayan Senate removes president |author=Mariano Castillo |url=http://www.cnn.com/2012/06/22/world/americas/paraguay-president/index.html |publisher=CNN |date=22 June 2012 |accessdate=22 June 2012}}</ref> Lugo's rivals blamed him for the deaths of 17 people – eight police officers and nine farmers – in armed clashes after police were ambushed by armed peasants when enforcing an eviction order against rural trespassers.<ref>{{cite news |title=Paraguay's president vows to face impeachment effort |author= Daniela Desantis |url=https://www.reuters.com/article/2012/06/21/us-paraguay-lugo-idUSBRE85K13N20120621 |newspaper=Reuters US edition |date=21 June 2012 |accessdate=21 June 2012}}</ref>
+
+Lugo's supporters gathered outside Congress to protest the decision as a "politically motivated coup d'état".<ref name=CNN22/> Lugo's removal from office on 22 June 2012 is considered by [[UNASUR]] and other neighboring countries, especially those currently governed by leftist leaders, as a coup d'état.<ref>{{cite web|url=http://www.unasursg.org/index.php?option=com_content&view=article&id=698%3Acomunicado-asuncion-22-de-junio-de-2012&catid=68%3Acomunicados&Itemid=346 |title=COMUNICADO UNASUR Asunción, 22 de Junio de 2012 |language=Spanish |date=22 June 2012 |publisher=UNASUR |accessdate=23 June 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120627050748/http://www.unasursg.org/index.php?option=com_content&view=article&id=698:comunicado-asuncion-22-de-junio-de-2012&catid=68:comunicados&Itemid=346 |archivedate=27 June 2012 }}</ref> However, the Organization of American States, which sent a mission to Paraguay to gather information, concluded that the impeachment process was not a coup d'état, as it had been carried out in accordance with the [[Constitution of Paraguay]].<ref>Halvorssen, Thor, ''[https://www.forbes.com/sites/thorhalvorssen/2012/07/03/paraguay-is-not-honduras/#57bce3c72308 Paraguay is not Honduras: President Lugo's Impeachment was not a Coup]'', Forbes.com, 3 July 2012, retrieved 30 July 2018</ref>
+
+===Present day===
+
+From August 2013 to 15 August 2018, the  [[President of Paraguay]] was [[Horacio Cartes]].
+
+Since 15 August 2018, the current [[President of Paraguay]] is  [[Mario Abdo Benítez]].
+
+== Geography and climate ==
+
+=== Geography ===
+{{Main|Geography of Paraguay}}
+[[File:Paraguay map of Köppen climate classification.svg|thumb|Paraguay map of Köppen climate classification]]
+[[File:Chaco Boreal Paraguay.jpg|thumb|Landscape in the [[Gran Chaco]], Paraguay]]
+Paraguay is divided by the [[Río Paraguay]] into two well differentiated geographic regions. The eastern region (Región Oriental); and the western region, officially called Western Paraguay (Región Occidental) and also known as the Chaco, which is part of the [[Gran Chaco]]. The country lies between latitudes [[19th parallel south|19°]] and [[28th parallel south|28°S]], and longitudes [[54th meridian west|54°]] and [[63rd meridian west|63°W]].
+The terrain consists mostly of grassy plains and wooded hills in the eastern region. To the west are mostly low, marshy plains.
+
+=== Climate ===
+{{Main|Climate of Paraguay}}
+The overall climate is [[tropical climate|tropical]] to [[subtropical climate|subtropical]]. Like most lands in the region, Paraguay has only wet and dry periods. Winds play a major role in influencing Paraguay's weather: between October and March, warm winds blow from the Amazon Basin in the North, while the period between May and August brings cold winds from the Andes.
+
+The absence of mountain ranges to provide a natural barrier allows winds to develop speeds as high as {{convert|161|km/h|mph|abbr=on}}. This also leads to significant changes in temperature within a short span of time; between April and September, temperatures will sometimes drop below freezing. January is the hottest summer month, with an average daily temperature of 28.9 degrees Celsius (84 degrees F).
+
+Rainfall varies dramatically across the country, with substantial rainfall in the eastern portions, and semi-arid conditions in the far west. The far eastern forest belt receives an average of {{convert|170|cm|in|abbr=off|sp=us}} of rain annually, while the western Chaco region typically averages no more than {{convert|50|cm|in|abbr=on}} a year. The rains in the west tend to be irregular and evaporate quickly, contributing to the aridity of the area.
+
+==Government and politics==
+{{Main|Politics of Paraguay |Human rights in Paraguay|Foreign relations of Paraguay}}
+Paraguay is a [[representative democratic]] republic, with a multi-party system and [[separation of powers]] in three branches. Executive power is exercised solely by the [[President of Paraguay|President]], who is [[head of state]] and [[head of government]]. [[Legislative power]] is vested in the two chambers of the [[Congress of Paraguay|National Congress]]. The [[Judicial Branch|judiciary]] is vested on [[tribunals]] and Courts of [[Civil Law (legal system)|Civil Law]] and a nine-member Supreme Court of Justice, all of them independent of the executive and the legislature.
+
+===Military===
+{{main|Military of Paraguay}}
+[[File:Paraguayan marines at Ancon Marine Base 2010-07-19.JPG|thumb|Paraguayan marines at Ancon Marine Base]]
+The [[military of Paraguay]] consist of the Paraguayan [[army]], [[navy]] (including [[naval aviation]] and [[marine corps]]) and [[air force]].
+
+The [[constitution of Paraguay]] (article 238) establishes the [[president of Paraguay]] as the [[commander-in-chief]].<ref>{{cite web|title=Constitution of 1992|url=http://pdba.georgetown.edu/Constitutions/Paraguay/|accessdate=18 December 2017}}</ref>
+
+Paraguay has [[Conscription|compulsory military service]], and all 18-year-old males and 17-year-olds in the year of their 18th birthday are liable for one year of [[active duty]]. Although the 1992 constitution allows for conscientious objection, no enabling legislation has yet been approved.
+
+In July 2005, military aid in the form of U.S. [[Special Forces]] began arriving at Paraguay's [[Mariscal Estigarribia]] air base, a sprawling complex built in 1982.<ref>{{Cite news | title=U.S. Military Moves in Paraguay Rattle Regional Relations | publisher=[[International Relations Center]] | date=14 December 2005 | url=http://americas.irc-online.org/am/2991 | archiveurl=https://www.webcitation.org/5Ppo0hSpY?url=http://americas.irc-online.org/am/2991 | archivedate=24 June 2007 | deadurl=yes | df=dmy-all }}</ref><ref name="Clarin">[http://www.clarin.com/suplementos/zona/2005/09/11/z-03615.htm US Marines put a foot in Paraguay], ''[[Clarín (Argentine newspaper)|El Clarín]]'', 9 September 2005 {{es icon}}</ref>
+
+===Administrative subdivisions===
+{{Main|Departments of Paraguay|Districts of Paraguay}}
+Paraguay consists of seventeen departments and one capital district (''distrito capital'').
+
+It is also divided into 2 regions: The "Occidental Region" or Chaco (Boquerón, Alto Paraguay and Presidente Hayes), and the "Oriental Region" (the other departments and the capital district).
+
+These are the departments, with their capitals, population, area and the number of districts:
+{{Paraguay labelled map}}
+{| class="wikitable sortable"  style="width:100%; text-align:center;"
+|- style="vertical-align: top;"
+! style="vertical-align: middle"| [[ISO 3166-2:PY]]
+! style="vertical-align: middle"|  Departament
+! style="vertical-align: middle"| '''Capital'''
+! style="vertical-align: middle"| '''Population (2018 estimate)'''
+! style="vertical-align: middle"| '''Area (km²)'''
+! style="vertical-align: middle"| '''Districts'''
+|-
+| style="text-align:right;"| ASU ||[[Capital District (Paraguay)|Distrito Capital]]
+| style="text-align:left;"| [[Asunción]] ||524,190||117||1
+|-
+| style="text-align:right;"| 1 || [[Concepción Department (Paraguay)|Concepción]]
+| style="text-align:left;"| [[Concepción, Paraguay|Concepción]]||244,071||18,051||12
+|-
+| style="text-align:right;"| 2 || [[San Pedro Department, Paraguay|San Pedro]]
+| style="text-align:left;"| [[San Pedro, Paraguay|San Pedro]]||419,629||20,002||21
+|-
+| style="text-align:right;"| 3 || [[Cordillera Department|Cordillera]]
+| style="text-align:left;"| [[Caacupé]]||299,234||4,948||20
+|-
+| style="text-align:right;"| 4
+| [[Guairá Department|Guairá]]
+| style="text-align:left;"| [[Villarrica, Paraguay|Villarrica]]||220,818||3,846||18
+|-
+| style="text-align:right;"| 5 ||  [[Caaguazú Department|Caaguazú]]
+| style="text-align:left;"| [[Coronel Oviedo]]||545,904||11,474||22
+|-
+| style="text-align:right;"| 6 ||[[Caazapá Department|Caazapá]]
+| style="text-align:left;"| [[Caazapá]]||184,530||9,496||11
+|-
+| style="text-align:right;"| 7 || [[Itapúa]]
+| style="text-align:left;"| [[Encarnación, Paraguay|Encarnación]]||592,017||16,525||30
+|-
+| style="text-align:right;"| 8
+| [[Misiones Department|Misiones]]
+| style="text-align:left;"| [[San Juan Bautista, Paraguay|San Juan Bautista]]||123,442||9,556||10
+|-
+| style="text-align:right;"| 9
+| [[Paraguarí Department|Paraguarí]]
+| style="text-align:left;"| [[Paraguarí]]||254,884||8,705||18
+|-
+| style="text-align:right;"| 10 || [[Alto Paraná Department|Alto Paraná]]
+| style="text-align:left;"|[[Ciudad del Este]]||796,689||14,895||22
+|-
+| style="text-align:right;"| 11 ||[[Central Department|Central]]
+| style="text-align:left;"| [[Areguá]]||2,072,041||2,465||19
+|-
+| style="text-align:right;"| 12 ||[[Ñeembucú]]
+| style="text-align:left;"| [[Pilar, Paraguay|Pilar]]||88,784||12,147||16
+|-
+| style="text-align:right;"| 13 || [[Amambay]]
+| style="text-align:left;"| [[Pedro Juan Caballero, Paraguay|Pedro Juan Caballero]]||164,462||12,933||5
+|-
+| style="text-align:right;"| 14 || [[Canindeyú]]
+| style="text-align:left;"| [[Salto del Guairá]]||221,647||14,667||14
+|-
+| style="text-align:right;"| 15 ||[[Presidente Hayes]] || style="text-align:left;"| [[Villa Hayes]]||121,075||72,907||8
+|-
+| style="text-align:right;"| 16 || [[Alto Paraguay]]
+| style="text-align:left;"|  [[Fuerte Olimpo]]||17,219||82,349||4
+|-
+| style="text-align:right;"| 17 || [[Boquerón Department|Boquerón]]
+| style="text-align:left;"|  [[Filadelfia, Paraguay|Filadelfia]]||63,011||91,669||3
+|-
+| style="text-align:right;"| – || '''Paraguay'''
+| style="text-align:left;"|  '''[[Asunción]]'''||'''7,052,983'''||'''406,752'''||'''254'''
+|}
+
+The departments are further divided into districts (''distritos'').
+
+==Economy==
+{{Main|Economy of Paraguay}}
+Between 1970 and 2013, the country had the highest economic growth of South America,{{citation needed|date=October 2013}} with an average rate of 7.2% per year.{{citation needed|date=October 2013}} In 2010 and 2013, Paraguay experienced the greatest economic expansion of South America, with a GDP growth rate of 14.5% and 13.6% respectively.<ref>[https://www.bcp.gov.py BCP – Banco Central del Paraguay]. Bcp.gov.py. Retrieved on 18 June 2016.</ref>
+
+100% of [[Electricity sector in Paraguay|Paraguay's electricity]] is produced using [[Hydroelectricity|hydroelectricity]], making it one of the [[List of countries by electricity production from renewable sources|cleanest in the world]]. Paraguay has an installed electrical production capacity of 8,110 MW, producing 63 billion kWh/year in 2016; with domestic consumption of just 15 billion kWh, the excess production is sold to Brazil, Argentina, and Uruguay, making Paraguay the world's largest exporter of electric power.<ref>{{Cite web|url=https://www.eia.gov/beta/international/country.php?iso=PRY|title=Paraguay - International - U.S. Energy Information Administration (EIA)|website=www.eia.gov|access-date=2019-01-06}}</ref> This production is from two large [[hydroelectric power]] projects along its borders, including the [[Itaipu Dam]], the world's second largest generating station. 
+
+[[File:Paraguay Export Treemap.png|thumb|left|Graphical depiction of Paraguay's product exports in 28 color-coded categories, 2012]]
+Paraguay is the sixth-largest [[soybean]] producer in the world,<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html|title=Paraguay|last=|first=|date=12 January 2017|website=The World Factbook|publisher=Central Intelligence Agency|access-date=31 January 2017}}</ref> second-largest producer of [[stevia]], second-largest producer of [[tung oil]], sixth-largest exporter of corn, tenth-largest exporter of wheat and 8th largest exporter of beef.{{citation needed|date=October 2014}}
+
+The market economy is distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. Nonetheless, over the last 10 years the Paraguayan economy diversified dramatically, with the energy, auto parts and clothing industries leading the way.<ref>{{cite web|title=Paraguay un milagro americano|url=http://paraguay-un-milagro-americano.blogspot.com|accessdate=15 January 2015|language=Spanish}}</ref>
+
+The country also boasts the third most important free commercial zone in the world: [[Ciudad del Este]], trailing behind [[Miami]] and [[Hong Kong]].<ref>{{Cite web|url=http://www.exportimportstatistics.com/country-profile/Paraguay-profile.aspx|title=Paraguay|website=www.exportimportstatistics.com|access-date=30 January 2018}}</ref> A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain. The economy grew rapidly between 2003 and 2013 as growing world demand for commodities combined with high prices and favorable weather to support Paraguay's commodity-based export expansion.
+
+In 2012, Paraguay's government introduced the MERCOSUR(FOCEM) system in order to stimulate the economy and job growth through a partnership with both Brazil and Argentina.<ref>[https://web.archive.org/web/20120414050706/http://www.economia.gov.py/v2/index.php?tag=que-es-focem Subsecretaria De Estado De Economia – ¿Qué Es Focem?]. Economia.gov.py. Retrieved on 18 June 2016.</ref>
+
+===Industry and manufacturing===
+[[File:BBVA Paraguay.jpg|thumb|[[Banco Bilbao Vizcaya Argentaria|BBVA]] Paraguay]]
+The [[mineral industry of Paraguay]] produces about 25% of the country's gross domestic product (GDP) and employs about 31% of the labor force. Production of [[cement]], [[iron ore]], and [[steel]] occurs commonly throughout Paraguay's industrial sector. The growth of the industry was further fueled by the [[maquila]] industry, with large industrial complexes located in the eastern part of the country. Paraguay put in place many incentives aimed to attract industries to the country. One of them is the so-called "Maquila law" by which companies can relocate to Paraguay, enjoying minimal tax rates.<ref>[http://www.mic.gov.py/v1/node/123 ÂżQuĂŠ es Maquila? | Ministerio de Industria y Comercio – Paraguay]. Mic.gov.py. Retrieved on 18 June 2016.</ref>
+
+In the [[pharmaceutical industry]], Paraguayan companies now{{when|date=February 2016}} meet 70% of domestic consumption and have begun to [[export]] drugs. Paraguay is quickly{{quantify|date=February 2016}} supplanting foreign suppliers in meeting the country's drug needs.<ref>{{Cite web|url=http://www.leadingedgeguides.com/betting-on-innovation/|title=Pharmaceutical industry in Paraguay, betting on innovation|last=admin|date=2016-08-25|website=Leading Edge Guides|language=en-US|access-date=2018-12-11}}</ref> Strong growth also is evident in the production of edible oils, garments, organic sugar, meat processing, and steel.{{citation needed|date=March 2012}}
+
+In 2003 manufacturing made up 13.6% of the GDP, and the sector employed about 11% of the working population in 2000. Paraguay's primary manufacturing focus is on food and beverages. Wood products, paper products, hides and furs, and non-metallic mineral products also contribute to manufacturing totals. Steady growth in the manufacturing GDP during the 1990s (1.2% annually) laid the foundation for 2002 and 2003, when the annual growth rate rose to 2.5%.<ref>
+{{cite web
+|url= http://lcweb2.loc.gov/frd/cs/profiles/Paraguay.pdf
+|publisher= Lcweb2.loc.gov |title= Paraguay 
+|format= PDF |accessdate= 2 May 2010
+}}
+</ref>
+
+===Social issues===
+{{Update|section|date=April 2014}}
+Various poverty estimates suggest that 30–50% of the population is poor.<ref>2003 Census Bureau Household Survey</ref> In rural areas, 41.20% of the people lack a monthly income to cover basic necessities, whereas in urban centers this figure is 27.6%. The top 10% of the population holds 43.8% of the national income, while the lowest 10% has 0.5%. The economic recession has worsened income inequality, notably in the rural areas, where the [[Gini coefficient]] has risen from 0.56 in 1995 to 0.66 in 1999.
+
+More recent data (2009)<ref name="abc.com.py">{{cite web|author=${w.time} |url=http://www.abc.com.py/nota/en-paraguay-disminuyo-la-pobreza-entre-2003-y-2009/ |title=En Paraguay, disminuyó la pobreza entre 2003 y 2009 – ABC Color |publisher=Abc.com.py |accessdate=5 October 2012}}</ref> show that 35% of the Paraguayan population is poor, 19% of which live in extreme poverty. Moreover, 71% of the latter live in rural areas of the country.
+
+Similarly, land concentration in the Paraguayan countryside is one of the highest in the globe: 10% of the population controls 66% of the land, while 30% of the rural people are landless.<ref>{{cite web|author=Marió|year=2004|url=http://siteresources.worldbank.org/EXTSOCIALDEV/Resources/3177394-1168615404141/ParaguayCountrySocialAnalysis.pdf |title=''Paraguay: Social Development Issues for Poverty Alleviation''|publisher=World Bank report|accessdate=18 June 2007|display-authors=etal}}</ref> In the immediate aftermath of the 1989 overthrow of Stroessner, some 19,000 rural families occupied hundreds of thousands of acres of unused lands formerly held by the dictator and his associates by mid-1990, but many rural poor remained landless. This inequality has caused a great deal of tensions between the landless and land owners.<ref name="nagel">[http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1921 Nagel, Beverly Y.(1999) "'Unleashing the Fury': The Cultural Discourse of Rural Violence and Land Rights in Paraguay"], in ''Comparative Studies in Society and History'', 1999, Vol. 41, Issue 1: 148–181. Cambridge University Press.</ref>
+
+====Social issues of the indigenous====
+Literacy rates are extremely low among Paraguay's indigenous population, who have an illiteracy rate of 51% compared to the 7.1% rate of the general population.<ref name=paho>[http://www.paho.org/english/dd/ais/cp_600.htm "Paraguay".] ''Pan-American Health Organization''. (retrieved 12 July 2011)</ref>
+
+Only 2.5% of Paraguay's indigenous population has access to clean drinking water and only 9.5% have electricity.<ref name=paho/>
+
+==Demographics==
+{{Main|Demographics of Paraguay|Immigration to Paraguay}}
+{{See also|List of most common surnames in South America#Paraguay|l1=List of most common surnames in Paraguay}}
+{{multiple issues|section=yes|
+{{More citations needed|section|date=April 2014}}
+{{Cite check|section|date=April 2014}}
+}}
+[[File:Paraguay population density.png|thumb|Paraguay population density (people per km<sup>2</sup>)]]
+{|class="wikitable" style="float: right; margin-left: 10px"
+! colspan="4"  style="text-align:center; background:#cfb;"|Population{{UN_Population|ref}}
+|-
+! style="background:#cfb;"|Year
+! style="background:#cfb;"|Million
+|-
+|style="text-align:left;"|1950 ||style="text-align:right;"|1.5
+|-
+|style="text-align:left;"|2000 ||style="text-align:right;"|5.3
+|-
+|style="text-align:left;"|{{UN_Population|Year}} ||style="text-align:right;"|{{#expr:{{formatnum:{{UN_Population|Paraguay}}|R}}/1e6 round 1}}
+|}
+[[File:Bevölkerungspyramide Paraguay 2016.png|thumb|Population pyramid 2016]]
+Paraguay's population is distributed unevenly through the country, with the vast majority of people living in the eastern region near the capital and largest city, [[Asunción]], which accounts for 10% of the country's population. The [[Gran Chaco]] region, which includes the [[Alto Paraguay Department|Alto Paraguay]], [[Boquerón Department|Boquerón]] and [[Presidente Hayes Department]], and accounts for about 60% of the territory, is home to less than 2% of the population. About 56% of Paraguayans live in urban areas, making Paraguay one of the least urbanized nations in South America.
+
+For most of its history, Paraguay has been a recipient of immigrants, owing to its low population density, especially after the demographic collapse that resulted from the Paraguayan War. Small groups of ethnic Italians, Germans, Russians, [[Japanese Paraguayan|Japanese]], [[Koreans in Paraguay|Koreans]], Chinese, [[Lebanese migration to Paraguay|Arabs]], [[Ukrainians in Paraguay|Ukrainians]], [[Poles]], [[Jews]], Brazilians, and Argentines have also settled in Paraguay. Around 40% of the total Paraguayan population has some [[Italians in Paraguay|Italian descent]].<ref>[http://www.abc.com.py/edicion-impresa/internacionales/italianos-en-el-paraguay-elegiran-representantes-1311493.html]</ref> Paraguay has also been a haven for communities persecuted for the religious faith, like the [[Bruderhof Communities|Bruderhof]] who were forced to leave England in 1941 because of their pacifist beliefs.<ref>{{Cite news|url=http://www.theamericanconservative.com/articles/a-life-of-the-land-cut-short/|title=A Life of the Land, Cut Short|work=The American Conservative|access-date=2018-02-27}}</ref><ref>{{Cite web|url=http://gameo.org/index.php?title=Bruderhof_Communities|title=Bruderhof Communities - GAMEO|website=gameo.org|access-date=2018-02-27}}</ref> Many of these communities have retained their languages and culture, particularly the [[Brazilian people|Brazilians]], who represent the largest and most prominent immigrant group, at around 400,000.<ref>[http://travel.nationalgeographic.com/travel/countries/paraguay-facts/ Paraguay Information and History]. National Geographic.</ref> Many Brazilian Paraguayans are of German, Italian and Polish descent.<ref>[https://www.nytimes.com/2001/06/12/world/12PARA.html?ex=1152849600&en=6a4520630e3b9860&ei=5070&pagewanted=1 San Alberto Journal: Awful Lot of Brazilians in Paraguay, Locals Say]. The New York Times. 12 June 2001.</ref> There are an estimated 63,000 [[Afro-Paraguayans]], comprising 1% of the population.<ref>{{cite web |url=http://www.joshuaproject.net/peoples.php?rop3=210548 |title=Afro-Paraguayan |accessdate=25 August 2008 |work=Joshua Project |publisher=U.S. Center for World Mission |deadurl=yes |archiveurl=https://web.archive.org/web/20110516095204/http://www.joshuaproject.net/peoples.php?rop3=210548 |archivedate=16 May 2011 |df=dmy-all }}</ref>{{Unreliable source?|date=April 2014}}
+
+[[File:Caacupe5.jpg|thumb|left|A gathering in [[Caacupé]]]]
+There is no official data on the ethnic composition of the Paraguayan population, as the Department of Statistics, Surveys and Censuses<ref>{{cite web|url=http://www.dgeec.gov.py/ |title=Dirección General de Estadísticas, Encuestas y Censos |publisher=Dgeec.gov.py |accessdate=2 May 2010}}</ref> of Paraguay does not ask about ''race'' and ''ethnicity'' in census surveys, although it does inquire about the indigenous population. According to the census of 2002, the indigenous people made up 1.7% of Paraguay's total population.<ref>[https://web.archive.org/web/20120118042911/http://www.rlc.fao.org/es/desarrollo/mujer/docs/paraguay/par03.pdf CAPÍTULO III. Características Socio-Culturales y étnicas], pp. 39ff in ''Paraguay. Situación de las mujeres rurales'' (2008) [[Food and Agriculture Organization of the United Nations]]</ref>
+
+Traditionally, the majority of the Paraguayan population is considered mixed (''mestizo'' in Spanish). HLA-DRB1 polymorphism studies have shown genetic distances between Paraguayans and Spanish populations were closer than between Paraguayans and Guaranis. Altogether these results suggest the predominance of the Spanish genetics in the Paraguayan populations.<ref>{{cite journal|pmid=11873625|year=2002|author1=Benitez|first1=O|title=Hispano-Indian admixture in Paraguay studied by analysis of HLA-DRB1 polymorphism|journal=Pathologie-biologie|volume=50|issue=1|pages=25–9|last2=Loiseau|first2=P|last3=Busson|first3=M|last4=Dehay|first4=C|last5=Hors|first5=J|last6=Calvo|first6=F|last7=Durand Mura|first7=M|last8=Charron|first8=D|doi=10.1016/s0369-8114(01)00263-2}}</ref>
+According to {{UN_Population|source}}, Paraguay has a population of {{UN_Population|Paraguay}}, 95% of which are Mestizo or white and 5% are labelled as "other", which includes members of indigenous tribal groups. They are divided into 17 distinct ethnolinguistic groupings, many of which are poorly documented.
+Paraguay has one of the most prominent [[Germans in Paraguay|German]] communities in South America, with some 25,000 German-speaking [[Mennonites in Paraguay|Mennonite]]s living in the Paraguayan [[Gran Chaco|Chaco]].<ref>{{cite web|author=Antonio De La Cova |url=http://www.latinamericanstudies.org/paraguay/mennonites.htm |title=Paraguay's Mennonites resent 'fast buck' outsiders |publisher=Latinamericanstudies.org |date=28 December 1999 |accessdate=2 May 2010}}</ref> German settlers founded several towns as [[Hohenau, Paraguay|Hohenau]], [[Filadelfia]], [[Neuland Colony|Neuland]], [[Obligado]] and [[Nueva Germania]]. Several websites that promote German immigration to Paraguay claim that 5–7% of the population is of German ancestry,{{Dubious|date=April 2014}} including 150,000 people of German-Brazilian descent.{{Better source|reason=Citations are from many German immigration promotion websites, there must be more objective sources for this|date=April 2014}}<ref>{{cite web|author=Jonathan Ross|url=http://www.magazin-paraguay.de/paraguay/allgemeines-paraguay.htm |title=Allgemeines über Paraguay |location=PY |publisher=Magazin-paraguay.de |accessdate=5 October 2012}}</ref><ref>{{cite web|url=http://www.paraguay24.de/category/new-und-infos-zu-paraguay/information_um_und_zu_paraguay |title=Information um und zu Paraguay « Kategorie « Paraguay24 – Die Geschichte unserer Auswanderung |publisher=Paraguay24.de |date=23 September 2012 |accessdate=5 October 2012}}</ref><ref>{{cite web|author=Miran Blanco |url=http://www.auswandern-paraguay.org/ |title=Paraguay Auswandern Einwandern Immobilien Infos für Touristen, Auswanderer Asuncion Paraguay |publisher=Auswandern-paraguay.org |date=24 March 2007 |accessdate=5 October 2012}}</ref><ref>{{cite web|url=http://www.my-paraguay.com/ |title=Paraguay – Immobilien – Auswandern – Immobilienschnδppchen, Hδuser, und Grundstόcke um Villarrica |publisher=My-paraguay.com |accessdate=5 October 2012}}</ref><ref>{{cite web|url=http://www.paraguay1.de/ |title=Paraguay – Auswandern – Immobilien – Reisen |publisher=PARAGUAY1.DE |accessdate=19 October 2012}}</ref>
+
+===Religion===
+{{Main|Religion in Paraguay}}
+[[File:Concepción Catholic chapel.jpeg|thumb|upright|Main Catholic Chapel in [[Concepción, Paraguay]]]]
+Christianity, particularly [[Roman Catholicism]], is the dominant religion in Paraguay.<ref>[http://www.prolades.com/ The Latin American Socio-Religious Studies Program / Programa Latinoamericano de Estudios Sociorreligiosos (PROLADES)] PROLADES Religion in America by country</ref> According to the 2002 census, 89.9% of the population is Catholic, 6.2% is [[Evangelicalism|Evangelical Protestant]], 1.1% identify with other Christian sects, and 0.6% practice indigenous religions. A U.S. State Department report on Religious Freedom names Roman Catholicism, evangelical Protestantism, mainline Protestantism, Judaism (Orthodox, Conservative, and Reform), [[Mormonism]], and the [[Bahá'í Faith]] as prominent religious groups. It also mentions a large Muslim community in [[Alto Paraná]] (as a result of Middle-Eastern immigration, especially from [[Lebanon]]) and a prominent Mennonite community in Boquerón.<ref name="state1">{{cite web|url=https://www.state.gov/g/drl/rls/irf/2007/90263.htm |title=Paraguay religion |publisher=State.gov |date=14 September 2007 |accessdate=2 May 2010}}</ref>
+
+===Languages===
+{{main|Languages of Paraguay}}
+Paraguay is a bilingual nation. Both Spanish and Guaraní are official languages. The Guarani language is a remarkable trace of the indigenous Guaraní culture that has endured in Paraguay, which is generally understood by 95% of the population. Guaraní claims its place as one of the last surviving and thriving of South American indigenous national languages. In 2015, Spanish was spoken by about 87% of the population, while Guaraní is spoken by more than 90%, or slightly more than 5.8 million speakers. 52% of rural Paraguayans are bilingual in Guaraní. While Guaraní is still widely spoken, Spanish is generally given a preferential treatment in government, business, media and education as one of South America's [[lingua francas]].<ref name="ethnologue-list">[http://www.ethnologue.com/language/gug Paraguayan Guaraní], Ethnologue</ref><ref>{{cite web|author=Paraguay |url=http://www.studycountry.com/guide/PY-language.htm |title=The Languages spoken in Paraguay |publisher=Studycountry.com |date= |accessdate=21 April 2017}}</ref><ref>{{cite web|url=http://www.visitparaguay.net/paraguay-guide/languages-paraguay.html |title=Languages of Paraguay |publisher=VisitParaguay.net |date= |accessdate=21 April 2017}}</ref><ref>{{cite web|author=SIMON ROMERO|url=https://www.nytimes.com/2012/03/12/world/americas/in-paraguay-indigenous-language-with-unique-staying-power.html |title=In Paraguay, Indigenous Language With Unique Staying Power - The New York Times |publisher=Nytimes.com |date=12 March 2012 |accessdate=21 April 2017}}</ref>
+
+{{bar box
+|title=Languages of Paraguay  
+|titlebar=#ddd
+|left1=Languages
+|right1=percent
+|float=left
+|bars=
+{{bar percent|[[Guaraní language|Guaraní]] |Orange|90}}
+{{bar percent|[[Spanish language|Spanish]]|Blue| 87}} 
+}}
+{{-}}
+
+===Largest cities===
+{{Largest cities of Paraguay}}
+
+==Culture==
+{{Main|Music of Paraguay|Cinema of Paraguay}}
+Paraguay's cultural heritage can be traced to the extensive [[interracial marriage|intermarriage]] between the original male Spanish settlers and indigenous [[Guarani people|Guaraní]] women. Their culture is highly influenced by various European countries, including Spain. Therefore, Paraguayan culture is a fusion of two cultures and traditions; one European, the other, Southern Guaraní. More than 93% of Paraguayans are ''[[mestizos]]'', making Paraguay one of the most homogeneous countries in Latin America. A characteristic of this cultural fusion is the extensive bilingualism present to this day: more than 80% of Paraguayans speak both [[Spanish language|Spanish]] and the indigenous language, [[Guaraní language|Guaraní]]. [[Jopara]], a mixture of Guaraní and Spanish, is also widely spoken.{{Citation needed|date=May 2014}}
+
+[[File:Ovecha Ragué Festival Paraguay.jpg|thumb|Ovecha Ragué Festival]]
+This cultural fusion is expressed in arts such as embroidery (''ao po'í'') and [[Nanduti|lace making]] (''ñandutí''). The [[music of Paraguay]], which consists of lilting polkas, bouncy ''galopas,'' and languid ''[[Guarania (music)|guaranias]]'' is played on the native harp. Paraguay's culinary heritage is also deeply influenced by this cultural fusion. Several popular dishes contain [[manioc]], a local staple crop similar to the [[Cassava|yuca]] also known as Cassava root found in the [[Southwestern United States]] and [[Mexico]], as well as other indigenous ingredients. A popular dish is ''[[sopa paraguaya]]'', similar to a thick [[corn bread]]. Another notable food is ''[[chipa]]'', a [[bagel]]-like bread made from [[cornmeal]], manioc, and cheese. Many other dishes consist of different kinds of cheeses, onions, bell peppers, cottage cheese, cornmeal, milk, seasonings, butter, eggs and fresh corn kernels.
+
+The 1950s and 1960s were the time of the flowering of a new generation of Paraguayan novelists and poets such as [[José Ricardo Mazó]], [[Roque Vallejos]], and Nobel Prize nominee [[Augusto Roa Bastos]]. Several [[Cinema of Paraguay|Paraguayan films]] have been made.
+
+Inside the family, conservative values predominate. In lower classes, godparents have a special relationship to the family, since usually, they are chosen because of their favorable social position, in order to provide extra security for the children. Particular respect is owed them, in return for which the family can expect protection and patronage.<ref>{{Cite web|url=http://countrystudies.us/paraguay/29.htm|title=Paraguay - Ritual Kinship|website=countrystudies.us|access-date=30 January 2018}}</ref>
+
+===Sports===
+{{Main|Sport in Paraguay}}
+Sport in Paraguay is an important part the country's national culture. [[Association football|Football]] is the most popular sport, and [[basketball]] is also very popular.<ref name="Paraguay in Pictures">{{cite book | last = Behnke | first = Alison | title = Paraguay in Pictures | language = English | publisher = VGS - Visual Geography Series| year = 2010 | pages = 56, 57 | isbn = 978-1-57505-962-4}}</ref> Other sports such as [[volleyball]], [[futsal]], [[Swimming (sport)|swimming]] and [[tennis]] are also popular.<ref name="Paraguay in Pictures"/> Additional Paraguayan sports and pastimes include [[rugby union]], [[chess]], [[motorsport]], [[golf]] and [[rowing (sport)|rowing]].
+
+==Education==
+{{Main|Education in Paraguay}}
+{{See also|List of universities in Paraguay|List of schools in Paraguay}}
+[[Literacy]] was about 93.6% and 87.7% of Paraguayans finish the 5th grade according to [[UNESCO]]'s last Educational Development Index 2008. Literacy does not differ much by gender.<ref name="hdrstats.undp.org">{{cite web |url=http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_PRY.html |title=Human Development Report 2009 – Paraguay |publisher=Hdrstats.undp.org |accessdate=2 May 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100218153913/http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_PRY.html |archivedate=18 February 2010 |df=dmy-all }}</ref> A more recent study<ref name="abc.com.py"/> reveals that attendance at primary school by children between 6 and 12 years old is about 98%. Primary education is free and mandatory and takes nine years. Secondary education takes three years.<ref name="hdrstats.undp.org"/>
+Main universities in Paraguay include:
+* [[National University of Asunción]] (public and founded in 1889)<ref>{{cite web|url=http://www.una.py/ |title=::Una:: |publisher=Una.py |accessdate=5 October 2012}}</ref>
+* [[Autonomous University of Asunción]] (private and founded in 1979)<ref>{{cite web|url=http://www.uaa.edu.py/ |title=Universidad Autónoma de Asunción: Educación Superior en Paraguay |publisher=UAA |accessdate=5 October 2012}}</ref>
+* [[Universidad Católica Nuestra Señora de la Asunción]] (private and run by the church).<ref>{{cite web|url=http://www.uca.edu.py/ |title=Campus de Asunción – Universidad Católica "Nuestra Señora de la Asunción" |publisher=Uca.edu.py |date=25 September 2012 |accessdate=5 October 2012}}</ref>
+* [[Universidad Americana]] (private).
+* [[Universidad del Pacífico (Paraguay)|Universidad del Pacífico]] (private and founded in 1991).
+
+The net primary enrollment rate was at 88% in 2005.<ref name="hdrstats.undp.org"/> Public expenditure on education was about 4.3% of GDP in the early 2000s.<ref name="hdrstats.undp.org"/>
+
+==Health==
+{{main|Health in Paraguay}}
+Average life expectancy in Paraguay is rather high given its poverty: {{As of|2006|lc=y}}, it was 75 years,<ref>{{cite web|url=http://www.who.int/countries/pry/en/ |title=WHO &#124; Paraguay |publisher=Who.int |date=1 October 2012 |accessdate=5 October 2012}}</ref> equivalent to far wealthier Argentina, and the 8th highest in the Americas according to World Health Organization. Public expenditure on health is 2.6% of GDP, while private health expenditure is 5.1%.<ref name="hdrstats.undp.org"/> Infant mortality was 20 per 1,000 births in 2005.<ref name="hdrstats.undp.org"/> Maternal mortality was 150 per 100,000 live births in 2000.<ref name="hdrstats.undp.org"/>
+The [[World Bank]] has helped the Paraguayan government reduce the country's maternal and infant mortality. The ''Mother and Child Basic Health Insurance Project'' aimed to contribute to reducing mortality by increasing the use of selected life-saving services included in the country's Mother and Child Basic Health Insurance Program (MCBI) by women of child-bearing age, and children under age six in selected areas. To this end, the project also targeted improving the quality and efficiency of the health service network within certain areas, in addition to increasing the Ministry of Public Health and Social Welfare's (MSPBS) management.<ref>[http://web.worldbank.org/external/projects/main?pagePK=64283627&piPK=73230&theSitePK=40941&menuPK=228424&Projectid=P082056 "Paraguay Mother & Child Basic Health Insurance"] {{webarchive|url=https://web.archive.org/web/20120517115828/http://web.worldbank.org/external/projects/main?pagePK=64283627&piPK=73230&theSitePK=40941&menuPK=228424&Projectid=P082056 |date=17 May 2012 }}. The World Bank.</ref>
+
+==See also==
+{{Portal|Paraguay|Latin America}}
+*[[Bibliography of Paraguay]]
+*[[Index of Paraguay-related articles]]
+*[[Outline of Paraguay]]
+
+==Notes==
+{{reflist|group=nb}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Paraguay}}
+{{Wikinewscat}}
+;Government
+* [https://web.archive.org/web/20100528053421/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-p/paraguay.html Chief of State and Cabinet Members]
+* [http://www.senatur.gov.py/ National Department of Tourism] {{es icon}}
+* [http://www.hacienda.gov.py/ Ministry of Finance with economic and Government information, available also in English] {{es icon}}
+* [https://web.archive.org/web/20120112041325/http://www.paraguaypostcards.com/ Paraguay Photos]
+
+;General information
+* [http://www.britannica.com/nations/Paraguay Paraguay] from the ''[[Encyclopædia Britannica]]''
+* {{CIA World Factbook link|pa|Paraguay}}
+* [https://web.archive.org/web/20080607085416/http://ucblibraries.colorado.edu/govpubs/for/paraguay.htm Paraguay] at ''UCB Libraries GovPubs''
+* {{dmoz|Regional/South_America/Paraguay}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1222081.stm Paraguay profile] from the [[BBC News]]
+* {{Wikiatlas|Paraguay}}
+* {{osmrelation-inline|287077}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=PY Key Development Forecasts for Paraguay] from [[International Futures]]
+
+;News media
+* [https://web.archive.org/web/20090916131713/http://www.larueda.com.py/ La Rueda – Weekly reviews] {{es icon}}
+* [http://www.abc.com.py/ ABC Color] {{es icon}}
+* [http://www.ultimahora.com.py/ Última Hora] {{es icon}}
+* [http://www.lanacion.com.py/ La Nación] {{es icon}}
+* [http://www.paraguay.com/ Paraguay.com] {{es icon}}
+* [http://www.nanduti.com.py/ Ñanduti] {{es icon}}
+;Trade
+*[http://wits.worldbank.org/CountryProfile/Country/PRY/Year/2012/Summary World Bank Summary Trade Statistics Paraguay]
+;Travel
+* [http://www.asu-cvb.org.py/servicios/lacuidad_en.html Paraguay Convention & Visitor's Bureau]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://www.Paraguay.com/ Paraguay.com: Tradition, Culture, Maps, Tourism]
+* {{Wikivoyage-inline}}
+* [https://web.archive.org/web/20081202113657/http://www.turismo.com.py/ Tourism in Paraguay, information, pictures and more. Turismo.com.py] {{es icon}}
+
+{{Paraguay topics|}}
+{{Navboxes
+|title = related articles 
+|list =
+{{Paraguay Presidents}}
+{{Geography of Paraguay}}
+{{Paraguayan elections}}
+{{List of Paraguayan Wars}}
+{{Countries of South America}}
+{{Andean Community of Nations}}
+{{SACN}}
+{{Mercosur}}
+{{Organization of American States}}
+}}
+
+{{Authority control}}
+
+[[Category:Paraguay| ]]
+[[Category:Countries in South America]]
+[[Category:1811 establishments in South America]]
+[[Category:States and territories established in 1811]]
+[[Category:Former Spanish colonies]]
+[[Category:Landlocked countries]]
+[[Category:Member states of Mercosur]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:Spanish-speaking countries and territories]]
+[[Category:Southern Cone countries]]

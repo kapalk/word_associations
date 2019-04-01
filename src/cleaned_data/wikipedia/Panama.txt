@@ -1,0 +1,568 @@
+{{short description|Republic in Central America}}
+{{pp-vandalism|small=yes}}
+{{about|the country}}{{Use mdy dates|date=October 2017}}
+{{Coord|9|N|80|W|display=title}}
+{{Infobox country
+|conventional_long_name = Republic of Panama
+|common_name = Panama
+|native_name = {{native name|es|República de Panamá|fontsize=70%}}
+|image_flag = Flag of Panama.svg
+|image_coat = Coat of Arms of Panama.svg
+|national_motto = {{lang|la|"Pro Mundi Beneficio"}}<br/>{{small|"For the Benefit of the World"}}
+|national_anthem = {{native name|es|[[Himno Istmeño]]}}<br/><small>Hymn of the Isthmus</small><center>[[File:Panama National Anthem.ogg]]</center>
+|image_map = PAN orthographic.svg
+|image_map2 = Panama - Location Map (2011) - PAN - UNOCHA.svg
+|capital = [[Panama City]]
+|coordinates = {{Coord|8|58|N|79|32|W|type:city}}
+|largest_city = Panama City
+|official_languages = [[Panamanian Spanish|Spanish]]
+|ethnic_groups = {{unbulleted list |65% [[Mestizo]] ||12.3% [[Indigenous peoples of Panama|Native Panamanians]] |9.2% [[Afro-Panamanian]] |6.8% [[Mulatto]]|6.7% [[White Panamanians|White Panamanian]]}}
+|ethnic_groups_year=2010<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html |title=Panama |work=CIA World Factbook}}</ref>
+|demonym = [[Panamanians|Panamanian]]
+|government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[Republic|constitutional republic]]
+|leader_title1 = [[List of heads of state of Panama|President]]
+|leader_name1 = [[Juan Carlos Varela]]
+|leader_title2 = [[Vice President of Panama|Vice President]]
+|leader_name2 = [[Isabel Saint Malo]]
+|legislature = [[National Assembly (Panama)|National Assembly]]
+|sovereignty_type= [[Independence]]
+|established_event1 = from [[Spanish Empire]]
+|established_date1 = November 28, 1821
+|established_event2 = union with [[Gran Colombia]]
+|established_date2 = December 1821
+|established_event3 = from [[Republic of Colombia]]
+|established_date3 = November 3, 1903
+|established_event4 = [[United Nations Charter|Admitted to the]] [[United Nations]]
+|established_date4 = November 13, 1945
+|established_event5 = [[Constitution of Panama|Current constitution]]
+|established_date5 = October 11, 1972
+|area_km2 = 75,417
+|area_footnote = <ref name="unstats08">{{Cite journal|url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2012/Table03.pdf|format=PDF|title=Demographic Yearbook – Table 3: Population by sex, rate of population increase, surface area and density|publisher=United Nations Statistics Division|year=2012|accessdate=September 4, 2017}} http://unstats.un.org/unsd/demographic/products/dyb/dyb2012.htm</ref>
+|area_rank = 116th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+|area_sq_mi = 29,119
+|percent_water = 2.9
+|population_estimate     = {{UN_Population|Panama}}{{UN_Population|ref}}
+|population_census = 3,405,813<ref name=census>{{cite report|url=https://www.contraloria.gob.pa/inec/archivos/P6691Distribuci%C3%B3n%20Territorial%20y%20Migraci%C3%B3n%20Interna%20en%20Panam%C3%A1-Censo2010_F.pdf |title=Distribución territorial y migración interna en Panamá: Censo 2010 |language=es |publisher=[[National Institute of Statistics and Census of Panama|INEC]] |page=2 |date=2014 |accessdate=December 22, 2015}}</ref>
+|population_estimate_year= {{UN_Population|Year}}
+|population_census_year = 2010
+|population_density_km2 = 56
+|population_density_sq_mi = 145  <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 162
+|GDP_PPP = $121.545 billion<ref name=imf2>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=63&pr.y=8&sy=2016&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=283&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=7 March 2019}}</ref>
+|GDP_PPP_year = 2019
+|GDP_PPP_rank = 79th
+|GDP_PPP_per_capita = $28,810<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 57th
+|GDP_nominal = $72.215 billion<ref name=imf2/>
+|GDP_nominal_year = 2019
+|GDP_nominal_rank = 72nd
+|GDP_nominal_per_capita = $17,117<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 51st
+|Gini = 50.4 <!--number only-->
+|Gini_year = 2016
+|Gini_change = decrease <!--increase/decrease/steady-->
+|Gini_ref = <ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=PA |title=Gini Index |publisher=World Bank |accessdate= 21 February 2019}}</ref>
+|Gini_rank =
+|HDI = 0.789 <!--number only-->
+|HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = increase<!--increase/decrease/steady-->
+|HDI_ref = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+|HDI_rank = 66th
+|currency = {{unbulleted list |[[Panamanian balboa|Balboa]] ([[ISO 4217|PAB]])|{{nowrap|[[United States dollar]] ([[ISO 4217|USD]])}}}}
+|time_zone = [[Eastern Time|EST]]
+|utc_offset = −5
+|drives_on = Right
+|calling_code = [[+507]]
+|iso3166code = PA
+|cctld = [[.pa]]
+}}
+
+'''Panama''' ({{IPAc-en|audio=En-us-Panama-2.ogg|ˈ|p|æ|n|ə|m|ɑː}} {{Respell|PAN|ə-mah}}; {{lang-es|link=no|Panamá}} {{IPA-es|panaˈma|}}), officially the '''Republic of Panama''' ({{lang-es|República de Panamá}}), is a country in [[Central America]],<ref>{{cite web|url=http://education.nationalgeographic.com/education/mapping/outline-map/?map=Panama|title=National Geographic Education|publisher=[[National Geographic Society]]|accessdate=May 12, 2011}}<br>{{Cite book|title=National Geographic Atlas (list)|publisher=National Geographic Society|year=2010|page=4}}<br>{{Cite book|title=Webster's New Geographical Dictionary (list and map)|publisher=Merriam-Webster Inc.|year=1984|pages=856, 859}}<br>[http://unstats.un.org/unsd/methods/m49/m49regin.htm#americas "Americas"] ''Standard Country and Area Codes Classifications (M49)'', United Nations Statistics Division<br>[https://web.archive.org/web/20061021010223/http://atlas.nrcan.gc.ca/site/english/maps/reference/international/north_america/referencemap_image_view "North America"] ''Atlas of Canada''<br>[http://www.nationalgeographic.com/xpeditions/atlas/index.html?Parent=nameri&Rootmap=&Mode=d&SubMode=w North America Atlas] National Geographic</ref> bordered by [[Costa Rica]] to the west, [[Colombia]] to the southeast, the [[Caribbean Sea]] to the north, and the [[Pacific Ocean]] to the south. The capital and largest city is [[Panama City]], whose metropolitan area is home to nearly half the country's {{#expr:{{replace|{{UN_Population|Panama}}|,||}}/1e6 round 0}} million people.{{UN_Population|ref}}
+
+Panama was inhabited by indigenous tribes before [[Spanish colonial empire|Spanish colonists]] arrived in the 16th century. It broke away from [[Spain]] in 1821 and joined the Republic of [[Gran Colombia]], a union of [[Viceroyalty of New Granada|Nueva Granada]], [[Ecuador]], and [[Venezuela]]. After Gran Colombia dissolved in 1831, Panama and Nueva Granada eventually became the Republic of Colombia. With the backing of the United States, Panama seceded from Colombia in 1903, allowing the construction of the [[Panama Canal]] to be completed by the [[US Army Corps of Engineers]] between 1904 and 1914. The 1977 [[Torrijos–Carter Treaties]] led to the transfer of the Canal from the United States to Panama on December 31, 1999.<ref name="cia">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html |title=Panama|work=CIA – The World Factbook |accessdate=December 23, 2010}}</ref>
+
+Revenue from canal tolls continues to represent a significant portion of Panama's [[GDP]], although commerce, banking, and tourism are major and growing sectors. It is regarded as a [[World Bank high-income economy|high-income country]].<ref>{{cite news|url= https://blogs.worldbank.org/opendata/new-country-classifications-income-level-2018-2019|work= worldbank.org |title= New country classifications by income level: 2018-2019}}</ref> In 2015 [[List of countries by HDI|Panama ranked 60th in the world]] in terms of the [[Human Development Index]].<ref name=HDI10>{{cite book|title=Table 1: Human development index 2015 and its components|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1_reprint.pdf|format=PDF|accessdate=November 6, 2010|publisher=[[United Nations Developed Programme|UNDP]]|author=UNDP Human Development Report 2015|page=144}}</ref> In 2018, Panama was ranked seventh-most competitive economy in Latin America, according to the [[World Economic Forum]]'s Global Competitiveness Index.<ref>{{Cite web|url=https://wef.ch/2OX9YUm|title=Competitiveness Rankings|website=The Global Competitiveness Report 2018|language=en-US|access-date=2019-03-18}}</ref> Covering around 40 percent of its land area, Panama's [[jungle]]s are home to an abundance of tropical plants and animals – some of them found nowhere else on the planet.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/americas/country_profiles/1229332.stm |work=BBC News  |title=Country profile: Panama |date=June 30, 2010}}</ref> Panama is a founding member of the [[United Nations]] and other international organizations such as [[Organization of American States|OAS]], [[Latin American Integration Association|LAIA]], [[Group of 77|G77]], [[World Health Organization|WHO]] and [[Non-Aligned Movement|NAM]].
+
+==Etymology==<!--linked-->
+The definite origin of the name ''Panama'' is ultimately unknown. There are several theories. One postulates that the country was named after a commonly found species of tree (''[[Sterculia apetala]]'', the Panama tree). Another that the first settlers arrived in Panama in August, when butterflies abound, and that the name means "many butterflies" in one or several of [[Amerindian language|indigenous Amerindian language]]s that were spoken in the territory prior to [[Spanish colonization of the Americas|Spanish colonization]]. Most scientifically corroborated theory, that by Panamanian linguists, states that the word is a [[hispanicization]] of [[Kuna language]] word "''bannaba''" which means "distant" or "far away".<ref name=PAN>{{cite web|url=http://www.pa/secciones/informacion/significado.html |title=Origen del Nombre Panamá |publisher=República de Panamá |accessdate=July 25, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20070214054429/http://www.pa/secciones/informacion/significado.html |archivedate=February 14, 2007}}</ref>
+
+A commonly relayed legend in Panama is that there was a fishing village that bore the name "Panamá", which purportedly meant "an abundance of fish", when the Spanish colonizers first landed in the area. The exact location of the village is unspecified. The legend is usually corroborated by Captain Antonio Tello de Guzmán's diary entries, who reports landing at an unnamed village while exploring the Pacific coast of Panama in 1515; he only describes the village as a "same small indigenous fishing town". In 1517, Don [[Gaspar de Espinosa]], a Spanish lieutenant, decided to settle a post in the same location Guzmán described. In 1519, [[Pedrarias Dávila]] decided to establish the Spanish Empire's Pacific port at the site. The new settlement replaced [[Santa María La Antigua del Darién]], which had lost its function within the Crown's global plan after the Spanish exploitation of the riches in the Pacific began.
+
+The official definition and origin of the name as promoted by Panama's Ministry of Education is the "abundance of fish, trees and butterflies". This is the usual description given in social studies textbooks.
+
+==History==
+{{refimprove section|date=October 2017}}<!--many many paragraphs without citations-->
+{{Main|History of Panama}}
+At the time of the arrival of the Spanish in the 16th century, the known inhabitants of Panama included the [[Cueva people|Cuevas]] and the [[Gran Coclé|Coclé]] tribes. These people have nearly disappeared, as they had no immunity from European infectious diseases.<ref>{{Cite book |last = Austin Alchon |first = Suzanne |title = A pest in the land: new world epidemics in a global perspective |url = https://books.google.com/books?id=YiHHnV08ebkC&pg=PA67 |publisher = University of New Mexico Press |year = 2003 |pages = 67–74 |isbn = 0-8263-2871-7}}</ref>
+
+===Pre-Columbian<!--This is NOT a typo. Before Christopher Columbus, not before Colombia --> period===
+[[File:Panamanian - Amphibian Pendant - Walters 57301.jpg|thumb|upright|''Amphibian Pendant'', [https://commons.wikimedia.org/wiki/File:Panamanian_-_Amphibian_Pendant_-_Walters_57301.jpg Walters Art Museum]]]
+[[File:Panama Embera0605.jpg|thumb|[[Embera-Wounaan|Embera]] girl dressed for a dance]]
+The [[Isthmus of Panama]] was formed about three&nbsp;million years ago when the land bridge between North and South America finally became complete, and plants and animals gradually crossed it in both directions. The existence of the isthmus affected the dispersal of people, agriculture and technology throughout the American continent from the appearance of the first hunters and collectors to the era of villages and cities.<ref name="Mayo, J 2004">Mayo, J. (2004). ''La Industria prehispánica de conchas marinas en Gran Coclé'', Panamá. Diss. U Complutense de Madrid, pp. 9–10.</ref><ref>Piperno, D. R. (1984). ''The Application of Phytolith Analysis to the Reconstruction of Plant Subsistence and Environments in Prehistoric Panama''. Dissertation, Temple University. Philadelphia, vol. 8 pp. 21–43.</ref>
+
+The earliest discovered artifacts of [[Indigenous peoples of the Americas|indigenous peoples]] in Panama include [[Paleo-Indians|Paleo-Indian]] [[projectile point]]s. Later central Panama was home to some of the first [[pottery]]-making in the Americas, for example the cultures at [[Monagrillo (archaeological site)|Monagrillo]], which date back to 2500–1700 BC. These evolved into significant populations best known through their spectacular burials (dating to c. 500–900 AD) at the [[Monagrillo (archaeological site)|Monagrillo]] [[archaeological site]], and their beautiful [[Gran Coclé]] style [[polychrome pottery]]. The monumental [[monolith]]ic sculptures at the [[Barriles]] (Chiriqui) site are also important traces of these ancient isthmian cultures.
+
+Before Europeans arrived Panama was widely settled by [[Chibchan]], [[Chocoan]], and [[Cueva people|Cueva]] peoples. The largest group were the Cueva (whose specific language affiliation is poorly documented). The size of the [[Indigenous people of the Americas|indigenous]] population of the isthmus at the time of European colonization is uncertain. Estimates range as high as two million people, but more recent studies place that number closer to 200,000. Archaeological finds and testimonials by early European explorers describe diverse native isthmian groups exhibiting cultural variety and suggesting people developed{{clarify|date=August 2016|reason=Is this an anthropological term?}} by regular regional routes of commerce.
+
+When Panama was colonized, the indigenous peoples fled into the forest and nearby islands. Scholars believe that [[infectious disease]] was the primary cause of the population decline of American natives. The indigenous peoples had no [[acquired immunity]] to diseases which had been chronic in Eurasian populations for centuries.<ref>Hays, J. N. (2005). ''[https://books.google.com/books?id=GyE8Qt-kS1kC&pg=PA82 Epidemics and pandemics: their impacts on human history]'', ABC-CLIO, pp. 82–83, {{ISBN|1-85109-658-2}}</ref>
+
+===Conquest to 1799===
+[[File:Balboa südsee.jpg|thumb|upright|[[Vasco Núñez de Balboa]], a recognized and popular figure of Panamanian history]]
+[[File:New Caledonia in Darien.jpg|thumb|"New Caledonia", the ill-fated Scottish [[Darien scheme]] colony in the Bay of Caledonia, west of the [[Gulf of Darien]]]]
+[[Rodrigo de Bastidas]] sailed westward from [[Venezuela]] in 1501 in search of gold, and became the first European to explore the isthmus of Panama. A year later, [[Christopher Columbus]] visited the isthmus, and established a short-lived settlement in the [[Darién Province|Darien]]. [[Vasco Núñez de Balboa]]'s tortuous trek from the Atlantic to the Pacific in 1513 demonstrated that the isthmus was indeed the path between the seas, and Panama quickly became the crossroads and marketplace of Spain's empire in the [[New World]]. Gold and silver were brought by ship from South America, hauled across the isthmus, and loaded aboard ships for Spain. The route became known as the Camino Real, or Royal Road, although it was more commonly known as Camino de Cruces (Road of Crosses) because of the number of gravesites along the way.
+
+Panama was under [[Spanish Empire|Spanish rule]] for almost 300 years (1538–1821), and became part of the [[Viceroyalty of Peru]], along with all other Spanish possessions in South America. From the outset, Panamanian identity was based on a sense of "geographic destiny", and Panamanian fortunes fluctuated with the geopolitical importance of the isthmus. The colonial experience spawned Panamanian nationalism and a racially complex and highly stratified society, the source of internal conflicts that ran counter to the unifying force of nationalism.<ref>{{Cite book|title=La inmigración prohibida en Panamá y sus prejuicios raciales|last=Arango Durling |trans-title=Prohibited immigration in Panamá and its racial prejudices |first=Virginia |publisher=Publipan |year=1999 |lccn=2001388757 |location=Panamá  |language=Spanish |pages=}}</ref>{{page needed|date=February 2018}}
+
+In 1538 the [[Real Audiencia of Panama]] was established, initially with [[jurisdiction]] from Nicaragua to [[Cape Horn]], until the conquest of Peru. A Real Audiencia was a judicial district that functioned as an appeals court. Each audiencia had an ''[[oidor]]'' (Spanish: hearer, a judge).
+
+Spanish authorities had little control over much of the territory of Panama. Large sections managed to resist conquest and missionization until very late in the colonial era. Because of this, indigenous people of the area were often referred to as "indios de guerra" (war Indians) who resisted Spanish attempts to conquer them or missionize them.  However, Panama was enormously important to Spain strategically because it was the easiest way to transship silver mined in Peru to Europe.  Silver cargoes were landed at Panama and then taken overland to [[Portobelo, Colón|Portobello]] or [[Nombre de Dios, Colón|Nombre de Dios]] on the Caribbean side of the isthmus for further shipment.
+
+Because of incomplete Spanish control, the Panama route was vulnerable to attack from pirates (mostly Dutch and English), and from "new world" Africans called [[cimarron people (Panama)|cimarrons]] who had freed themselves from enslavement and lived in communes or ''palenques'' around the Camino Real in Panama's Interior, and on some of the islands off Panama's Pacific coast. One such famous community amounted to a small kingdom under [[Bayano]], which emerged in the 1552 to 1558. Sir [[Francis Drake]]'s famous raids on Panama in 1572–73 and [[John Oxenham]]'s crossing to the [[Pacific Ocean]] were aided by Panama cimarrons, and Spanish authorities were only able to bring them under control by making an alliance with them that guaranteed their freedom in exchange for military support in 1582.<ref>{{cite journal|author=Pike, Ruth |title=Black Rebels: Cimarrons in Sixteenth Century Panama|journal=The Americas|volume= 64|issue=2 |year=2007|pages= 243–66|doi=10.1353/tam.2007.0161}}</ref>
+
+The prosperity enjoyed during the first two centuries (1540–1740) while contributing to colonial growth; the placing of extensive regional judicial authority (Real Audiencia) as part of its jurisdiction; and the pivotal role it played at the height of the Spanish Empire – the first modern global empire – helped define a distinctive sense of autonomy and of regional or national identity within Panama well before the rest of the colonies.
+
+The end of the [[encomienda]] system in [[Azuero Peninsula|Azuero]], however, sparked the conquest of [[Veraguas]] in that same year. Under the leadership of Francisco Vázquez, the region of Veraguas passed into Castilian rule in 1558. In the newly conquered region, the old system of encomienda was imposed. On the other hand, the Panamanian movement for independence can be indirectly attributed to the abolition of the encomienda system in the [[Azuero Peninsula]], set forth by the Spanish Crown, in 1558 because of repeated protests by locals against the mistreatment of the native population. In its stead, a system of medium and smaller-sized landownership was promoted, thus taking away the power from the large landowners and into the hands of medium and small-sized proprietors.
+
+Panama was the site of the ill-fated [[Darien scheme]], which set up a [[Kingdom of Scotland|Scottish]] colony in the region in 1698. This failed for a number of reasons, and the ensuing debt contributed to the [[Acts of Union 1707|union]] of England and Scotland in 1707.<ref>"[http://www.historic-uk.com/HistoryUK/Scotland-History/DarienScheme.htm The Darien Scheme – The Fall of Scotland]", Historic UK</ref>
+
+In 1671, the [[privateer]] [[Henry Morgan]], licensed by the English government, sacked and burned the city of [[Panamá Viejo|Panama]] – the second most important city in the Spanish New World at the time. In 1717 the [[viceroyalty of New Granada]] (northern South America) was created in response to other Europeans trying to take Spanish territory in the Caribbean region. The Isthmus of Panama was placed under its jurisdiction. However, the remoteness of New Granada's capital, [[Santa Fe de Bogotá]] (the modern capital of [[Colombia]]) proved a greater obstacle than the Spanish crown anticipated as the authority of New Granada was contested by the seniority, closer proximity, and previous ties to the viceroyalty of Lima and even by Panama's own initiative. This uneasy relationship between Panama and Bogotá would persist for centuries.
+
+In 1744, Bishop Francisco Javier de Luna Victoria DeCastro established the College of San Ignacio de Loyola and on June 3, 1749, founded La Real y Pontificia Universidad de San Javier. By this time, however, Panama's importance and influence had become insignificant as Spain's power dwindled in Europe and advances in navigation technique increasingly permitted ships to round Cape Horn in order to reach the Pacific. While the Panama route was short it was also labor-intensive and expensive because of the loading and unloading and laden-down trek required to get from the one coast to the other.
+
+====1800s====
+
+[[File:Arco chato.jpg|thumb|[[Santo Domingo Church]]]]
+As the [[Spanish American wars of independence]] were heating up all across Latin America, Panama City was preparing for independence; however, their plans were accelerated by the unilateral Grito de La Villa de Los Santos (Cry From the Town of Saints), issued on November 10, 1821, by the residents of [[province|Azuero]] without backing from Panama City to declare their separation from the Spanish Empire. In both [[Veraguas]] and the capital this act was met with disdain, although on differing levels. To Veraguas, it was the ultimate act of treason, while to the capital, it was seen as inefficient and irregular, and furthermore forced them to accelerate their plans.
+
+Nevertheless, the Grito was a sign, on the part of the residents of Azuero, of their antagonism toward the independence movement in the capital. Those in the capital region in turn regarded the Azueran movement with contempt, since the separatists in Panama City believed that their counterparts in Azuero were fighting not only for independence from Spain, but also for their right to self-rule apart from Panama City once the Spaniards were gone.
+
+It was seen as a risky move on the part of Azuero, which lived in fear of Colonel [[History of Panama#José de Fábrega|José Pedro Antonio de Fábrega y de las Cuevas]] (1774–1841). The colonel was a staunch loyalist and had all of the isthmus' military supplies in his hands. They feared quick retaliation and swift retribution against the separatists.
+
+What they had counted on, however, was the influence of the separatists in the capital. Ever since October 1821, when the former Governor General, [[Juan de la Cruz Murgeón]], left the isthmus on a campaign in [[Quito]] and left a colonel in charge, the separatists had been slowly converting Fábrega to the separatist side. So, by November 10, Fábrega was now a supporter of the independence movement. Soon after the separatist declaration of Los Santos, Fábrega convened every organization in the capital with separatist interests and formally declared the city's support for independence. No military repercussions occurred because of skillful bribing of royalist troops.
+
+===Post-colonial Panama===
+[[File:Panama canal cartooon 1903.jpg|thumb|1903 political cartoon. The US government, working with separatists in Panama, engineered a [[Separation of Panama from Colombia|Panamanian declaration of independence]] from [[Colombia]], then sent US warships and marines to Panama.<ref name="countrystudies"/>]]
+{{See also|Panama–Colombia separation|Hay–Bunau-Varilla Treaty|Panamanian general election, 1968|History of Panama (1964–77)}}
+[[File:Roosevelt and the Canal.JPG|thumb|US President [[Theodore Roosevelt]] sitting on a steam shovel at the Panama Canal, 1906]]
+In the first 80 years following independence from Spain, Panama was a [[Departments of Colombia|department]] of Colombia, after voluntarily joining at the end of 1821.
+
+The people of the isthmus made several attempts to secede and came close to success in 1831, then again during the [[Thousand Days' War]] of 1899–1902,  understood among indigenous Panamanians as a struggle for land rights under the leadership of Victoriano Lorenzo.<ref>{{cite book|last1=Müller-Schwarze|first1=Nina K.|title=The Blood of Victoriano Lorenzo: An Ethnography of the Cholos of Northern Coclé Province.|date=2015|publisher=McFarland Press|location=Jefferson, North Carolina}}</ref>
+
+The US intent to influence the area, especially the [[Panama Canal]]'s construction and control, led to the [[separation of Panama from Colombia]] in 1903 and its establishment as a nation. When the [[Senate of Colombia]] rejected the [[Hay–Herrán Treaty]] on January 22, 1903, the United States decided to support and encourage the Panamanian separatist movement<ref>{{cite web|url=http://www.banrepcultural.org/node/86421 |title=Separación de Panamá: la historia desconocida |publisher=banrepcultural.org |date= |accessdate=April 9, 2016}}</ref><ref name="countrystudies">{{cite web |year=2009 |url = http://countrystudies.us/panama/8.htm|title = The 1903 Treaty and Qualified Independence|publisher = [[US Library of Congress]]|accessdate = May 1, 2009 |last= |quote=}}</ref>
+
+In November 1903 Panama proclaimed its independence<ref>{{cite web |url=http://www.banrepcultural.org/blaavirtual/revistas/credencial/junio2004/panama%20ultimo.htm |title=Panamá: el último año |publisher=banrepcultural.org |date= |accessdate=April 9, 2016}}</ref> and concluded the [[Hay–Bunau-Varilla Treaty]] with the United States. The treaty granted rights to the United States "as if it were sovereign" in a [[Panama Canal Zone|zone]] roughly {{convert|10|mi|km|order=flip|abbr=on}} wide and {{convert|50|mi|km|order=flip|abbr=on}} long. In that zone, the US would build a canal, then administer, fortify, and defend it "in perpetuity".
+
+[[File:Panama Canal under construction, 1907.jpg|thumb|Construction work on the [[Gaillard Cut]] of the Panama Canal, 1907]]
+
+In 1914 the United States completed the existing {{convert|83|km||adj=mid|abbr=off|-long}} canal.
+
+From 1903 to 1968, Panama was a [[constitutional democracy]] dominated by a commercially oriented [[oligarchy]]. During the 1950s, the Panamanian military began to challenge the oligarchy's political hegemony. The early 1960s saw also the beginning of sustained pressure in Panama for the renegotiation of the Hay–Bunau-Varilla Treaty, including riots that broke out in early 1964, resulting in widespread looting and dozens of deaths, and the evacuation of the American embassy.<ref>https://adst.org/2016/07/panama-riots-1964-beginning-end-canal/</ref>
+
+Amid negotiations for the Robles–Johnson treaty, Panama held elections in 1968. The candidates were
+*Dr. [[Arnulfo Arias]] Madrid, Unión Nacional ("National Union")
+*Antonio González Revilla, [[People's Party (Panama)|Democracia Cristiana]] ("Christian Democrats")
+*engineer David Samudio, Alianza del Pueblo ("People's Alliance") who had the government's support.
+<ref name="Pizzurno Gelós 1989">Pizzurno Gelós, Patricia and Celestino Andrés Araúz (1996) ''Estudios sobre el Panamá Republicano (1903–1989)''. Colombia: Manfer S.A.</ref>
+
+Arias Madrid was declared the winner of elections that were marked by violence and accusations of fraud against Alianza del Pueblo. On October 1, 1968, Arias Madrid took office as president of Panama, promising to lead a government of "national union" that would end the reigning corruption and pave the way for a new Panama. A week and a half later, on October 11, 1968, the National Guard (Guardia Nacional) ousted Arias and initiated the downward spiral that would culminate with the United States' invasion in 1989. Arias, who had promised to respect the hierarchy of the National Guard, broke the pact and started a large restructuring of the Guard. To preserve the Guard's interests, Lieutenant Colonel [[Omar Torrijos]] Herrera and Major Boris Martínez commanded the first military coup against a civilian government in Panamanian republican history.<ref name="Pizzurno Gelós 1989"/>
+
+The military justified itself by declaring that Arias Madrid was trying to install a dictatorship, and promised a return to constitutional rule. In the meantime, the Guard began a series of populist measures that would gain support for the coup. Among them were:
+*Price freezing on food, medicine and other goods<ref>Pizzurno Gelós, Patricia and Celestino Andrés Araúz (1996) ''Estudios sobre el Panamá Republicano (1903–1989)''. Colombia: Manfer S.A., p. 529.</ref> until January 31, 1969
+*rent level freeze
+*legalization of the permanence of squatting families in boroughs surrounding the historic site of Panama Viejo<ref name="Pizzurno Gelós 1989"/>
+Parallel to this{{clarify|date=May 2016}}, the military began a policy of repression against the opposition, who were labeled communists. The military appointed a Provisional Government Junta that was to arrange new elections. However, the National Guard would prove to be very reluctant to abandon power and soon began calling itself El Gobierno Revolucionario ("The Revolutionary Government").
+
+====Post-1970====
+[[File:Omar Torrijos with Panamanian farmers.jpg|thumb|[[Omar Torrijos]] (right) with farmers in the Panamanian countryside. The Torrijos government was well known for its policies of [[land redistribution]].]]
+
+{{One source|section|date=May 2016}}
+<!-- Comment on the above: Contains very serious allegations, which may well be true, or not. Gravity of the allegation requires more than one master's thesis as citation -->
+
+Under [[Omar Torrijos]]'s control, the military transformed the political and economic structure of the country, initiating massive coverage of social security services and expanding public education.
+
+The constitution was changed in 1972. For the reform to the constitution{{clarify|date=November 2017}} the military created a new organization, the Assembly of Corregimiento Representatives, which replaced the National Assembly. The new assembly, also known as the Poder Popular ("Power of the People"), was composed of 505 members selected by the military with no participation from political parties, which the military had eliminated. The new constitution proclaimed [[Omar Torrijos]] the "Maximum Leader of the Panamanian Revolution", and conceded him unlimited power for six years, although, to keep a façade of constitutionality,{{citation needed|date=May 2016}} [[Demetrio B. Lakas]] was appointed president for the same period (Pizzurno Gelós and Araúz, ''Estudios sobre el Panamá republicano'' 541).<ref name="Pizzurno Gelós 1989"/>
+
+In 1981 Torrijos died in a plane crash.<ref>{{Cite news|url=https://www.nytimes.com/1981/08/02/obituaries/panama-leader-killed-in-crash-in-bad-weather.html|title=PANAMA LEADER KILLED IN CRASH IN BAD WEATHER|last=International|first=United Press|access-date=2018-06-01|language=en}}</ref> Torrijos' death altered the tone of Panama's political evolution. Despite the 1983 constitutional amendments which proscribed a political role for the military, the [[Panama Defense Force]] (PDF), as they were then known, continued to dominate Panamanian political life. By this time, General [[Manuel Noriega|Manuel Antonio Noriega]] was firmly in control of both the PDF and the civilian government.{{when|date=May 2016}}
+
+[[File:Jimmy Carter and General Omar Torrijos signing the Panama Canal Treaty.jpg|thumb|US President [[Jimmy Carter]] shakes hands with General [[Omar Torrijos]] after signing the [[Torrijos–Carter Treaties|Panama Canal Treaties]] (September 7, 1977).]]
+In the 1984 elections, the candidates were
+*[[Nicolás Ardito Barletta Vallarino]], supported by the military in a union called UNADE
+*Arnulfo Arias Madrid, for the opposition union ADO
+*ex-General [[Rubén Darío Paredes]], who had been forced to an early retirement by Noriega, running for Partido Nacionalista Popular PNP ("Popular Nationalist Party")
+*Carlos Iván Zúñiga, running for Partido Acción Popular (PAPO) meaning "Popular Action Party"
+Barletta was declared the winner of elections that had been clearly won by Madrid. Ardito Barletta inherited a country in economic ruin and hugely indebted to the [[International Monetary Fund]] and the [[World Bank]]. Amid the economic crisis and Barletta's efforts to calm the country's creditors, street protests arose, and so did military repression.
+
+Meanwhile, Noriega's regime had fostered a well-hidden criminal economy that operated as a parallel source of income for the military and their allies, providing revenues from drugs and [[money laundering]]. Toward the end of the military dictatorship, a new wave of Chinese migrants arrived on the isthmus in the hope of migrating to the United States. The smuggling of Chinese became an enormous business, with revenues of up to 200 million dollars for Noriega's regime (see Mon 167).<ref>Mon Pinzón, Ramón Arturo (1979). ''Historia de la Migración China Durante la Construcción del Ferrocarril de Panamá''. Masters Thesis. México: El Colegio de México.</ref>
+
+The military dictatorship, at that time{{when|date=May 2016}} supported by the United States{{citation needed|date=May 2016}}, perpetrated the assassination and torture of more than one hundred Panamanians and forced at least a hundred more dissidents into exile. (see Zárate 15).<ref>Zárate, Abdiel (November 9, 2003). "Muertos y desaparecidos durante la época militar." Extra-centennial issue of ''La Prensa''.</ref> Noriega also began playing a double role in Central America under the supervision of the CIA.{{citation needed|date=May 2016}} While the [[Contadora group]] conducted diplomatic efforts to achieve peace in the region, Noriega supplied Nicaraguan [[Contras]] and other guerrillas in the region with weapons and ammunition.<ref name="Pizzurno Gelós 1989"/>
+
+On June 6, 1987, the recently retired Colonel Roberto Díaz Herrera, resentful that Noriega had broken the agreed-upon "Torrijos Plan" of succession that would have made him the chief of the military after Noriega, decided to denounce the regime. He revealed details of electoral fraud{{clarify|date=May 2016}}, accused Noriega of planning Torrijos's death and declared that Torrijos had received 12 million dollars from the Shah of Iran for giving the exiled Iranian leader asylum. He also accused Noriega of the assassination by decapitation of then-opposition leader, Dr. [[Hugo Spadafora]].<ref name="Pizzurno Gelós 1989"/>{{citation needed|date=May 2016}}
+
+On the night of June 9, 1987, the Cruzada Civilista ("Civic Crusade") was created {{where|date=May 2016}} and began organizing actions of civil disobedience. The Crusade called for a general strike. In response, the military suspended constitutional rights and declared a state of emergency in the country. On July 10, the [[Civic Crusade]] called for a massive demonstration that was violently repressed by the "Dobermans", the military's special riot control unit. That day, later known as El Viernes Negro ("Black Friday"), left six hundred people injured and another six hundred detained, many of whom were later tortured and raped.{{citation needed|date=May 2016}}
+
+United States President [[Ronald Reagan]] began a series of sanctions against the military regime. The United States froze economic and military assistance to Panama in the middle of 1987 in response to the domestic political crisis in Panama and an attack on the US embassy. These sanctions did little to overthrow Noriega, but severely damaged Panama's economy. The sanctions hit the Panamanian population hard and caused the Gross Domestic Product (GDP) to decline almost 25 percent between 1987 and 1989 (see Acosta n.p.).<ref name="Acosta, Coleen 2008">Acosta, Coleen (October 24, 2008). [http://www.stanford.edu/class/e297a/Panama%20Imperialism%20and%20Struggle.htm "Iraq: a Lesson from Panama Imperialism and Struggle for Sovereignty"]. ''Journals of the Stanford Course on Prejudice and Poverty''.</ref>
+
+On February 5, 1988, General Manuel Antonio Noriega was accused of drug trafficking by federal juries in Tampa and Miami.
+
+In April 1988, US President Ronald Reagan invoked the [[International Emergency Economic Powers Act]], freezing Panamanian government assets in all US organizations. In May 1989 Panamanians voted overwhelmingly for the anti-Noriega candidates. The Noriega regime promptly annulled the election and embarked on a new round of repression.
+
+[[File:Panama clashes 1989.JPEG|thumb|The aftermath of urban warfare during the [[United States invasion of Panama|US invasion of Panama]], 1989]]
+
+====US invasion (1989)====
+{{Further|United States invasion of Panama}}
+
+The United States government said [[Operation Just Cause]], which began on December 20, 1989, was "necessary to safeguard the lives of U.S. citizens in Panama, defend democracy and human rights, combat drug trafficking, and secure the neutrality of the [[Panama Canal]] as required by the [[Torrijos–Carter Treaties]]" (''New York Times'', A Transcript of President Bush's Address n.p.).<ref>''New York Times''. A Transcript of President Bush's Address on the Decision to Use Force, December 21, 1989. Web. January 2, 2008.</ref> [[Human Rights Watch]] wrote in its 1989 report: "Washington turned a blind eye to abuses in Panama for many years until concern over drug trafficking prompted indictments of the general [Noriega] by two grand juries in Florida in February 1988".<ref name="Panama">[https://www.hrw.org/reports/1989/WR89/Panama.htm "Panama"]. ''Human Rights Watch World Report 1989''. hrw.org</ref> The US reported 23 servicemen killed and 324 wounded, with Panamanian casualties estimated around 450. Described as a surgical maneuver, the action led to estimates of civilian death from 200 to 4,000 during the two weeks of armed activities. The United Nations put the Panamanian civilian death toll at 500, the United States gave a figure of 202 civilians killed and former US attorney general [[Ramsey Clark]] estimated 4,000 deaths.<ref>{{cite web|url=http://www.globalsecurity.org/military/ops/just_cause.htm|title=Operation Just Cause|author=John Pike|publisher=|accessdate=October 25, 2014}}</ref><ref>{{Cite news|url=https://www.nytimes.com/1990/04/01/world/panama-and-us-strive-to-settle-on-death-toll.html|title=Panama and U.S. Strive To Settle on Death Toll|last=Times|first=Larry Rohter and Special To the New York|access-date=2018-04-15|language=en}}</ref> It represented the largest United States military operation since the end of the Vietnam War (Cajar Páez 22)<ref>Cajar Páez, Aristides. "La invasion." Extra-centennial issue of La Prensa, Nov.9 (2003): 22. Print.</ref> The number of US civilians (and their dependents), who had worked for the [[Panama Canal Authority|Panama Canal Commission]] and the US military, and were killed by the Panamanian Defense Forces, has never been fully disclosed.
+
+On December 29, the [[United Nations General Assembly]] approved a resolution calling the intervention in Panama a "flagrant violation of international law and of the independence, sovereignty and territorial integrity of the States".<ref>{{cite web|url=https://www.un.org/documents/ga/res/44/a44r240.htm|title=Effects of the military intervention by the United States of America in Panama on the situation in Central America}}</ref> A similar resolution was vetoed in the [[United Nations Security Council|Security Council]] by the United States, the United Kingdom, and France.<ref>{{cite news|url=https://www.nytimes.com/1989/12/24/world/fighting-panama-united-nations-security-council-condemnation-invasion-vetoed.html|title=Fighting in Panama: United Nations; Security Council Condemnation of Invasion Vetoed}}</ref>
+
+The urban population, many living below the poverty level, was greatly affected by the 1989 intervention. As pointed out in 1995 by a UN Technical Assistance Mission to Panama, the bombardments during the invasion displaced 20,000 people. The most heavily affected district was impoverished [[El Chorrillo]], where several blocks of apartments were completely destroyed. El Chorrillo had been built in the days of Canal construction, a series of wooden barracks which easily caught fire under the United States attack.<ref>{{cite web|url=http://www.roatan.com/About-Locations/Panama.pdf|title=Panama|deadurl=yes|archiveurl=https://web.archive.org/web/20160304103819/http://www.roatan.com/About-Locations/Panama.pdf|archivedate=March 4, 2016|df=mdy-all}}</ref><ref>{{cite web|url=http://topdocumentaryfilms.com/the-panama-deception/|title=The Panama Deception. Dir. Barbara Trent. Empowerment Project, 1992 documentary}}</ref><ref>Blum, William. Killing Hope: U.S. Military and C.I.A. Interventions Since World War II -Common Courage Press, 2008.</ref> The economic damage caused by the intervention has been estimated between 1.5 and 2 billion dollars. n.p.<ref name="Acosta, Coleen 2008"/> Most [[Panamanians]] supported the intervention.<ref name="Panama"/><ref>Pastor, Robert A. (2001) ''Exiting the Whirlpool: U.S. Foreign Policy Toward Latin America and the Caribbean'', p. 96, {{ISBN|0813338115}}.</ref>
+
+===Post-intervention era===
+Panama's Electoral Tribunal moved quickly to restore civilian constitutional government, reinstated the results of the May 1989 election on December 27, 1989, and confirmed the victory of President [[Guillermo Endara]] and Vice Presidents [[Guillermo Ford]] and [[Ricardo Arias Calderón]].
+
+During its five-year term, the often-fractious government struggled to meet the public's high expectations. Its new police force was a major improvement over its predecessor but was not fully able to deter crime. [[Ernesto Pérez Balladares]] was sworn in as President on September 1, 1994, after an internationally monitored election campaign.
+
+Perez Balladares ran as the candidate for a three-party coalition dominated by the [[Democratic Revolutionary Party]] (PRD), the erstwhile political arm of military dictatorships. Perez Balladares worked skillfully during the campaign to rehabilitate the PRD's image, emphasizing the party's populist Torrijos roots rather than its association with Noriega. He won the election with only 33 percent of the vote when the major non-PRD forces splintered into competing factions. His administration carried out economic reforms and often worked closely with the US on implementation of the Canal treaties.{{citation needed|date=May 2016}}
+
+On September 1, 1999, [[Mireya Moscoso]], the widow of former President [[Arnulfo Arias Madrid]], took office after defeating PRD candidate [[Martín Torrijos]], son of [[Omar Torrijos]], in a free and fair election.<ref name=":0">{{Cite news|url=https://2009-2017.state.gov/outofdate/bgn/panama/95380.htm|title=Panama (11/07)|publisher=US Department of State|access-date=April 2, 2017}}</ref>{{citation needed|date=May 2016}} During her administration, Moscoso attempted to strengthen social programs, especially for child and youth development, protection, and general welfare. Moscoso's administration successfully handled the [[Panama Canal]] transfer and was effective in the administration of the Canal.<ref name=":0" />{{citation needed|date=May 2016}}
+
+[[File:Boris Johnson with Juan Carlos Varela in London - 2018 (27232646267).jpg|thumb|British Foreign Secretary [[Boris Johnson]] swapped football shirts with the President of Panama, [[Juan Carlos Varela]] in London, 14 May 2018]]
+The PRD's Martin Torrijos won the presidency and a legislative majority in the National Assembly in 2004. Torrijos ran his campaign on a platform of, among other pledges, a "zero tolerance" for corruption, a problem endemic to the Moscoso and Perez Balladares administrations.{{citation needed|date=May 2016}} After taking office, Torrijos passed a number of laws which made the government more transparent. He formed a National Anti-Corruption Council whose members represented the highest levels of government and civil society, labor organizations, and religious leadership. In addition, many of his closest Cabinet ministers were non-political technocrats known for their support for the Torrijos government's anti-corruption aims. Despite the Torrijos administration's public stance on corruption, many high-profile cases,{{clarify|date=May 2016}} particularly involving political or business elites, were never acted upon.
+
+Conservative supermarket magnate [[Ricardo Martinelli]] was elected to succeed Martin Torrijos with a landslide victory in the May 2009 presidential election. Martinelli's business credentials drew voters worried by slowing growth due to the world financial crisis.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/americas/country_profiles/1229332.stm  |title=Panama Country Profile |publisher=BBC  |date=June 30, 2010 |accessdate=July 25, 2010}}</ref> Standing for the four-party opposition Alliance for Change, Martinelli gained 60 percent of the vote, against 37 percent for the candidate of the governing left-wing Democratic Revolutionary Party.
+
+On May 4, 2014, [[Juan Carlos Varela]] won the 2014 presidential election with over 39 percent of the votes, against the party of his former political partner Ricardo Martinelli, Cambio Democrático, and their candidate [[José Domingo Arias]]. He was sworn in on July 1, 2014.
+
+==Geography==
+[[File:Pm-map.png|upright=1.5|thumb|A map of Panama]]
+{{Main|Geography of Panama}}
+[[File:La palma, Darién.jpg|thumb|La Palma, Darién.]]
+Panama is located in Central America, bordering both the Caribbean Sea and the Pacific Ocean, between Colombia and Costa Rica. It mostly lies between latitudes [[7th parallel north|7°]] and [[10th parallel north|10°N]], and longitudes [[77th meridian west|77°]] and [[83rd meridian west|83°W]] (a small area lies west of 83°).
+
+Its location on the [[Isthmus of Panama]] is strategic. By 2000, Panama controlled the [[Panama Canal]] which connects the Atlantic Ocean and the Caribbean Sea to the North of the Pacific Ocean.  Panama's total area is 74,177.3&nbsp;km<sup>2</sup>.<ref name=area>{{cite web |url=https://www.contraloria.gob.pa/inec/archivos/P6221DATOS%20GENERALES%20%20%20%202013.pdf |title=Datos generales e históricos de la República de Panamá |language=es |publisher=[[National Institute of Statistics and Census of Panama|INEC]] |accessdate=December 22, 2015}}</ref>
+
+The dominant feature of Panama's geography is the central spine of mountains and hills that forms the continental divide. The divide does not form part of the great mountain chains of North America, and only near the Colombian border are there highlands related to the [[Andes|Andean]] system of South America. The spine that forms the divide is the highly eroded arch of an uplift from the sea bottom, in which peaks were formed by volcanic intrusions.
+
+The mountain range of the divide is called the [[Cordillera de Talamanca]] near the Costa Rican border. Farther east it becomes the Serranía de Tabasará, and the portion of it closer to the lower saddle of the isthmus, where the Panama Canal is located, is often called the Sierra de Veraguas. As a whole, the range between Costa Rica and the canal is generally referred to by geographers as the [[Cordillera Central, Costa Rica|Cordillera Central]].
+
+The highest point in the country is the [[Volcán Barú]], which rises to {{convert|3,475|m|abbr=off}}. A nearly impenetrable jungle forms the [[Darién Gap]] between Panama and Colombia where Colombian [[guerrilla]]s and drug dealers operate and sometimes take [[hostage-taking|hostages]]. This and unrest, and forest protection movements, create a break in the [[Pan-American Highway]], which otherwise forms a complete road from [[Alaska]] to [[Patagonia]].
+
+Panama's wildlife is the most diverse in Central America. It is home to many South American species as well as to North American wildlife.
+
+[[File:chagres.jpg|thumb|The [[Chagres River]]]]
+
+===Waterways===
+{{main|Panama Canal}}
+Nearly 500 rivers lace Panama's rugged landscape. Mostly unnavigable, many originate as swift highland streams, meander in valleys, and form coastal deltas. However, the [[Río Chagres]] (''Chagres River''), located in central Panama, is one of the few wide rivers and a source of enormous [[hydroelectricity|hydroelectric]] power. The central part of the river is dammed by the [[Gatun Dam]] and forms [[Gatun Lake]], an [[artificial lake]] that constitutes part of the [[Panama Canal]]. The lake was created by the construction of the Gatun Dam across the Río Chagres between 1907 and 1913. Once  created, Gatun Lake was the largest man-made lake in the world, and the dam was the largest earth dam. The river drains northwest into the Caribbean. The Kampia and Madden Lakes (also filled from the Río Chagres) provide hydroelectricity for the area of the former Canal Zone.
+
+The Río Chepo, another source of hydroelectric power, is one of the more than 300 rivers emptying into the Pacific. These Pacific-oriented rivers are longer and slower-running than those on the Caribbean side. Their basins are also more extensive. One of the longest is the [[Río Tuira]], which flows into the [[Golfo de San Miguel]] and is the nation's only river that is navigable by larger vessels.
+
+===Harbors===
+The Caribbean coastline is marked by several good natural harbors. However, Cristóbal, at the Caribbean terminus of the canal, had the only important port facilities in the late 1980s. The numerous islands of the Archipiélago de Bocas del Toro, near the Beaches of Costa Rica, provide an extensive natural roadstead and shield the banana port of [[Almirante, Bocas del Toro|Almirante]]. The more than 350 [[San Blas Islands]] near Colombia, are strung out over more than {{convert|160|km|abbr=off}} along the sheltered Caribbean coastline.
+
+[[File:Colon Panama.jpg|thumb|[[Colón, Panama|Colón Harbor]], 2000]]
+The terminal ports located at each end of the Panama Canal, namely the Port of [[Cristóbal, Colón|Cristóbal]] and the Port of [[Balboa, Panama|Balboa]], are ranked second and third respectively in Latin America in terms of numbers of containers units ([[Twenty-foot equivalent unit|TEU]]) handled.<ref>{{cite web |author=CEPAL – Naciones Unidas |url=http://www.eclac.cl/cgi-bin/getprod.asp?xml=/Transporte/noticias/noticias/8/38828/P38828.xml&base=/tpl/top-bottom.xsl |title=Ranking 2009 de Actividad portuaria de contenedores en América Latina y el Caribe |publisher=Eclac.cl |date=March 22, 2010 |accessdate=December 23, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110511140155/http://www.eclac.cl/cgi-bin/getprod.asp?xml=%2FTransporte%2Fnoticias%2Fnoticias%2F8%2F38828%2FP38828.xml&base=%2Ftpl%2Ftop-bottom.xsl |archivedate=May 11, 2011 |df=mdy-all }}</ref> The Port of Balboa covers 182 hectares and contains four berths for containers and two multi-purpose berths. In total, the berths are over {{convert|2,400|m|abbr=off}} long with alongside depth of {{convert|15|m|abbr=off}}. The Port of Balboa has 18 super post-[[Panamax]] and Panamax quay cranes and 44 [[gantry crane]]s. The Port of Balboa also contains {{convert|2,100|m2|lk=out|abbr=off}} of warehouse space.<ref>{{cite web|url=http://www.worldportsource.com/ports/PAN_Port_of_Balboa_1602.php |title=Port of Balboa |publisher=World Port Source |accessdate=December 23, 2010}}</ref>
+
+The Ports of Cristobal (encompassing the container terminals of Panama Ports Cristobal, Manzanillo International Terminal and Colon Container Terminal) handled 2,210,720 TEU in 2009, second only to the [[Port of Santos]], Brazil, in Latin America.
+
+Excellent deep water ports capable of accommodating large [[VLCC]] (Very Large Crude Oil Carriers) are located at [[Charco Azul]], [[Chiriquí Province|Chiriquí]] (Pacific) and [[Chiriquí Grande]], [[Bocas del Toro Province|Bocas del Toro]] (Atlantic) near Panama's western border with Costa Rica. The [[Trans-Panama pipeline]], running {{convert|131|km|abbr=off}} across the isthmus, has operated between Charco Azul and Chiriquí Grande since 1979.<ref>{{cite web|url=http://www.petroterminal.com/index.php?option=com_content&view=article&id=32%3Ahistory&catid=7%3Acorporate-profile&Itemid=98&lang=en |title=Our History |publisher=Petroterminal.com |date=February 9, 1997 |accessdate=December 23, 2010}}</ref>
+
+===Climate===
+{{Main|Climate of Panama}}
+[[File:Koppen-Geiger Map PAN present.svg|thumb|Panama map of Köppen climate classification.]]
+[[File:VistaBoquete.jpg|thumb|A cooler climate is common in the Panamanian highlands.]]
+Panama has a tropical climate. Temperatures are uniformly high—as is the relative humidity—and there is little seasonal variation. [[Diurnal temperature variation|Diurnal ranges]] are low; on a typical dry-season day in the capital city, the early morning minimum may be {{convert|24|°C|1}} and the afternoon maximum {{convert|30|°C|1}}. The temperature seldom exceeds {{convert|32|°C|1}} for more than a short time. Temperatures on the Pacific side of the isthmus are somewhat lower than on the Caribbean, and breezes tend to rise after dusk in most parts of the country. Temperatures are markedly cooler in the higher parts of the mountain ranges, and frosts occur in the [[Cordillera de Talamanca]] in western Panama.
+
+Climatic regions are determined less on the basis of temperature than on [[rain]]fall, which varies regionally from less than {{convert|1300|mm|in|1|sp=us}} to more than {{convert|3000|mm|in|1|sp=us}} per year. Almost all of the rain falls during the rainy season, which is usually from April to December, but varies in length from seven to nine months. In general, rainfall is much heavier on the Caribbean than on the Pacific side of the [[continental divide]]. The annual average in Panama City is little more than half of that in Colón. Although rainy-season thunderstorms are common, the country is outside the hurricane belt.
+
+Panama's tropical environment supports an abundance of plants. Forests dominate, interrupted in places by grasslands, scrub, and crops. Although nearly 40% of Panama is still wooded, [[deforestation]] is a continuing threat to the rain-drenched woodlands. Tree cover has been reduced by more than 50 percent since the 1940s. Subsistence farming, widely practised from the northeastern jungles to the southwestern grasslands, consists largely of corn, bean, and tuber plots. [[Mangrove swamp]]s occur along parts of both coasts, with banana plantations occupying deltas near Costa Rica. In many places, a multi-canopied [[rain forest]] abuts the swamp on one side of the country and extends to the lower reaches of slopes on the other.
+
+==Politics==
+{{Main|Politics of Panama}}
+
+[[File:Asamblea Nacional de Panamá.JPG|thumb|The [[National Assembly of Panama]].]]
+Panama's politics take place in a framework of a [[presidential system|presidential]] [[representative democracy|representative democratic]] republic, whereby the [[President of Panama]] is both [[head of state]] and [[head of government]], and of a [[multi-party system]]. [[Executive power]] is exercised by the government. [[Legislative power]] is vested in both the government and the [[National Assembly of Panama|National Assembly]]. The [[judiciary]] is independent of the executive and the legislature.
+
+National elections are universal and mandatory for all citizens 18 years and older. National elections for the executive and legislative branches take place every five years. Members of the judicial branch (justices) are appointed by the head of state. Panama's [[National Assembly of Panama|National Assembly]] is elected by proportional representation in fixed electoral districts, so many smaller parties are represented. Presidential elections requires a simple majority; out of the five last presidents only ex-president Ricardo Martinelli has managed to be elected with over 50 percent of the popular vote.<ref>[http://news.bbc.co.uk/2/hi/americas/8031425.stm Tycoon elected Panama's president] Retrieved July 25, 2010</ref>
+
+===Political culture===
+Since the end of [[Manuel Noriega]]'s military dictatorship in 1989, Panama has successfully completed five peaceful transfers of power to opposing political factions. The political landscape is dominated by two major parties and many smaller parties, many of which are driven by individual leaders more than ideologies. Former President [[Martín Torrijos]] is the son of general [[Omar Torrijos]]. He succeeded [[Mireya Moscoso]], the widow of [[Arnulfo Arias]]. Panama's most recent [[Panamanian general election, 2014|national elections occurred on May 4, 2014]], with incumbent vice-President [[Juan Carlos Varela]] declared the victor. The [[2019 Panamanian general election]] is scheduled for May 5, 2019, with current President [[Juan Carlos Varela]] being ineligible due to constitutional limits for a second term. 
+
+===Foreign relations===
+{{Further|Foreign relations of Panama}}
+[[File:John Kerry con Juan Carlos Varela e Isabel Saint Malo.jpg|thumb|left|Panama's President-elect [[Juan Carlos Varela]] and Vice President [[Isabel Saint Malo]] with then-US Secretary of State [[John Kerry]] just before Varela's inauguration in 2014]]
+
+The United States cooperates with the Panamanian government in promoting economic, political, security, and social development through US and international agencies. Cultural ties between the two countries are strong, and many Panamanians go to the United States for higher education and advanced training.
+
+===Military===
+{{Further|Panamanian Public Forces}}
+
+The [[Panamanian Public Forces]] are the national security forces of Panama. Panama is the second country in Latin America (the other being [[Costa Rica]]) to permanently abolish its standing army. Panama maintains armed police and security forces, and small air and maritime forces. They are tasked with law enforcement and can perform limited military actions.
+
+===Administrative divisions===
+{{Image label begin|image=División Política de Panamá.svg|width=400|float=right}}
+{{Image label small|x=0.06|y=0.08|scale=500|text=[[Bocas del Toro Province|Bocas del Toro]]}}
+{{Image label small|x=0.43|y=0.19|scale=500|text=[[Coclé Province|Coclé]]}}
+{{Image label small|x=0.54|y=0.07|scale=500|text=[[Colón Province|Colón]]}}
+{{Image label small|x=0.07|y=0.19|scale=500|text=[[Chiriquí Province|Chiriquí]]}}
+{{Image label small|x=0.81|y=0.23|scale=500|text=[[Darién Province|Darién]]}}
+{{Image label small|x=0.38|y=0.31|scale=500|text=[[Herrera Province|Herrera]]}}
+{{Image label small|x=0.42|y=0.36|scale=500|text=[[Los Santos Province|Los Santos]]}}
+{{Image label small|x=0.62|y=0.09|scale=500|text=[[Panamá Province|Panamá]]}}
+{{Image label small|x=0.50|y=0.15|scale=500|text=[[Panamá Oeste Province|West Panamá]]}}
+{{Image label small|x=0.28|y=0.28|scale=500|text=[[Veraguas Province|Veraguas]]}}
+{{Image label small|x=0.78|y=0.05|scale=500|text=[[Guna Yala]]}}
+{{Image label small|x=0.90|y=0.21|scale=500|text=[[Comarca Emberá-Wounaan]]}}
+{{Image label small|x=0.77|y=0.32|scale=500|text=[[Comarca Emberá-Wounaan]]}}
+{{Image label small|x=0.19|y=0.18|scale=500|text=[[Ngäbe-Buglé Comarca]]}}
+{{Image label small|x=0.74|y=0.10|scale=500|text=[[Kuna de Madugandí]]}}
+{{Image label small|x=0.82|y=0.13|scale=500|text=[[Kuna de Wargandí]]}}
+{{Image label end}}
+
+{{Main|Provinces and regions of Panama}}
+Panama is divided into ten provinces with their respective local authorities (governors). Each is divided into [[districts of Panama|districts]] and [[corregimientos of panama|''corregimientos'']] (townships). Also, there are five ''Comarcas'' (literally: "Shires") populated by a variety of indigenous groups.
+
+'''Provinces'''
+{{columns-list|colwidth=30em|
+* [[Bocas del Toro Province|Bocas del Toro]]
+* [[Chiriquí Province|Chiriquí]]
+* [[Coclé Province|Coclé]]
+* [[Colón Province|Colón]]
+* [[Darién Province|Darién]]
+* [[Herrera Province|Herrera]]
+* [[Los Santos Province|Los Santos]]
+* [[Panamá Province|Panamá]]
+* [[West Panamá Province|West Panamá]]
+* [[Veraguas Province|Veraguas]]
+}}
+'''Regions'''
+* [[Comarca Emberá-Wounaan|Emberá]]
+* [[Guna Yala]]
+* [[Ngäbe-Buglé Comarca]]
+* [[Kuna de Madugandí]]
+* [[Kuna de Wargandí]]
+
+==Economy==
+{{Main|Economy of Panama}}
+{{update|date=May 2016}}
+[[File:Exclusa Miraflores Canal de Panama Panorama.jpg|thumb|A [[Panamax]] ship in transit through the Miraflores locks, [[Panama Canal]] ]]
+
+According to the [[CIA World Factbook]], {{As of|2012|lc=y}} Panama had an [[unemployment rate]] of 2.7 percent.<ref name="cia"/> A food surplus was registered in August 2008. On the [[Human Development Index]], Panama ranked 60th in 2015. In recent years, Panama's economy has experienced a boom, with growth in [[real gross domestic product]] (GDP) averaging over 10.4 percent in 2006–2008. Panama's economy has been among the fastest growing and best managed in Latin America.{{citation needed|date=May 2016}} The [[Latin Business Chronicle]] predicted that Panama would be the fastest growing economy in Latin America during the five-year period from 2010–14, matching Brazil's 10 percent rate.<ref>{{cite web |url=http://www.latinbusinesschronicle.com/app/article.aspx?id=3702 |title=Latin Business Chronicle |publisher=Latin Business Chronicle |date=October 7, 2009 |accessdate=June 26, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100717100429/http://www.latinbusinesschronicle.com/app/article.aspx?id=3702 |archivedate=July 17, 2010 |df=mdy-all }}</ref>
+
+The [[Panama Canal expansion project|expansion project on the Panama Canal]] to boost and extend economic expansion for some time.<ref>Sullivan M. P. 2011 February 2. Panama: Politics and Economic Conditions and U.S. Relations. Congressional Research Service.</ref> Panama also signed the [[Panama–United States Trade Promotion Agreement]] which eliminates tariffs to US services.<ref>{{Cite web|url=https://ustr.gov/trade-agreements/free-trade-agreements/panama-tpa|title=U.S.- Panama Trade Promotion Agreement|website=ustr.gov|language=en|access-date=2019-03-19}}</ref>
+
+Panama is regarded as a [[World Bank high-income economy|high-income country]]. It remains a country of stark contrasts perpetuated by dramatic educational disparities. Between 2015 and 2017, poverty at US$5.5 fell from 15.4 to an estimated 14.1 percent.<ref>{{cite news|url= https://www.worldbank.org/en/country/panama/overview|work= worldbank.org |title= Panama Overview}}</ref>
+
+===Economic sectors===
+Panama's economy, because of its key geographic location, is mainly based on a well-developed service sector, especially commerce, tourism, and trading. The handover of the Canal and military installations by the United States has given rise to large construction projects.
+
+A project to build a third set of locks for the Panama Canal A was overwhelmingly approved in a referendum (with low voter turnout, however) on October 22, 2006. The official estimated cost of the project is US$5.25 billion, but the canal is of major economic importance because it provides millions of dollars of toll [[revenue]] to the national economy and provides massive employment. Transfer of control of the Canal to the Panamanian government completed in 1999, after 85 years of US control.
+
+Copper and gold deposits are being developed by foreign investors, to the dismay of some environmental groups, as all of the projects are located within protected areas.<ref>Oancea, Dan (January 2009). [https://web.archive.org/web/20110516031334/http://magazine.mining.com/Issues/0901/MiningCentralAmerica.pdf Mining in Central America]. Magazine.mining.com, pp. 10–12.</ref>
+
+===Panama as an IFC===
+{{main|Financial centre|Panama as a tax haven}}
+[[File:Countries implicated in the Panama Papers.svg|thumb|Countries with politicians, public officials or close associates implicated in the [[List of people named in the Panama Papers|Panama Papers leak]] on April 15, 2016]]
+Since the early 20th century, Panama has with the revenues from the canal built the largest Regional Financial Center (IFC)<ref>{{Cite book|url=https://books.google.com/books?id=JHLvCAAAQBAJ&pg=PA9&lpg=PA9|title=International Banking and Financial Centers|last=Park|first=Yoon S.|last2=Essayyad|first2=Musa|date=December 6, 2012|publisher=Springer Science & Business Media|isbn=9789400925045|language=en}}</ref> in Central America, with consolidated assets more than three times Panama's GDP. The [[banking]] sector employs more than 24,000 people directly. Financial intermediation contributed 9.3 percent of GDP.<ref name=":1">{{Cite web|url=https://www.presidencia.gob.pa/tmp/file/1503/INDEPENDENT%20EXPERT%20COMMITTEE.pdf|title=Committee of Independent Experts|last=|first=|date=|website=|publisher=Presidency of the Republic of Panama|publication-date=November 18, 2016|access-date=}}</ref> Stability has been a key strength of Panama's financial sector, which has benefited from the country's favorable economic and business climate. Banking institutions report sound growth and solid financial earnings. The banking supervisory regime is largely compliant with the [[Basel III|Basel Core Principles]] for Effective Banking Supervision.<ref>{{Cite web|url=http://www.imf.org/external/NP/ofca/OFCA.aspx#P|title=Offshore Financial Centers (OFCs): IMF Staff Assessments (OFCA)|last=|first=|date=|website=www.imf.org|language=en-US|access-date=June 4, 2017}}</ref> As a regional financial center, Panama exports some banking services, mainly to Latin America, and plays an important role in the country's economy. However, Panama still cannot compare to the position held by Hong Kong or Singapore as financial centers in Asia.
+
+Panama still has a reputation worldwide for being a [[tax haven]] but has agreed to enhanced transparency, especially since the release in 2016 of the [[Panama Papers]]. Significant progress has been made to improve full compliance with anti-money laundering recommendations. Panama was removed from the [[FATFGAFI]] gray list in February 2016. However efforts remain to be made, and the IMF repeatedly mentions the need to strengthen financial transparency and fiscal structure.<ref name=":1" />
+
+===Transportation===
+[[File:CM Hubdelasamericas.jpg|thumb|[[Tocumen International Airport]], Central America's largest airport]]
+{{main|Transport in Panama}}
+
+Panama is home to [[Tocumen International Airport]], Central America's largest airport. Additionally there are more than 20 smaller airfields in the country. (See [[list of airports in Panama]]).
+
+Panama's roads, traffic and transportation systems are generally safe, though night driving is difficult and in many cases, restricted by local authorities. This usually occurs in [[shanty towns|informal settlements]].<ref name="travel">[https://travel.state.gov/travel/cis_pa_tw/cis/cis_994.html "Panama: Country-specific information"] {{Webarchive|url=https://web.archive.org/web/20131204211128/http://travel.state.gov/travel/cis_pa_tw/cis/cis_994.html |date=December 4, 2013 }}. [[US Department of State]] (March 18, 2009). {{PD-notice}}</ref> Traffic in Panama moves on the right, and Panamanian law requires that drivers and passengers wear seat belts.<ref name=travel/> Highways are generally well-developed for a Latin American country.
+
+Currently, Panama City has modern buses known as Metrobuses,<ref>{{cite web
+|url = http://mibus.com.pa/
+|title = MiBus {{!}}
+|website = mibus.com.pa
+|access-date = February 26, 2016
+}}</ref> along with a Metro line.<ref>{{cite web
+|url = http://elmetrodepanama.com/
+|title = El Metro de Panamá
+|website = El Metro de Panamá
+|language = es-ES
+|access-date = February 26, 2016
+}}</ref> Formerly, the system was dominated by colorfully painted ''diablos rojos''; a few remain. A ''{{lang|es|diablo rojo}}'' is usually customized or painted with bright colors, usually depicting famous actors, politicians or singers. Panama City's streets experience frequent [[traffic jams]] due to poor planning for now-extensive private vehicle ownership.
+
+===Tourism===
+{{refimprove section|date=November 2015}}
+[[File:Insel Zapatilla Panama.jpg|thumb|Zapatilla Island, Panama]]
+[[Tourism in Panama]] is rapidly growing.{{citation needed|date=November 2015}} It has maintained its growth over the past five years due to government tax and price discounts to foreign guests and retirees. These economic incentives have caused Panama to be regarded as a relatively good place to retire.{{citation needed|date=November 2015}} Real estate developers in Panama have increased the number of tourism destinations in the past five years because of  interest in these visitor incentives.<ref>[http://www.redfrogbeach.com/panama.html Redfrogbeach.com] {{webarchive|url=https://web.archive.org/web/20091013113646/http://www.redfrogbeach.com/panama.html |date=October 13, 2009 }}, [http://www.islapalenque.com/location/panama Isla Palenque], examples</ref>
+
+The number of tourists from Europe grew by 23.1 percent during the first nine months of 2008. According to the Tourism Authority of Panama (ATP), from January to September, 71,154 tourists from Europe entered Panama, 13,373 more than in same period the previous year. Most of the European tourists were Spaniards (14,820), followed by Italians (13,216), French (10,174) and British (8,833). There were 6997 from Germany, the most populous country in the European Union. Europe has become one of the key markets to promote Panama as a tourist destination.
+
+In 2012, 4.345.5 million{{clarify|date=May 2016}} entered into the Panamanian economy as a result of tourism. This accounted for 9.5 percent of the [[gross domestic product]] of the country, surpassing other productive sectors.{{citation needed|date=May 2016}}  The number of tourists who arrived that year was 2.2 million.<ref>{{Cite journal |last=Agarwal |first=Tanya |last2=Suresh |first2=Sandeep |last3=Saha |first3=Sourish |last4=S. |first4=Varun |last5=Narayan |first5=Varun|date=2014-03-09|title=The Republic of Panama: An Economic Analysis |url=https://papers.ssrn.com/abstract=2406629|language=en|publisher=[[Elsevier]] |via=[[SSRN]] |at=section 1.A.ii ("Tourism")}}</ref>
+
+[[File:Fortifications on the Caribbean Side of Panama Portobelo-San Lorenzo-108169.jpg|thumb|[[Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo]] were declared [[World Heritage Site]] by [[UNESCO]] in 1980.]]
+
+Panama enacted Law No. 80 in 2012 to promote foreign investment in tourism. Law 80 replaced an older Law&nbsp;8 of 1994. Law&nbsp;80 provides 100 percent exemption from [[income tax]] and real estate taxes for 15 years, duty-free imports for construction materials and equipment for five years, and a [[capital gain]]s tax exemption for five years.<ref>Juan José Espino Sagel. [https://web.archive.org/web/20160304043803/http://www.pardinilaw.com/publications/news.php?newsid=271&p=3&catid=6 Panama enacts new Tourism Law: Law 80 of 2012]. pardinilaw.com</ref>
+
+===Currency===
+The Panamanian currency is officially the [[Panamanian balboa|balboa]], [[fixed exchange rate|fixed]] at a rate of 1:1 with the [[United States dollar]] since Panamanian independence in 1903. In practice, Panama is [[Dollarization|dollarized]]: US dollars are [[legal tender]] and used for all paper currency, while Panama has its own coinage. Because of the tie to US dollars, Panama has traditionally had low [[inflation]]. According to the [[Economic Commission for Latin America and the Caribbean]], Panama's inflation in 2006 was 2.0 percent as measured by a weighted [[Consumer Price Index]].<ref>{{cite web|url=http://www.cepal.org/publicaciones/xml/2/27542/Anexo_estadistico.pdf |title=CEPAL.org |format=PDF |accessdate=June 26, 2010}}</ref>
+
+The balboa replaced the [[Colombian peso]] in 1904 after Panama's independence. Balboa banknotes were printed in 1941 by President Arnulfo Arias. They were recalled several days later, giving them the name "The Seven Day Dollar". The notes were burned by the new government, but occasionally balboa notes can be found in collections. These were the only banknotes ever issued by Panama and US notes have circulated both before and since.{{citation needed|date=May 2016}}
+
+===International trade===
+The high levels of Panamanian trade are in large part from the [[Colón Free Trade Zone]], the largest free trade zone in the [[Western Hemisphere]]. Last year the zone accounted for 92 percent of Panama's exports and 64 percent of its imports, according to an analysis of figures from the Colon zone management and estimates of Panama's trade by the [[United Nations Economic Commission for Latin America and the Caribbean]]. Panama's economy is also very much supported by the trade and export of coffee and other agricultural products.{{citation needed|date=May 2016}}
+
+The Bilateral Investment Treaty (BIT) between the governments of the United States and Panama was signed on October 27, 1982. The treaty protects US investment and assists Panama in its efforts to develop its economy by creating conditions more favorable for US private investment and thereby strengthening the development of its private sector. The BIT was the first such treaty signed by the US in the Western Hemisphere.<ref>{{cite web|url=http://tcc.export.gov/Trade_Agreements/Bilateral_Investment_Treaties/index.asp |title=List of BITs currently in effect |publisher=Tcc.export.gov|accessdate=June 26, 2010}}</ref> A [[Panama–United States Trade Promotion Agreement]] (TPA) was signed in 2007, approved by Panama on July 11, 2007 and by US President Obama on October 21, 2011, and the agreement entered into force on October 31, 2012.<ref>{{cite web|url=http://trade.gov/mas/ian/tradeagreements/fta/tg_ian_002427.asp |title=The United States-Panama Trade Promotion Agreement (TPA) |publisher=trade.gov|accessdate=October 31, 2012}}</ref>
+
+==Society==
+
+===Demographics===
+{{Main|Demographics of Panama}}
+[[File:Bevölkerungspyramide Panama 2016.png|thumb|Population pyramid 2016]]
+[[File:Panama-demography.png|thumb|upright=1.4|Panama's population, (1961–2003).]]
+Panama had an estimated population of {{UN_Population|Panama}} in {{UN_Population|Year}}.{{UN_Population|ref}} The proportion of the population aged less than 15 in 2010 was 29 percent. 64.5 percent of the population was between 15 and 65, with 6.6 percent of the population 65 years or older.<ref name="WPP 2012">{{cite web|url=http://esa.un.org/unpd/wpp/index.htm |title=Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2012 Revision |publisher=Esa.un.org |date= |accessdate=April 9, 2016}}</ref>
+
+More than half the population lives in the Panama City–[[Colón, Panama|Colón]] metropolitan corridor, which spans several cities. Panama's urban population exceeds 75 percent, making Panama's population the most urbanized in [[Central America]].<ref name="Estado de Información Forestal en Panamá">
+{{cite web |url=http://www.fao.org/docrep/006/ad395s/AD395s06.htm |title=Corredor Transístmico Panamá -Colón |accessdate=August 5, 2010}}
+</ref>
+
+===Ethnic groups===
+[[File:Ciudad Colón, Panamá.jpg|thumb|[[Panama City]], Panama's capital.]]
+
+In 2010 the population was 65 percent [[Mestizo]] (mixed white, Native American), 12.3 percent Native American, 9.2 percent Black or African descent, 6.8 percent mulatto, and 6.7 percent White.<ref name="cia"/><ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html|title=The World Factbook — Central Intelligence Agency|website=www.cia.gov}}</ref>
+
+Ethnic groups in Panama include [[Mestizo]] people, who have a mix of [[Ethnic groups in Europe|European]] and native ancestry. Black [[Afro-Panamanians]] account for 15–20 percent of the population. Most Afro-Panamanians live on the Panama-[[Colón, Panama|Colón]] metropolitan area, the Darien Province, [[La Palma]], and [[Bocas Del Toro]]. Neighborhoods in Panama City that have large black populations include: Curundu, El Chorrillo, Rio Abajo, San Joaquín, El Marañón, San Miguelito, and Santa Ana.{{citation needed|date=July 2017}} Black Panamanians are descendants of African slaves brought to the Americas in the [[Atlantic Slave Trade]]. The second wave of black people brought to Panama came from the Caribbean during the construction of the [[Panama Canal]]. Panama also has a considerable [[Chinese people|Chinese]] and Indian ([[India]]) population brought to work on the canal during its construction. Most [[Chinese-Panamanians]] reside in the province of [[Chiriquí Province|Chiriquí]].{{citation needed|date=July 2017}}  Europeans and [[white-Panamanians]] are a minority in Panama. Panama is also home to a small Arab community that has [[mosques]], practises [[Islam]], as well as a Jewish community and many synagogues.
+
+The Amerindian population includes seven ethnic groups: the [[Ngäbe people|Ngäbe]], [[Kuna people|Kuna]] (Guna), [[Emberá people|Emberá]], [[Bokota people|Buglé]], [[Wounaan]], [[Naso people|Naso Tjerdi]] (Teribe), and [[Bribri people|Bri Bri]].<ref>{{cite web|url=http://www.iwgia.org/regions/latin-america/panama/887-update-2011-panama |title=Update 2011 – Panama |publisher=Iwgia.org |date= |accessdate=June 15, 2013}}</ref>
+
+===Languages===
+{{Further|Panamanian Spanish}}
+
+Spanish is the official and dominant language. The Spanish spoken in Panama is known as Panamanian Spanish. About 93 percent of the population speak Spanish as their first language. Many citizens who hold jobs at international levels, or at business corporations, speak both English and Spanish. Native languages, such as [[Guaymí language|Ngäbere]], are spoken throughout the country, mostly in their native territories. Over 400,000 Panamanians keep their native languages and customs.<ref name="Ethnologue Report for Panama">
+{{cite web |url=http://www.ethnologue.com/country/PA|title=Panama |accessdate=August 5, 2010}}</ref> Some new statistics show that as second language, English is spoken by 10 percent, French by 4 percent and Arabic by 1 percent.<ref>{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html|title=The World Factbook — Central Intelligence Agency|website=www.cia.gov|language=en|access-date=2017-10-11}}</ref>
+
+===Largest cities===
+{{Further|List of cities in Panama}}
+
+These are the 10 largest Panamanian cities and towns. Most of Panama's largest cities are part of the [[Panama City Metropolitan Area]].
+
+{{Largest cities of Panama}}
+
+===Religion===
+{{Main|Religion in Panama}}
+[[File:Plazadelaindependenciapanama.JPG|thumb|Plaza de la independencia, [[Panama City]] ]]{{Pie chart|thumb=right|caption=Religion in Panama (2015)<ref name=2015survey/>
+</big>|label1=[[Catholics]]|value1=63.2|color1=DarkOrchid|label2=[[Protestants]]|value2=25.0|color2=DodgerBlue|label3=[[Adventist]]|value3=1.3|color3=SkyBlue|label4=[[Jehovah's Witnesses]]|value4=1.4|color4=Aquamarine|label5=[[Mormons]]|value5=0.6|color5=DarkTurquoise|label6=[[Buddhism]]|value6=0.4|color6=Yellow|label7=[[Judaism]]|value7=0.1|color7=Blue|label8=No religion|value8=7.6|color8=Honeydew|label9=Other religions|value9=0.4|color9=Gold}}[[Christianity]] is the main religion in Panama. An official survey carried out by the government estimated in 2015 that 63.2% of the population, or 2,549,150 people, identifies itself as [[Roman Catholic]], and 25.0 percent as [[evangelical Protestant]], or 1,009,740.<ref name="2015survey">{{Cite journal|last=|first=|date=December 2016|title=Segunda Encuesta Nacional de Hogares, Panama 2015|url=http://ministeriopublico.gob.pa/wp-content/multimedia/2017/09/Encuesta-de-Hogares-2015-16-viii-17-publicaci%C3%B3n-digital.pdf|journal=Ministerio Público de la República de Panamá|volume=|pages=|via=}}</ref> The [[Jehovah's Witnesses]] were the third largest congregation comprising the 1.4% of the population, followed by the [[Seventh-day Adventist Church|Adventist Church]] and [[The Church of Jesus Christ of Latter-day Saints]] with the 0.6%. There is a very large Buddhist (0.4% or 18,560) and Jewish community (0.1% or 5,240) in the country.
+
+The [[Bahá'í Faith]] community of Panama is estimated at 2.00 percent of the national population, or about 60,000<ref name="WCoC">{{cite web  |title = Panama  |work=World Council of Churches: WCC Member Churches |publisher=World Council of Churches|date = January 1, 2006|url = http://www.oikoumene.org/en/member-churches|accessdate =July 1, 2008}}</ref> including about 10 percent of the [[Guaymí]] population.<ref name="guay">{{Cite journal|last = International Community |first = Bahá'í |author-link = Bahá'í International Community|title = In Panama, some Guaymis blaze a new path|journal=One Country|volume =  1994 |issue = October–December |date = October–December 1994 |url = http://info.bahai.org/article-1-8-1-18.html}}</ref>
+
+[[The Church of Jesus Christ of Latter-day Saints]] (LDS Church) claims more than 40,000 members.<ref>[https://web/20080221084745/http://newsroom.lds.org/ldsnewsroom/eng/contact-us/panama Panama]. LDS Newsroom. Retrieved December 13, 2008</ref> Smaller religious groups include [[Seventh-day Adventists]], [[Jehovah's Witnesses]], [[Anglicanism|Episcopalians]] with between 7,000 and 10,000 members, [[Jewish]] and [[Islam in Panama|Muslim]] communities with approximately 10,000 members each, [[Hindu]]s, [[Buddhist]]s, and other Christians.<ref name="report">[https://www.state.gov/g/drl/rls/irf/2007/90262.htm International Religious Freedom Report 2007: Panama]. United States [[Bureau of Democracy, Human Rights and Labor]] (September 14, 2007). ''This article incorporates text from this source, which is in the [[public domain]].''</ref> Indigenous religions include Ibeorgun (among [[Kuna people|Kuna]]) and Mamatata (among [[Ngäbe]]).<ref name="report" /> There are also a small number of [[Rastafarians]].<ref name="report" />
+
+===Education===
+{{Main|Education in Panama}}
+During the 16th century, education in Panama was provided by [[Jesuit]]s. Public education began as a national and governmental institution in 1903. The principle underlying the early education system was that children should receive different types of education in accordance with their social class and therefore the position they were expected to occupy in society.
+
+[[Public education]] began in Panama soon after it seceded from Colombia in 1903. The first efforts were guided by an extremely paternalistic view of the goals of education, as evidenced in comments made in a 1913 meeting of the First Panamanian Educational Assembly, "The cultural heritage given to the child should be determined by the social position he will or should occupy. For this reason education should be different in accordance with the social class to which the student should be related." This elitist focus changed rapidly under US influence.<ref name="cs">{{Country study|country=Panama|abbr=pa|editor=Sandra W. Meditz and Dennis M. Hanratty|date=December 1987|section=Education|author=Kluck, Patricia}}</ref>
+
+In 2010, it was estimated that 94.1 percent of the population was literate (94.7 percent of males and 93.5 percent of females).<ref name="cia.gov">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html|title=The World Factbook|publisher=|accessdate=October 25, 2014}}</ref> Education in Panama is [[compulsory education|compulsory]] for the children between 6 and 18. In recent decades, school enrollment at all levels, but especially at upper levels, has increased significantly. Panama used to participate in the [[Programme for International Student Assessment|PISA]] exams but due to debts and unsatisfactory exam results is postponing participation until 2018.<ref>{{cite web|url=http://impresa.prensa.com/panorama/Panama-pruebas-Pisa_0_4006849352.html |title=Panamá sin pruebas Pisa hasta 2018 |publisher=Impresa.prensa.com |date= |accessdate=April 9, 2016}}</ref>
+
+==Culture==
+{{Main|Culture of Panama}}
+{{See also|Music of Panama}}
+[[File:Empollerada de Panamá.jpg|thumb|[[Pollera]] ]]
+[[File:Tuna panama.jpg|thumb|A couple dancing Panamanian Cumbia]]
+The culture of Panama derives from [[Music of Europe|European music]], [[European art|art]] and traditions brought by the Spanish to Panama. [[Hegemonic]] forces have created [[Cross-genre|hybrid]] forms blending [[Culture of Africa|African]] and [[Indigenous peoples of the Americas|Native American]] culture with [[Culture of Europe|European culture]]. For example, the ''[[tamborito]]'' is a Spanish dance with African rhythms, themes and dance moves.<ref>{{cite web|url=http://panama-culture.com/ |title=The online almanac of Panama culture with travel links |publisher=Panama Culture |accessdate=December 23, 2010}}</ref>
+
+Dance is typical of the diverse cultures in Panama. The local folklore can be experienced at a multitude of festivals, through dances and traditions handed down from generation to generation. Local cities host live ''[[reggae en español]]'', ''[[reggaeton]]'', ''haitiano ([[compas]])'', [[jazz]], [[blues]], ''[[salsa music|salsa]]'', [[reggae]], and [[rock music]] performances.{{citation needed|date=May 2016}}
+
+===Handicraft===
+Outside Panama City, regional festivals take place throughout the year featuring local musicians and dancers. Panama's blended culture is reflected in traditional products, such as [[woodcarving]]s, ceremonial masks and [[pottery]], as well as in Panama's architecture, cuisine and festivals. In earlier times, baskets were woven for utilitarian uses, but now many villages rely almost exclusively on income from the baskets they produce for tourists.
+
+An example of undisturbed, unique culture in Panama is that of the [[Guna Yala|Guna]] who are known for ''[[mola (art form)|molas]]''. ''Mola'' is the Guna word for blouse, but the term ''mola'' has come to mean the elaborate embroidered panels made by Guna women, that make up the front and back of a Guna woman's blouse. They are several layers of cloth, varying in color, that are loosely stitched together, made using a reverse [[appliqué]] process.
+
+===Holidays and festivities===
+{{Further|Public holidays in Panama}}
+
+The Christmas parade, known as ''El desfile de Navidad'', is celebrated in the capital, Panama City. This holiday is celebrated on December 25. The floats in the parade are decorated in the Panamanian colors, and women wear dresses called ''[[pollera]]'' and men dress in traditional montuno. In addition, the marching band in the parade, consisting of drummers, keeps crowds entertained. In the city, a big Christmas tree is lit with Christmas lights, and everybody surrounds the tree and sings Christmas carols.<ref>{{cite web|publisher=Bureau of Western Hemisphere Affairs|date=June 23, 2010|url=https://www.state.gov/r/pa/ei/bgn/2030.htm|title=Panama}}</ref>
+
+===Traditional cuisine===
+{{Further|Panamanian cuisine}}
+Since Panama's cultural heritage is influenced by many ethnicities the traditional cuisine of the country includes ingredients from many cultures, from all over the world:<ref>{{cite web|url=https://www.premiercasa.com/en/panama/panama-guide/a-guide-to-panama-food-culture|title=A Guide to Panama Food Culture|website=www.premiercasa.com}}</ref> 
+a mix of African, Spanish, and Native American techniques, dishes, and ingredients, reflecting its diverse population. Since Panama is a land bridge between two continents, it has a large variety of tropical fruits, vegetables and herbs that are used in native cooking.
+The famous fish market known as the "Mercado de Mariscos" offers fresh seafood and [[Ceviche]], a seafood dish. Small shops along the street which are called kiosco and [[Empanada]], which is a typical latinamerican pastry, including a variety of different ingredients, either with meat or vegetarian, mostly fried. Another kind of pastry  is the [[pastelito]], with the only difference in comparison to [[empanada]]s is that they are bigger.{{citation needed|date=July 2018}}
+
+Typical Panamanian foods are mild-flavored, without the pungency of some of Panama's Latin American and Caribbean neighbors. Common ingredients are [[maize]], [[rice]], [[wheat]] flour, [[Plantain (cooking)|plantain]]s, ''yuca'' ([[cassava]]), beef, chicken, pork and seafood.
+
+===Traditional clothing===
+
+Panamanian men's traditional clothing, called ''montuno'', consists of white cotton shirts, trousers and woven straw hats.
+
+The traditional women's clothing is the ''pollera''. It originated in Spain in the 16th century, and by the early 1800s it was typical in Panama, worn by female servants, especially wet nurses (''De Zarate'' 5). Later, it was adopted by upper-class women.
+
+A ''pollera'' is made of "[[cambric]]" or "fine linen" (Baker 177). It is white, and is usually about 13 yards of material.
+
+The original ''pollera'' consists of a ruffled blouse worn off the shoulders and a skirt with gold buttons. The skirt is also ruffled, so that when it is lifted up, it looks like a peacock's tail or a ''[[mantilla]]'' fan. The designs on the skirt and blouse are usually flowers or birds. Two large matching [[pom pom]]s (''mota'') are on the front and back, four ribbons hang from the front and back from the waist, five gold chains (''caberstrillos'') hang from the neck to the waist, a gold cross or medallion on a black ribbon is worn as a [[choker]], and a silk purse is worn at the waistline. Earrings (''zaricillos'') are usually gold or coral. Slippers usually match the color of the ''pollera''. Hair is usually worn in a bun, held by three large gold combs that have pearls (''tembleques'') worn like a crown. Quality ''pollera'' can cost up to $10,000, and may take a year to complete.
+
+Today, there are different types of ''polleras''; the ''pollera de gala'' consists of a short-sleeved ruffle skirt blouse, two full-length skirts and a [[petticoat]]. Girls wear ''[http://panamafolktembleques.com/ tembleques]'' in their hair. Gold coins and jewelry are added to the outfit. The ''pollera montuna'' is a daily dress, with a blouse, a skirt with a solid color, a single gold chain, and pendant earrings and a natural flower in the hair. Instead of an off-the-shoulder blouse it is worn with a fitted white jacket that has shoulder pleats and a flared hem.<ref>[https://web.archive.org/web/20110726000349/http://discoverytheater.org/education/guides/2010/Celebremos%20Panama!%20Resource%20Guide.pdf Celebremos Panama!]. Discovery Theater and Smithonian Latino Center</ref>
+
+Traditional clothing in Panama can be worn in parades, where the females and males do a traditional dance. Females gently sway and twirl their skirts, while men hold their hats in their hands and dance behind the females.
+
+===Literature===
+{{Further|Panamanian literature}}
+The first literature relating to Panama can be dated to 1535, with a modern literary movement appearing from the mid-19th century onwards
+
+===Sports===
+[[File:Carlos Ruiz.jpg|thumb|upright|Panamanian baseball catcher [[Carlos Ruiz (baseball)|Carlos Ruiz]] during 2007 Spring Training.]]
+The US influence in Panama can be seen in the country's sports. Baseball is Panama's national sport and [[Panamanian Professional Baseball League|the country has regional teams]] and a [[Panama national baseball team|national team]] that represents it in international events. At least [[List of Major League Baseball players from Panama|140 Panamanian players]] have played professional baseball in the United States, more than any other Central American country.<ref>{{cite web|url=http://www.thebaseballcube.com/cities/PN.shtml |title=Baseball in Panama |publisher=The Baseball Cube |accessdate=December 23, 2010}}</ref> Notable players include [[Bruce Chen]], [[Rod Carew]], [[Mariano Rivera]], [[Carlos Lee]], [[Manny Sanguillén]], and [[Carlos Ruiz (baseball)|Carlos Ruiz]].
+
+In boxing, four Panamanians are in the [[International Boxing Hall of Fame]]: [[Roberto Durán]], [[Eusebio Pedroza]], [[Ismael Laguna]] and [[Panama Al Brown]]. In August 2016 Panama had two reigning [[List of current world boxing champions|world boxing champions]]: [[Guillermo Jones]] and [[Anselmo Moreno]].
+
+Since the end of the 20th century, [[association football]] has become more popular in Panama.{{Citation needed|reason=Need evidence to show growth in popularity.|date=November 2018}} The top tier of domestic Panamanian football, [[Liga Panameña de Fútbol]], was founded in 1988. The [[Panama national football team|national team]] appeared at the [[FIFA World Cup]] for the first time in [[2018 FIFA World Cup|2018]], appearing in group G, facing [[Belgium national football team|Belgium]], [[England national football team|England]] and [[Tunisia national football team|Tunisia]]. However, the team lost all three games, failing to advance past the group stage. Notable players for the national team include [[Luis Ernesto Tapia]], [[Rommel Fernández]], the Dely Valdés Brothers: [[Armando Dely Valdés|Armando]], [[Julio César Dely Valdés|Julio]] and [[Jorge Dely Valdés|Jorge]]; and more recent players as [[Jaime Penedo]], [[Felipe Baloy]], [[Luis Tejada]], [[Blas Pérez]], [[Román Torres]] and [[Harold Cummings]].
+
+Basketball is also popular in Panama. There are regional teams as well as a squad that competes internationally. Two of Panama's prominent basketball players are [[Rolando Blackman]], a four-time NBA All-Star, and [[Kevin Daley]], a 10-year captain and showman of the [[Harlem Globetrotters]].  Other remarkable players who represented Panama internationally are [[Mario Butler]], and [[Rolando Frazer]].
+
+Other popular sports include [[volleyball]], [[taekwondo]], [[golf]], and [[tennis]]. A long-distance hiking trail called the [http://www.transpanama.org/ TransPanama Trail] is being built from Colombia to Costa Rica.
+
+Other non-traditional sports in the country have had great importance such as the [[triathlon]] that has captured the attention of many athletes nationwide and the country has hosted international competitions. [[Flag football]] has also been growing in popularity in both men and women and with international participation in world of this discipline being among the best teams in the world, the sport was introduced by Americans residing in the Canal Zone for veterans and retirees who even had a festival called the Turkey Ball. Other popular sports are [[American football]], [[rugby football|rugby]], [[hockey]], [[softball]] and other amateur sports including [[skateboarding]], [[BMX]] and [[surfing]], because the many beaches of Panama such as Santa Catalina and Venao that have hosted events the likes of ISA World Surfing Games.
+
+Long jumper [[Irving Saladino]] became the first Panamanian Olympic gold medalist in 2008. In 2012 eight different athletes represented Panama in the [[London 2012 Olympics]]: Irving Saladino in the long jump, [[Alonso Edward]] and [[Andrea Ferris]] in track and field, [[Diego Castillo (swimmer)|Diego Castillo]] in swimming, and the youngest on the team, [[Carolena Carstens]] who was 16 competing in taekwondo. She was the first representative to compete for Panama in that sport.
+
+==See also==
+{{portal|Panama|Latin America}}
+* [[Index of Panama-related articles]]
+* [[Outline of Panama]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}} 
+* Buckley, Kevin, ''Panama'', Touchstone, 1992. {{ISBN|0-671-77876-5}}
+* Diaz Espino, Ovidio, ''How Wall Street Created a Nation'', Four Walls Eight Windows, 2001. {{ISBN|1-56858-196-3}}
+* Harding, Robert C., ''The History of Panama'', Greenwood Publishing, 2006.
+* Harding, Robert C., ''Military Foundations of Panamanian Politics'', Transaction Publishers, 2001. {{ISBN|0-393-02696-5}}
+* Joster, R.M. and Sanchez, Guillermo, ''In the Time of the Tyrants, Panama: 1968–1990'', W.W. Norton & Company, 1990.
+* Mellander, Gustavo A.; Nelly Maldonado Mellander (1999). Charles Edward Magoon: The Panama Years. Río Piedras, Puerto Rico: Editorial Plaza Mayor. {{ISBN|1-56328-155-4}}. {{OCLC|42970390}}.
+* Mellander, Gustavo A. (1971). The United States in Panamanian Politics: The Intriguing Formative Years. Danville, Ill.: Interstate Publishers. {{OCLC|138568}}.
+* Porras, Ana Elena, ''Cultura de la Interoceanidad: Narrativas de Identidad Nacional de Panama (1990–2002)'', Editorial Carlos Manuel Gasteazoro, 2005. {{ISBN|9962-53-131-4}}
+* Serrano, Damaris, ''La Nación Panamena en sus Espacios: Cultura Popular, Resistencia y Globalización'', Editorial Mariano Arosemena, 2005. {{ISBN|9962-659-01-9}}
+* Villarreal, Melquiades, ''Esperanza o Realidad: Fronteras de la Identidad Panamena'', Editorial Mariano Arosemena, 2004. {{ISBN|9962-601-80-0}}
+* Weeks, John and Gunson, Phil, ''Panama. Made in the USA'', 1992. {{ISBN|978-0-906156-55-1}}
+{{refend}}
+
+==External links==
+{{Sister project links|voy=Panama|collapsible=collapsed}}
+*{{Wikivoyage-inline|Panama}}
+* {{dmoz|Regional/Central_America/Panama}}
+* [https://web.archive.org/web/20090125100526/http://ucblibraries.colorado.edu/govpubs/for/panama.htm Panama] from ''UCB Libraries GovPubs''
+* {{CIA World Factbook link|pm|Panama}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1229332.stm Panama] from the [[BBC News]]
+* {{Wikiatlas|Panama}}
+{{Anchor|Topics}}
+{{Panama topics}}
+{{Central America topic}}
+{{Authority control}}
+
+[[Category:Panama| ]]<!--please leave the empty space as standard-->
+[[Category:Countries in Central America]]
+[[Category:Republics]]
+[[Category:Spanish-speaking countries and territories]]
+[[Category:States and territories established in 1903]]
+[[Category:Member states of the United Nations]]
+[[Category:Countries in North America]]

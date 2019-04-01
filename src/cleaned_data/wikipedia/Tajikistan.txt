@@ -1,0 +1,526 @@
+{{pp-move-indef}}
+{{Use dmy dates|date=September 2018}}
+{{EngvarB|date=December 2016}}
+{{redirects|Tadzhikistan|the Soviet republic|Tajik Soviet Socialist Republic}}
+{{redirects|Tojikiston}}
+{{Coord|39|N|71|E|display=title}}
+{{short description|Landlocked republic in Central Asia}}
+{{Infobox country
+| conventional_long_name = Republic of Tajikistan
+| common_name              = Tajikistan
+| native_name              = {{unbulleted list|
+|{{native name|tg|Ҷумҳурии Тоҷикистон|italics=off}}<br />{{small|''Jumhuriyi Tojikiston''}}}}
+| image_flag               = Flag of Tajikistan.svg
+| image_coat               = Coat of arms of Tajikistan.svg
+| symbol_type              = Emblem
+| national_motto           = 
+| national_anthem          = ''[[Surudi Milli|Суруди Миллӣ]]''<br />({{Lang-en|"National Anthem"}})<br /><center>[[File:National anthem of Tajikistan, performed by the U.S. Navy Band.flac]]</center>
+| image_map                = Tajikistan (orthographic projection).svg
+| map_caption              = {{map caption |location_color= green}}
+| capital                  = [[Dushanbe]]
+| coordinates              = {{Coord|38|33|N|68|48|E|type:city}}
+| largest_city             = capital
+| official_languages       = [[Tajik language|Tajik]]
+| regional_languages       = 
+| languages_type           = Inter-ethnic<br />language
+| languages                = [[Russian language|Russian]]
+| ethnic_groups            = {{unbulleted list
+  | 84.3% [[Tajik people|Tajik]]
+  | 13.8% [[Uzbeks|Uzbek]]
+  | 0.8% [[Kyrgyz people|Kyrgyz]]
+  | 1.1% others
+ }}
+| ethnic_groups_year       = 2010<ref>[https://web.archive.org/web/20130116004155/http://stat.tj/en/img/526b8592e834fcaaccec26a22965ea2b_1355502192.pdf Национальный состав, владение языками и гражданство населения Республики Таджикистан Том III]. stat.tj</ref>
+| religion                 = 
+| demonym                  = Tajikistani<ref name=CIA />
+| government_type          = [[Unitary system|Unitary]] [[dominant-party system|dominant-party]] [[presidential system|presidential]] [[constitution]]al [[republic]]
+| leader_title1            = [[President of Tajikistan|President]]
+| leader_name1             = [[Emomali Rahmon]]
+| leader_title2            = [[Prime Minister of Tajikistan|Prime Minister]]
+| leader_name2             = [[Kokhir Rasulzoda]]
+| leader_title3            = Chairman of the [[Supreme Assembly (Tajikistan)|Majlisi Milli]]
+| leader_name3             = [[Mahmadsaid Ubaydulloyev]]
+| legislature              = [[Supreme Assembly (Tajikistan)|Supreme Assembly]]
+| upper_house              = [[Supreme Assembly (Tajikistan)|National Assembly]]
+| lower_house              = [[Assembly of Representatives (Tajikistan)|Assembly of Representatives]]
+| sovereignty_type         = [[History of Tajikistan|Formation]]
+| established_event1       = [[Tajik Autonomous Soviet Socialist Republic|Tajik ASSR]]
+| established_date1        = 27 October 1924
+| established_event2       = [[Tajik Soviet Socialist Republic|Tajik SSR]]
+| established_date2        = 5 December 1929
+| established_event3       = [[Dissolution of the Soviet Union|Independence]] from the [[Soviet Union]]
+| established_date3        = 9 September 1991
+| established_event4       = [[Alma-Ata Protocol|CIS full membership]]
+| established_date4        = 21 December 1991
+| established_event5       = Recognized
+| established_date5        = 26 December 1991
+| established_event6       = [[United Nations Security Council Resolution 738|Admitted to the]] [[United Nations]]
+| established_date6        = 2 March 1992
+| established_event7       = [[Constitution of Tajikistan|Current constitution]]
+| established_date7        = 6 November 1994
+| area_km2                 = 143,100
+| area_rank                = 94th <!-- Area rank should match [[List of countries and dependencies by area]]-->
+| area_sq_mi               = 55,251
+| percent_water            = 1.8
+| population_estimate      = {{UN Population|Tajikistan}}{{UN Population|ref}}
+| population_census        = 7,564,500
+| population_estimate_year = {{UN Population|Year}}
+| population_estimate_rank = 97th
+| population_census_year   = 2010
+| population_density_km2   = 48.6
+| population_density_sq_mi = 125.8
+| population_density_rank  = 155th
+| GDP_PPP                  = $30.547 billion<ref name=imf2>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=45&pr.y=14&sy=2015&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=923&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=World Economic Outlook Database, October 2018|publisher=[[International Monetary Fund]]|website=IMF.org |access-date=3 February 2019}}</ref>
+| GDP_PPP_year             = 2018
+| GDP_PPP_rank             = 132nd
+| GDP_PPP_per_capita       = $3,354<ref name=imf2 />
+| GDP_PPP_per_capita_rank  = 155th
+| GDP_nominal              = $7.350 billion<ref name=imf2 />
+| GDP_nominal_year         = 2018
+| GDP_nominal_rank         = 147th
+| GDP_nominal_per_capita   = $807<ref name=imf2 />
+|GDP_nominal_per_capita_rank = 164th
+| Gini                     = 34 <!--number only-->
+| Gini_year                = 2015
+| Gini_change              = <!--increase/decrease/steady-->
+| Gini_ref                 = <ref>{{cite web |url=https://databank.worldbank.org/data/reports.aspx?source=2&series=SI.POV.GINI |title=GINI index (World Bank estimate) |publisher=[[World Bank]]|website=databank.worldbank.org |access-date=3 February 2019}}</ref>
+| Gini_rank                = 
+| HDI                      = 0.650 <!--number only-->
+| HDI_year                 = 2018 <!--Please use the year to which the HDI data refers, not the publication year-->
+| HDI_change               = increase <!--increase/decrease/steady-->
+| HDI_ref                  = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank                 = 127th
+| currency                 = [[Somoni]]
+| currency_code            = TJS
+| time_zone                = [[Tajikistan Time|TJT]]
+| utc_offset               = +5
+| utc_offset_DST           = 
+| time_zone_DST            = 
+| drives_on                = right
+| calling_code             = [[+992]]
+| cctld                    = [[.tj]]
+<!--
+ ORPHANED:
+| footnote_a               = Estimate from State Statistical Committee of Tajikistan, 2008; rank based on UN figures for 2005.  --->
+| country_code             = 
+}}
+
+'''Tajikistan''' ({{IPAc-en|audio=En-us-Tajikistan.ogg|t|ɑː|ˈ|dʒ|iː|k|ɪ|s|t|ɑː|n}}, {{IPAc-en|t|ə|-|,_|t|æ|-}}; {{lang-tg|Тоҷикистон}} {{IPA-fa|tɔdʒikisˈtɔn|}}), officially the '''Republic of Tajikistan''' ({{lang-tg|Ҷумҳурии Тоҷикистон}}, Jumhuriyi Tojikiston), is a mountainous, [[landlocked]] country in [[Central Asia]] with an area of {{convert|143100|km2|sqmi|abbr=on}} and an estimated population of {{#expr:{{replace|{{UN Population|Tajikistan}}|,||}}/1e6 round 1}} million people as of {{UN Population|Year}}. It is bordered by [[Afghanistan]] to the south,  [[Uzbekistan]] to the west,  [[Kyrgyzstan]] to the north, and  [[China]] to the east. The traditional homelands of the [[Tajiks|Tajik people]] include present-day Tajikistan as well as parts of Afghanistan and Uzbekistan.
+
+The territory that now constitutes Tajikistan was previously home to several ancient cultures, including the city of [[Sarazm]]<ref>{{cite web|title=Proto-urban Site of Sarazm|url=http://whc.unesco.org/en/list/1141|website=UNESCO.org|publisher=UNESCO|accessdate=9 August 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140804122836/http://whc.unesco.org/en/list/1141/|archivedate=4 August 2014}}</ref> of the [[Neolithic]] and the [[Bronze Age]], and was later home to kingdoms ruled by people of different faiths and cultures, including the [[Bactria-Margiana Archaeological Complex|Oxus civilisation]], [[Andronovo culture]], [[Buddhism]], [[Nestorian Christianity]], [[Zoroastrianism]], [[Manichaeism]] and [[Islam]]. The area has been ruled by numerous empires and dynasties, including the [[Achaemenid Empire]], [[Sasanian Empire]], [[Hephthalite Empire]], [[Samanid Empire]], [[Mongol Empire]], [[Timurid dynasty]], the [[Russian Empire]], and subsequently the [[Soviet Union]]. Within the Soviet Union, the country's modern borders were drawn when it was part of [[Uzbek Soviet Socialist Republic|Uzbekistan]] as an [[Tajik Autonomous Soviet Socialist Republic|autonomous republic]] before becoming a [[Tajik Soviet Socialist Republic|full-fledged Soviet republic]] in 1929.{{cn|date=September 2018}}
+
+On 9 September 1991, Tajikistan became an independent sovereign nation when the Soviet Union [[Dissolution of the Soviet Union|disintegrated]]. A [[Civil war in Tajikistan|civil war]] was fought almost immediately after independence, lasting from 1992 to 1997. Since the end of the war, newly established political stability and foreign aid have allowed the country's economy to grow. Like all other Central Asian neighbouring states, the country, led by [[President of Tajikistan|President]] [[Emomali Rahmon]] since 1994, has been criticised by a number of [[non-governmental organization]]s for authoritarian leadership, lack of [[Freedom of religion in Tajikistan|religious freedom]], corruption and widespread [[Human rights in Tajikistan|violations of human rights]].
+
+Tajikistan is a [[presidential republic]] consisting of four provinces. Most of Tajikistan's {{#expr:{{replace|{{UN Population|Tajikistan}}|,||}}/1e6 round 1}} million people belong to the [[Tajik people|Tajik]] ethnic group, who speak [[Tajik Language|Tajik]] (a dialect of [[Persian language|Persian]]). Many Tajiks also speak [[Russian language|Russian]] as their second language. While the state is constitutionally secular, [[Islam in Tajikistan|Islam]] is practiced by 98% of the population. In the [[Gorno-Badakhshan]] Oblast of Tajikistan, despite its sparse population, there is large linguistic diversity where [[Rushani dialect|Rushani]], [[Shughni language|Shughni]], [[Ishkashimi language|Ishkashimi]], [[Wakhi Language|Wakhi]] and Tajik are some of the languages spoken. Mountains cover more than 90% of the country. It has a [[transition economy]] that is highly dependent on [[remittances]], [[aluminium]] and [[cotton]] production. Tajikistan is a member of the [[United Nations]], [[Commonwealth of Independent States|CIS]], [[Organization for Security and Co-operation in Europe|OSCE]], [[Organisation of Islamic Cooperation|OIC]], [[Economic Cooperation Organization|ECO]], [[Shanghai Cooperation Organisation|SCO]] and [[Collective Security Treaty Organization|CSTO]] as well as an [[NATO]] [[Partnership for Peace|PfP partner]].
+
+== Etymology ==
+{{anchor|Etymology}}
+{{Main|Tajik people}}
+''Tajikistan'' means the "Land of the Tajiks". The [[suffix]] "[[-stan]]" is [[Persian language|Persian]] for "place of"<ref>{{cite web|title=What's the Story Behind All the 'Stans?|url=http://worldnews.about.com/od/centralandeastasia/f/stans.htm|website=About.com|accessdate=10 August 2014|deadurl=no|archiveurl=https://www.webcitation.org/6FVca0q9H?url=http://worldnews.about.com/od/centralandeastasia/f/stans.htm|archivedate=30 March 2013}}</ref> or "country"<ref>{{cite web|title=-Stan|url=http://www.etymonline.com/index.php?term=-stan|website=Online Etymology Dictionary|accessdate=10 August 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140101195443/http://www.etymonline.com/index.php?term=-stan|archivedate=1 January 2014}}</ref> and Tajik is, most likely, the name of a pre-Islamic (before the seventh century A.D.) tribe.<ref name="lcweb2.loc.gov">[https://lccn.loc.gov/97005110 A Country Study: Tajikistan, Ethnic Background]. Library of Congress Call Number DK851. K34 (1997)</ref> According to the [[Library of Congress]]'s 1997 Country Study of Tajikistan, it is difficult to definitively state the origins of the word "Tajik" because the term is "embroiled in twentieth-century political disputes about whether Turkic or Iranian peoples were the original inhabitants of Central Asia."<ref name="lcweb2.loc.gov" />
+
+Tajikistan appeared as ''Tadjikistan'' or ''Tadzhikistan'' in English prior to 1991. This is due to a transliteration from the {{lang-ru|"Таджикистан"}}. In Russian, there is no single letter j to represent the phoneme /ʤ/, and therefore дж, or dzh, is used. Tadzhikistan is the most common alternate spelling and is widely used in English literature derived from Russian sources.<ref>[http://articles.latimes.com/1990-02-13/news/mn-615_1_armenian-refugees Anti-Armenian Riots Erupt in Soviet Republic of Tadzhikistan] {{webarchive|url=https://web.archive.org/web/20161130184507/http://articles.latimes.com/1990-02-13/news/mn-615_1_armenian-refugees |date=30 November 2016 }}. Articles.latimes.com (2 November 1989). Retrieved on 20 January 2017.</ref> "Tadjikistan" is the spelling in French and can occasionally be found in English language texts. The way of writing Tajikistan in the Perso-Arabic script is: تاجیکستان.
+
+== History ==
+{{Main|History of Tajikistan}}
+
+=== Early history ===
+{{See also|Samanid Empire}}
+Cultures in the region have been dated back to at least the 4th millennium BCE, including the [[Bronze Age]] [[Bactria–Margiana Archaeological Complex]], the [[Andronovo culture|Andronovo]] cultures and the [[Sarazm|pro-urban site of Sarazm]], a UNESCO [[World Heritage site]].<ref>{{cite web|url=http://whc.unesco.org/en/list/1141|title=Proto-urban Site of Sarazm – UNESCO World Heritage Centre|first=UNESCO World Heritage|last=Centre|date=|work=unesco.org|deadurl=no|archiveurl=https://web.archive.org/web/20160304033948/http://whc.unesco.org/en/list/1141|archivedate=4 March 2016}}</ref>
+
+The earliest recorded history of the region dates back to about 500 BCE when much, if not all, of modern Tajikistan was part of the [[Achaemenid Empire]].<ref name="lcweb2.loc.gov" /> Some authors have also suggested that in the 7th and 6th century BCE parts of modern Tajikistan, including territories in the Zeravshan valley, formed part of [[Kambojas]] before it became part of the [[Achaemenid Empire]].<ref>See: The Deeds of Harsha: Being a Cultural Study of Bāṇa's Harshacharita, 1969, p 199, Dr Vasudeva Sharana Agrawala; Proceedings and Transactions of the All-India Oriental Conference, 1930, p 118, Dr J. C. Vidyalankara; Prācīna Kamboja, jana aura janapada =: Ancient Kamboja, people and country, 1981, Dr Jiyālāla Kāmboja, Dr Satyavrat Śāstrī – Kamboja (Pakistan).</ref>
+After the region's conquest by [[Alexander the Great]] it became part of the [[Greco-Bactrian Kingdom]], a successor state of Alexander's empire. Northern Tajikistan (the cities of [[Khujand]] and [[Panjakent]]) was part of [[Sogdia]], a collection of city-states which was overrun by [[Scythians]] and [[Yuezhi]] nomadic tribes around 150 BCE. The [[Silk Road]] passed through the region and following the expedition of Chinese explorer [[Zhang Qian]] during the reign of [[Emperor Wu of Han|Wudi]] (141–87 BCE) commercial relations between [[Han Dynasty|Han China]] and Sogdiana flourished.<ref>[http://www.megalithic.co.uk/article.php?sid=18006 C. Michael Hogan, '&#39;Silk Road, North China'&#39;, The Megalithic Portal, ed. Andy Burnham] {{webarchive|url=https://web.archive.org/web/20131002140921/http://www.megalithic.co.uk/article.php?sid=18006 |date=2 October 2013 }}. Megalithic.co.uk. Retrieved on 20 January 2017.</ref><ref>[[Records of the Grand Historian|Shiji]], trans. Burton Watson</ref> Sogdians played a major role in facilitating trade and also worked in other capacities, as farmers, carpetweavers, glassmakers, and woodcarvers.<ref>[[Frances Wood]] (2002) ''The Silk Road: Two Thousand Years in the Heart of Asia''. University of California Press. p. 66. {{ISBN|978-0-520-23786-5}}.</ref><!--an unsourced Indian assertion?:However, the Sogdian traders were then still less important in the Silk Road trade than their southern neighbours, Indian and Bactrian.-->
+
+The [[Kushan Empire]], a collection of [[Yuezhi]] tribes, took control of the region in the first century CE and ruled until the 4th century CE during which time [[Buddhism]], [[Nestorian Christianity]], [[Zoroastrianism]], and [[Manichaeism]] were all practised in the region.<ref name="Congress Call Number DK851?">[https://www.loc.gov/rr/frd/cs/profiles/Tajikistan.pdf Tajikistan] {{webarchive|url=https://web.archive.org/web/20161221014613/https://loc.gov/rr/frd/cs/profiles/Tajikistan.pdf |date=21 December 2016 }}. loc.gov.</ref> Later the [[Hephthalite Empire]], a collection of nomadic tribes, moved into the region and [[Arab]]s brought [[Islam]] in the early eighth century.<ref name="Congress Call Number DK851?" /> Central Asia continued in its role as a commercial crossroads, linking China, the steppes to the north, and the Islamic heartland.
+
+[[File:MansurISamanidPaintingHistoryofIran.jpg|thumb|The [[Samanid]] ruler [[Mansur I]] (961–976)]]
+[[File:Thomas Edward Gordon Lake Victoria, Great Pamir, May 2nd, 1874.png|thumb|left|19th-century painting of lake [[Zorkul]] and a local [[Tajik people|Tajik]] inhabitant]]
+
+It was temporarily under the control of the [[Tibetan empire]] and Chinese from 650–680 and then under the control of the Umayyads in 710. The [[Samanids|Samanid Empire]], 819 to 999, restored [[Persian people|Persian]] control of the region and enlarged the cities of [[Samarkand]] and [[Bukhara]] (both cities are today part of [[Uzbekistan]]) which became the cultural centres of [[Iran]] and the region was known as Khorasan. The [[Kara-Khanid Khanate]] conquered [[Transoxania]] (which corresponds approximately with modern-day Uzbekistan, Tajikistan, southern Kyrgyzstan and southwest Kazakhstan) and ruled between 999–1211.<ref name=encyclo>{{cite web|url=http://search.eb.com/eb/article-9062103|title=Encyclopedia – Britannica Online Encyclopedia|work=eb.com}}</ref><ref>{{cite book |author=Grousset, Rene |title=The Empire of the Steppes |publisher=Rutgers University Press |year=2004 |isbn=978-0-8135-1304-1 }}</ref> Their arrival in Transoxania signalled a definitive shift from Iranian to Turkic predominance in Central Asia,<ref name="svat">{{cite book |title=A history of Inner Asia |author=Svatopluk Soucek |chapter=Chapter 5 – The Qarakhanids |publisher=Cambridge University Press |year=2000 |isbn=978-0-521-65704-4 }}</ref> but gradually the Kara-khanids became assimilated into the Perso-Arab Muslim culture of the region.<ref>[http://www.iranicaonline.org/articles/ilak-khanids ilak-khanids] {{webarchive|url=https://web.archive.org/web/20150909080737/http://www.iranicaonline.org/articles/ilak-khanids |date=9 September 2015 }}: Iranica. accessed May 2014.</ref>
+
+During [[Genghis Khan]]'s [[Mongol invasion of Khwarezmia and Eastern Iran|invasion of Khwarezmia]] in the early 13th century the [[Mongol Empire]] took control over nearly all of Central Asia. In less than a century the [[Mongol Empire]] broke up and modern Tajikistan came under the rule of the [[Chagatai Khanate]]. [[Tamerlane]] created the [[Timurid dynasty]] and took control of the region in the 14th century.
+
+Modern Tajikistan fell under the rule of the [[Khanate of Bukhara]] during the 16th century and with the empire's collapse in the 18th century it came under the rule of both the [[Emirate of Bukhara]] and [[Khanate of Kokand]]. The [[Emirate of Bukhara]] remained intact until the 20th century but during the 19th century, for the second time in world history, a European power (the [[Russian Empire]]) began to conquer parts of the region.
+
+=== Russian Tajikistan ===
+{{See also|The Great Game|Russian conquest of Turkestan|Russian Turkestan}}
+
+Russian [[Imperialism]] led to the [[Russian Empire]]'s conquest of [[Central Asia]] during the late 19th century's [[Great Game|Imperial Era]]. Between 1864 and 1885, Russia gradually took control of the entire territory of [[Russian Turkestan]], the Tajikistan portion of which had been controlled by the [[Emirate of Bukhara]] and [[Khanate of Kokand]]. Russia was interested in gaining access to a supply of [[cotton]] and in the 1870s attempted to switch cultivation in the region from grain to cotton (a strategy later copied and expanded by the Soviets).{{citation needed|date=July 2015}} By 1885 Tajikistan's territory was either ruled by the Russian Empire or its [[vassal state]], the Emirate of Bukhara, nevertheless Tajiks felt little Russian influence.{{citation needed|date=July 2015}}
+
+During the late 19th century the [[Jadid]]ists established themselves as an Islamic social movement throughout the region. Although the Jadidists were pro-modernization and not necessarily anti-Russian, the Russians viewed the movement as a threat.{{citation needed|date=July 2015}} Russian troops were required to restore order during uprisings against the Khanate of Kokand between 1910 and 1913. Further violence occurred in July 1916 when demonstrators attacked Russian soldiers in [[Khujand]] over the threat of forced [[conscription]] during [[World War I]]. Despite Russian troops quickly bringing Khujand back under control, clashes continued throughout the year in various locations in Tajikistan.{{citation needed|date=July 2015}}
+
+=== Soviet Tajikistan ===
+{{Main|Basmachi movement|Tajik Soviet Socialist Republic}}
+[[File:Negotiations with basmachs Fergana, 1921.jpg|thumb|left|Soviet negotiations with ''[[Basmachi movement|basmachi]]'', 1921]]
+
+After the [[Russian Revolution]] of 1917 guerrillas throughout Central Asia, known as ''[[basmachi]]'', waged [[Kokand Autonomy|a war]] against [[Bolshevik]] armies in a futile attempt to maintain independence. The Bolsheviks prevailed after a four-year war, in which [[mosque]]s and villages were burned down and the population heavily suppressed. Soviet authorities started a campaign of secularisation. Practising [[Islam]], [[Judaism]], and [[Christianity]] was discouraged and repressed, and many mosques, [[church (building)|churches]], and [[synagogue]]s were closed.<ref>{{cite journal|last1=Pipes|first1=Richard|title=Muslims of Soviet Central Asia: Trends and Prospects (Part I)|journal=Middle East Journal|date=1955|volume=9|issue=2|pages=149–150|jstor=4322692}}</ref> As a consequence of the conflict and Soviet agriculture policies, [[Central Asia]], Tajikistan included, suffered a famine that claimed many lives.<ref>{{cite web|title=A Country Study: Tajikistan, Impact of the Civil War|url=http://countrystudies.us/tajikistan/6.htm|publisher=U.S. Library of Congress|deadurl=no|archiveurl=https://web.archive.org/web/20160304210235/http://countrystudies.us/tajikistan/6.htm|archivedate=4 March 2016}}</ref>
+
+In 1924, the [[Tajik Autonomous Soviet Socialist Republic]] was created as a part of [[Uzbekistan]], but in 1929 the Tajik Soviet Socialist Republic (Tajik SSR) was made a separate constituent republic; however, the predominantly ethnic Tajik cities of [[Samarkand]] and [[Bukhara]] remained in the [[Uzbek Soviet Socialist Republic|Uzbek SSR]]. Between 1927 and 1934, [[collectivisation]] of agriculture and a rapid expansion of cotton production took place, especially in the southern region.<ref name="countrystudies.us">{{cite web|url=http://countrystudies.us/tajikistan/9.htm|title=Tajikistan – Collectivization|work=countrystudies.us|deadurl=no|archiveurl=https://web.archive.org/web/20121014202805/http://countrystudies.us/tajikistan/9.htm|archivedate=14 October 2012}}</ref> Soviet collectivisation policy brought violence against peasants and forced resettlement occurred throughout Tajikistan. Consequently, some peasants fought collectivisation and revived the [[Basmachi movement]]. Some small scale industrial development also occurred during this time along with the expansion of irrigation infrastructure.<ref name="countrystudies.us" />
+
+Two rounds of Soviet purges directed by Moscow (1927–1934 and 1937–1938) resulted in the expulsion of nearly 10,000 people, from all levels of the [[Communist Party of Tajikistan]].<ref name="The Purges 1996">{{cite web|url=http://countrystudies.us/tajikistan/10.htm|title=Tajikistan – The Purges|work=countrystudies.us|deadurl=no|archiveurl=https://web.archive.org/web/20121014204552/http://countrystudies.us/tajikistan/10.htm|archivedate=14 October 2012}}</ref> Ethnic Russians were sent in to replace those expelled and subsequently Russians dominated party positions at all levels, including the top position of first secretary.<ref name="The Purges 1996" /> Between 1926 and 1959 the proportion of [[Russians]] among Tajikistan's population grew from less than 1% to 13%.<ref>[http://countrystudies.us/tajikistan/23.htm Tajikistan – Ethnic Groups] {{webarchive|url=https://web.archive.org/web/20101207115900/http://countrystudies.us/tajikistan/23.htm |date=7 December 2010 }}, ''U.S. Library of Congress''</ref> [[Bobojon Ghafurov]], Tajikistan's [[First Secretary of the Communist Party of Tajikistan]] from 1946–1956 was the only Tajikistani politician of significance outside of the country during the Soviet Era.<ref name="ReferenceB" /> He was followed in office by [[Tursun Uljabayev]] (1956–61), [[Jabbor Rasulov]] (1961–1982), and [[Rahmon Nabiyev]] (1982–1985, 1991–1992).
+
+Tajiks began to be conscripted into the Soviet Army in 1939 and during [[World War II]] around 260,000 Tajik citizens fought against Germany, Finland and Japan. Between 60,000 (4%)<ref>Kamoludin Abdullaev and  Shahram Akbarzaheh (2010) ''Historical Dictionary of Tajikistan'', 2nd ed. p. 383. {{ISBN|0810860619}}.</ref> and 120,000 (8%)<ref>Vadim Erlikman (2004). ''Poteri narodonaseleniia v XX veke''. Moscow. pp. 23–35. {{ISBN|5-93165-107-1}}</ref> of Tajikistan's 1,530,000 citizens were killed during World War II.<ref>{{cite web|url=http://ww2db.com/country/tajikistan|title=Tajikistan in World War II|author=C. Peter Chen|work=WW2DB|deadurl=no|archiveurl=https://web.archive.org/web/20140726045015/http://ww2db.com/country/tajikistan|archivedate=26 July 2014}}</ref> Following the war and Stalin's reign attempts were made to further expand the agriculture and industry of Tajikistan.<ref name="ReferenceB">{{cite web|url=http://countrystudies.us/tajikistan/11.htm|title=Tajikistan – The Postwar Period|work=countrystudies.us|deadurl=no|archiveurl=https://web.archive.org/web/20121014205135/http://countrystudies.us/tajikistan/11.htm|archivedate=14 October 2012}}</ref> During 1957–58 [[Nikita Khrushchev]]'s [[Virgin Lands Campaign]] focused attention on Tajikistan, where living conditions, education and industry lagged behind the other [[Republics of the Soviet Union|Soviet Republics]].<ref name="ReferenceB" /> In the 1980s, Tajikistan had the lowest household saving rate in the USSR,<ref>Boris Rumer (1989) ''Soviet Central Asia: A Tragic Experiment'', Unwin Hyman, London. p. 126. {{ISBN|0044451466}}.</ref> the lowest percentage of households in the two top per capita income groups,<ref>''Statistical Yearbook of the USSR 1990'', Goskomstat, Moscow, 1991, p. 115 {{Ru icon}}.</ref> and the lowest rate of university graduates per 1000 people.<ref>''Statistical Yearbook of the USSR 1990'', Goskomstat, Moscow, 1991, p. 210 {{Ru icon}}.</ref> By the late 1980s Tajik nationalists were calling for increased rights. Real disturbances did not occur within the republic until 1990. The following year, the [[Soviet Union]] collapsed, and Tajikistan declared its independence on 9 September 1991, a day which is now celebrated as the country's [[Independence Day (Tajikistan)|Independence Day]].<ref>{{cite news |url=https://frontnews.eu/news/en/12776/Tajikistan-celebrates-Independence-Day |title=Tajikistan celebrates Independence Day |work=Front News International |date=9 September 2017 |access-date=7 September 2018 }}</ref>
+
+[[File:RIAN archive 466493 Rally on Ozodi square.jpg|thumb|Tajik men and women rally on [[Dousti Square|Ozodi square]] in Dushanbe shortly after independence, 1992.]]
+
+=== Independence ===
+{{See also|Tajikistani Civil War}}
+[[File:Spetsnaz troopers during the 1992 Tajik war.jpg|thumb|left|[[Spetsnaz]] soldiers during the [[Tajikistani Civil War|civil war]], 1992]]
+The nation almost immediately fell into [[Tajikistani Civil War|civil war]] that involved various factions fighting one another; these factions were often distinguished by clan loyalties.<ref name="United Nations">{{cite web|title=Tajikistan: rising from the ashes of civil war|url=https://www.un.org/events/tenstories/06/story.asp?storyID=600|publisher=United Nations|accessdate=10 August 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140812220732/http://www.un.org/events/tenstories/06/story.asp?storyID=600|archivedate=12 August 2014}}</ref> More than 500,000 residents fled during this time because of persecution, increased poverty and better economic opportunities in the West or in other former Soviet republics.<ref>{{cite web|title=Human Rights Watch World Report 1994: Tajikistan|url=https://www.hrw.org/reports/1994/WR94/Helsinki-20.htm|publisher=Human Rights Watch|accessdate=10 August 2014|deadurl=no|archiveurl=https://web.archive.org/web/20150924164340/http://www.hrw.org/reports/1994/WR94/Helsinki-20.htm|archivedate=24 September 2015}}</ref> [[Emomali Rahmon]] came to power in 1992, defeating former prime minister [[Abdumalik Abdullajanov]] in a November presidential election with 58% of the vote.<ref>{{cite web|url=http://www.wrmea.com/backissues/0695/9506053.htm |title=Telling the truth for more than 30 years – Tajikistan After the Elections: Post-Soviet Dictatorship |work=Washington Report on Middle East Affairs|date=June 1995 |accessdate=13 September 2013}}</ref> The elections took place shortly after the end of the war, and Tajikistan was in a state of complete devastation. The estimated dead numbered over 100,000. Around 1.2 million people were [[refugee]]s inside and outside of the country.<ref name="United Nations" /> In 1997, a [[ceasefire]] was reached between Rahmon and opposition parties under the guidance of Gerd D. Merrem, Special Representative to the Secretary General, a result widely praised as a successful United Nations peacekeeping initiative. The ceasefire guaranteed 30% of ministerial positions would go to the [[United Tajik Opposition|opposition]].<ref>{{cite web|author1=Jim Nichol|title=Central Asia's Security: Issues and Implications for U.S. Interests|url=https://fas.org/sgp/crs/row/RL30294.pdf|publisher=Federation of American Scientists|accessdate=10 August 2014|page=8|deadurl=no|archiveurl=https://web.archive.org/web/20120520055426/http://www.fas.org/sgp/crs/row/RL30294.pdf|archivedate=20 May 2012}}</ref> [[Tajikistani presidential election, 1999|Elections]] were held in 1999, though they were criticised by opposition parties and foreign observers as unfair and Rahmon was re-elected with 98% of the vote. [[Tajik presidential election, 2006|Elections in 2006]] were again won by Rahmon (with 79% of the vote) and he began his third term in office. Several opposition parties boycotted the 2006 election and the [[Organization for Security and Cooperation in Europe]] (OSCE) criticised it, although observers from the [[Commonwealth of Independent States]] claimed the elections were legal and transparent.<ref>{{cite web|title=REPUBLIC OF TAJIKISTAN PRESIDENTIAL ELECTION|url=http://www.osce.org/odihr/elections/tajikistan/24664?download=true|publisher=Organization for Security and Cooperation in Europe|accessdate=10 August 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140810080751/http://www.osce.org/odihr/elections/tajikistan/24664?download=true|archivedate=10 August 2014}}</ref><ref>{{cite web|title=OSCE and CIS Observers Disagree on Presidential Election in Tajikistan|url=http://www.neweurasia.net/politics-and-society/osce-and-cis-observers-disagree-on-presidential-election-in-tajikistan/|website=New Eurasia|accessdate=10 August 2014|deadurl=no|archiveurl=https://web.archive.org/web/20150722001344/https://www.neweurasia.net/politics-and-society/osce-and-cis-observers-disagree-on-presidential-election-in-tajikistan/|archivedate=22 July 2015}}</ref> Rahmon's administration came under further criticism from the OSCE in October 2010 for its censorship and repression of the media. The OSCE claimed that the Tajik Government censored Tajik and foreign websites and instituted tax inspections on independent printing houses that led to the cessation of printing activities for a number of independent newspapers.<ref>{{cite news|url=https://af.reuters.com/article/worldNews/idAFTRE69H2FD20101018|publisher=Reuters|title=OSCE urges Tajikistan to stop attacks on free media|date=18 October 2010|deadurl=no|archiveurl=https://web.archive.org/web/20170628001735/http://af.reuters.com/article/worldNews/idAFTRE69H2FD20101018|archivedate=28 June 2017}}</ref>
+
+[[Russia]]n border troops were stationed along the Tajik–Afghan border until summer 2005. Since the [[September 11, 2001 attacks]], [[France|French]] troops have been stationed at the [[Dushanbe Airport]] in support of air operations of [[NATO]]'s [[International Security Assistance Force]] in [[Afghanistan]]. [[United States Army]] and [[United States Marine Corps|Marine Corps]] personnel periodically visit Tajikistan to conduct joint training missions of up to several weeks duration. The [[Government of India]] rebuilt the [[Ayni Air Base]], a military airport located 15&nbsp;km southwest of Dushanbe, at a cost of $70 million, completing the repairs in September 2010.<ref>{{cite web|last=Kucera|first=Joshua|title=Tajikistan's Ayni airbase opens – but who is using it?|work=The Bug Pit – The military and security in Eurasia|publisher=The Open Society Institute|date=7 September 2010|url=http://www.eurasianet.org/node/61866|accessdate=12 September 2013|deadurl=no|archiveurl=https://web.archive.org/web/20130905071620/http://www.eurasianet.org/node/61866|archivedate=5 September 2013}}</ref> It is now the main base of the Tajikistan air force. There have been talks with [[Russia]] concerning use of the Ayni facility,<ref>{{cite web|url=http://www.eurasianet.org/node/62187|title=Tajikistan: Dushanbe Dangling Ayni Air Base Before Russia|publisher=EurasiaNet.org|date=19 October 2010|accessdate=13 September 2013|deadurl=no|archiveurl=https://web.archive.org/web/20130905123258/http://www.eurasianet.org/node/62187|archivedate=5 September 2013}}</ref> and Russia continues to maintain a large base on the outskirts of Dushanbe.<ref>{{cite web|title=Ratification of Russian military base deal provides Tajikistan with important security guarantees|url=http://www.janes.com/article/27898/ratification-of-russian-military-base-deal-provides-tajikistan-with-important-security-guarantees|archive-url=https://web.archive.org/web/20140803133141/http://www.janes.com/article/27898/ratification-of-russian-military-base-deal-provides-tajikistan-with-important-security-guarantees|dead-url=yes|archive-date=3 August 2014|website=Jane's|accessdate=10 August 2014}}</ref>
+
+In 2010, there were concerns among Tajik officials that Islamic militarism in the east of the country was on the rise following the escape of 25 militants from a Tajik prison in August, an ambush that killed 28 Tajik soldiers in the [[Rasht Valley]] in September,<ref>{{cite news|url=https://www.bbc.co.uk/news/world-asia-pacific-11565443|publisher=BBC News|title=Tajikistan says restive east is under control|date=18 October 2010|deadurl=no|archiveurl=https://web.archive.org/web/20131115193229/http://www.bbc.co.uk/news/world-asia-pacific-11565443|archivedate=15 November 2013}}</ref> and another ambush in the valley in October that killed 30 soldiers,<ref>{{cite news|title=Tajikistan Says Kills Three Suspected Islamist Militants|publisher=Radio Free Europe Radio Liberty|date=18 October 2010|url=http://www.rferl.org/content/Tajikistan_Says_Kills_Three_Suspected_Islamist_Militants/2193377.html|accessdate=12 September 2013|deadurl=no|archiveurl=https://web.archive.org/web/20131106020716/http://www.rferl.org/content/Tajikistan_Says_Kills_Three_Suspected_Islamist_Militants/2193377.html|archivedate=6 November 2013}}</ref> followed by fighting outside [[Gharm]] that left 3 militants dead. To date the country's Interior Ministry asserts that the central government maintains full control over the country's east, and the military operation in the Rasht Valley was concluded in November 2010.<ref>{{cite web|url=http://enews.fergananews.com/news.php?id=1903&mode=snews |archive-url=https://web.archive.org/web/20120415112458/http://enews.fergananews.com/news.php?id=1903&mode=snews |dead-url=yes |archive-date=15 April 2012 |title=Tajikistan: The government withdraws troops from the Rasht valley|publisher=Ferghana Information agency, Moscow|date=3 November 2010|accessdate=13 September 2013}}</ref> However, [[2012 Gorno-Badakhshan clashes|fighting erupted again]] in July 2012.<ref>{{cite web|author=Khayrullo Fayz|url=https://www.bbc.co.uk/news/world-asia-18965366|title=Tajikistan clashes: 'Many dead' in Gorno-Badakhshan|publisher=BBC Uzbek|date=24 July 2012|accessdate=13 September 2013|deadurl=no|archiveurl=https://web.archive.org/web/20121218140917/http://www.bbc.co.uk/news/world-asia-18965366|archivedate=18 December 2012}}</ref>
+In 2015, Russia sent more troops to Tajikistan.<ref>{{cite web|url=https://www.stratfor.com/analysis/why-russia-will-send-more-troops-central-asia|title=Why Russia Will Send More Troops to Central Asia|work=Stratfor|deadurl=no|archiveurl=https://web.archive.org/web/20150927163915/https://www.stratfor.com/analysis/why-russia-will-send-more-troops-central-asia|archivedate=27 September 2015}}</ref>
+
+In May 2015, Tajikistan's national security suffered a serious setback when Colonel [[Gulmurod Khalimov]], commander of the special-purpose police unit (OMON) of the Interior Ministry, defected to the [[Islamic State of Iraq and the Levant|Islamic State]].<ref>{{cite news|url=https://www.reuters.com/article/2015/05/28/us-mideast-crisis-tajikistan-idUSKBN0OD1AP20150528|publisher=Reuters|title=Commander of elite Tajik police force defects to Islamic State|date=28 May 2015|deadurl=no|archiveurl=https://web.archive.org/web/20151016042543/http://www.reuters.com/article/2015/05/28/us-mideast-crisis-tajikistan-idUSKBN0OD1AP20150528|archivedate=16 October 2015}}</ref>
+
+== Politics ==
+{{Main|Politics of Tajikistan}}
+{{See also|Elections in Tajikistan|Foreign relations of Tajikistan|Military of Tajikistan|Human rights in Tajikistan|Tajikistani Civil War}}
+[[File:Dushanbe Presidential Palace 01.jpg|thumb|The Palace of Nations in [[Dushanbe]]]]
+Almost immediately after independence, Tajikistan was plunged into a civil war that saw various factions fighting one another. These factions were supported by foreign countries including [[Afghanistan]], [[Iran]], [[Pakistan]], [[Uzbekistan]] and [[Russia]]. Russia and Iran focused on keeping peace in the warring nation to decrease the chance of [[United States|U.S.]] and [[Turkey]] involvement. Most notably, Russia backed the pro-government faction and deployed troops from the [[Commonwealth of Independent States]] to guard the Tajikistan-Afghan border.<ref>{{Cite web|url=https://www.c-r.org/accord-article/tajik-civil-war-causes-and-dynamics|title=The Tajik civil war: Causes and dynamics|date=2011-12-30|website=Conciliation Resources|language=en|access-date=2019-03-10}}</ref> All but 25,000 of the more than 400,000 ethnic Russians, who were mostly employed in industry, fled to Russia. By 1997, the war had cooled down, and a central government began to take form, with peaceful elections in 1999.
+[[File:Emomali Rahmonov 2001Nov03.jpg|thumb|left|upright|[[President of Tajikistan]] [[Emomali Rahmon]] has ruled the country since 1994.]]
+"Longtime observers of Tajikistan often characterize the country as profoundly averse to risk and skeptical of promises of reform, a political passivity they trace to the country’s ruinous civil war," Ilan Greenberg wrote in a news article in ''[[The New York Times]]'' just before the country's November 2006 presidential election.<ref name=greenberg>Greenberg, Ilan, "Media Muzzled and Opponents Jailed, Tajikistan Readies for Vote", ''[[The New York Times]]'', 4 November 2006 (article dateline 3 November 2006), page A7, New York edition</ref>
+
+Tajikistan is officially a republic, and holds [[Elections in Tajikistan|elections]] for the [[List of Presidents of Tajikistan|presidency]] and [[parliament]], operating under a [[presidential system]]. It is, however, a [[dominant-party system]], where the [[People's Democratic Party of Tajikistan]] routinely has a vast majority in [[Parliament]]. [[Emomali Rahmon]] has held the office of [[President of Tajikistan]] continually since November 1994. The Prime Minister is [[Kokhir Rasulzoda]], the First Deputy Prime Minister is Matlubkhon Davlatov and the two Deputy Prime Ministers are Murodali Alimardon and Ruqiya Qurbanova.
+
+The parliamentary elections of 2005 aroused many accusations from opposition parties and international observers that President [[Emomali Rahmon]] corruptly manipulates the election process and unemployment. The most recent elections, in February 2010, saw the ruling PDPT lose four seats in Parliament, yet still maintain a comfortable majority. The [[Organization for Security and Co-operation in Europe]] election observers said the 2010 polling "failed to meet many key OSCE commitments" and that "these elections failed on many basic democratic standards."<ref name="economistchange" /><ref name="BBC2010election" /> The government insisted that only minor violations had occurred, which would not affect the will of the Tajik people.<ref name="economistchange">{{cite news|title=Change you can't believe in|newspaper=[[The Economist]]|date=4 March 2010|url=http://www.economist.com/world/asia/displayStory.cfm?story_id=15612447&source=hptextfeature|accessdate=5 March 2010|deadurl=no|archiveurl=https://web.archive.org/web/20161230010535/http://www.economist.com/world/asia/displayStory.cfm?story_id=15612447&source=hptextfeature|archivedate=30 December 2016}}</ref><ref name="BBC2010election">{{cite news|title=Tajikistan elections criticised by poll watchdog|newspaper=[[BBC]]|date=1 March 2010|accessdate=5 March 2010|url=http://news.bbc.co.uk/2/hi/asia-pacific/8543214.stm|deadurl=no|archiveurl=https://web.archive.org/web/20100304194250/http://news.bbc.co.uk/2/hi/asia-pacific/8543214.stm|archivedate=4 March 2010}}</ref>
+
+The presidential election held on 6 November 2006 was boycotted by "mainline" opposition parties, including the 23,000-member [[Islamic Renaissance Party of Tajikistan|Islamic Renaissance Party]]. Four remaining opponents "all but endorsed the incumbent", Rahmon.<ref name=greenberg /> Tajikistan gave Iran its support in Iran's membership bid to join the [[Shanghai Cooperation Organisation]], after a meeting between the Tajik President and the Iranian foreign minister.<ref>{{cite web|url=http://www.presstv.ir/detail.aspx?id=48781&sectionid=351020101|archive-url=https://web.archive.org/web/20080615043810/http://www.presstv.ir/detail.aspx?id=48781&sectionid=351020101|dead-url=yes|archive-date=15 June 2008|title=Press TV – Iran makes move to join SCO |publisher=Presstv.ir|date=24 March 2008|accessdate=2 October 2009}}</ref>
+
+Freedom of the press is ostensibly officially guaranteed by the government, but independent press outlets remain restricted, as does a substantial amount of web content. According to the Institute for War & Peace Reporting, access is blocked to local and foreign websites including avesta.tj, Tjknews.com, ferghana.ru, centrasia.org and journalists are often obstructed from reporting on controversial events. In practice, no public criticism of the regime is tolerated and all direct protest is severely suppressed and does not receive coverage in the local media.<ref>{{cite web|url=http://iwpr.net/report-news/tajik-government%E2%80%99s-fury-over-conflict-reporting|archive-url=https://web.archive.org/web/20140926061259/http://iwpr.net/report-news/tajik-government%E2%80%99s-fury-over-conflict-reporting|dead-url=yes|archive-date=26 September 2014|title=Tajik Government's Fury Over Conflict Reporting|publisher=Iwpr.net|date=22 October 2010|accessdate=14 January 2011}}</ref>
+
+== Geography ==
+{{Main|Geography of Tajikistan}}
+[[File:Tajikistan satellite photo.jpg|thumb|Satellite photograph of Tajikistan]]
+[[File:Tajikistan map of Köppen climate classification.svg|thumb|Tajikistan map of Köppen climate classification]]
+Tajikistan is [[landlocked country|landlocked]], and is the smallest nation in Central Asia by area. It lies mostly between latitudes [[36th parallel north|36°]] and [[41st parallel north|41° N]], and longitudes [[67th meridian east|67°]] and [[75th meridian east|75° E]]. It is covered by mountains of the [[Pamir Mountains|Pamir]] range, and more than fifty percent of the country is over {{convert|3000|m|ft}} above [[sea level]]. The only major areas of lower land are in the north (part of the [[Fergana Valley]]), and in the southern [[Kofarnihon River|Kofarnihon]] and [[Vakhsh River|Vakhsh]] river valleys, which form the Amu Darya. [[Dushanbe]] is located on the southern slopes above the Kofarnihon valley.
+
+{| style="border:1px solid #8888aa; background:#f7f8ff; padding:5px; font-size:85%; margin:auto;"
+|-
+|style="text-align: center;" |Mountain
+| colspan="2" style="text-align:center; background:rgb(204, 153, 51); text-align:center;"|Height
+| colspan="2" style="text-align:center; background:rgb(204, 153, 51); text-align:center;"|Location
+|-
+| [[Ismoil Somoni Peak]] (highest)
+| style="text-align:center; background:rgb(143, 177, 172);"|7,495&nbsp;m
+| style="text-align:center; background:rgb(143, 177, 172);"|24,590&nbsp;ft
+| style="text-align:center; background:rgb(143, 177, 172);"|{{nbsp|4}}North-western edge of [[Gorno-Badakhshan]] ([[GBAO]]), south of the [[Kyrgyzstan|Kyrgyz]] border
+|-
+| [[Ibn Sina Peak]] ([[Lenin Peak]])
+|style="text-align: center;" |7,134&nbsp;m
+|style="text-align: center;" |23,537&nbsp;ft
+|style="text-align: center;" |{{nbsp|4}}Northern border in the [[Trans-Alay Range]], north-east of [[Ismoil Somoni Peak]]
+|-
+|[[Peak Korzhenevskaya]]
+| style="text-align:center; background:rgb(201, 185, 116);"|7,105&nbsp;m
+| style="text-align:center; background:rgb(201, 185, 116);"|23,310&nbsp;ft
+| style="text-align:center; background:rgb(201, 185, 116);"|{{nbsp|4}}North of [[Ismoil Somoni Peak]], on the south bank of [[Muksu River]]
+|-
+|[[Independence Peak]] ([[Revolution Peak]])
+|style="text-align: center;" |6,974&nbsp;m
+|style="text-align: center;" |22,881&nbsp;ft
+|style="text-align: center;" |{{nbsp|4}}Central [[Gorno-Badakhshan]], south-east of [[Ismoil Somoni Peak]]
+|-
+|[[Academy of Sciences Range]]
+| style="text-align:center; background:rgb(151, 199, 137);"|6,785&nbsp;m
+| style="text-align:center; background:rgb(151, 199, 137);"|22,260&nbsp;ft
+| style="text-align:center; background:rgb(151, 199, 137);"|{{nbsp|4}}North-western [[Gorno-Badakhshan]], stretches in the north-south direction
+|-
+|[[Karl Marx Peak]]
+|style="text-align: center;" |6,726&nbsp;m
+|style="text-align: center;" |22,067&nbsp;ft
+|style="text-align: center;" |{{nbsp|4}}[[GBAO]], near the border to [[Afghanistan]] in the northern ridge of the [[Karakoram Range]]
+|-
+|[[Garmo Peak]]
+| style="text-align:center; background:rgb(151, 199, 137);"|6,595&nbsp;m
+| style="text-align:center; background:rgb(151, 199, 137);"|21,637&nbsp;ft
+| style="text-align:center; background:rgb(151, 199, 137);"|{{nbsp|4}}Northwestern Gorno-Badakhshan.
+|-
+|[[Mayakovskiy Peak]]
+| style="text-align:center; background:rgb(208, 172, 132);"|6,096&nbsp;m
+| style="text-align:center; background:rgb(208, 172, 132);"|20,000&nbsp;ft
+| style="text-align:center; background:rgb(208, 172, 132);"|{{nbsp|4}}Extreme south-west of [[GBAO]], near the border to Afghanistan.
+|-
+|[[Concord Peak]]
+|style="text-align: center;" |5,469&nbsp;m
+|style="text-align: center;" |17,943&nbsp;ft
+|style="text-align: center;" |{{nbsp|4}}Southern border in the northern ridge of the [[Karakoram Range]]
+|-
+| [[Kyzylart Pass]]
+| style="text-align:center; background:rgb(208, 172, 132);"|4,280&nbsp;m
+| style="text-align:center; background:rgb(208, 172, 132);"|14,042&nbsp;ft
+| style="text-align:center; background:rgb(208, 172, 132);"|{{nbsp|4}}Northern border in the [[Trans-Alay Range]]
+|}
+
+The [[Amu Darya]] and [[Panj River|Panj]] rivers mark the border with Afghanistan, and the glaciers in Tajikistan's mountains are the major source of [[runoff (water)|runoff]] for the [[Aral Sea]]. There are over 900 rivers in Tajikistan longer than 10 kilometres.
+
+=== Administrative divisions ===
+{{Main|Provinces of Tajikistan|Districts of Tajikistan}}
+{{stack|{{Tajikistan Provinces Image Map}}}}
+[[File:Tajik mountains edit.jpg|thumb|Mountains of Tajikistan]]
+Tajikistan consists of 4 administrative divisions. These are the provinces ([[viloyat]]) of [[Sughd]] and [[Khatlon]], the autonomous province of [[Gorno-Badakhshan Autonomous Province|Gorno-Badakhshan]] (abbreviated as GBAO), and the [[Region of Republican Subordination]] (RRP&nbsp;– Raiony Respublikanskogo Podchineniya in [[Romanization of Russian|transliteration]] from Russian or NTJ – Ноҳияҳои тобеи ҷумҳурӣ in [[Tajik language|Tajik]]; formerly known as [[Karotegin Province]]). Each region is divided into several districts, ({{lang-tg|Ноҳия}}, ''nohiya'' or ''raion''), which in turn are subdivided into ''jamoats'' (village-level self-governing units) and then villages (''qyshloqs''). {{As of|2006}}, there were 58 districts and 367 jamoats in Tajikistan.<ref name=pop2008 />
+{| class="wikitable"
+|- style="background:#efefef;"
+! Division !! [[ISO 3166-2]] !! Map No !! Capital !! Area (km²)<ref name=pop2008>''Population of the Republic of Tajikistan as of 1 January 2008'', State Statistical Committee, Dushanbe, 2008 {{Ru icon}}</ref>!! Pop (2010) Census
+|-
+! [[Sughd]]
+| |TJ-SU || 1 || [[Khujand]] ||align="right"| 25,400 ||align="right"| 2,233,500
+|-
+! [[Region of Republican Subordination]]
+| TJ-RR || 2 || [[Dushanbe]] ||align="right"| 28,600 ||align="right"| 1,722,900
+|-
+! [[Khatlon]]
+| TJ-KT|| 3 || [[Qurghonteppa]]　||align="right"| 24,800 ||align="right"| 2,677,300
+|-
+! [[Gorno-Badakhshan Autonomous Province|Gorno-Badakhshan]]
+| TJ-BG|| 4 || [[Khorugh]] ||align="right"| 64,200 ||align="right"| 206,000
+|-
+! [[Dushanbe]]
+|  || || [[Dushanbe]] ||align="right"| 124.6 ||align="right"| 778,500
+|}
+
+=== Lakes ===
+[[File:Вершина Уртабуз. Вдали - Пик Ленина. Внизу - озеро Каракуль.JPG|thumb|[[Karakul (Tajikistan)|Karakul lake]]]]
+About 2% of the country's area is covered by lakes, the best known of which are the following:
+*[[Kayrakkum Reservoir|Kayrakum (Qairoqqum) Reservoir]] ([[Sughd]])
+*[[Iskanderkul]] ([[Fann Mountains]])
+*[[Kulikalon Lakes|Kulikalon]] (Kul-i Kalon) ([[Fann Mountains]])
+*[[Nurek Dam|Nurek Reservoir]] ([[Khatlon]])
+*[[Karakul (Tajikistan)|Karakul]] ({{lang-Kg|Кара-Көл}}; eastern [[Pamir Mountains|Pamir]])
+*[[Sarez Lake|Sarez]] ([[Pamir Mountains|Pamir]])
+*[[Shadau Lake]] ([[Pamir Mountains|Pamir]])
+*[[Zorkul]] ([[Pamir Mountains|Pamir]])
+
+== Economy ==
+{{Main|Economy of Tajikistan}}
+{{See also|Agriculture in Tajikistan}}
+[[File:Young Tajikistani dry fruit seller.jpg|thumb|A Tajik dry fruit seller]]
+Nearly 47% of Tajikistan's GDP comes from [[immigrant]] [[remittances]] (mostly from Tajiks working in [[Russia]]n Federation).<ref>"[https://www.economist.com/news/asia/21584999-russia-attempts-draw-tajikistan-and-kyrgyzstan-back-its-orbit-remittance-man Remittance man] {{webarchive|url=https://web.archive.org/web/20171118154816/https://www.economist.com/news/asia/21584999-russia-attempts-draw-tajikistan-and-kyrgyzstan-back-its-orbit-remittance-man |date=18 November 2017 }}". The Economist. 7 September 2013.</ref><ref name="youtube.com" /> The current economic situation remains fragile, largely owing to [[corruption]], uneven economic reforms, and economic mismanagement. With foreign revenue precariously dependent upon remittances from migrant workers overseas and exports of aluminium and cotton, the economy is highly vulnerable to external shocks. In FY 2000, international assistance remained an essential source of support for rehabilitation programs that reintegrated former civil war combatants into the civilian economy, which helped keep the peace. International assistance also was necessary to address the second year of severe [[drought]] that resulted in a continued shortfall of food production. On 21 August 2001, the [[Red Cross]] announced that a [[famine]] was striking Tajikistan, and called for international aid for Tajikistan and [[Uzbekistan]]; however, access to food remains a problem today. In January 2012, 680,152 of the people living in Tajikistan were living with [[food insecurity]]. Out of those, 676,852 were at risk of Phase 3 (Acute Food and Livelihoods Crisis) food insecurity and 3,300 were at risk of Phase 4 (Humanitarian Emergency). Those with the highest risk of food insecurity were living in the remote [[Murghob District]] of [[Gorno-Badakhshan Autonomous Province|GBAO]].<ref>{{cite web|title = Integrated Food Security Phase Classification|url = http://documents.wfp.org/stellent/groups/public/documents/ena/wfp245412.pdf|website = usaid.gov|publisher = USAID|accessdate = 9 August 2014|deadurl = no|archiveurl = https://web.archive.org/web/20140810013040/http://documents.wfp.org/stellent/groups/public/documents/ena/wfp245412.pdf|archivedate = 10 August 2014|df = dmy-all}}</ref>
+
+[[File:Talco.jpg|thumb| The [[TadAZ]] aluminium smelting plant, in Tursunzoda, is the largest aluminium manufacturing plant in [[Central Asia]], and Tajikistan's chief industrial asset.]]
+Tajikistan's economy grew substantially after the war. The GDP of Tajikistan expanded at an average rate of 9.6% over the period of 2000–2007 according to the World Bank data. This improved Tajikistan's position among other Central Asian countries (namely [[Turkmenistan|Turkmenia]] and Uzbekistan), which seem to have degraded economically ever since.<ref>{{cite news|url = http://news.bbc.co.uk/1/shared/spl/hi/guides/456900/456938/html/nn4page1.stm|title = BBC's Guide to Central Asia|publisher = BBC News|accessdate = 1 November 2006|date = 20 June 2005|deadurl = no|archiveurl = https://web.archive.org/web/20061201060041/http://news.bbc.co.uk/1/shared/spl/hi/guides/456900/456938/html/nn4page1.stm|archivedate = 1 December 2006|df = dmy-all}}</ref> The primary sources of income in Tajikistan are [[aluminium]] production, cotton growing and remittances from migrant workers.<ref name="usstate2">{{cite web|url = https://www.state.gov/r/pa/ei/bgn/5775.htm|title = Background Note: Tajikistan|publisher = US Department of State, Bureau of South and Central Asian Affairs|date = December 2007|accessdate = 8 March 2008|deadurl = no|archiveurl = https://web.archive.org/web/20080306030045/http://www.state.gov/r/pa/ei/bgn/5775.htm|archivedate = 6 March 2008|df = dmy-all}}</ref> Cotton accounts for 60% of agricultural output, supporting 75% of the rural population, and using 45% of irrigated arable land.<ref>{{cite news|url = http://bs-agro.com/index.php/news/other-countries/23909-tajikistan-over-392-5-thousand-tons-of-cotton-picked-in-tajikistan|archive-url = https://web.archive.org/web/20131220200124/http://bs-agro.com/index.php/news/other-countries/23909-tajikistan-over-392-5-thousand-tons-of-cotton-picked-in-tajikistan|dead-url = yes|archive-date = 20 December 2013|title = Tajikistan: Over 392.5 thousand tons of cotton picked in Tajikistan|publisher = BS-AGRO|date = 12 December 2013}}</ref> The aluminium industry is represented by the state-owned [[Tajik Aluminum Company]] – the biggest aluminium plant in Central Asia and one of the biggest in the world.<ref name="expert.ru2">{{cite journal|url=http://www.expert.ru/printissues/kazakhstan/2004/23/23ka-kpov3/|script-title=ru:Алюминий по-таджикски|trans-title=Aluminium in Tajiki|language=ru|journal=Expert Kazakhstan|volume=23|issue=25|date=6 December 2004|accessdate=8 March 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20111110001253/http://expert.ru/kazakhstan/2004/23/23ka-kpov3_57681/|archivedate=10 November 2011}}</ref>
+
+Tajikistan's rivers, such as the [[Vakhsh River|Vakhsh]] and the [[Panj River|Panj]], have great hydropower potential, and the government has focused on attracting investment for projects for internal use and electricity exports. Tajikistan is home to the [[Nurek Dam]], the highest dam in the world.<ref name="dams2">{{cite web|url=http://npdp.stanford.edu/damhigh.html|title=Highest Dams (World and U.S.)|publisher=ICOLD World Register of Dams|year=1998|accessdate=8 March 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20080405065705/http://npdp.stanford.edu/damhigh.html |archivedate=5 April 2008}}</ref>  Lately, Russia's [[RAO UES]] energy giant has been working on the Sangtuda-1 hydroelectric power station (670&nbsp;MW capacity) commenced operations on 18 January 2008.<ref name="vesti2">{{cite web|url=http://www.vesti.ru/doc.html?id=154107&cid=6|script-title=ru:Первая очередь Сангтудинской ГЭС в Таджикистане будет запущена 18 января|trans-title=First stage of the Sangtuda HPS launched on 18 January|language=ru|publisher=Vesti|date=25 December 2007|accessdate=28 February 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160303185908/http://www.vesti.ru/doc.html?id=154107&cid=6|archivedate=3 March 2016}}</ref><ref name="todayenergy2">{{cite web|url = http://www.energytoday.eu/articles/81528.php|archive-url = https://web.archive.org/web/20090116041605/http://www.energytoday.eu/articles/81528.php|dead-url = yes|archive-date = 16 January 2009|title = Sangtuda-1 HPS launched on January 18, 2008|publisher = Today Energy|date = 5 January 2008|accessdate = 8 March 2008}}</ref> Other projects at the development stage include Sangtuda-2 by Iran, Zerafshan by the Chinese company [[SinoHydro]], and the [[Rogun Dam|Rogun power plant]] that, at a projected height of {{convert|335|m|ft|0}}, would supersede the Nurek Dam as highest in the world if it is brought to completion.<ref name="irna2">{{cite web|url =http://www2.irna.com/en/news/view/line-18/0704240278195019.htm|archive-url =https://web.archive.org/web/20130428215008/http://www2.irna.com/en/news/view/line-18/0704240278195019.htm|dead-url =yes|archive-date =28 April 2013|title = Iran participates in power plant project in Tajikistan|publisher = IRNA|date = 24 April 2007|accessdate = 8 March 2008}}</ref><ref name="rferl12">{{cite web|url = http://www.rferl.org/featuresarticle/2007/01/c7eca5d9-67f9-4659-88f9-696875ac873e.html|title = Chinese To Build Tajik Hydroelectric Plant|publisher = Radio Free Europe / Radio Liberty|date = 18 January 2007|accessdate = 8 March 2008|deadurl = no|archiveurl = https://web.archive.org/web/20080315013838/http://www.rferl.org/featuresarticle/2007/01/c7eca5d9-67f9-4659-88f9-696875ac873e.html|archivedate = 15 March 2008|df = dmy-all}}</ref> A planned project, [[CASA-1000]], will transmit 1000 MW of surplus electricity from Tajikistan to Pakistan with power transit through Afghanistan. The total length of transmission line is 750&nbsp;km while the project is planned to be on Public-Private Partnership basis with the support of WB, IFC, ADB and IDB. The project cost is estimated to be around US$865 million.<ref>{{cite news|url = http://www.satrapia.com/news/article/pakistan-can-end-power-crisis-thru-casa-1000/|title = Pakistan can end power crisis thru CASA-1000|newspaper = The Gazette of Central Asia|publisher = Satrapia|date = 13 August 2011|accessdate = 8 June 2012|deadurl = no|archiveurl = https://web.archive.org/web/20140810075442/http://www.satrapia.com/news/article/pakistan-can-end-power-crisis-thru-casa-1000/|archivedate = 10 August 2014|df = dmy-all}}</ref> Other energy resources include sizeable coal deposits and smaller reserves of natural gas and petroleum.
+
+[[File:Tajikistan Export Treemap.png|thumb|left|Graphical depiction of Tajikistan's product exports in 28 colour-coded categories]]
+In 2014 Tajikistan was the world's most [[remittance]]-dependent economy with remittances accounting for 49% of GDP and expected to fall by 40% in 2015 due to the economic crisis in the Russian Federation.<ref name="eurasianet.org">{{cite web|url=http://www.eurasianet.org/node/73591|title=Tajikistan: Remittances to Plunge 40% – World Bank|work=EurasiaNet.org|deadurl=no|archiveurl=https://web.archive.org/web/20150529055726/http://www.eurasianet.org/node/73591|archivedate=29 May 2015}}</ref> Tajik migrant workers abroad, mainly in the Russian Federation, have become by far the main source of income for millions of Tajikistan's people<ref name="wb-note32">{{cite web|url = http://siteresources.worldbank.org/EXTDECPROSPECTS/Resources/476882-1157133580628/BriefingNote3.pdf|title = Remittance Trends 2007. Migration and Development Brief 3|author1 = Dilip Ratha|author2 = Sanket Mohapatra|author3 = K. M. Vijayalakshmi|author4 = Zhimei Xu|publisher = [[World Bank]]|date = 29 November 2007|accessdate = 8 March 2008|format = PDF|deadurl = no|archiveurl = https://web.archive.org/web/20080226203055/http://siteresources.worldbank.org/EXTDECPROSPECTS/Resources/476882-1157133580628/BriefingNote3.pdf|archivedate = 26 February 2008|df = dmy-all}}</ref> and with the 2014–2015 downturn in the Russian economy the World Bank has predicted large numbers of young Tajik men will return home and face few economic prospects.<ref name="eurasianet.org" />
+
+According to some estimates about 20% of the population lives on less than US$1.25 per day.<ref>{{cite web|url = http://hdr.undp.org/en/media/HDI_2008_EN_Tables.pdf|title = UNDP: Human development indices – Table 3: Human and income poverty (Population living below national poverty line (2000–2007))|format = PDF|date = |accessdate = 2 October 2009|deadurl = no|archiveurl = https://web.archive.org/web/20081219191319/http://hdr.undp.org/en/media/HDI_2008_EN_Tables.pdf|archivedate = 19 December 2008|df = dmy-all}}</ref> Migration from Tajikistan and the consequent remittances have been unprecedented in their magnitude and economic impact. In 2010, remittances from Tajik labour migrants totalled an estimated $2.1 billion US dollars, an increase from 2009. Tajikistan has achieved transition from a planned to a market economy without substantial and protracted recourse to aid (of which it by now receives only negligible amounts), and by purely market-based means, simply by exporting its main commodity of comparative advantage&nbsp;— cheap labour.<ref name="imf3">{{cite web|url = http://www.imf.org/external/pubs/ft/wp/2006/wp0602.pdf|title = The Macroeconomics of Remittances: The Case of Tajikistan. IMF Working Paper WP/06/2|author = Alexei Kireyev|publisher = [[International Monetary Fund|IMF]]|date = January 2006|accessdate = 8 March 2008|format = PDF|deadurl = no|archiveurl = https://web.archive.org/web/20080226203044/http://www.imf.org/external/pubs/ft/wp/2006/wp0602.pdf|archivedate = 26 February 2008|df = dmy-all}}</ref> The World Bank Tajikistan Policy Note 2006 concludes that remittances have played an important role as one of the drivers of Tajikistan's economic growth during the past several years, have increased incomes, and as a result helped significantly reduce poverty.<ref name="wb-policynote2">{{cite web|url = http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2006/08/22/000160016_20060822094201/Rendered/PDF/357710TJ.pdf|archive-url = https://web.archive.org/web/20160304001240/http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2006/08/22/000160016_20060822094201/Rendered/PDF/357710TJ.pdf|dead-url = yes|archive-date = 4 March 2016|title = Tajikistan Policy Note. Poverty Reduction and Enhancing the Development Impact of Remittances. Report No. 35771-TJ|publisher = [[World Bank]]|date = June 2006|accessdate = 8 March 2008|format = PDF}}</ref>
+
+Drug trafficking is the major illegal source of income in Tajikistan<ref>[https://www.youtube.com/watch?v=RFVcQ7ZxC1o MEET THE STANS – episodes 3&4: Uzbekistan and Tajikistan] {{webarchive|url=https://web.archive.org/web/20150403014008/https://www.youtube.com/watch?v=RFVcQ7ZxC1o |date=3 April 2015 }}, BBC, 2011</ref> as it is an important transit country for Afghan [[narcotics]] bound for Russian and, to a lesser extent, Western European markets; some [[opium poppy]] is also raised locally for the domestic market.<ref name="Silk2">Silk Road Studies, [[Manichaeism|Country Factsheets, Eurasian Narcotics: Tajikistan 2004]]</ref>  However, with the increasing assistance from international organisations, such as UNODC, and co-operation with the US, Russian, EU and Afghan authorities a level of progress on the fight against illegal drug-trafficking is being achieved.<ref name="edm12">{{cite web
+|url = http://www.jamestown.org/publications_details.php?volume_id=414&issue_id=3579&article_id=2370646|title = Dushanbe looks towards Afghanistan to combat drug trafficking|author = Roger McDermott|publisher = Eurasia Daily Monitor|date = 10 January 2006|accessdate = 8 March 2008|archive-url = https://web.archive.org/web/20080602034307/http://www.jamestown.org/publications_details.php?volume_id=414&issue_id=3579&article_id=2370646|dead-url = yes|archivedate = 2 June 2008}}</ref> Tajikistan holds third place in the world for [[heroin]] and raw [[opium]] confiscations (1216.3&nbsp;kg of heroin and 267.8&nbsp;kg of raw opium in the first half of 2006).<ref name=CIA /><ref>[[Achaemenid Empire|Overview of the drug and crime situation in Central Asia. Factsand Figures]], Coordination and Analysis Unit of the [[Hephthalite Empire|UNODC]] Regional Office for Central Asia</ref> Drug money corrupts the country's government; according to some experts the well-known personalities that fought on both sides of the [[Civil war in Tajikistan|civil war]] and have held the positions in the government after the armistice was signed are now involved in the drug trade.<ref name="Silk2" /> [[UNODC]] is working with Tajikistan to strengthen border crossings, provide training, and set up joint interdiction teams. It also helped to establish Tajikistani Drug Control Agency.<ref name="fight2">[[Samanid Empire|Fighting Drugs, Crime and Terrorism in the CIS Dushanbe, 4 October 2007]]{{dead link|date = October 2009}}</ref>
+
+Tajikistan is an active member of the [[Economic Cooperation Organization]] (ECO).
+
+== Transportation ==
+{{Main|Transport in Tajikistan}}
+[[File:Duschanbe Bahnhof.jpg|thumb|[[Dushanbe]] railway station]]
+
+In 2013 Tajikistan, like many of the other Central Asian countries, was experiencing major development in its transportation sector.
+
+As a landlocked country Tajikistan has no ports and the majority of transportation is via roads, air, and rail. In recent years Tajikistan has pursued agreements with [[Iran]] and [[Pakistan]] to gain port access in those countries via [[Afghanistan]]. In 2009, an agreement was made between Tajikistan, Pakistan, and Afghanistan to improve and build a 1,300&nbsp;km (810&nbsp;mi) highway and rail system connecting the three countries to Pakistan's ports. The proposed route would go through the [[Gorno-Badakhshan Autonomous Province]] in the eastern part of the country.<ref name="pak">{{cite news |title=President Zardari chairs PPP consultative meeting |url=http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=83411&Itemid=1 |archive-url=https://web.archive.org/web/20140102200343/http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=83411&Itemid=1 |dead-url=yes |archive-date=2 January 2014 |work= |publisher=Associated Press of Pakistan |date=10 August 2009 |accessdate=11 August 2009}}</ref> And in 2012, the presidents of Tajikistan, Afghanistan, and Iran signed an agreement to construct roads and railways as well as oil, gas, and water pipelines to connect the three countries.<ref>{{cite web|title=Iran, Afghanistan, Tajikistan sign agreement on road, railway construction|url=http://www.tehrantimes.com/politics/96460-iran-afghanistan-tajikistan-sign-agreement-on-road-railway-construction-|archive-url=https://web.archive.org/web/20150406174251/http://www.tehrantimes.com/politics/96460-iran-afghanistan-tajikistan-sign-agreement-on-road-railway-construction-|dead-url=yes|archive-date=6 April 2015|publisher=Tehran Times|accessdate=9 August 2014}}</ref>
+
+=== Rail ===
+{{Main|Rail transport in Tajikistan}}
+The [[railroad]] system totals only {{convert|680|km|mi}} of track,<ref name=CIA /> all of it {{RailGauge|1520mm}} [[Russian gauge|broad gauge]]. The principal segments are in the southern region and connect the capital with the industrial areas of the [[Hisor]] and [[Vakhsh, Tajikistan|Vakhsh]] valleys and with [[Uzbekistan]], [[Turkmenistan]], [[Kazakhstan]] and [[Russia]].<ref>{{cite av media|url=https://www.youtube.com/watch?v=BBSardpSH0E|title=Migrant Express Part 1: Good-bye Dushanbe|date=1 September 2009|work=YouTube|deadurl=no|archiveurl=https://web.archive.org/web/20151016042543/https://www.youtube.com/watch?v=BBSardpSH0E|archivedate=16 October 2015}}</ref> Most international freight traffic is carried by train.<ref name="tajikistanmission.ch">{{cite web|url=http://www.tajikistanmission.ch/business-and-investment/infrastructure.html|title=Tajikistan Mission – Infrastructure|author=Administrator|work=tajikistanmission.ch|deadurl=yes|archiveurl=https://web.archive.org/web/20140531142944/http://www.tajikistanmission.ch/business-and-investment/infrastructure.html|archivedate=31 May 2014}}</ref> The recently constructed [[Qurghonteppa]]–[[Kulob]] railway connected the [[Kulob District]] with the central area of the country.<ref name="tajikistanmission.ch" />
+
+=== Air ===
+[[File:Dushanbe Airport (DYU).jpg|thumb|The old terminal building at [[Dushanbe International Airport]]]]
+In 2009 Tajikistan had 26 airports, 18 of which had paved runways, of which two had runways longer than 3,000 meters.<ref name=CIA>CIA World Factbook. [https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html Tajikistan] {{webarchive|url=https://web.archive.org/web/20010331101740/https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html |date=31 March 2001 }}</ref> The country's main airport is [[Dushanbe International Airport]] which as of April 2015, had regularly scheduled flights to major cities in Russia, Central Asia, as well as Delhi, Dubai, Frankfurt, Istanbul, Kabul, Tehran, and Ürümqi amongst others. There are also international flights, mainly to Russia, from [[Khujand Airport]] in the northern part of the country as well as limited international services from [[Kulob Airport]], and [[Qurghonteppa International Airport]]. [[Khorog Airport]] is a domestic airport and also the only airport in the sparsely populated eastern half of the country.
+
+Tajikistan has two major airlines ([[Somon Air]] and [[Tajik Air]]) and is also serviced by over a dozen foreign airlines.
+
+=== Roads ===
+The total length of roads in the country is 27,800 kilometres. Automobiles account for more than 90% of the total volume of passenger transportation and more than 80% of domestic freight transportation.<ref name="tajikistanmission.ch" />
+
+In 2004 the [[Tajik–Afghan Friendship Bridge]] between Afghanistan and Tajikistan was built, improving the country's access to [[South Asia]]. The bridge was built by the [[United States]].<ref name=usace>{{cite web|url=http://www.aed.usace.army.mil/Snapshots.asp?PageNo=2|archive-url=https://web.archive.org/web/20150403130857/http://www.aed.usace.army.mil/Snapshots.asp?PageNo=2|dead-url=yes|archive-date=3 April 2015|title= US Army Corps of Engineer, Afghanistan-Tajikistan Bridge|publisher=US Army Corps of Engineer|accessdate=8 March 2008}}</ref>
+
+{{As of|2014}} many highway and tunnel construction projects are underway or have recently been completed. Major projects include rehabilitation of the Dushanbe – Chanak (Uzbek border), Dushanbe – Kulma (Chinese border), and Kurgan-Tube – Nizhny Pyanj (Afghan border) highways, and construction of tunnels under the mountain passes of [[Anzob Tunnel|Anzob]], Shakhristan, Shar-Shar<ref>[http://centralasiaonline.com/en_GB/articles/caii/features/2009/09/03/feature-06 Shar-Shar auto tunnel links Tajikistan to China] {{webarchive|url=https://web.archive.org/web/20140531142530/http://centralasiaonline.com/en_GB/articles/caii/features/2009/09/03/feature-06 |date=31 May 2014 }}, The {{convert|2.3|km|0|abbr=on}} Shar-Shar car tunnel linking Tajikistan and China opened to traffic on 30 Aug.., Siyavush Mekhtan, 3 September 2009</ref> and Chormazak.<ref>Payrav Chorshanbiyev (12 February 2014) [http://news.tj/en/news/chormaghzak-tunnel-renamed-khatlon-tunnel-and-shar-shar-tunnel-renamed-ozodi-tunnel Chormaghzak Tunnel renamed Khatlon Tunnel and Shar-Shar Tunnel renamed Ozodi Tunnel] {{webarchive|url=https://web.archive.org/web/20140531131121/http://news.tj/en/news/chormaghzak-tunnel-renamed-khatlon-tunnel-and-shar-shar-tunnel-renamed-ozodi-tunnel |date=31 May 2014 }}. news.tj</ref> These were supported by international donor countries.<ref name="tajikistanmission.ch" /><ref>[http://blogs.fco.gov.uk/leighturner/2013/05/07/trade-tunnels-transit-and-training-in-mountainous-tajikistan/ Trade, tunnels, transit and training in mountainous Tajikistan] {{webarchive|url=https://web.archive.org/web/20130819075855/http://blogs.fco.gov.uk/leighturner/2013/05/07/trade-tunnels-transit-and-training-in-mountainous-tajikistan/ |date=19 August 2013 }}. fco.gov.uk (7 May 2013)</ref>
+
+<br />
+
+== Demographics ==
+{{Main|Demographics of Tajikistan}}
+[[File:Tajikistan, Trends in the Human Development Index 1970-2010.png|thumb|Tajikistan: trends in its Human Development Index indicator 1970–2010]]
+[[File:Women of Dushanbe .jpg|thumb|Group of Tajik women]]
+Tajikistan has a population of {{UN Population|Tajikistan}} ({{UN Population|Year}} est.){{UN Population|ref}} of which 70% are under the age of 30 and 35% are between the ages of 14 and 30.<ref name="youtube.com">[https://www.youtube.com/watch?v=C1ey-4PO7fE Tajikistan: Building a Democracy (video)] {{webarchive|url=https://web.archive.org/web/20160411132150/https://www.youtube.com/watch?v=C1ey-4PO7fE |date=11 April 2016 }}, United Nations, March 2014</ref> [[Tajik people|Tajiks]] who speak [[Tajik language|Tajik]] (a dialect of [[Persian language|Persian]]) are the main ethnic group, although there are sizeable minorities of [[Uzbeks]] and [[Russians]], whose numbers are declining due to emigration.<ref>[http://news.bbc.co.uk/2/hi/asia-pacific/4420922.stm Russians left behind in Central Asia] {{webarchive|url=https://web.archive.org/web/20130911080317/http://news.bbc.co.uk/2/hi/asia-pacific/4420922.stm |date=11 September 2013 }}, Robert Greenall, BBC News, 23 November 2005.</ref> The [[Pamiri people|Pamiris]] of [[Badakhshan]], a small population of [[Yaghnobi people]], and a sizeable minority of [[Ismailis]] are all considered to belong to the larger group of Tajiks. All citizens of Tajikistan are called [[Tajikistanis]].<ref name=CIA />
+
+[[File:Children in Tajikistan 25042007.jpg|thumb|left|Group of Tajik children]]
+In 1989, ethnic [[Russians in Tajikistan]] made up 7.6% of the population, but they are now less than 0.5%, after the civil war spurred Russian emigration.<ref>[http://countrystudies.us/tajikistan/23.htm Tajikistan – Ethnic Groups] {{webarchive|url=https://web.archive.org/web/20101207115900/http://countrystudies.us/tajikistan/23.htm |date=7 December 2010 }}. Source: ''U.S. Library of Congress.''</ref> The [[History of Germans in Russia and the Soviet Union|ethnic German]] population of Tajikistan has also declined due to emigration: having topped at 38,853 in 1979, it has almost vanished since the collapse of the Soviet Union.<ref>[http://library.ndsu.edu/grhc/history_culture/history/tajikistan.html Russian-Germans in Tajikistan] {{webarchive|url=https://web.archive.org/web/20090820100426/http://library.ndsu.edu/grhc/history_culture/history/tajikistan.html |date=20 August 2009 }}. Pohl, J. Otto. "Russian-Germans in Tajikistan", ''Neweurasia'', 29 March 2007.</ref>
+
+=== Languages ===
+The official and vernacular language of Tajikistan is [[Tajik language|Tajik]], a variety of [[Persian language|Persian]], although Russian is routinely used in business and communication. The Constitution mentions Russian as the "language for inter-ethnic communication." An amendment passed in 2009 was thought to remove all official roles for Russian,<ref name="RFE/RL">{{cite web |url=http://www.rferl.org/content/Tajikistan_Drops_Russian_As_Official_Language/1846118.html |title=Tajikistan Drops Russian As Official Language |publisher=RFE/RL – Rferl.org |date=7 October 2009 |accessdate=13 September 2013 |deadurl=no |archiveurl=https://web.archive.org/web/20160304055202/http://www.rferl.org/content/Tajikistan_Drops_Russian_As_Official_Language/1846118.html |archivedate=4 March 2016  }}</ref> although the status was later re-instated, leaving Russian as permissible for law-making but still urging that official communications take place in Tajik.<ref name="RIA-RU">{{cite web|url=https://ria.ru/culture/20091022/190107839.html|title=The status of the Russian language in Tajikistan remains unchanged – Rahmon|publisher=RIA – RIA.ru|date=22 October 2009|accessdate=30 September 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161002141721/https://ria.ru/culture/20091022/190107839.html|archivedate=2 October 2016}}</ref><ref name="lenta.ru/news/2011/06/09">{{cite web|url=http://lenta.ru/news/2011/06/09/russian|title=В Таджикистане русскому языку вернули прежний статус|publisher=Lenta.ru|accessdate=13 September 2013|deadurl=no|archiveurl=https://web.archive.org/web/20130905014016/http://lenta.ru/news/2011/06/09/russian/|archivedate=5 September 2013}}</ref> Russian is regularly used between different ethnic groups in the country and thereby fulfilling its stated constitutional role.
+
+=== Education ===
+Despite its poverty, Tajikistan has a high rate of literacy due to the old Soviet system of free education, with an estimated 99.5% of the population having the ability to read and write.<ref name=CIA />
+
+=== Employment ===
+In 2009 nearly one million [[Tajiks]] worked abroad (mainly in [[Russia]]).<ref>[http://www.arabnews.com/?page=1&section=0&article=122728&d=21&m=5&y=2009 Deployment of Tajik workers gets green light] {{webarchive|url=https://web.archive.org/web/20090610144646/http://www.arabnews.com/?page=1&section=0&article=122728&d=21&m=5&y=2009 |date=10 June 2009 }}. Arab News. 21 May 2007.</ref> More than 70% of the female population lives in traditional villages.<ref>{{cite news|last=Azimova|first=Aigul|last2=Abazbekova|first2=Nazgul|title=Millennium Development Goals: Saving women's Lives|newspaper=D+C|page=289|publisher=D+C|date=27 July 2011|url=http://www.dandc.eu/en/article/tough-labour-conditions-central-asias-female-health-workers|accessdate=12 September 2013|deadurl=no|archiveurl=https://web.archive.org/web/20140217124220/http://www.dandc.eu/en/article/tough-labour-conditions-central-asias-female-health-workers|archivedate=17 February 2014}}</ref>
+
+{{Largest cities of Tajikistan}}
+
+=== Culture ===
+{{Main|Culture of Tajikistan}}
+{{See also|Music of Tajikistan|Tajik literature|Public holidays in Tajikistan|Tajik cuisine}}
+
+
+The [[Tajik language]] is the mother tongue of around 80% of the citizens of Tajikistan. The main urban centres in today's Tajikistan include [[Dushanbe]] (the capital), [[Khujand]], [[Kulob]], [[Panjakent]], [[Qurghonteppa]], [[Khorugh]] and [[Istaravshan]]. There are also [[Uzbeks|Uzbek]], [[Kyrgyz people|Kyrgyz]] and [[Russians|Russian]] minorities.
+
+The [[Pamiri people]] of [[Gorno-Badakhshan Autonomous Province]] in the southeast, bordering Afghanistan and China, though considered part of the [[Tajik people|Tajik ethnicity]], nevertheless are distinct linguistically and culturally from most Tajiks. In contrast to the mostly [[Sunni Muslim]] residents of the rest of Tajikistan, the Pamiris overwhelmingly follow the [[Ismaili]] branch of Shia Islam, and speak a number of [[Eastern Iranian]] languages, including [[Shughni language|Shughni]], [[Rushani language|Rushani]], [[Khufi language|Khufi]] and [[Wakhi language|Wakhi]]. Isolated in the highest parts of the [[Pamir Mountains|Pamir]] Mountains, they have preserved many ancient cultural traditions and folk arts that have been largely lost elsewhere in the country.
+[[File:Yaghnobi boy.jpg|thumb|upright=1.15|left|[[Yaghnobi people|Yaghnobi]] boy]]
+The [[Yaghnobi people]] live in mountainous areas of northern Tajikistan. The estimated number of Yaghnobis is now about 25,000. Forced migrations in the 20th century decimated their numbers. They speak the [[Yaghnobi language]], which is the only direct modern descendant of the ancient [[Sogdian language]].
+
+Tajikistan artisans created the [[Dushanbe Tea House]], which was presented in 1988 as a gift to the sister city of [[Boulder, Colorado]].<ref>[https://web.archive.org/web/20120527123614/http://www.boulder-dushanbe.org/teahouse.html The Dushanbe-Boulder tea house]. boulder-dushanbe.org</ref>
+
+=== Religion ===
+{{Main|Religion in Tajikistan}}
+{{See also|Islam in Tajikistan}}
+{{bar box
+|title=Religion in Tajikistan, 2010<ref>[http://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/ Religious Composition by Country, 2010–2050 | Pew Research Center] {{webarchive|url=https://web.archive.org/web/20170802041823/http://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/ |date=2 August 2017 }}. Pewforum.org (2 April 2015). Retrieved on 20 January 2017.</ref><ref>[http://www.globalreligiousfutures.org/countries/tajikistan#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2013 Tajikistan – Pew-Templeton Global Religious Futures Project] {{webarchive|url=https://web.archive.org/web/20170209010624/http://www.globalreligiousfutures.org/countries/tajikistan |date=9 February 2017 }}. Globalreligiousfutures.org. Retrieved on 20 January 2017.</ref>
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|[[Islam in Tajikistan|Islam]]|green|96.7}}
+{{bar percent|[[Christianity in Tajikistan|Christianity]]|blue|1.6}}
+{{bar percent|[[Irreligion|Unaffiliated]]|grey|1.5}}
+{{bar percent|Other religions|purple|0.2}}
+}}
+[[File:Abdullokhon Mosque Isfara.jpg|thumb|upright|A [[mosque]] in [[Isfara]], Tajikistan]]
+Sunni Islam of the [[Hanafi]] school has been officially recognised by the government since 2009.<ref>{{cite web|author=Avaz Yuldashev|url=http://asiaplus.tj/news/16/47964.html|script-title=ru:«Ханафия» объявлена официальным религиозным течением Таджикистана|trans-title="Hanafi" declared the official religious movement in Tajikistan|language=ru|date=5 March 2009|dead-url=y|archive-url=https://web.archive.org/web/20100825055806/http://asiaplus.tj/news/16/47964.html|archive-date=25 August 2010}}</ref> Tajikistan considers itself a [[secular state]] with a Constitution providing for freedom of religion. The Government has declared two Islamic holidays, [[Eid ul-Fitr]] and [[Eid al-Adha]], as state holidays. According to a [[US State Department]] release and Pew research group, the population of Tajikistan is 98% [[Muslim]]. Approximately 87%–95% of them are [[Sunni Islam|Sunni]] and roughly 3% are [[Shia]] and roughly 7% are [[non-denominational Muslims]].<ref>[http://www.pewforum.org/2012/08/09/the-worlds-muslims-unity-and-diversity-1-religious-affiliation/#identity Pew Forum on Religious & Public life, Chapter 1: Religious Affiliation] {{webarchive|url=https://web.archive.org/web/20161226113158/http://www.pewforum.org/2012/08/09/the-worlds-muslims-unity-and-diversity-1-religious-affiliation/ |date=26 December 2016 }} retrieved 29 October 2013.</ref><ref>{{cite web |url=https://www.state.gov/r/pa/ei/bgn/5775.htm |title=Background Note: Tajikistan |publisher=State.gov |date= |accessdate=2 October 2009 |deadurl=no |archiveurl=https://web.archive.org/web/20091001001509/http://www.state.gov/r/pa/ei/bgn/5775.htm |archivedate=1 October 2009  }}</ref> The remaining 2% of the population are followers of [[Russian Orthodox Church|Russian Orthodoxy]], [[Protestantism]], [[Zoroastrianism]] and [[Buddhism]]. A great majority of Muslims fast during Ramadan, although only about one third in the countryside and 10% in the cities observe daily prayer and dietary restrictions.
+
+[[Bukharan Jews]] had lived in Tajikistan since the 2nd century BC, but today almost none are left. In the 1940s, the Jewish community of Tajikistan numbered nearly 30,000 people. Most were  Persian-speaking Bukharan Jews who had lived in the region for millennia along with  Ashkenazi Jews from Eastern Europe who resettled there in the Soviet era. The Jewish population is now estimated at less than 500, about half of whom live in Dushanbe.<ref>{{cite web|url=http://www.tabletmag.com/jewish-news-and-politics/54896/home-stand|title=Home Stand|work=Tablet Magazine|deadurl=no|archiveurl=https://web.archive.org/web/20151211090933/http://www.tabletmag.com/jewish-news-and-politics/54896/home-stand|archivedate=11 December 2015|date=2011-01-04}}</ref>
+
+Relationships between religious groups are generally amicable, although there is some concern among mainstream Muslim leaders{{Who|date=October 2010}} that minority religious groups undermine national unity. There is a concern for religious institutions becoming active in the political sphere. The [[Islamic Renaissance Party of Tajikistan|Islamic Renaissance Party]] (IRP), a major combatant in the [[Tajikistan Civil War|1992–1997 Civil War]] and then-proponent of the creation of an [[State religion#Islamic states|Islamic state]] in Tajikistan, constitutes no more than 30% of the government by statute.  Membership in [[Hizb ut-Tahrir]], a militant Islamic party which today aims for an overthrow of secular governments and the unification of Tajiks under one Islamic state, is illegal and members are subject to arrest and imprisonment.<ref>{{cite news | title =Hizb ut Tahrir | newspaper =BBC News | publisher =BBC | date =27 August 2003 | url =http://news.bbc.co.uk/2/hi/programmes/newsnight/3182271.stm | accessdate =12 September 2013 | deadurl =no | archiveurl =http://archive.wikiwix.com/cache/20130913234029/http://news.bbc.co.uk/2/hi/programmes/newsnight/3182271.stm | archivedate =13 September 2013 | df =dmy-all }}</ref> Numbers of large mosques appropriate for Friday prayers are limited and some{{who|date=December 2012}} feel this is discriminatory.
+
+By law, religious communities must register by the State Committee on Religious Affairs (SCRA) and with local authorities. Registration with the SCRA requires a charter, a list of 10 or more members, and evidence of local government approval prayer site location. Religious groups who do not have a physical structure are not allowed to gather publicly for prayer. Failure to register can result in large fines and closure of place of worship. There are reports that registration on the local level is sometimes difficult to obtain.<ref>[http://www.forum18.org/Archive.php?article_id=190 TAJIKISTAN: Religious freedom survey, November 2003] {{webarchive|url=https://web.archive.org/web/20100613013715/http://forum18.org/Archive.php?article_id=190 |date=13 June 2010 }} -[[Forum 18]] News Service, 20 November 2003</ref> People under the age of 18 are also barred from public religious practice.<ref>[https://www.state.gov/j/drl/rls/irf/religiousfreedom/index.htm#wrapper U. S. Department of State International Religious Freedom Report for 2013, Executive Summary] {{webarchive|url=https://web.archive.org/web/20140412184054/http://www.state.gov/j/drl/rls/irf/religiousfreedom/index.htm |date=12 April 2014 }} retrieved 2 August 2014.</ref>
+
+As of January 2016, as part of an "anti-radicalisation campaign", police in the Khatlon region reportedly shaved the beards of 13,000 men and shut down 160 shops selling the hijab. Shaving beards and discouraging women from wearing hijab is part of a government campaign targeting trends that are deemed "alien and inconsistent with Tajik culture", and "to preserve secular traditions".<ref>{{cite news |url=https://www.bbc.com/news/world-asia-35372754 |title=Tajikistan's battle against beards |accessdate=27 January 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160124221542/http://www.bbc.com/news/world-asia-35372754 |archivedate=24 January 2016  |work=BBC News |date=2016-01-21 |last1=Sarkorova |first1=Anora }}</ref>
+
+== Health ==
+{{Main|Health in Tajikistan}}
+[[File:Big Hospital.jpg|thumb|A hospital in Dushanbe]]
+Despite repeated efforts by the Tajik government to improve and expand health care, the system remains among the most underdeveloped and poor, with severe shortages of medical supplies. The state's Ministry of Labor and Social Welfare reported that 104,272 disabled people are registered in Tajikistan (2000). This group of people suffers most from poverty in Tajikistan. The government of Tajikistan and the World Bank considered activities to support this part of the population described in the World Bank's Poverty Reduction Strategy Paper.<ref>{{cite web|url=http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000094946_02112004011765|title=Tajikistan – Poverty Reduction Strategy Paper (PRSP) and joint assessment|pages=1–0|publisher=World Bank|date=31 October 2002|accessdate=1 November 2006|deadurl=yes|archiveurl=https://web.archive.org/web/20090526082536/http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187283&siteName=WDS&entityID=000094946_02112004011765 |archivedate=26 May 2009}}</ref> Public expenditure on health was at 1% of the GDP in 2004.<ref name="hdrstats.undp.org">{{cite web|url=http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_TJK.html |archive-url=https://web.archive.org/web/20100323145121/http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_TJK.html |dead-url=yes |archive-date=23 March 2010 |title=Human Development Report 2009 – Tajikistan |publisher=Hdrstats.undp.org |date= |accessdate=20 June 2010}}</ref>
+
+[[Life expectancy]] at birth was estimated to be 66.38 years in 2012.<ref>{{cite web | title =Country Comparison: Life Expectancy at Birth | work =The World Factbook | publisher =CIA | url =https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html?countryName=Tajikistan&countryCode=ti&regionCode=cas&rank=164#ti | accessdate =12 September 2013 | deadurl =no | archiveurl =https://web.archive.org/web/20131105232637/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html?countryName=Tajikistan&countryCode=ti&regionCode=cas&rank=164#ti | archivedate =5 November 2013 | df =dmy-all }}</ref> The [[infant mortality]] rate was approximately 37 deaths per 1,000 children in 2012.<ref>{{cite web | title =Country Comparison: Infant Mortality Rate | work =The World Factbook | publisher =CIA | url =https://www.cia.gov/library/publications/the-world-factbook/rankorder/2091rank.html?countryName=Tajikistan&countryCode=ti&regionCode=cas&rank=64#ti | accessdate =12 September 2013 | deadurl =no | archiveurl =https://web.archive.org/web/20131012020007/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2091rank.html?countryname=Tajikistan&countrycode=ti&regionCode=cas&rank=64#ti | archivedate =12 October 2013 | df =dmy-all }}</ref> In 2011, there were 170 physicians per 100,000 people.<ref>{{cite web|url=http://www.euro.who.int/en/countries/tajikistan/data-and-statistics|title=WHO/Europe –         Data and statistics|work=who.int|deadurl=no|archiveurl=https://web.archive.org/web/20140925145048/http://www.euro.who.int/en/countries/tajikistan/data-and-statistics|archivedate=25 September 2014|date=January 2019}}</ref>
+
+In 2010 the country experienced an outbreak of [[polio]] that caused more than 457 cases of polio in both children and adults, and resulted in 29 deaths before being brought under control.<ref>{{cite web|url=http://www.euro.who.int/en/health-topics/communicable-diseases/poliomyelitis/news/news/2012/7/2010-polio-outbreak-in-tajikistan-a-reminder-of-the-continued-need-for-vigilance-as-the-region-marks-10-years-of-polio-free-status|title=2010 polio outbreak in Tajikistan: A reminder of the continued need for vigilance as the Region marks 10 years of polio-free status|work=World Health Organization|date=10 July 2012|accessdate=28 February 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160304062402/http://www.euro.who.int/en/health-topics/communicable-diseases/poliomyelitis/news/news/2012/7/2010-polio-outbreak-in-tajikistan-a-reminder-of-the-continued-need-for-vigilance-as-the-region-marks-10-years-of-polio-free-status|archivedate=4 March 2016}}</ref>
+
+== Education ==
+[[File:Tajik National University (Main Building).jpg|thumb|[[Tajik National University]] in Dushanbe]]
+Public education in Tajikistan consists of 11 years of primary and secondary education but the government has plans to implement a 12-year system in 2016.<ref name="classbase.com">{{cite web|url=http://www.classbase.com/Countries/Tajikistan/Education-System|title=Tajikistan Education System|work=classbase.com|deadurl=no|archiveurl=https://web.archive.org/web/20140402180425/http://www.classbase.com/Countries/Tajikistan/Education-System|archivedate=2 April 2014}}</ref> There is a relatively large number of [[List of universities in Tajikistan|tertiary education institutions]] including [[Khujand State University]] which has 76 departments in 15 faculties,<ref name="classbase.com" /> [[Tajikistan State University of Law, Business, & Politics]], [[Khorugh State University]], [[Agricultural University of Tajikistan]], [[Tajik National University]], and several other institutions. Most, but not all, universities were established during the Soviet Era. {{As of|2008}} tertiary education enrolment was 17%, significantly below the sub-regional average of 37%.<ref name="unicef.org">[http://www.unicef.org/ceecis/Tajikistan.pdf Education in Tajikistan] {{webarchive|url=https://web.archive.org/web/20131106003014/http://www.unicef.org/ceecis/Tajikistan.pdf |date=6 November 2013 }}. unicef.org</ref> Many Tajiks left the education system due to low demand in the labour market for people with extensive educational training or professional skills.<ref name="unicef.org" />
+
+Public spending on education was relatively constant between 2005–2012 and fluctuated from 3.5% to 4.1% of [[GDP]]<ref>[http://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS/countries/TJ?display=graph Tajikistan, Public spending on education, total (% of GDP)] {{webarchive|url=https://web.archive.org/web/20140714214007/http://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS/countries/TJ?display=graph |date=14 July 2014 }} World Bank</ref> significantly below the [[OECD]] average of 6%.<ref name="unicef.org" /> The [[United Nations]] reported that the level of spending was "severely inadequate to meet the requirements of the country’s high-needs education system."<ref name="unicef.org" />
+
+According to a UNICEF-supported survey, about 25 percent of girls in Tajikistan fail to complete compulsory primary education because of poverty and gender bias,<ref>{{cite web | title =Tajikistan hosts education forum | work =News note | publisher =UNICEF | date =9 June 2005 | url =http://www.unicef.org/media/media_27308.html | accessdate =12 September 2013 | deadurl =no | archiveurl =https://web.archive.org/web/20131104204553/http://www.unicef.org/media/media_27308.html | archivedate =4 November 2013 | df =dmy-all }}</ref> although [[literacy]] is generally high in Tajikistan.<ref name="hdrstats.undp.org" /> Estimates of out of school children range from 4.6% to 19.4% with the vast majority being girls.<ref name="unicef.org" />
+
+In September 2017, the [[University of Central Asia]] will launch its second campus in Khorog, Tajikistan, offering majors in Earth & Environmental Sciences and Economics.<ref>http://www.ucentralasia.org {{webarchive|url=https://web.archive.org/web/20161129122624/http://www.ucentralasia.org/ |date=29 November 2016 }}</ref>
+
+== Sport ==
+The national sport of Tajikistan is [[gushtigiri]], a form of traditional wrestling.<ref>{{cite book|last1=Ibbotson|first1=Sophie|last2=Lovell-Hoare|first2=Max|title=Tajikistan|url=https://books.google.com/books?id=Nm9DI7nu6CoC&pg=PA22|year=2013|publisher=Bradt Travel Guides|isbn=978-1-84162-455-6|page=22}}</ref>
+
+Another popular sport is [[buzkashi]], a game played on horseback, like [[polo]]. One plays it on one's own and in teams. The aim of the game is to grab a 50&nbsp;kg dead goat, ride clear of the other players, get back to the starting point and drop it in a designated circle. It is also practised in Afghanistan, Kyrgyzstan, Kazakhstan, Uzbekistan and Turkmenistan. It is often played at [[Nowruz]] celebrations.<ref>{{cite book|last1=Abdullaev|first1=Kamoludin|last2=Akbarzaheh|first2=Shahram|title=Historical Dictionary of Tajikistan|publisher=Scarecrow Press|url=https://books.google.com/books?id=PB5xgFRuYPUC&pg=PA85|isbn=978-0-8108-7379-7|page=85|date=2010-04-27}}</ref>
+
+[[File:1982 expedition to Tartu Ülikool 350 (20).jpg|thumb|Tajikistan is a popular destination amongst mountaineers. 1982 expedition to [[Tartu Ülikool 350]].]]
+Tajikistan's mountains provide many opportunities for outdoor sports, such as hill climbing, mountain biking, rock climbing, skiing, snowboarding, hiking, and mountain climbing. The facilities are limited, however. Mountain climbing and hiking tours to the Fann and Pamir Mountains, including the 7,000&nbsp;m peaks in the region, are seasonally organised by local and international alpine agencies.
+
+[[Association football|Football]] is a popular sport in Tajikistan. The [[Tajikistan national football team]] competes in [[FIFA]] and [[Asian Football Confederation|AFC]] competitions. The top clubs in Tajikistan compete in the [[Tajik League]].
+
+The [[Tajikistan Cricket Federation]] was formed in 2012 as the governing body for the sport of [[cricket]] in Tajikistan. It was granted affiliate membership of the [[Asian Cricket Council]] in the same year.
+
+[[Rugby union in Tajikistan]] is a minor but growing sport.
+
+Four Tajikistani athletes have won Olympic medals for their country since independence. They are: wrestler [[Yusup Abdusalomov]] ([[Wrestling at the 2008 Summer Olympics – Men's freestyle 84 kg|silver]] in Beijing 2008), judoka [[Rasul Boqiev]] ([[Judo at the 2008 Summer Olympics – Men's 73 kg|bronze]] in Beijing 2008), boxer [[Mavzuna Chorieva]] ([[Boxing at the 2012 Summer Olympics – Women's lightweight|bronze]] in London 2012) and hammer thrower [[Dilshod Nazarov]] ([[Athletics at the 2016 Summer Olympics – Men's hammer throw|gold]] in Rio de Janeiro 2016).
+
+[[Khorugh]], capital of [[Gorno-Badakhshan Autonomous Region]], is the location of highest altitude where [[bandy]] has been played.<ref>{{cite web|url=https://translate.google.com/translate?hl=en&sl=ru&u=http://bandynet.ru/v1/node/14931&prev=search|title=Google Translate|work=google.co.uk}}</ref>
+
+Tajikistan has also one [[ski resort]], called [[Safed Dara]] (formerly ''Takob''), near the town of [[Varzob]].<ref>{{cite web|url=https://www.tripadvisor.ca/Hotel_Review-g811255-d9792233-Reviews-Safed_Dara-Varzob_Karotegin_Province.html|title=Safed Dara|work=Trip Advisor|deadurl=no|archiveurl=https://web.archive.org/web/20170811060158/https://www.tripadvisor.ca/Hotel_Review-g811255-d9792233-Reviews-Safed_Dara-Varzob_Karotegin_Province.html|archivedate=11 August 2017}}</ref>
+
+==Notable individuals==<!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+* [[Yusup Abdusalomov]], Olympic medalist, wrestler
+* [[Abdumalik Bahori]], poet, writer
+* [[Nargis Bandishoeva]], singer
+* [[Mavzuna Chorieva]], Olympic medalist, boxer
+* [[Sherali Dostiev]], boxer
+* [[Mamadsho Ilolov]], scientist
+* [[Abduhamid Juraev]], mathematician
+* [[Makhmadjon Khabibulloev]], football coach
+* [[Otakhon Latifi]], journalist, politician
+* [[Yuri Lobanov]], Olympic medalist, sprint canoer
+* [[Daler Nazarov]], musician
+* [[Farruh Negmat-Zadeh]], artist
+* [[Shabnam Surayyo]], singer
+* [[Khudoyor Yusufbekov]]
+
+== See also ==
+{{portal|Geography|Tajikistan|Asia|Central Asia}}
+*{{Books-inline|Tajikistan}}
+*[[Index of Tajikistan-related articles]]
+*[[Outline of Tajikistan]]
+*[[2006 Tajikistan earthquake]]
+*[[Central Asian Union]]
+*[[Ittihodi Scouthoi Tojikiston]]
+*[[Kingdom of Balhara]]
+*[[List of cities in Tajikistan]]
+*[[Mount Imeon]]
+*[[Telecommunications in Tajikistan]]
+*[[Yaghnob Valley]]
+*[[Gorno-Badakhshan Autonomous Province]]
+
+== References ==
+{{CIA World Factbook}}<br />
+{{loc}}
+{{reflist|30em}}
+
+== Further reading ==
+* ''Historical Dictionary of Tajikistan'' by Kamoludin Abdullaev and Shahram Akbarzadeh
+* ''Land Beyond the River: The Untold Story of Central Asia'' by Monica Whitlock
+* ''Tajikistan: Disintegration or Reconciliation'' by [[Shirin Akiner]]
+* ''Tajikistan: The Trials of Independence'' by [[Shirin Akiner]], Mohammad-Reza Djalili and Frederic Grare
+* ''Tajikistan and the High Pamirs'' by Robert Middleton, Huw Thomas and Markus Hauser, Odyssey Books, Hong Kong 2008 ({{ISBN|978-9-622177-73-4}})
+
+== External links ==
+{{Sister project links|voy=Tajikistan}}
+* [https://web.archive.org/web/20080607085838/http://ucblibraries.colorado.edu/govpubs/for/tajikistan.htm Tajikistan] at ''UCB Libraries GovPubs''
+* {{CIA World Factbook link|ti|Tajikistan}}
+* {{dmoz|Regional/Asia/Tajikistan}}
+* [https://www.bbc.co.uk/news/world-asia-16201032 Tajikistan profile] from the [[BBC News]]
+* {{wikiatlas|Tajikistan}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=TJ Key Development Forecasts for Tajikistan] from [[International Futures]]
+
+{{Tajikistan topics}}
+
+{{Navboxes
+|title = Geographic locale
+|list =
+{{Provinces and regions of Tajikistan}}
+{{Countries of Asia}}
+}}
+{{Navboxes
+|title = International membership
+|list =
+{{Economic Cooperation Organization}}
+{{Commonwealth of Independent States (CIS)}}
+{{Organization of the Islamic Conference (OIC)|state=collapsed}}
+{{Eurasian Economic Community (EURASEC)}}
+{{Shanghai Cooperation Organisation}}
+}}
+
+{{Authority control}}
+
+[[Category:Tajikistan| ]]
+[[Category:Central Asian countries]]
+[[Category:Iranian countries and territories]]
+[[Category:Landlocked countries]]
+[[Category:Member states of the Commonwealth of Independent States]]
+[[Category:Member states of the Organisation of Islamic Cooperation]]
+[[Category:Member states of the United Nations]]
+[[Category:Persian-speaking countries and territories]]
+[[Category:Russian-speaking countries and territories]]
+[[Category:States and territories established in 1991]]
+[[Category:1991 establishments in Asia]]
+[[Category:States and territories established in 1994]]
+[[Category:1994 establishments in Asia]]
+[[Category:Countries in Asia]]

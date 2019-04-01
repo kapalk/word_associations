@@ -1,0 +1,736 @@
+{{short description|Country in Oceania}}
+{{pp-move-indef}}
+{{EngvarB|date=March 2018}}
+{{Use dmy dates|date=March 2018}}
+
+{{Infobox country
+|coordinates = {{Coord|display=t}}
+|leader_name2 = [[Charlot Salwai]]
+|conventional_long_name = Republic of Vanuatu
+|native_name = {{unbulleted list|item_style=font-size:88%; |{{native name|bi|Ripablik blong Vanuatu|italic=no}} |{{native name|fr|République de Vanuatu|italic=no}}}}
+|image_flag = Flag of Vanuatu (official).svg
+|image_coat = Coat of Arms of Vanuatu.svg
+|common_name = Vanuatu
+|symbol_type = Coat of arms
+|national_motto = {{native phrase|bi|"Long God yumi stanap"|italics=off|nolink=on}}<br/>{{small|"In God we stand"}}{{lower|0.2em|<ref>{{cite web |last1=Vanuatu Daily Post |first1=Harrison Selmen|url=http://www.dailypost.vu/content/santo-chiefs-concerned-over-slow-pace-development-sanma?page=7&quicktabs_1=0 |title=Santo chiefs concerned over slow pace of development in Sanma|date=17 July 2011 |accessdate=29 August 2011}}</ref>{{sfn|Lynch|Pat|1993|p=319}}}}
+|national_anthem = {{native name|bi|[[Yumi, Yumi, Yumi]]|nolink=on}}<br/>{{small|''We, We, We''}}<br/><center>[[File:United States Navy Band - Yumi, Yumi, Yumi.ogg]]</center>
+|image_map = Vanuatu on the globe (Polynesia centered).svg
+|image_map2 = Vanuatu - Location Map (2013) - VUT - UNOCHA.svg
+|capital = [[Port Vila]]
+|largest_city = Port Vila
+|official_languages = {{unbulleted list | [[Bislama language|Bislama]] | [[English language|English]] | [[French language|French]]}}
+|ethnic_groups = {{unbulleted list |98.5% [[Ni-Vanuatu]] |1.5% Others}}
+|ethnic_groups_year = 1999
+|demonym = Ni-Vanuatu
+|government_type = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary republic|parliamentary]]}} [[republic]]
+|leader_title1 = [[President of Vanuatu|President]]
+|leader_name1 = [[Tallis Obed Moses]]
+|leader_title2 = [[Prime Minister of Vanuatu|Prime Minister]]
+|legislature = [[Parliament of Vanuatu|Parliament]]
+|established_event1 = from France and the United Kingdom
+|sovereignty_type = Independence
+|established_date1 = 30 July 1980
+|established_event2 = [[United Nations Security Council Resolution 489|Admitted to the]] [[United Nations]]
+|established_date2 = 15 September 1981
+|area_km2 = 12,189
+|area_rank = 157th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+|area_sq_mi = {{convert|12190|km2|sqmi|disp=output number only}}
+|population_estimate = {{UN_Population|Vanuatu}}{{UN_Population|ref}}
+|population_census = 272,459<ref>{{Cite web|url=https://vnso.gov.vu/index.php/component/advlisting/?view=download&fileId=4542|title=2016 Post-TC Pam Mini-Census Report|date=21 July 2017|website=vnso.gov.vu|publisher=Government of Vanuatu|accessdate=29 December 2017}}</ref>
+|population_estimate_year = {{UN_Population|Year}}
+|population_estimate_rank = <!-- 178th -->
+|population_census_year = 2016
+|population_density_km2 = 19.7
+|population_density_rank = 188th
+|population_density_sq_mi = 51
+|GDP_PPP = $820&nbsp;million<ref name=imf2>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=55&pr.y=10&sy=2016&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=846&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=12 March 2019}}</ref>
+|GDP_PPP_year = 2018
+|GDP_PPP_rank = 178th
+|GDP_PPP_per_capita = $2,850<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 155th
+|GDP_nominal = $957&nbsp;million<ref name=imf2/>
+|GDP_nominal_year = 2018
+|GDP_nominal_rank = 175th
+|GDP_nominal_per_capita = $3,327<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 124th
+|Gini = 37.6 <!--number only--> 
+|Gini_year = 2010 
+|Gini_change = <!--increase/decrease/steady--> 
+|Gini_ref =<ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=VU |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |access-date=12 March 2019}}</ref> 
+|Gini_rank = 
+|HDI = 0.597 <!--number only-->
+|HDI_year = 2015<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = decrease<!--increase/decrease/steady-->
+|HDI_ref =<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2016_statistical_annex.pdf |title=2015 Human Development Report |year=2015 |accessdate=15 December 2015 |publisher=United Nations Development Programme }}</ref>
+|HDI_rank = 134th
+|currency = [[Vanuatu vatu]]
+|currency_code = VUV
+|time_zone = VUT (Vanuatu Time)
+|utc_offset = +11
+|utc_offset_DST =
+|DST_note = 
+|time_zone_DST = 
+|drives_on = right
+|calling_code = [[+678]]
+|cctld = [[.vu]]
+}}
+
+'''Vanuatu''' ({{IPAc-en|lang|audio=en-us-Vanuatu.ogg|ˌ|v|ɑː|n|u|ˈ|ɑː|t|uː}} {{respell|VAH|noo|AH|too}} or {{IPAc-en|v|æ|n|ˈ|w|ɑː|t|uː}} {{respell|van|WAH|too}}; {{IPA-all|vanuatu|Bislama pronunciation}}), officially the '''Republic of Vanuatu''' ({{lang-fr|link=no|République de Vanuatu}}, [[Bislama]]: ''Ripablik blong Vanuatu''), is a Pacific [[island country]] located in the South Pacific Ocean. The [[archipelago]], which is of volcanic origin, is {{convert|1750|km|mi}} east of northern Australia, {{convert|540|km|mi}} northeast of [[New Caledonia]], east of [[New Guinea]], southeast of the [[Solomon Islands]], and west of [[Fiji]].
+
+Vanuatu was first inhabited by [[Melanesians|Melanesian]] people. The first Europeans to visit the islands were a Spanish expedition led by Portuguese navigator [[Pedro Fernandes de Queirós|Fernandes de Queirós]], who arrived on [[Espíritu Santo|the largest island]] in 1606. Since the Portuguese and Spanish monarchies had been unified under the king of Spain in 1580 (following the vacancy of the [[Portuguese throne]], which lasted for sixty years, until 1640, when the Portuguese monarchy was restored), Queirós claimed the archipelago for Spain, as part of the colonial [[Spanish East Indies]], and named it ''La Austrialia del Espíritu Santo''.
+
+In the 1880s, France and the [[United Kingdom of Great Britain and Ireland|United Kingdom]] claimed parts of the archipelago, and in 1906, they agreed on a framework for jointly managing the archipelago as the [[New Hebrides]] through an Anglo–French [[condominium (international law)|condominium]]. An independence movement arose in the 1970s, and the Republic of Vanuatu was founded in 1980. Since independence, the country is a member of the [[United Nations]], [[Commonwealth of Nations]], [[Organisation internationale de la Francophonie]] and the [[Pacific Islands Forum]].
+{{toc limit}}
+
+== Etymology ==
+Vanuatu's name is derived from the word ''[[vanua]]'' ("land" or "home"),{{sfn|Hess|2009|p=115}} which occurs in several [[Austronesian languages]],{{efn|1=''Vanua'' in turns comes from the [[Proto-Austronesian language|Proto-Austronesian]] ''banua'' – see {{harvnb|Reuter|2002|p=29}}; and {{harvnb|Reuter|2006|p=326}}}} and the word ''tu'' ("stand"). Together the two words indicated the independent status of the new country.{{sfn|Crowley|2004|p=3}}
+
+==History==
+{{Main|History of Vanuatu}}
+
+The prehistory of Vanuatu is obscure; [[archaeological]] evidence supports the theory that people speaking Austronesian languages first came to the islands about 3,300 years ago.{{sfn|Bedford|Spriggs|2008}} Pottery fragments have been found dating to 1300–1100 BC.<ref name=cp>{{cite web|url=https://www.state.gov/r/pa/ei/bgn/2815.htm|title=Background Note: Vanuatu|publisher=[[US Department of State]]|archiveurl=https://web.archive.org/web/20080513225602/http://www.state.gov/r/pa/ei/bgn/2815.htm|archivedate=13 May 2008}}<br />''This article incorporates text from this source, which is in the public domain.''</ref>
+
+The Vanuatu group of islands first had contact with Europeans in 1606, when the [[Portuguese people|Portuguese]] explorer [[Pedro Fernandes de Queirós]], sailing for the [[Spanish Empire|Spanish Crown]], arrived on [[Espiritu Santo|the largest island]] and called the group of islands ''La [[Luís Vaz de Torres#The Queirós Voyage|Austrialia]] del Espiritu Santo'' or "The Southern Land of the Holy Spirit", believing he had arrived in [[Terra Australis]] (Australia). The Spanish established a short-lived settlement at Big Bay on the north side of the island. The name [[Espiritu Santo]] remains to this day.<ref>{{cite book|title=Vanuatu and New Caledonia|url=https://books.google.com/books?id=FBllKxtYnNkC&pg=PA29|year=2009|publisher=Lonely Planet|isbn=978-1-74104-792-9|page=29}}</ref>
+
+Europeans did not return until 1768, when [[Louis Antoine de Bougainville]] rediscovered the islands on 22 May, naming them the Great [[Cyclades]].<ref name="Anne">{{cite book|last1=Salmond|first1=Anne|title=Aphrodite's Island|date=2010|publisher=University of California Press|location=Berkeley|isbn=9780520261143|pages=113}}</ref> In 1774, [[Captain Cook]] named the islands the New Hebrides, a name that would last until independence in 1980.<ref name=cp/>
+[[File:The Landing at Tana one of the New Hebrides, by William Hodges.jpg|thumb|left|upright=1.35|[[James Cook]] landing at [[Tanna (island)|Tanna island]], c. 1774]]
+
+In 1825, the trader [[Peter Dillon]]'s discovery of [[sandalwood]] on the island of [[Erromango]] began a rush of immigrants that ended in 1830 after a clash between immigrant Polynesian workers and indigenous Melanesians. During the 1860s, [[plantations|planters]] in Australia, Fiji, New Caledonia, and the Samoa Islands, in need of labourers, encouraged a long-term [[indentured labour]] trade called "[[blackbirding]]". At the height of the labour trade, more than one-half the adult male population of several of the islands worked abroad. Fragmentary evidence indicates that the current population of Vanuatu is greatly reduced compared to pre-contact times.<ref name=cp/>
+
+In the 19th century, [[missionary|missionaries]], both [[Roman Catholic]] and [[Protestant]], arrived on the islands. Settlers also came, looking for land on which to establish [[cotton plantation]]s. When international cotton prices collapsed, they switched to coffee, [[Cocoa bean|cocoa]], bananas, and, most successfully, [[coconut]]s. Initially, British subjects from Australia made up the majority, but the establishment of the Caledonian Company of the New Hebrides in 1882 soon tipped the balance in favour of French subjects.<ref name="UsaUSA2009">{{cite book|title=Vanuatu Country Study Guide|url=https://books.google.com/books?id=wjuxcXTEJ_sC&pg=PA26|date=30 March 2009|publisher=Int'l Business Publications|isbn=978-1-4387-5649-3|page=26}}</ref> By around the start of the 20th century, the French outnumbered the British two to one.<ref name=cp/>
+
+[[File:F6F-3 Hellcats of VF-40 at Espiritu Santo 1944.jpg|thumb|left|US Navy [[Grumman F6F Hellcat|Hellcats]] on [[Espiritu Santo]] island in February 1944]]
+The jumbling of French and British interests in the islands brought petitions for one or another of the two powers to annex the territory. The Convention of 16 October 1887 established a [[Anglo-French Joint Naval Commission|joint naval commission]] for the sole purpose of protecting French and British citizens, with no claim to jurisdiction over internal native affairs.<ref name="BresnihanWoodward2002">{{cite book|last1=Bresnihan|first1=Brian J.|last2=Woodward|first2=Keith|title=Tufala Gavman: Reminiscences from the Anglo-French Condominium of the New Hebrides|url=https://books.google.com/books?id=nhNmCiYYxucC&pg=PA423|year=2002|publisher=editorips@usp.ac.fj|isbn=978-982-02-0342-6|page=423}}</ref>
+In 1906, however, France and the United Kingdom agreed to administer the islands jointly. Called the British-French [[Condominium (international law)|Condominium]], it was a unique form of government, with separate governmental systems that came together only in a joint court. The condominium's authority was extended in the Anglo-French Protocol of 1914, although this was not formally ratified until 1922. Melanesians were barred from acquiring the [[citizenship]] of either power and were officially stateless.<ref name=cp/>
+
+In the 1920s, indentured workers from [[Annam (French protectorate)|French Annam]] (now part of [[Vietnam]]) came to work in the plantations in the New Hebrides. They were 437 in 1923, 5,413 in 1930, then after the crisis 1,630 in 1937. There was some social and political unrest among them in 1947.<ref>Charles Robequain, "[http://www.persee.fr/doc/geo_0003-4010_1950_num_59_317_13156Les Nouvelles-Hébrides et l'immigration annamite]", ''[[Annales de Géographie]]'', t. 59, n°317, 1950. pp. 391–392</ref>
+
+Challenges to the ''condominium'' government began in the early 1940s. The arrival of [[United States|Americans]] during the [[Second World War]], with their informal habits and relative wealth, contributed to the rise of nationalism in the islands. The belief in a mythical messianic figure named [[John Frum]] was the basis for an indigenous [[cargo cult]] (a movement attempting to obtain industrial goods through magic) promising Melanesian deliverance. Today, John Frum is both a religion and a political party with a member in Parliament.<ref name=cp/>
+
+[[File:Flag of New Hebrides.svg|thumb|1966 flag of the colonial Anglo-French [[New Hebrides]]]]
+The first political party, established in the early 1970s, was called the New Hebrides National Party. One of the founders was Father [[Walter Lini]], who later became Prime Minister. Renamed the [[Vanua'aku Pati]] in 1974, the party pushed for independence, which was gained amidst the brief [[Coconut War]].{{sfn|Shears|1980}}<ref name=twsSEPzzx>{{cite news
+| title = Independence
+| publisher = Vanuatu.travel&nbsp;– Vanuatu Islands
+| date = 17 September 2009
+| url = http://vanuatu.travel/vanuatu/history/independence.html
+| archiveurl = https://web.archive.org/web/20110418162231/http://vanuatu.travel/vanuatu/history/independence.html
+| archivedate = 18 April 2011
+| accessdate = 17 September 2009
+}}</ref>
+
+The independent Republic of Vanuatu was established in 1980.<ref name=cp/>
+
+During the 1990s, Vanuatu experienced a period of political instability which resulted in a more decentralised government. The Vanuatu Mobile Force, a paramilitary group, attempted a coup in 1996 because of a pay dispute. There were allegations of corruption in the government of [[Maxime Carlot Korman]]. New elections have been held several times since 1997, most recently in 2016.
+
+==Geography==
+[[File:Vanuatu map.png|thumb|upright=1.8|Map of Vanuatu with its capital [[Port Vila]], located on its third largest island.]]
+[[File:Vanuatu Tanna Yasur.JPG|thumb|upright=1.35|Cinder plain of [[Mount Yasur]] on [[Tanna (island)|Tanna]] island.]]
+[[File:A stream on Efate, Vanuatu.jpg|thumb|upright=1.35|Stream on [[Efate]] island.]]
+{{Main|Geography of Vanuatu}}<!---forked article appears shorter than this "summary." should forked article be merged?--->{{further|Sea level rise|Effects of global warming}}
+
+Vanuatu is a Y-shaped archipelago consisting of about 82 relatively small, geologically newer islands of [[Volcano|volcanic origin]] (65 of them inhabited), with about {{convert|1300|km|mi}} between the most northern and southern islands.<ref name=pc/> Two of these islands ([[Matthew and Hunter Islands|Matthew and Hunter]]) are also claimed and controlled by France as part of the French [[sui generis collectivity|collectivity]] of New Caledonia. The country lies between latitudes 13°S and 21°S and longitudes 166°E and 171°E.
+
+The fourteen of Vanuatu's islands that have surface areas of more than {{convert|100|km2|sqmi}} are, from largest to smallest: [[Espiritu Santo]], [[Malakula]], [[Efate]], [[Erromango]], [[Ambrym]], [[Tanna (island)|Tanna]], [[Pentecost Island|Pentecost]], [[Epi (island)|Epi]], [[Ambae]] or Aoba, [[Gaua]], [[Vanua Lava]], [[Maewo]], [[Malo Island|Malo]] and [[Aneityum]] or Anatom.
+The nation's largest towns are the capital [[Port Vila]], on Efate, and [[Luganville]] on Espiritu Santo.<ref name="State">{{cite web| work = Bureau of East Asian and Pacific Affairs| publisher = [[United States Department of State|U.S. Department of State]]|date=April 2007| title = Background Note: Vanuatu| url = https://www.state.gov/r/pa/ei/bgn/2815.htm| accessdate = 16 July 2007}}</ref> The highest point in Vanuatu is [[Mount Tabwemasana]], at {{convert|1879|m|ft}}, on the island of Espiritu Santo.
+
+Vanuatu's total area is roughly {{convert|12274|km2|sqmi}},<ref>{{cite web| publisher = SEDAC Socioeconomic Data and Applications Centre| year = 2000|url = http://sedac.ciesin.columbia.edu/gpw/country.jsp?iso=VUT|title = Oceania&nbsp;– Vanuatu Summary|accessdate = 26 July 2009}}</ref> of which its land surface is very limited (roughly {{convert|4700|km2|sqmi}}). Most of the islands are steep, with unstable soils and little permanent fresh water.<ref name=pc/> One estimate, made in 2005, is that only 9% of land is used for agriculture (7% with permanent crops, plus 2% considered arable).<ref name="SOPAC">{{cite web| publisher = SOPAC| url = http://www.pacificwater.org/pages.cfm/country-information/vanuatu.html|title = Water, Sanitation and Hygiene (Pacific Islands Applied Geoscience Commission)|accessdate = 26 July 2009}}</ref> The shoreline is mostly rocky with fringing reefs and no [[continental shelf]], dropping rapidly into the ocean depths.<ref name=pc/>
+
+There are several active [[volcanoes]] in Vanuatu, including [[Lopevi]], [[Mount Yasur]] and several underwater volcanoes. [[Volcanic activity]] is common, with an ever-present danger of a major eruption; a nearby undersea eruption of 6.4 magnitude occurred in November 2008 with no casualties, and an eruption occurred in 1945.<ref>{{cite web| publisher = indiaserver.com| date = 11 July 2008|url = http://www.india-server.com/news/major-earthquake-jolts-island-nation-4551.html|archiveurl = https://web.archive.org/web/20110713025110/http://www.india-server.com/news/major-earthquake-jolts-island-nation-4551.html|archivedate = 13 July 2011|title = Major Earthquake Jolts Island Nation Vanuatu|accessdate = 26 July 2009}}</ref> Vanuatu is recognised as a distinct [[terrestrial ecoregion]], known as the [[Vanuatu rain forests]]. It is part of the [[Australasia ecozone]], which includes New Caledonia, the Solomon Islands, Australia, New Guinea and [[New Zealand]].
+
+Vanuatu's population (estimated in 2008 as growing 2.4% annually)<ref>Asia Development Bank Vanuatu Economic Report 2009</ref> is placing increasing pressure on land and resources for agriculture, grazing, hunting, and fishing. 90% of Vanuatu households fish and consume fish, which has caused intense fishing pressure near villages and the depletion of near-shore fish species. While well-vegetated, most islands show signs of deforestation. The islands have been logged, particularly of high-value timber, subjected to wide-scale slash-and-burn agriculture, and converted to coconut plantations and cattle ranches, and now show evidence of increased soil erosion and landslides.<ref name=pc/>
+
+Many upland watersheds are being deforested and degraded, and fresh water is becoming increasingly scarce. Proper waste disposal, as well as water and air pollution, are becoming troublesome issues around urban areas and large villages. Additionally, the lack of employment opportunities in industry and inaccessibility to markets have combined to lock rural families into a subsistence or self-reliance mode, putting tremendous pressure on local ecosystems.<ref name=pc/>
+
+===Flora and fauna===
+{{see also|List of birds of Vanuatu}}
+
+Despite its tropical forests, Vanuatu has a limited number of plant and animal species. It has an indigenous flying fox, ''[[Pteropus anetianus]]''. Flying foxes are important rainforest and timber regenerators. They pollinate and seed disperse a wide variety of native trees. Their diet is nectar, pollen and fruit and they are commonly called "fruit bats". They are in decline across their South Pacific range. However, governments are increasingly aware of the economic and ecological value of flying foxes and there are calls to increase their protection. There are no indigenous large mammals. The nineteen species of native reptiles include the [[Ramphotyphlops braminus|flowerpot snake]], found only on Efate. The [[Fiji banded iguana]] (''Brachylophus fasciatus'') was introduced as a [[feral]] animal in the 1960s.{{sfn|Sprackland|1992}}<ref name=lp/> There are eleven species of bats (three unique to Vanuatu) and sixty-one species of land and water birds. While the small [[Polynesian rat]] is thought to be indigenous, the large species arrived with Europeans, as did domesticated hogs, dogs, and cattle. The ant species of some of the islands of Vanuatu were catalogued by [[E. O. Wilson]].{{sfn|Wilson|1994}}
+
+The region is rich in sea life, with more than 4,000 species of marine molluscs and a large diversity of [[List of fishes of the Coral Sea|marine fishes]]. Cone snails and stonefish carry poison fatal to humans. The [[Achatina fulica|Giant East African land snail]] arrived only in the 1970s, but already has spread from the Port-Vila region to Luganville.
+
+There are three or possibly four adult [[saltwater crocodile]]s living in Vanuatu's mangroves and no current breeding population.<ref name = lp>{{cite book |first=Jocelyn |last = Harewood |title=Vanuatu and New Caledonia |publisher=Lonely Planet |year=2009 |page=47 |isbn=0-86622-634-6 }}</ref> It is said the crocodiles reached the northern part of the islands after cyclones, given the island chain's proximity to the Solomon Islands and New Guinea where crocodiles are very common.<ref>{{cite book |last=Bennett| first=Michelle|author2=Jocelyn Harewood |title=Vanuatu |publisher=Lonely Planet |year=2003 |page=19 |isbn=978-1-74059-239-0 }}</ref>
+
+===Climate===
+The climate is tropical, with about nine months of warm to hot rainy weather and the possibility of cyclones and three to four months of cooler, drier weather characterised by winds from the southeast. The water temperature ranges from {{convert|22|C}} in winter to {{convert|28|C}} in the summer. Cool between April and September, the days become hotter and more humid starting in October. The daily temperature ranges from {{convert|20|–|32|C}}. Southeasterly [[trade winds]] occur from May to October.<ref name="pc">[http://www.peacecorps.gov/welcomebooks/vuwb461.pdf ''The Peace Corps Welcomes You to Vanuatu''] {{webarchive|url=https://web.archive.org/web/20080910005909/http://www.peacecorps.gov/welcomebooks/vuwb461.pdf |date=10 September 2008 }}. [[Peace Corps]] (May 2007).<br />This article incorporates text from this source, which is in the public domain.</ref>
+
+Vanuatu has a long rainy season, with significant rainfall almost every month. The wettest and hottest months are December through April, which also constitutes the cyclone season. The driest months are June through November.<ref name=pc/> Rainfall averages about {{convert|2360|mm|in}} per year but can be as high as {{convert|4000|mm|in}} in the northern islands.<ref name="SOPAC"/> In 2015, the United Nations University gave Vanuatu the highest [[List of countries by natural disaster risk|natural disaster risk]] of all the countries it measured.<ref>{{cite web|url=http://worldriskreport.org/|title=WorldRiskIndex 2015|publisher=United Nations University|year=2015}}</ref>
+
+====Tropical cyclones====
+{{Details|Cyclone Pam#Effects in Vanuatu}}
+
+In March 2015, [[Cyclone Pam]] impacted much of Vanuatu as a Category&nbsp;5 severe tropical cyclone, causing extensive damage to all the islands and deaths. {{as of|2015|March|17}} the United Nations said the official death toll was 11 (six from [[Efate]] and five from [[Tanna (island)|Tanna]]), and 30&nbsp;were reported injured; these numbers are expected to rise as more remote islands are reached.<ref>{{cite web |author=Stephen Coates |agency=Reuters |date=17 March 2015 |accessdate=18 March 2015 |title=Rescue teams reach cyclone-hit Vanuatu islands, official toll lowered |url=https://www.reuters.com/article/2015/03/17/us-weather-vanuatu-cyclone-idUSKBN0MC1ZY20150317}}</ref><ref>{{cite web |title=Cyclone devastates South Pacific islands of Vanuatu |url=http://bbc.com/news/world-asia-31883712 |date=14 March 2015 |work=BBC News|accessdate=14 March 2015}}</ref>
+
+Cyclone Pam is possibly the worst [[natural disaster]] in Vanuatu's history. Vanuatu lands minister, [[Ralph Regenvanu]] said, "This is the worst disaster to affect Vanuatu ever as far as we know."<ref name=guardian-worst>{{cite web |author=Joshua Robertson |work=The Guardian |date=15 March 2015 |accessdate=18 March 2015 |title=Cyclone Pam: Vanuatu awaits first wave of relief and news from worst-hit islands |url=https://www.theguardian.com/world/2015/mar/15/cyclone-pam-death-toll-may-reach-50-in-port-vila-alone-as-full-impact-still-unknown}}</ref>
+
+===Earthquakes===
+{{main|List of earthquakes in Vanuatu}}
+
+Vanuatu has relatively frequent earthquakes. Of the 58 M7 or greater events that occurred between 1909 and 2001, few were studied.
+
+==Government==
+
+===Politics===
+{{Main|Politics of Vanuatu}}
+[[File:Vanuatu Parliament, Port Vila - Flickr - PhillipC.jpg|thumb|upright=1.35|Vanuatu's parliament]]
+
+The Republic of Vanuatu is a [[parliamentary democracy]] with a [[Constitution of Vanuatu|written constitution]], which declares that the "head of the Republic shall be known as the President and shall symbolise the unity of the nation." The powers of the [[President of Vanuatu]], who is elected for a five-year term by a two-thirds vote of an electoral college, are primarily ceremonial.<ref>{{cite web| publisher = Government of the Republic of Vanuatu| year = 1983|url = http://vanuatugovernment.gov.vu/government/library/constitution.html|archiveurl = https://web.archive.org/web/20090430172100/http://vanuatugovernment.gov.vu/government/library/constitution.html|archivedate = 30 April 2009|title = Constitution of the Republic of Vanuatu|accessdate = 26 July 2009}}</ref> The electoral college consists of members of Parliament and the presidents of Regional Councils. The President may be removed by the electoral college for gross misconduct or incapacity.
+
+The [[Prime Minister of Vanuatu|Prime Minister]], who is the [[head of government]], is elected by a majority vote of a three-quarters [[quorum]] of the Parliament. The Prime Minister, in turn, appoints the Council of Ministers, whose number may not exceed a quarter of the number of parliamentary representatives. The Prime Minister and the Council of Ministers constitute the executive government.
+
+The [[Parliament of Vanuatu]] is [[unicameral]] and has 52 members,<ref>[http://www.paclii.org/cgi-bin/sinodisp/vu/legis/consol_sub/rotpcas654/rotpcas654.html?stem=&synonyms=&query=members%20of%20parliament Representation of the People (Parliamentary Constituencies and Seats)].</ref> who are elected by popular vote every four years unless earlier dissolved by a majority vote of a three-quarters quorum or by a directive from the President on the advice of the Prime Minister. The national Council of Chiefs, called the ''[[Malvatu Mauri]]'' and elected by district councils of chiefs, advises the government on all matters concerning ni-Vanuatu culture and language.
+
+Besides national authorities and figures, Vanuatu also has high-placed people at the village level. Chiefs continue to be the leading figures at the village level. It has been reported that even politicians need to oblige them.<ref name="Lonely Planet:Vanuatu">Lonely Planet:Vanuatu</ref> One becomes such a figure by holding a number of lavish feasts (each feast allowing them a higher ceremonial grade) or alternatively through inheritance (the latter only in Polynesian-influenced villages). In northern Vanuatu, feasts are graded through the nimangki-system.
+
+Government and society in Vanuatu tend to divide along linguistic French and English lines. Forming [[coalition government]]s, however, has proved problematic at times due to differences between English and French speakers. Francophone politicians like those of the [[Union of Moderate Parties]] tend to be conservative and support neo-liberal policies, as well as closer relations with France and the West. The anglophone [[Vanua'aku Pati]] identifies as socialist and anti-colonial.
+
+The [[Supreme Court of Vanuatu|Supreme Court]] consists of a chief justice and up to three other judges. Two or more members of this court may constitute a Court of Appeal. Magistrate courts handle most routine legal matters. The legal system is based on [[Common law|British common law]] and [[French civil law]]. The [[Constitution of Vanuatu|constitution]] also provides for the establishment of village or island courts presided over by chiefs to deal with questions of [[Custom (law)|customary law]].
+
+===Foreign relations===
+{{Main|Foreign relations of Vanuatu}}
+Vanuatu has joined the [[Asian Development Bank]], the [[World Bank]], the [[International Monetary Fund]], the ''[[Agence de Coopération Culturelle et Technique]]'', ''la [[Francophonie]]'' and the [[Commonwealth of Nations]].
+
+Since 1980, Australia, the United Kingdom, France and New Zealand have provided the bulk of Vanuatu's development aid. Direct aid from the UK to Vanuatu ceased in 2005 following the decision by the UK to no longer focus on the Pacific.
+
+More recently, new donors such as the [[Millennium Challenge Account]] (MCA) of the United States and the [[China|People's Republic of China]] have been providing increased amounts of aid funding and loans. In 2005 the MCA announced that Vanuatu was one of the first 15 countries in the world selected to receive support — an amount of US$65&nbsp;million was given for the provision and upgrading of key pieces of [[public infrastructure]].
+
+In 2018, newspaper reports from Australia indicated growing concern about the level of Chinese investment in Vanuatu, with over 50% of the country's debt of $440 million owed to China.<ref>{{Cite web|url=https://www.theage.com.au/politics/federal/on-the-ground-in-vanuatu-monuments-to-china-s-growing-influence-are-everywhere-20180410-p4z8t0.html|title=On the ground in Vanuatu, monuments to China's growing influence are everywhere|last=Wroe|first=David|date=2018-04-10|website=The Age|language=en|access-date=2018-04-11}}</ref> Concern was focused on the possibility China would use Vanuatu's potential inability to repay debt as leverage to bargain for control of, or [[People's Liberation Army]] presence at, [[Luganville]] Wharf. China loaned and funded the $114 million redevelopment of the wharf which has already been constructed with capability to dock naval vessels.<ref>{{Cite web|url=https://www.smh.com.au/politics/federal/china-eyes-vanuatu-military-base-in-plan-with-global-ramifications-20180409-p4z8j9.html|title=China eyes Vanuatu military base in plan with global ramifications|last=Wroe|first=David|date=2018-04-09|website=The Sydney Morning Herald|language=en|access-date=2018-04-11}}</ref>
+
+Vanuatu retains strong economic and cultural ties to Australia, the [[European Union]] (in particular France and UK) and New Zealand. Australia now provides the bulk of external assistance, including the police force, which has a paramilitary wing.<ref>{{cite web|url=http://www.nationmaster.com/country/nh-vanuatu/mil-military |title=Military statistics&nbsp;– How Vanuatu ranks |publisher=NationMaster |accessdate=12 May 2012}}</ref>
+
+There is no Vanuatu High Commission or other Vanuatu Government office in Britain, but the British Friends of Vanuatu,<ref>[http://www.british-friends-of-vanuatu.com/index.html The British Friends of Vanuatu] website</ref> based in London, provides support for Vanuatu visitors to the UK, and can often offer advice and contacts to persons seeking information about Vanuatu or wishing to visit, and welcomes new members (not necessarily resident in the UK) interested in Vanuatu. The association's Charitable Trust funds small scale assistance in the education and training sector.
+
+=== Armed forces ===
+{{Further|Law enforcement in Vanuatu}}
+
+There are two police wings: the [[Law enforcement in Vanuatu|Vanuatu Police Force]] (VPF) and the paramilitary wing, the [[Military of Vanuatu|Vanuatu Mobile Force]] (VMF).<ref name="autogenerated3">[http://epress.anu.edu.au/kastom/mobile_devices/ch05s02.html The Vanuatu Police Force]. Epress.anu.edu.au. Retrieved 17 April 2012.</ref> Altogether there were 547 police officers organised into two main police commands: one in Port Vila and one in Luganville.<ref name="autogenerated3"/> In addition to the two command stations there were four secondary police stations and eight police posts. This means that there are many islands with no police presence, and many parts of islands where getting to a police post can take several days.<ref>[http://www.theodora.com/wfbcurrent/vanuatu/vanuatu_military.html Vanuatu Military 2012]. theodora.com</ref><ref>{{cite web|url=http://articles.janes.com/articles/Janes-Sentinel-Security-Assessment-Oceania/Armed-forces-Vanuatu.html |title=Armed forces (Vanuatu)&nbsp;– Sentinel Security Assessment&nbsp;– Oceania |publisher=Articles.janes.com |date=3 November 2011 |accessdate=12 May 2012}}</ref> There is no purely military expenditure.<ref>[http://www.indexmundi.com/vanuatu/military_profile.html Vanuatu Military Profile 2012]. Indexmundi.com (12 July 2011). Retrieved 17 April 2012.</ref>
+
+===Administrative divisions===
+{{unreferenced section|date=July 2017}}
+{{Main|Provinces of Vanuatu}}
+[[File:Vanuatu Provinces.JPG|thumb|upright=1.35|Provinces of Vanuatu]]
+
+Vanuatu has been divided into six provinces since 1994. The names in English of all provinces are derived from the initial letters of their constituent islands:
+
+* [[Malampa Province|Malampa]] ('''Mal'''akula, '''Am'''brym, '''Pa'''ama)
+* [[Penama Province|Penama]] ('''Pen'''tecost, '''Am'''bae, '''Ma'''ewo&nbsp;– in French: Pénama)
+* [[Sanma Province|Sanma]] ('''San'''to, '''Ma'''lo)
+* [[Shefa Province|Shefa]] ('''Sh'''epherds group, '''Efa'''te&nbsp;– in French: Shéfa)
+* [[Tafea Province|Tafea]] ('''T'''anna, '''A'''niwa, '''F'''utuna, '''E'''rromango, '''A'''neityum&nbsp;– in French: Taféa)
+* [[Torba Province|Torba]] ('''Tor'''res Islands, '''Ba'''nks Islands)
+
+Provinces are autonomous units with their own popularly elected local parliaments known officially as provincial councils. They collect local taxes and make by-laws in local matters like tourism, the provincial budget or the provision of some basic services. They are headed by a chairman elected from among the members of the local parliaments and assisted by a secretary appointed by the [[Civil service commission|Public Service Commission]].
+
+Their executive arm consists of a provincial government headed by an executive officer who is appointed by the Prime Minister with the advice of the minister of local government. The provincial government is usually formed by the party that has the majority in the provincial council and, like the national government, is advised in Ni-Vanuatu culture and language by the local council of chiefs. The provincial president is constitutionally a member of the electoral college that elects the President of Vanuatu.
+
+The provinces are in turn divided into municipalities (usually consisting of an individual island) headed by a council and a mayor elected from among the members of the council.
+
+==Economy==
+{{Main|Economy of Vanuatu}}
+[[File:Vanuatu Exports Treemap (2009)..jpg|thumb|upright=1.6|A proportional representation of Vanuatu's exports]]
+[[File:PortVilaMarketHall.jpg|thumb|upright=1.35|A market hall in Port Vila]]
+
+The four mainstays of the economy are agriculture, tourism, offshore [[financial services]], and [[cattle raising|raising cattle]]. There is substantial fishing activity, although this industry does not bring in much foreign exchange. Exports include [[copra]], [[kava]], beef, cocoa and timber, and imports include machinery and equipment, foodstuffs and fuels. In contrast, mining activity is unsubstantial.
+
+Although manganese mining halted in 1978, there was an agreement in 2006 to export manganese already mined but not yet exported. The country has no known petroleum deposits. A small light-industry sector caters to the local market. Tax revenues come mainly from import duties and a 15% [[Value Added Tax|VAT]] on goods and services. Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances between constituent islands and from main markets.
+
+Agriculture is used for consumption as well as for export. It provides a living for 65% of the population. In particular, production of copra and kava create substantial revenue. Many farmers have been abandoning cultivation of food crops, and use earnings from kava cultivation to buy food.<ref name="Lonely Planet:Vanuatu"/> Kava has also been used in ceremonial exchanges between clans and villages.<ref>Census of Agriculture 2007 (page 33&nbsp;– 5.2)</ref> Cocoa is also grown for foreign exchange.<ref>Census of Agriculture 2007 (page 49&nbsp;– 7.2)</ref>
+
+In 2007, the number of households engaged in fishing was 15,758, mainly for consumption (99%), and the average number of weekly fishing trips was 3.<ref>Census of Agriculture 2007 (page 77&nbsp;– 13.1)</ref> The tropical climate enables growing of a wide range of fruits and vegetables and spices, including banana, garlic, cabbage, peanuts, pineapples, sugarcane, taro, yams, watermelons, leaf spices, carrots, radishes, eggplants, vanilla (both green and cured), pepper, cucumber and many others.<ref>Census of Agriculture 2007 (page 114&nbsp;– table 4.17)</ref> In 2007, the value (in terms of millions of [[vatu]]&nbsp;– the official currency of Vanuatu), for agricultural products, was estimated for different products: kava (341 million vatu), copra (195), cattle (135), crop gardens (93), cocoa (59), forestry (56), fishing (24) and coffee (12).<ref>Census of Agriculture 2007 (various pages)</ref>
+
+{{anchor|Tourism}}
+Tourism brings in much-needed foreign exchange. Vanuatu is widely recognised as one of the premier vacation destinations for scuba divers wishing to explore coral reefs of the South Pacific region.{{sfn|Harris|2006}} A further significant attraction to scuba divers is the wreck of the US ocean liner and converted troop carrier ''[[SS President Coolidge]]'' on [[Espiritu Santo]] island. Sunk during World War II, it is one of the largest shipwrecks in the world that is accessible for recreational diving. Tourism increased 17% from 2007 to 2008 to reach 196,134 arrivals, according to one estimate.<ref>{{cite web|url=http://www.adb.org/documents/fact_sheets/van.asp|title=Asian Development Bank & Vanuatu&nbsp;– Fact Sheet (pdf file)|publisher=Asian Development Bank|date=31 December 2008|accessdate=26 July 2009|archive-url=https://web.archive.org/web/20070403190139/http://www.adb.org/Documents/Fact_Sheets/VAN.asp|archive-date=3 April 2007|dead-url=yes|df=dmy-all}}</ref> The 2008 total is a sharp increase from 2000, in which there were only 57,000 visitors (of these, 37,000 were from Australia, 8,000 from New Zealand, 6,000 from New Caledonia, 3,000 from Europe, 1,000 from North America, 1,000 from Japan. (Note: figures rounded to the nearest thousand)).<ref>{{cite web |publisher=Vanuatu Statistics Office |year=2001 |url=http://www.vanuatustatistics.gov.vu/About%20VNSO/Data/Social/Tour&Mig.htm |title=Tourism and Migration Statistics&nbsp;– Visitor Arrivals by Usual Country of Residence (1995–2001) |accessdate=26 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090429004619/http://www.vanuatustatistics.gov.vu/About%20VNSO/Data/Social/Tour%26Mig.htm |archivedate=29 April 2009 |df=dmy-all }}</ref> Tourism has been promoted, in part, by Vanuatu being the site of several reality-TV shows. The ninth season of the reality TV series ''[[Survivor (US TV series)|Survivor]]'' was filmed on Vanuatu, entitled ''[[Survivor: Vanuatu]]—Islands of Fire''. Two years later, Australia's ''[[Celebrity Survivor]]'' was filmed at the same location used by the US version. In mid-2002, the government stepped up efforts to boost tourism.
+
+Financial services are an important part of the economy. Vanuatu is a [[tax haven]] that until 2008 did not release account information to other governments or law-enforcement agencies. International pressure, mainly from Australia, influenced the Vanuatu government to begin adhering to international norms to improve transparency. In Vanuatu, there is no [[income tax]], [[withholding tax]], [[capital gains tax]], [[inheritance tax]], or exchange control. Many international ship-management companies choose to flag their ships under the Vanuatu flag, because of the tax benefits and favourable labour laws (Vanuatu is a full member of the [[International Maritime Organization]] and applies its international conventions). Vanuatu is recognised as a "[[flag of convenience]]" country.<ref>{{cite web |url=http://www.itfglobal.org/flags-convenience/flags-convenien-183.cfm |title=International Transport Workers' Federation: FOC Countries |publisher=Itfglobal.org |date=6 June 2005 |accessdate=29 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20100718210353/http://www.itfglobal.org/flags-convenience/flags-convenien-183.cfm |archivedate=18 July 2010 |df=dmy-all }}</ref> Several file-sharing groups, such as the providers of the [[KaZaA]] network of [[Sharman Networks]] and the developers of [[WinMX]], have chosen to incorporate in Vanuatu to avoid regulation and legal challenges. In response to foreign concerns the government has promised to tighten regulation of its [[offshore financial centre]]. Vanuatu receives [[foreign aid]] mainly from Australia and New Zealand.
+
+Vanuatu became the 185th member of the [[World Intellectual Property Organization]] (WIPO) in December 2011.<ref>{{cite web |url= http://www.dailypost.vu/content/vanuatu-185th-member-wipo |title=Vanuatu is 185th member of WIPO|first1=Len Garae| last1=Vanuatu Daily Post |date=22 December 2011 |accessdate=16 March 2012}}</ref>
+
+[[File:Commercial agriculture, North Efate.jpg|thumb|upright|[[Commercial agriculture]], North Efate]]
+Raising cattle leads to beef production for export. One estimate in 2007 for the total value of cattle heads sold was 135 million vatu; cattle were first introduced into the area from Australia by British planter James Paddon.<ref>Census of Agriculture 2007 (page 67&nbsp;– 11.1)</ref> On average, each household has 5 pigs and 16 chickens, and while cattle are the "most important livestock", pigs and chickens are important for subsistence agriculture as well as playing a significant role in ceremonies and customs (especially pigs).<ref>Census of Agriculture 2007 (page 73&nbsp;– 12.1)</ref> There are 30 commercial farms (sole proprietorships (37%), partnerships (23%), corporations (17%)), with revenues of 533&nbsp;million vatu and expenses of 329&nbsp;million vatu in 2007.<ref>Census of Agriculture 2007 (page 97&nbsp;– 15.1)</ref>
+
+Earthquakes can negatively affect economic activity on the island nation. A severe earthquake in November 1999, followed by a [[tsunami]], caused extensive damage to the northern island of [[Pentecost Island|Pentecost]], leaving thousands homeless. Another powerful earthquake in January 2002 caused extensive damage in the capital, Port Vila, and surrounding areas, and was also followed by a tsunami. Another earthquake of 7.2 struck on 2 August 2007.<ref name="USGS7.2">{{cite web|url=https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007fmba.php |title=Magnitude 7.2&nbsp;– Vanuatu |work=USGS Earthquake Hazards Program |accessdate=13 August 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070810090904/http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007fmba.php |archivedate=10 August 2007 }}</ref>
+
+The Vanuatu National Statistics Office (VNSO) released their 2007 agricultural census in 2008. According to the study, agricultural exports make up about three-quarters (73%) of all exports; 80% of the population lives in rural areas where "agriculture is the main source of their livelihood"; and of these households, almost all (99%) engaged in agriculture, fisheries and forestry.<ref name="spc.int">Census of Agriculture 2007 (page 18)</ref> Total annual household income was 1,803 million [[vatu]]. Of this income, agriculture grown for their own household use was valued at 683 million vatu, agriculture for sale at 561, gifts received at 38, handicrafts at 33 and fisheries (for sale) at 18.<ref name="spc.int"/>
+
+The largest expenditure by households was food (300&nbsp;million vatu), followed by household appliances and other necessities (79&nbsp;million vatu), transportation (59), education and services (56), housing (50), alcohol and tobacco (39), clothing and footwear (17).<ref>Census of Agriculture 2007 (page 19 table 2.5)</ref> Exports were valued at 3,038&nbsp;million vatu, and included copra (485), kava (442), cocoa (221), beef (fresh and chilled) (180), timber (80) and fish (live fish, aquarium, shell, button) (28).<ref>Census of Agriculture 2007 (page 19&nbsp;– table 2.6)</ref> Total imports of 20,472&nbsp;million vatu included industrial materials (4,261), food and drink (3,984), machinery (3,087), consumer goods (2,767), transport equipment (2,125), fuels and lubricants (187) and other imports (4,060).<ref>Census of Agriculture 2007 (page 20&nbsp;– Table 2.7)</ref> There are substantial numbers of crop gardens&nbsp;– 97,888 in 2007&nbsp;– many on flat land (62%), slightly hilly slope (31%), and even on steep slopes (7%); there were 33,570 households with at least one crop garden, and of these, 10,788 households sold some of these crops over a twelve-month period.<ref>Census of Agriculture 2007 (page 27&nbsp;– Table 4.1)</ref>
+
+The economy grew about 6% in the early 2000s.<ref name="Asian Development Bank">{{cite web|url=http://www.adb.org/documents/fact_sheets/van.asp|title=Asian Development Bank & Vanuatu&nbsp;– Fact Sheet&nbsp;– Operational Challenges (pdf file)|publisher=Asian Development Bank|date=31 December 2008|accessdate=26 July 2009|archive-url=https://web.archive.org/web/20070403190139/http://www.adb.org/Documents/Fact_Sheets/VAN.asp|archive-date=3 April 2007|dead-url=yes|df=dmy-all}}</ref> This is higher than in the 1990s, when GDP rose less than 3%, on average.
+
+One report from the [[Manila]]-based [[Asian Development Bank]] about Vanuatu's economy gave mixed reviews. It noted the economy was "expanding", noting that the economy grew at an impressive 5.9% rate from 2003 to 2007, and lauded "positive signals regarding reform initiatives from the government in some areas" but described certain binding constraints such as "poor infrastructure services". Since a private monopoly generates power, "electricity costs are among the highest in the Pacific" among developing countries. The report also cited "weak governance and intrusive interventions by the State" which reduced productivity.<ref name="Asian Development Bank"/>
+
+Vanuatu was ranked the 173rd safest investment destination in the world in the March 2011 Euromoney Country Risk rankings.<ref>{{cite web|title=Euromoney Country Risk|url=http://www.euromoneycountryrisk.com/|work=Euromoney country Risk|publisher=Euromoney Institutional Investor PLC|accessdate=15 August 2011}}</ref> In 2015, Vanuatu was ranked the 84th most [[Index of Economic Freedom|economically free country]] by The Heritage Foundation and ''The Wall Street Journal''.<ref name="Economic Freedom">{{cite web|title=Country Rankings|url=http://www.heritage.org/index/ranking|website=''heritage.org''|publisher=The Heritage Foundation|accessdate=20 January 2016}}</ref>
+
+===Communications===
+{{Further|Telecommunications in Vanuatu}}
+
+Mobile phone service in the islands is provided by TVL and [[Digicel]]. Internet access is provided by TVL, Telsat Broadband, [[Digicel]] and Wantok using a variety of connection technologies. A submarine optical fibre cable now connects Vanuatu to Fiji.
+
+==Demographics==
+{{Main|Demographics of Vanuatu}}
+[[File:Vanuatu blonde.jpg|thumb|left|A child from Vanuatu.]]
+[[File:Vanuatu demography.png|thumb|upright=1.6|Vanuatu's population in thousands (1961–2003).]]
+[[File:Landdiving7.jpg|thumb|Men wearing traditional [[Namba (clothing)|nambas]].]]
+
+According to the 2009 census, Vanuatu has a population of 243,304.<ref name="2009_census">{{cite journal |url=http://www.spc.int/prism/country/vu/stats/P_releases/Adhoc/HH%20listing%20count%20release%20-%20071009.pdf |archiveurl=https://web.archive.org/web/20101205053216/http://www.spc.int/prism/country/vu/stats/P_releases/Adhoc/HH%20listing%20count%20release%20-%20071009.pdf |archivedate=5 December 2010 |title=2009 Census Household Listing Counts |format=PDF |publisher=Vanuatu National Statistics Office |year=2009 |accessdate=6 January 2010}}</ref> Males outnumber females; in 1999, according to the Vanuatu Statistics Office, there were 95,682 males and 90,996 females.{{citation needed|date=January 2017}} The population is predominantly rural, but Port Vila and [[Luganville]] have populations in the tens of thousands.
+
+The inhabitants of Vanuatu are called {{nobr|''[[ni-Vanuatu]]''}} in English, using a recent [[neologism|coinage]]. The ni-Vanuatu are primarily (98.5%) of [[Melanesia]]n descent, with the remainder made up of a mix of Europeans, Asians and other Pacific islanders. Three islands were historically colonised by [[Polynesian outlier|Polynesians]]. About 20,000 {{nobr|ni-Vanuatu}} live and work in New Zealand and Australia. In 2006 the [[New Economics Foundation]] and [[Friends of the Earth]] environmentalist group published the [[Happy Planet Index]], which analysed data on [[subjective life satisfaction|levels of reported happiness]], [[life expectancy]] and [[Ecological Footprint]], and they estimated Vanuatu to be the most ecologically efficient country in the world in achieving high well-being.<ref>{{cite news
+|work=BBC News| date = 12 July 2006
+| url = http://news.bbc.co.uk/1/hi/sci/tech/5169448.stm
+| title = Happiness doesn't cost the Earth
+| accessdate = 16 July 2007
+}}</ref>
+
+===Languages===
+{{Main|Languages of Vanuatu}}
+
+The national language of the Republic of Vanuatu is [[Bislama]]. The [[official language]]s are [[Bislama]], [[English language|English]] and French. The principal languages of education are English and French. The use of English or French as the formal language is split along political lines.{{citation needed|date=August 2016}}
+
+Bislama is a [[pidgin]] language, and now a [[creole language|creole]] in urban areas. Essentially combining a typically Melanesian grammar with a mostly English vocabulary, Bislama is now the [[lingua franca]] of the entire archipelago of Vanuatu, used by the majority of the population as a second language.
+
+In addition, 113 [[languages of Vanuatu|indigenous languages]] are still actively spoken in Vanuatu.<ref name="tourism" /> The density of languages, per capita, is the highest of any nation in the world,{{sfn|Crowley|2000}} with an average of only 2,000 speakers per language. All [[vernacular]] languages of Vanuatu (i.e., excluding Bislama) belong to the [[Oceanic languages|Oceanic]] branch of the Austronesian family.
+
+In recent years, the use of Bislama as a first language has considerably encroached on indigenous languages, whose use in the population has receded from 73.1 to 63.2 percent between 1999 and 2009.{{sfn|François|2012|p=104}}
+
+===Religion===
+{{main|Religion in Vanuatu}}
+
+Christianity is the predominant [[religion in Vanuatu]], consisting of several denominations. The [[Presbyterian Church in Vanuatu]], adhered to by about one-third of the population, is the largest of them<ref>[https://www.state.gov/g/drl/rls/irf/2007/90158.htm International Religious Freedom Report 2007: Vanuatu]. United States [[Bureau of Democracy, Human Rights and Labor]] (September 14, 2007). </ref> and makes Vanuatu the most Presbyterian country in the world.{{cn|date=December 2018}} [[Roman Catholicism|Roman Catholic]] and [[Anglican]] are other common denominations, each claiming about 15% of the population. The less significant groups are the [[Seventh-day Adventist Church]], the [[Churches of Christ in Australia|Church of Christ]],<ref>{{cite web
+|url=http://www.worldconvention.org/resources/profiles/vanuatu/
+|title=World Convention " Vanuatu
+|accessdate=9 June 2012
+}}</ref> [[Neil Thomas Ministries]] (NTM), [[Jehovah's Witnesses]], and others. In 2007, [[Islam in Vanuatu]] was estimated to consist of about 200 converts.<ref>{{Cite news|url=http://www.abc.net.au/foreign/content/2005/s1313695.htm|title=Vanuatu – Island Dress|date=15 February 2005|accessdate=21 February 2017|publisher=[[Australian Broadcasting Corporation]]}}</ref><ref>{{Cite news|url=http://www.smh.com.au/news/world/heeding-the-call-to-prayer-in-a-region-that-reveres-the-pig/2007/09/07/1188783496490.html?page=fullpage|title=Heeding the call to prayer in a region that reveres the pig|date=8 September 2007|accessdate = 21 February 2017|work=[[The Sydney Morning Herald]]}}</ref>
+
+Because of the modern goods that the military in the [[Second World War]] brought with them when they came to the islands, several [[cargo cult]]s developed. Many died out, but the [[John Frum]] cult on [[Tanna (island)|Tanna]] is still large, and has adherents in the parliament.{{Citation needed|date=November 2014}} Also on Tanna is the [[Prince Philip Movement]], which reveres the United Kingdom's [[Prince Philip]].<ref>[https://web.archive.org/web/20070630224006/http://www.royal.gov.uk/output/page913.asp Fifty facts about the Duke of Edinburgh]. royal.gov.uk (25 January 2002)</ref> Villagers of the [[Yaohnanen]] tribe believed in an ancient story about the pale-skinned son of a mountain spirit venturing across the seas to look for a powerful woman to marry. Prince Philip, having visited the island with his new wife [[Elizabeth II of the United Kingdom|Queen Elizabeth]], fitted the description exactly and is therefore revered as a god around the isle of Tanna.<ref>Shears, Richard. [http://www.mailonsunday.co.uk/pages/live/articles/news/news.html?in_article_id=388901&in_page_id=1770 Is Prince Philip a god?], [[Mail on Sunday]], 3 June 2006, downloaded 15 February 2007.</ref><ref>{{cite news|title= South Sea tribe prepares birthday feast for their favourite god, Prince Philip|url=https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/02/19/wphilip19.xml|author=Squires, Nick| date=27 February 2007|work=The Daily Telegraph|location=London}}</ref>
+
+== Health ==
+See [[Health in Vanuatu]]
+
+== Education ==
+The estimated literacy rate of people aged 15–24 years is about 74% according to [[UNESCO]] figures.<ref>{{cite web|title=Vanuatu Literacy Education Programme (VANLEP)|url=http://litbase.uil.unesco.org/?menu=4&programme=34|website=UNESCO Institute for Lifelong Learning|accessdate=9 August 2017}}</ref> The rate of primary school enrolment rose from 74.5% in 1989 to 78.2% in 1999 and then to 93.0% in 2004 but then fell to 85.4% in 2007. The proportion of pupils completing a primary education fell from 90% in 1991 to 72% in 2004<ref name="autogenerated1">Asian Development Bank. Vanuatu economic report 2009: accelerating reform. Mandaluyong City, Philippines: Asian Development Bank, 2009.</ref> and up to 78% in 2012.
+
+Port Vila and three other centres have campuses of the [[University of the South Pacific]], an educational institution co-owned by twelve Pacific countries. The campus in Port Vila, known as the Emalus Campus, houses the University's law school.
+
+== Culture ==
+{{Main|Culture of Vanuatu}}
+[[File:Wooden slit drums from Vanuatu, Bernice P. Bishop Museum.JPG|thumb|upright|Wooden [[Slit drum (Vanuatu)|slit drums]] from Vanuatu, [[Bernice P. Bishop Museum]]]]
+
+Vanuatu culture retains a strong diversity through local regional variations and through foreign influence. Vanuatu may be divided into three major cultural regions. In the north, wealth is established by how much one can give away, through a [[grade-taking]] system. Pigs, particularly those with rounded [[tusk]]s, are considered a symbol of wealth throughout Vanuatu. In the centre, more traditional Melanesian cultural systems dominate. In the south, a system involving grants of title with associated privileges has developed.<ref name="tourism">{{cite web| publisher = Vanuatu Tourism Office| url = http://www.vanuatutourism.com/vanuatu/export/sites/VTO/en/culture/culture.html| title = Culture of Vanuatu| accessdate = 16 July 2007 |archiveurl = https://web.archive.org/web/20070520205556/http://www.vanuatutourism.com/vanuatu/export/sites/VTO/en/culture/culture.html |archivedate = 20 May 2007}}</ref>
+
+Young men undergo various coming-of-age ceremonies and rituals<ref>{{cite web|author=Elisabeth Hurtel |url=http://www.imagesud.com/photographie-art/?cat=21|title=Customs dances and ceremonies in Vanuatu|accessdate=22 May 2010}}</ref> to initiate them into manhood, usually including [[circumcision]].
+
+Most villages have a ''[[nakamal]]'' or village clubhouse which serves as a meeting point for men and as a place to drink ''[[kava]]''. Villages also have male- and female-only sections. These sections are situated all over the villages; in ''nakamals'', special spaces are provided for females when they are in their menstruation period.
+
+There are few prominent ni-Vanuatu authors. [[Women's rights]] activist [[Grace Mera Molisa]], who died in 2002, achieved international notability as a descriptive poet.
+
+===Music===
+{{Main|Music of Vanuatu}}
+[[File:Vanuatu-humans-of-vanuatu-2.jpg|thumb|alt=A women's dance from Vanuatu, using bamboo stamping tubes.|A women's dance from Vanuatu, using [[Bamboo musical instruments|bamboo stamping tubes]]]]
+
+The traditional [[music of Vanuatu]] is still thriving in the rural areas of Vanuatu. Musical instruments consist mostly of [[idiophone]]s: drums of various shape and size, [[slit gong]]s, [[Bamboo musical instruments|stamping tubes]], as well as [[Rattle (percussion instrument)|rattle]]s, among others. Another musical genre that has become widely popular during the 20th century in all areas of Vanuatu, is known as ''[[string band]]'' music. It combines guitars, [[ukulele]], and popular songs.
+
+More recently the music of Vanuatu, as an industry, grew rapidly in the 1990s and several bands have forged a distinctive ni-Vanuatu identity. Popular genres of modern commercial music, which are currently being played in the urban areas include [[zouk]] music and [[reggaeton]]. Reggaeton, a variation of Dancehall Reggae spoken in the Spanish language, played alongside its own distinctive beat, is especially played in the local nightclubs of Port Vila with, mostly, an audience of Westerners and tourists.
+
+===Cuisine===
+{{main|Cuisine of Vanuatu}}
+
+The [[cuisine of Vanuatu]] (''aelan kakae'') incorporates fish, root vegetables such as [[taro]] and [[yam (vegetable)|yam]]s, fruits, and vegetables. Most island families grow food in their gardens, and food shortages are rare. Papayas, pineapples, mangoes, [[plantain (cooking)|plantain]]s, and sweet potatoes are abundant through much of the year. Coconut milk and coconut cream are used to flavour many dishes. Most food is cooked using hot stones or through boiling and steaming; very little food is fried.<ref name=pc/>
+
+The national dish of Vanuatu is the [[laplap]].<ref>[http://www.abc.net.au/correspondents/content/2008/s2528790.htm The secrets of Vanuatu's national dish, the Lap Lap]. Retrieved December 2013</ref>
+
+===Sports===
+{{main|Sport in Vanuatu}}
+
+The most practiced sport in Vanuatu is [[Association football|football]].
+
+==See also==
+{{portal|Oceania}}
+{{Wikipedia books|Vanuatu}}
+* [[Outline of Vanuatu]]
+* [[Index of Vanuatu-related articles]]{{-}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin|30em}}
+* {{cite journal
+| last1         = Bedford
+| first1        = Stuart
+| last2         = Spriggs
+| first2        = Matthew
+| date          = 2008
+| title         = Northern Vanuatu as a Pacific Crossroads: The Archaeology of Discovery, Interaction, and the Emergence of the "Ethnographic Present"
+| journal       = Asian Perspectives
+| volume        = 47
+| issue         = 1
+| pages         = 95–120
+| publisher     = UP Hawaii
+| jstor         = 42928734
+| ref           = harv
+}}
+* [https://web.archive.org/web/20130317064043/http://www.phtpacific.org/content/vut-agriculture-census-2007 Census of Agriculture 2007 Vanuatu], Vanuatu National Statistics Office (2008)
+* {{cite encyclopedia
+| first1        = Terry
+| last1         = Crowley
+| author1-link  = Terry Crowley (linguist)
+| date          = 2000
+| url  = 
+https://books.google.com/books?hl=fr&id=INhL6k_89QoC&oi=fnd&pg=PA154&ots=uffi8KMups&sig=uzQu5d61th2c3fSOUnHqXNRnzsc#v=onepage&f=false
+| title         = The language situation in Vanuatu
+| encyclopedia  = Language Planning and Policy in the Pacific: Fiji, the Philippines and Vanuatu
+| volume        = '''1'''
+| editor1-first = Richard B.
+| editor1-last  = Baldauf
+| editor2-first = Robert B.
+| editor2-last  = Kaplan
+| ref           = harv
+}}
+* {{cite book
+| last1         = Crowley
+| first1        = Terry
+| title         = Bislama reference grammar
+| url           = https://books.google.com/books?id=V7Td_VMSh9gC&pg=PA3
+| date          = 2004
+| publisher     = UP Hawaii
+| isbn          = 978-0824828806
+| ref           = harv
+}}
+* {{cite journal
+| last1         = François
+| first1        = Alexandre
+| author1-link  = Alexandre François (linguist)
+| date          = 2012
+| title         = The dynamics of linguistic diversity: Egalitarian multilingualism and power imbalance among northern Vanuatu languages
+| journal       = International Journal of the Sociology of Language
+| volume        = 2012
+| issue         = 214
+| doi           = 10.1515/ijsl-2012-0022
+| pages         = 85–110
+| publisher     = De Gruyter
+| url           = https://anu.academia.edu/AlexFran%C3%A7ois/Papers/1525506/The_dynamics_of_linguistic_diversity_Egalitarian_multilingualism_and_power_imbalance_among_northern_Vanuatu_languages
+| ref           = harv
+}}
+* {{cite journal
+| last1         = Harris
+| first1        = Richard
+| title         = Tales from the South Pacific – diving medicine in Vanuatu
+| journal       = Diving and Hyperbaric Medicine
+| publisher     = [[South Pacific Underwater Medicine Society]]
+| volume        = 36
+| number        = 1
+| date          = 2006
+| pages         = 22–23
+| url           = http://archive.rubicon-foundation.org/10172
+| accessdate    = 10 March 2013
+| ref           = harv
+}}
+* {{cite book
+| last1         = Hess
+| first1        = Sabine C.
+| title         = Person and Place: Ideas, Ideals and the Practice of Sociality on Vanua Lava, Vanuatu
+| date          = 2009
+| publisher     = Berghahn
+| isbn          = 978-1845455996
+| ref           = harv
+}}
+* {{cite conference
+| editor-first1 = John
+| editor-last1  = Lynch
+| editor-first2 = Fa'afo
+| editor-last2  = Pat
+| conference    = International Conference on Oceanic Linguistics
+| title         = Proceedings of the first International Conference on Oceanic Linguistics (1993)
+| location      = Port Vila, Vanuatu
+| publisher     = Australian National University
+| isbn          = 978-0858834408
+| date          = 1996
+| ref           = harv
+}}
+* {{cite book
+| first1        = Thomas Anton
+| last1         = Reuter
+| url           = https://books.google.com/books?id=oP0s2861LqUC&pg=PA29
+| title         = Custodians of the Sacred Mountains: Culture and Society in the Highlands of Bali
+| publisher     = UP Hawaii
+| date          = 2002
+| isbn          = 978-0824824501
+| ref           = harv
+}}
+* {{cite book
+| first1        = Thomas Anton
+| last1         = Reuter
+| url           = https://books.google.com/books?id=Y43gLk8IyeEC&pg=PA326
+| title         = Sharing the Earth, Dividing the Land: Land and Territory in the Austronesian World
+| publisher     = ANU E Press
+| date          = 2006
+| isbn          = 978-1920942694
+| ref           = harv
+}}
+* {{cite book
+| last1         = Shears
+| first1        = Richard
+| title         = The Coconut War: the Crisis on Espiritu Santo
+| date          = 1980
+| location      = North Ryde, NSW
+| publisher     = Cassell
+| isbn          = 978-0726978661
+| ref           = harv
+}}
+* {{cite book
+| first1        = Robert George
+| last1         = Sprackland
+| title         = Giant Lizards
+| publisher     = TFH
+| location      = Neptune, NJ
+| date          = 1992
+| isbn          = 978-0866226349
+| ref           = harv
+}}
+* {{cite conference
+| editor-first1 = Garry W.
+| editor-last1  = Trompf
+| title         = The Gospel Is Not Western: Black Theologies from the Southwest Pacific
+| publisher     = Orbis
+| isbn          = 978-0883442692
+| date          = 1987
+| ref           = harv
+}}
+* {{cite book
+| first1        = Edward Osborne
+| last1         = Wilson
+| author1-link  = E. O. Wilson
+| title         = [[Naturalist (book)|Naturalist]]
+| date          = 1994
+| publisher     = Shearwater
+| edition       = 1st
+| isbn          = 978-1559632881
+| ref           = harv
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin|30em}}
+* {{cite book
+| title         = Unfolding the Moon: Enacting Women's Kastom in Vanuatu
+| first1        = Lissant
+| last1         = Bolton
+| publisher     = UP Hawaii
+| date          = 2003
+| isbn          = 978-0824825355
+| ref           = harv
+}}
+* {{cite book
+| title         = Arts of Vanuatu
+| editor1-first = Joël
+| editor1-last  = Bonnemaison
+| editor2-first = Kirk
+| editor2-last  = Huffman
+| editor3-first = Darrell
+| editor3-last  = Tryon
+| editor4-first = Christian
+| editor4-last  = Kaufmann
+| date          = 1998
+| publisher     = UP Hawaii
+| isbn          = 978-0824819569
+| ref           = harv
+}}
+* {{cite book
+| title         = Diving and Snorkeling Guide to Vanuatu
+| first1        = Bob
+| last1         = Bowdey
+| first2        = Judy
+| last2         = Beaty
+| first3        = Brian
+| last3         = Ansell
+| publisher     = Lonely Planet
+| date          = 1995
+| isbn          = 978-1559920803
+| ref           = harv
+}}
+* {{cite book
+| title         = Birds of Vanuatu
+| first1        = Heinrich L.
+| last1         = Bregulla
+| publisher     = Nelson
+| date          = 1992
+| isbn          = 978-0904614343
+| ref           = harv
+}}
+* {{cite book
+| title         = The Birds of the Solomons, Vanuatu and New Caledonia
+| first1        = Chris
+| last1         = Doughty
+| first2        = Nicolas
+| last2         = Day
+| first3        = Andrew
+| last3         = Plant
+| publisher     = Helm
+| date          = 1999
+| isbn          = 978-0713646900
+| ref           = harv
+}}
+* {{cite book
+| title         = Women in Vanuatu: Analyzing Challenges to Economic Participation
+| first1        = Amanda
+| last1         = Ellis
+| first2        = Clare
+| last2         = Manuel
+| first3        = Jozefina
+| last3         = Cutura
+| first4        = Chakriya
+| last4         = Bowman
+| publisher     = World Bank Group
+| date          = 2009
+| isbn          = 978-0821379097
+| ref           = harv
+}} 
+* {{cite book
+| title         = Gender, Christianity and Change in Vanuatu: An Analysis of Social Movements in North Ambrym
+| series        = Anthropology and Cultural History in Asia and the Indo-Pacific
+| first1        = Annelin
+| last1         = Eriksen
+| publisher     = Routledge
+| date          = 2007
+| isbn          = 978-0754672098
+| ref           = harv
+}}
+* {{cite book
+| title         = Vanuatu Adventures: Kava and Chaos in the Sth Pacific
+| first1        = Jocelyn
+| last1         = Harewood
+| date          = 2012
+}}
+* {{cite book
+| title         = Women of the Place: Kastom, Colonialism and Gender in Vanuatu
+| series        = Studies in anthropology and history
+| volume        = '''12'''
+| first1        = Margaret
+| last1         = Jolly
+| publisher     = Harwood Academic
+| date          = 1993
+| isbn          = 978-3718654536  
+| ref           = harv
+}}
+* {{cite book
+| title         = Pentecost: An island in Vanuatu
+| first1        = Genevieve
+| last1         = Mescam
+| others        = (Photographer) Coulombier, Denis
+| publisher     = U South Pacific 
+| date          = 1989
+| isbn          = 978-9820200524
+| ref           = harv
+}}
+* {{cite book
+| title         = Power of Perspective: Social Ontology and Agency on Ambrym Island, Vanuatu
+| first1        = Knut Mikjel
+| last1         = Rio
+| publisher     = Berghahn
+| date          = 2007
+| isbn          = 978-1845452933
+| ref           = harv
+}}
+* {{cite book
+| title         = House-girls Remember: Domestic Workers in Vanuatu
+| editor1-first = Margaret
+| editor1-last  = Rodman
+| editor2-first = Daniela
+| editor2-last  = Kraemer
+| editor3-first = Lissant
+| editor3-last  = Bolton
+| editor4-first = Jean
+| editor4-last  = Tarisesei
+| publisher     = UP Hawaii
+| date          = 2007
+| isbn          = 978-0824830120
+| ref           = harv
+}}
+* {{cite book
+| title         = Atlas du Vanouatou (Vanuatu)
+| date          = 2009
+| first1        = Patricia
+| last1         = Siméoni
+| location      = [[Port-Vila]]
+| publisher     = Géo-consulte
+| language      = fr
+| isbn          = 978-2953336207
+| ref           = harv
+}}
+* {{cite book
+| title         = Ethnology of Vanuatu: An Early Twentieth Century Study
+| first1        = Felix
+| last1         = Speiser
+| publisher     = Crawford House
+| date          = 1991
+| isbn          = 978-1863330213
+| ref           = harv
+}}
+* {{cite book
+| title         = The Other Side: Ways of Being and Place in Vanuatu
+| series        = Pacific Islands Monograph
+| first1        = John Patrick
+| last1         = Taylor
+| publisher     = UP Hawaii
+| date          = 2008
+| isbn          = 978-0824833022
+| ref           = harv
+}}
+* {{cite book
+| title         = Getting Stoned with Savages: A Trip Through the Islands of Fiji and Vanuatu
+| first1        = J. Maarten
+| last1         = Troost
+| publisher     = Broadway
+| date          = 2006
+| isbn          = 978-0767921992
+| ref           = harv
+}}
+* {{cite book
+| title         = Cavorting With Cannibals: An Exploration of Vanuatu
+| first1        = Rick
+| last1         = Williamson
+| publisher     = Narrative
+| date          = 2004
+| isbn          = 978-1589762367
+| ref           = harv
+}}
+{{refend}}
+
+==External links==
+{{Sister project links|voy=Vanuatu}}
+* {{CIA World Factbook link|nh|Vanuatu}}
+* [https://web.archive.org/web/20080407225654/http://ucblibraries.colorado.edu/govpubs/for/vanuatu.htm Vanuatu] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Oceania/Vanuatu}}
+* {{Wikiatlas|Vanuatu}}
+* [http://www.gov.vu Government of Vanuatu]
+* [http://www.vanuatu.travel/ Vanuatu Tourism Portal, the official website of the Vanuatu National Tourism Office]
+* [http://publish.plantnet-project.org/project/vanuaflora_en Herbarium of Vanuatu (PVNH), which houses a collection of about 20,000 specimens]
+* [http://video.nationalgeographic.com/video/news/150220-volcano-drones-vin Drones sacrificed for spectacular volcano video]
+
+{{Vanuatu topics}}
+{{Navboxes
+|title= Related articles 
+|list=
+{{Melanesia}}
+{{Countries and territories of Oceania}}
+{{La Francophonie}}
+{{Commonwealth of Nations}}
+{{Pacific Islands Forum (PIF)}}
+}}
+{{Authority control}}
+
+[[Category:Vanuatu| ]]
+[[Category:1980 establishments in Oceania]]
+[[Category:Archipelagoes of the Pacific Ocean]]
+[[Category:Commonwealth republics]]
+[[Category:Countries in Melanesia]]
+[[Category:English-speaking countries and territories]]
+[[Category:French-speaking countries and territories]]
+[[Category:Island countries]]
+[[Category:Least developed countries]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:Spanish East Indies]]
+[[Category:States and territories established in 1980]]
