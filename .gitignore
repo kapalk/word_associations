@@ -1,5 +1,7 @@
 venv/*
 
+wa_venv/*
+
 .ipynb_checkpoints/*
 
 .idea/*

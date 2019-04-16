@@ -3,3 +3,5 @@ gensim
 nltk
 pandas
 tqdm
+sklearn
+matplotlib
