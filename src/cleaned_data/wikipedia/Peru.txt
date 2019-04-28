@@ -1,0 +1,543 @@
+{{pp-move|small=yes}}
+{{other uses}}{{Use dmy dates|date=December 2018}}
+{{Coord|10|S|76|W|display=title}}
+{{Infobox country
+| conventional_long_name = Republic of Peru
+| native_name = {{small|{{nobold|{{native name|es|República del Perú}}<br />{{native name|qu|Piruw Republika}}<br />{{native name|ay|Piruw Suyu}}<!--end nobold:-->}}}}
+| common_name = Peru
+| name = 
+| image_flag = Flag of  Peru (state).svg
+| image_coat = Escudo_nacional_del_Perú.svg
+| other_symbol = <div style="padding:0.3em;">[[File:Gran Sello de la República del Perú.svg|100px|link=Great Seal of the State]]</div>{{native phrase|es|[[Coat of arms of Peru#Variants|Gran Sello del Estado]]|nolink=on}}<br /><small>Great Seal of the State</small>
+| other_symbol_type = [[Seal (device)|National seal]]
+| national_motto = <br />''"[[Firme y feliz por la unión]]"'' <small>([[Spanish language|Spanish]])<br />"Firm and Happy for the Union"</small>
+| national_anthem = <br />{{native name|es|"[[National Anthem of Peru|Himno Nacional de Perú]]"|nolink=on}}<br />{{small|"National  Anthem of Peru"}}<br />{{center|[[File:United States Navy Band - Marcha Nacional del Perú.ogg]]}}
+----
+{{vunblist |'''March:'''<br />''"[[Flag of Peru#The Marcha de Banderas|Marcha de Banderas]]"'' <small>(Spanish)<br />"March of Flags"</small><br /><center>[[File:Marcha_de_banderas_(José_Sabas_Libornio_Ibarra,_1895).ogg]]</center>}}
+| image_map = PER_orthographic.svg
+| map_caption = 
+| image_map2 = Peru_-_Location_Map_(2011)_-_PER_-_UNOCHA.svg
+| capital = [[Lima]]
+| coordinates = {{Coord|12|2.6|S|77|1.7|W|type:city}}
+| largest_city = [[Lima]]
+| languages_type = [[Official language]]
+| languages = [[Peruvian Spanish|Spanish]]
+| languages2_type = Co-official languages{{Ref label|a|a}}
+| languages2 = {{unbulleted list
+  | [[Quechuan languages|Quechua]]  
+  | [[Aymara language|Aymara]]  
+  | [[Languages of Peru|Other indigenous languages]]
+}}
+| ethnic_groups = {{Collapsible list
+        |titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+        |title = List of [[Demographics of Peru#Ethnic groups|ethnic groups]]|{{plainlist|
+*  {{percent|13,965,254|23,196,391|2|pad=yes}} [[Mestizo]]
+*  {{percent|5,985,491|23,196,391|2|pad=yes}} [[Indigenous peoples in Peru|Amerindian]]
+*  {{percent|1,366,931|23,196,391|2|pad=yes}} [[Peruvians of European descent|White]]
+*  {{percent|828,841|23,196,391|2|pad=yes}} [[Afro-Peruvian]]
+*  {{percent|36,841|23,196,391|2|pad=yes}} [[Asian Peruvian|Asian]]
+*  {{percent|241,947|23,196,391|2|pad=yes}} Other
+*  {{percent|771,026|23,196,391|2|pad=yes}} No answer
+}}}}
+| ethnic_groups_year = [[2017 Peru Census|2017]]{{efn|name=b|The [[2017 Peru Census|2017 National Census]] included, for the first time, a question of [[Ethnic identity|ethnic self-identification]] that was addressed to people aged 12 and over considering elements such as their ancestry, their customs and their family origin in order to visualize and better understand the cultural reality of the country.}}
+| demonym = Peruvian
+| government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]<ref name="Draft">{{cite journal |last=Shugart |first=Matthew Søberg |author-link= |date=September 2005 |title=Semi-Presidential Systems: Dual Executive and Mixed Authority Patterns |url=http://dss.ucsd.edu/~mshugart/semi-presidentialism.pdf |dead-url=yes |journal=Graduate School of International Relations and Pacific Studies |archive-url=https://web.archive.org/web/20080819200307/http://dss.ucsd.edu/~mshugart/semi-presidentialism.pdf |archive-date=19 August 2008 |access-date=31 August 2017 |postscript=. |ref=harv }}</ref><ref name="Dual">{{cite journal |last=Shugart |first=Matthew Søberg |author-link=Matthew Søberg Shugart |date=December 2005 |title=Semi-Presidential Systems: Dual Executive And Mixed Authority Patterns |journal=French Politics |volume=3 |issue=3 |pages=323–351 |issn=1476-3427 |oclc=6895745903 |doi=10.1057/palgrave.fp.8200087 |doi-access=free |quote=Only in Latin America have all new democracies retained a pure presidential form, except for Peru (president-parliamentary) and Bolivia (assembly-independent). |postscript=. |ref=harv }}</ref>
+| leader_title1 = [[List of Presidents of Peru|President]]
+| leader_name1 = [[Martín Vizcarra]]
+| leader_title2 = [[Vice President of Peru|Vice President]]
+| leader_name2 = [[Mercedes Aráoz]]
+| leader_title4 = [[Prime Minister of Peru|Prime Minister]]
+| leader_name4 = [[Salvador del Solar]]
+| legislature = [[Congress of the Republic of Peru|Congress of the Republic]]
+| sovereignty_type = [[Peruvian War of Independence|Independence]]
+| sovereignty_note = from the [[History of Spain (1814-1873)|Kingdom of Spain]]
+| established_event1 = [[Peruvian War of Independence|Declared]]
+| established_date1 = 28 July 1821
+| established_event2 = [[Battle of Ayacucho|Consolidated]]
+| established_date2 = 9 December 1824
+| established_event3 = Recognized
+| established_date3 = 14 August 1879
+| area_km2 = 1,285,216
+| area_rank = 19th
+| area_sq_mi = 496,225 <!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water = 0.41 <!-- CIA World Factbook -->
+| population_estimate = 32,495,510<ref>{{cite web |url=https://www.inei.gob.pe/media/principales_indicadores/libro_1.pdf|title=Perú: Estimaciones y Proyecciones de Población Total, por Años Calendario y Edades Simples, 1950–2050|publisher=National Institute of Statistics and Informatics|language=Spanish}}</ref>
+| population_census = 31,237,385
+| population_estimate_year = 2019
+| population_estimate_rank = 43rd
+| population_census_year = 2017
+| population_density_km2 = 23 <!--UN World Population Prospects-->
+| population_density_sq_mi = 57 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 198th
+| GDP_PPP = $458.389&nbsp;billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=36&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=293&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|title=Peru |publisher=International Monetary Fund}}</ref>
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 36th
+| GDP_PPP_per_capita = $14,252<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 85th
+| GDP_nominal = $239.218&nbsp;billion<ref name=imf2/>
+| GDP_nominal_year = 2019
+| GDP_nominal_rank = 41nd
+| GDP_nominal_per_capita = $7,118<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 80th
+| Gini = 43.8 <!--number only-->
+| Gini_year = 2016
+| Gini_change = increase <!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=PE |title=Gini Index |publisher=[[World Bank]] |access-date=5 December 2017}}</ref>
+| Gini_rank = 
+| HDI = 0.750 <!-- number only -->
+| HDI_year = 2017 <!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change = increase <!-- increase/decrease/steady -->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 89th
+| currency = [[Peruvian sol|Sol]]
+| currency_code = PEN
+| time_zone = [[Time in Peru|PET]]
+| utc_offset = −5
+| date_format = dd.mm.yyyy ([[Common Era|CE]])
+| drives_on = right
+| calling_code = [[+51]]
+| iso3166code = PE
+| cctld = [[.pe]]
+| religion = {{Collapsible list
+        |titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+        |title = List of [[Religion in Peru|religions]]|{{plainlist|
+*  {{percent|17,635,339|23,196,391|2|pad=yes}} [[Roman Catholicism|Roman Catholic]]
+*  {{percent|4,286,541|23,196,391|2|pad=yes}} [[Protestantism|Protestant]]
+* —{{percent|3,264,819|23,196,391|2|pad=yes}} [[Evangelicalism|Evangelical]]
+*  —{{percent|381,031|23,196,391|2|pad=yes}} [[Nondenominational Christianity|Non-denominational Christian]]
+*  —{{percent|353,430|23,196,391|2|pad=yes}} [[Adventism|Adventist]]
+*  —{{percent|173,602|23,196,391|2|pad=yes}} [[Jehovah's Witnesses|Jehovah's Witness]]
+* —{{percent|113,659|23,196,391|2|pad=yes}} [[Mormonism|Mormon]]
+*  {{percent|1,180,361|23,196,391|2|pad=yes}} [[Irreligion|Non-religious]]
+*  {{percent|94,150|23,196,391|2|pad=yes}} Others
+}}}}
+| religion_year = [[2017 Peru Census|2017]]{{efn|name=c| The question about [[religion]] included in the [[2017 Peru Census|2017 National Census]] was addressed to people aged 12 and over.}}
+}}
+
+'''Peru''' ({{IPAc-en|audio=en-us-Peru.ogg|p|ə|ˈ|r|uː}}; {{lang-es|link=no|Perú}} {{IPA-es|peˈɾu|}}; {{lang-qu|Piruw Republika}} {{IPA-qu|pʰɪɾʊw|}};<ref>Quechua name used by government of Peru is ''Perú'' (see Quechua-language version of Peru Parliament [http://www.congreso.gob.pe/_quechua/index.htm website] {{webarchive|url=https://web.archive.org/web/20100730230845/http://www.congreso.gob.pe/_quechua/index.htm |date=30 July 2010 }} and Quechua-language version of Peru Constitution [https://www.webcitation.org/5t0I85Zv3?url=http://www.congreso.gob.pe/_quechua/Constitucion.pdf) but common Quechua name is ''Piruw''</ref> {{lang-ay|Piruw Suyu}} {{IPA-all|pɪɾʊw|}}), officially the '''Republic of Peru''' ({{Audio-es|República del Perú|ES-pe - República del Perú.ogg}}),<!-- {{IPA-es|reˈpuβlika ðel peˈɾu|}} --> is a country in western [[South America]]. It is bordered in the north by [[Ecuador]] and [[Colombia]], in the east by [[Brazil]], in the southeast by [[Bolivia]], in the south by [[Chile]], and in the west by the [[Pacific Ocean]]. Peru is a [[megadiverse country]] with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the [[Andes mountains]] vertically extending from the north to the southeast of the country to the tropical [[Amazon Basin]] rainforest in the east with the [[Amazon river]].<ref>{{cite web|url=http://www.sernanp.gob.pe/sernanp/archivos/imagenes/vida/Peru-%20Pais%20Megadiverso.pdf |title=Perú: País megadiverso |trans-title=Peru: Megadiverse country |publisher=Servicio Nacional de Áreas Naturales Protegidas |language=Spanish  |format=PDF |archive-url=https://web.archive.org/web/20140622152015/http://www.sernanp.gob.pe/sernanp/archivos/imagenes/vida/Peru-%20Pais%20Megadiverso.pdf |archive-date=22 June 2014}}</ref>
+
+[[Pre-Columbian Peru|Peruvian territory]] was home to several [[Ancient Peru|ancient cultures]].  Ranging from the [[Norte Chico civilization]] in the 32nd century BC, the oldest civilization in the Americas and one of the five [[cradles of civilization]], to the [[Inca Empire]], the largest state in [[pre-Columbian]] America, the territory now including Peru has one of the longest histories of civilization of any country, tracing its heritage back to the 4th millennia BCE. 
+
+The [[Spanish Empire]] conquered the region in the 16th century and [[Viceroyalty of Peru|established a viceroyalty]] that encompassed most of its South American colonies, with its capital in [[Lima]]. Peru formally proclaimed independence in 1821, and following the military campaigns of [[José de San Martín]] and [[Simón Bolívar]], and the decisive [[battle of Ayacucho]], Peru [[Peruvian War of Independence|secured independence in 1824]]. In the ensuing years, the country enjoyed relative [[Guano Era|economic and political stability]], which ended shortly before the [[War of the Pacific]] with Chile. Throughout the 20th century, Peru endured armed territorial disputes, coups, social unrest, and [[Internal conflict in Peru|internal conflicts]], as well as periods of stability and economic upswing. [[Alberto Fujimori]] was elected to the presidency in 1990; his government was credited with economically stabilizing Peru and successfully ending the [[Shining Path]] insurgency, though he was widely accused of [[human rights violations]] and suppression of political dissent. Fujimori left the presidency in 2000 and was charged with human rights violations and imprisoned until his pardon by President [[Pedro Pablo Kuczynski]] in 2017. Even after the president's regime, Fujimori's followers, called ''Fujimoristas'', have caused political turmoil for any opposing faction in power, even causing Pedro Pablo Kuczynski to resign in March 2018.
+
+The [[sovereign state]] of Peru is a [[Representative democracy|representative democratic]] republic divided into [[Administrative divisions of Peru|25 regions]]. It is classified as an [[emerging market]]<ref>{{cite web |title=World Economic and Financial Surveys, World Economic Outlook October 2015 |url=http://www.imf.org/external/pubs/ft/weo/2015/02/pdf/text.pdf |website=www.imf.org}}</ref> with a high level of [[Human development index|human development]]<ref name="UNDP"/> and an upper middle income level<ref name="WBdata"/> with a poverty rate around 19 percent.<ref name="WBoverview">{{cite web |url=http://www.worldbank.org/en/country/peru/overview |title=Peru Overview |publisher=[[World Bank]] |access-date=17 April 2017}}</ref> It is one of the region's most prosperous economies with an average growth rate of 5.9%<ref name="WBoverview"/> and it has one of the world's fastest industrial growth rates at an average of 9.6%.<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2089.html#pe |title=Peru |work=The World Factbook |publisher=Central Intelligence Agency}}</ref> Its main economic activities include mining, manufacturing, agriculture and fishing; along with other growing sectors such as telecommunications and [[biotechnology]].<ref>{{cite web |url=http://biocanperu.minam.gob.pe/ciisbPeru/wp-content/uploads/2014/11/2-MD-AQP-Biotecnologia-moderna-y-bioseg.pdf |title=Módulo de capacitación en recursos genéticos y bioseguridad |trans-title=Training module on genetic resources and biosafety |publisher=[[Ministry of Environment (Peru)|Ministerio de Ambiente de la República de Perú]] |author=David E. Castro Garro |language=Spanish |format=PDF |archive-url=https://web.archive.org/web/20180424072625/http://biocanperu.minam.gob.pe/ciisbPeru/wp-content/uploads/2014/11/2-MD-AQP-Biotecnologia-moderna-y-bioseg.pdf |archive-date=24 April 2018}}</ref> The country forms part of [[The Pacific Pumas]], a political and economic grouping of countries along Latin America's Pacific coast that share common trends of positive growth, stable macroeconomic foundations, improved governance and an openness to global integration. Peru ranks high in [[Freedom in the world|social freedom]];<ref>[https://freedomhouse.org/sites/default/files/FH_FIW_2017_Report_Final.pdf "Freedom in the World 2017 – Populists and Autocrats: The Dual Threat to Global Democracy"] by [[Freedom House]], 31 January 2017</ref> it is an active member of the [[Asia-Pacific Economic Cooperation]], the [[Pacific Alliance]], the [[Trans-Pacific Partnership]] and the [[World Trade Organization]]; and is considered as a [[middle power]].<ref>{{cite book |last1=McKercher|first1=B. J. C. |title=Routledge Handbook of Diplomacy and Statecraft |date=2012 |publisher=Routledge|isbn=9781136664366|url=https://books.google.com.pe/books?id=EtCoAgAAQBAJ |language=en|quote=a Middle Power like Peru lack the diplomatic and other resources...}}</ref>
+
+Peru has a population of 32&nbsp;million,<ref name="INEI est"/> which includes [[Indigenous Peoples in Peru|Amerindians]], [[White Latin American|Europeans]], [[African Latin American|Africans]] and [[Asian Latin American|Asians]]. The main spoken language is Spanish, although a significant number of Peruvians speak [[Quechua languages|Quechua]] or other [[Languages of Peru|native languages]]. This mixture of cultural traditions has resulted in a wide diversity of expressions in fields such as art, cuisine, literature, and music.
+
+{{TOC limit|3}}
+
+== Etymology ==
+The name of the country may be derived from ''Birú'', the name of a local ruler who lived near the [[Bay of San Miguel]], [[Panama City]], in the early 16th century.<ref>Porras Barrenechea, Raúl. ''El nombre del Perú''. Lima: Talleres Gráficos P.L. Villanueva, 1968, p. 83.</ref> When his possessions were visited by Spanish explorers in 1522, they were the southernmost part of the New World yet known to Europeans.<ref>Raúl Porras Barrenechea, ''El nombre del Perú'', p. 84.</ref> Thus, when [[Francisco Pizarro]] explored the regions farther south, they came to be designated ''Birú'' or ''Perú''.<ref>Raúl Porras Barrenechea, ''El nombre del Perú'', p. 86.</ref>
+
+An alternative history is provided by the contemporary writer [[Inca Garcilaso de la Vega]], son of an Inca princess and a conquistador. He said the name ''Birú'' was that of a common Indian happened upon by the crew of a ship on an exploratory mission for governor [[Pedro Arias de Ávila]], and went on to relate more instances of misunderstandings due to the lack of a common language.<ref>Vega, Garcilasco, ''Commentarios Reales de los Incas'', Editorial Mantaro, Lima, ed. 1998. pp. 14–15. First published in Lisbon in 1609.</ref>
+
+The [[Spanish Empire|Spanish Crown]] gave the name legal status with the 1529 ''[[Francisco Pizarro#Capitulación de Toledo|Capitulación de Toledo]]'', which designated the newly encountered [[Inca Empire]] as the province of Peru.<ref>Raúl Porras Barrenechea, ''El nombre del Perú'', p. 87.</ref> Under Spanish rule, the country adopted the denomination [[Viceroyalty of Peru]], which became Republic of Peru after [[Peruvian War of Independence|independence]].
+
+== History ==
+{{main|History of Peru}}
+{{see also|Cultural periods of Peru|Agricultural history of Peru|Economic history of Peru }}
+
+===Prehistory and pre-Columbian period===
+{{main|Ancient Peru|Pre-Columbian Peru}}
+[[File:Nazca colibri.jpg|alt=|left|thumb|The Hummingbird of the [[Nazca Lines]]]]
+
+The earliest evidences of human presence in Peruvian territory have been dated to approximately 9,000 [[Common Era|BC]].<ref name="Dillehay" /> Andean societies were based on agriculture, using techniques such as [[irrigation]] and [[Terrace (agriculture)|terracing]]; [[camelid]] husbandry and fishing were also important. Organization relied on [[reciprocity (cultural anthropology)|reciprocity]] and [[redistribution (cultural anthropology)|redistribution]] because these societies had no notion of market or money.<ref name="Mayer" /> The oldest known complex society in Peru, the [[Norte Chico civilization]], flourished along the coast of the Pacific Ocean between 3,000 and 1,800 BC.<ref name="Haas" /> These early developments were followed by archaeological cultures that developed mostly around the coastal and Andean regions throughout Peru. The [[Cupisnique]] culture which flourished from around 1000 to 200 BC<ref>{{cite journal|doi=10.2307/971715|jstor=971715|title=Archaism or Tradition?: The Decapitation Theme in Cupisnique and Moche Iconography|author=Cordy-Collins, Alana |volume =3|issue =3|date= 1992|pages= 206–220|journal=Latin American Antiquity}}</ref> along what is now Peru's Pacific Coast was an example of early pre-Incan culture.
+[[File:Moche portrait ceramic Quai Branly 71.1930.19.162 n2.jpg|thumb|upright|A [[Moche culture|Moche]] ceramic vessel from the 5th century depicting a man's head.]]
+The [[Chavín culture]] that developed from 1500 to 300 BC was probably more of a religious than a political phenomenon, with their religious centre in [[Chavín de Huantar]].<ref>UNESCO [http://whc.unesco.org/en/list/330 Chavin (Archaeological Site)] {{webarchive |url=https://web.archive.org/web/20160508102511/http://whc.unesco.org/en/list/330 |date=8 May 2016 }}. Retrieved 27 July 2014</ref> After the decline of the Chavin culture around the beginning of the 1st century AD, a series of localized and specialized cultures rose and fell, both on the coast and in the highlands, during the next thousand years. On the coast, these included the civilizations of the [[Paracas culture|Paracas]], [[Nazca culture|Nazca]], [[Wari culture|Wari]], and the more outstanding [[Chimú culture|Chimu]] and [[Mochica Culture|Mochica]]. The Mochica, who reached their apogee in the first millennium AD, were renowned for their irrigation system which fertilized their arid terrain, their sophisticated ceramic pottery, their lofty buildings, and clever metalwork.  The Chimu were the great city builders of pre-Inca civilization; as loose confederation of cities scattered along the coast of northern Peru and southern Ecuador, the Chimu flourished from about 1140 to 1450. Their capital was at [[Chan Chan]]  outside of modern-day [[Trujillo, Peru|Trujillo]]. In the highlands, both the [[Tiwanaku|Tiahuanaco]] culture, near [[Lake Titicaca]] in both Peru and [[Bolivia]], and the [[Wari culture]], near the present-day city of [[Ayacucho]], developed large urban settlements and wide-ranging state systems between 500 and 1000 AD.<ref>[http://countrystudies.us/peru/2.htm Pre-Inca Cultures] {{webarchive |url=https://web.archive.org/web/20161103012150/http://countrystudies.us/peru/2.htm |date=3 November 2016 }}. countrystudies.us.</ref>
+
+In the 15th century, the [[Incas]] emerged as a powerful state which, in the span of a century, formed the [[Inca empire|largest empire]] in [[pre-Columbian America]] with their capital in [[Cusco]].<ref name=Altroy/> The Incas of Cusco originally represented one of the small and relatively minor ethnic groups, the [[Quechua people|Quechuas]]. Gradually, as early as the thirteenth century, they began to expand and incorporate their neighbors. Inca expansion was slow until about the middle of the fifteenth century, when the pace of conquest began to accelerate, particularly under the rule of the great emperor [[Pachacuti]]. Under his rule and that of his son, [[Topa Inca Yupanqui]], the Incas came to control most of the Andean region, with a population of 9 to 16 million inhabitants under their rule. Pachacuti also promulgated a comprehensive code of laws to govern his far-flung empire, while consolidating his absolute temporal and spiritual authority as the God of the Sun who ruled from a magnificently rebuilt Cusco.<ref>Peru [http://countrystudies.us/peru/3.htm The Incas] {{webarchive |url=https://web.archive.org/web/20161103012145/http://countrystudies.us/peru/3.htm |date=3 November 2016 }}</ref> From 1438 to 1533, the Incas used a variety of methods, from conquest to peaceful assimilation, to incorporate a large portion of western South America, centered on the [[Andes|Andean]] mountain ranges, from southern [[Colombia]] to northern [[Chile]], between the Pacific Ocean in the west and the Amazon rainforest in the east. The official language of the empire was [[Quechua languages|Quechua]], although hundreds of local languages and dialects were spoken. The Inca referred to their empire as ''Tawantinsuyu'' which can be translated as "The Four Regions" or "The Four United Provinces." Many local forms of worship persisted in the empire, most of them concerning local sacred ''[[Huaca]]s'', but the Inca leadership encouraged the worship of [[Inti]], the sun god and imposed its sovereignty above other cults such as that of [[Pachamama]].<ref>[http://www.allempires.com/article/index.php?q=inca The Inca – All Empires] {{webarchive |url=https://web.archive.org/web/20120120164828/http://www.allempires.com/article/index.php?q=inca |date=20 January 2012 }}</ref> The Incas considered their King, the [[Sapa Inca]], to be the "[[Sun worship|child of the sun]]."<ref>[https://web.archive.org/web/20091110041802/http://www.nflc.org/Reach/7ca/enCAInca.htm "The Inca"] at the [[Wayback Machine]] (archived 10 November 2009) ''The National Foreign Language Center at the University of Maryland.'' 29 May 2007. Retrieved 27 July 2014.</ref>
+
+===Conquest and colonial period===
+{{main|Spanish conquest of Peru|Viceroyalty of Peru}}Atahualpa (also Atahuallpa), the last [[Sapa Inca]] became emperor when he defeated and executed his older half-brother [[Huáscar]] in a civil war sparked by the death of their father, Inca Huayna Capac. In December 1532, a party of ''[[conquistador]]s'' led by [[Francisco Pizarro]] defeated and captured the Inca Emperor Atahualpa  in the [[Battle of Cajamarca]]. The Spanish conquest of the Inca Empire was one of the most important campaigns in the [[Spanish colonization of the Americas]]. After years of preliminary exploration and military conflicts, it was the first step in a long campaign that took decades of fighting but ended in Spanish victory and colonization of the region known as the [[Viceroyalty of Peru]] with its capital at [[Lima]], which became known as "The City of Kings". The conquest of the Inca Empire led to spin-off campaigns throughout the viceroyalty as well as expeditions towards the Amazon Basin as in the case of Spanish efforts to quell Amerindian resistance. The last Inca resistance was suppressed when the Spaniards annihilated the [[Neo-Inca State]] in [[Vilcabamba, Peru|Vilcabamba]] in 1572.
+[[File:Machu Picchu, Peru.jpg|thumb|The citadel of [[Machu Picchu]], an iconic symbol of pre-Columbian Peru.]]
+The indigenous population dramatically collapsed due to exploitation, socioeconomic change and epidemic diseases introduced by the Spanish.<ref>{{cite journal|doi=10.1111/j.1467-8306.1992.tb01968.x|jstor=2563354|author=Lovell, W. George |year=1992|title='Heavy Shadows and Black Night': Disease and Depopulation in Colonial Spanish America|journal= Annals of the Association of American Geographers |volume=82 |issue=3|pages= 426–443}}</ref> Viceroy [[Francisco de Toledo]] reorganized the country in the 1570s with gold and silver mining as its main economic activity and Amerindian [[Mita (Inca)|forced labor]] as its primary workforce.<ref name="Bakewell" /> With the discovery of the great silver and gold lodes at [[Potosí]] (present-day Bolivia) and [[Huancavelica]], the viceroyalty flourished as an important provider of mineral resources. Peruvian [[bullion]] provided revenue for the Spanish Crown and fueled a complex trade network that extended as far as Europe and the [[Philippines]].<ref name="Suarez" /> Because of lack of available work force, African slaves were added to the labor population. The expansion of a colonial administrative apparatus and bureaucracy paralleled the economic reorganization. With the conquest started the spread of Christianity in South America; most people were forcefully converted to Catholicism, taking only a generation to convert the population. They built churches in every city and replaced some of the Inca temples with churches, such as the [[Coricancha]] in the city of Cusco. The church employed the [[Inquisition]], making use of torture to ensure that newly converted Catholics did not stray to other religions or beliefs. Peruvian Catholicism follows the [[syncretism]] found in many Latin American countries, in which religious native rituals have been integrated with Christian celebrations.<ref name="discover-peru.org">Conquest and Colony of Peru.{{cite web|url=http://www.discover-peru.org/conquest-and-colony-of-peru/ |title=Archived copy |accessdate=28 July 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20160818164503/http://www.discover-peru.org/conquest-and-colony-of-peru/ |archivedate=18 August 2016  }}. Retrieved 28 July 2014</ref> In this endeavor, the church came to play an important role in the acculturation of the natives, drawing them into the cultural orbit of the Spanish settlers.
+[[File:Exploring Cusco…Plaza de armas, Centro Historico (8443408703).jpg|left|thumb|[[Cusco]], capital of the Incan Empire.]]
+By the 18th century, declining silver production and economic diversification greatly diminished royal income.<ref name="Andrien" /> In response, the Crown enacted the [[Bourbon Reforms]], a series of edicts that increased taxes and partitioned the Viceroyalty.<ref name="Burkholder" /> The new laws provoked [[Túpac Amaru II]]'s rebellion and other revolts, all of which were suppressed.<ref name="Phelan" /> As a result of these and other changes, the Spaniards and their [[Creole peoples|creole]] successors came to monopolize control over the land, seizing many of the best lands abandoned by the massive native depopulation. However, the Spanish did not resist the [[Portuguese colonization of the Americas|Portuguese expansion of Brazil]] across the meridian. The [[Treaty of Tordesillas]] was rendered meaningless between 1580 and 1640 while [[Iberian Union|Spain controlled Portugal]]. The need to ease communication and trade with Spain led to the split of the viceroyalty and the creation of new viceroyalties of [[Viceroyalty of New Granada|New Granada]] and [[Viceroyalty of the Río de la Plata|Rio de la Plata]] at the expense of the territories that formed the viceroyalty of Peru; this reduced the power, prominence and importance of Lima as the viceroyal capital and shifted the lucrative [[Andean]] trade to [[Buenos Aires]] and [[Bogotá]], while the fall of the mining and textile production accelerated the progressive decay of the Viceroyalty of Peru.
+
+[[File:Basílica Catedral Metropolitana de Lima.jpg|thumb|Main façade of the [[Cathedral of Lima]] and the [[Archbishop's Palace of Lima|Archbishop's palace]].|alt=]]
+Eventually, the viceroyalty would dissolve, as with much of the Spanish empire, when challenged by national independence movements at the beginning of the nineteenth century. These movements led to the formation of the majority of modern-day countries of South America in the territories that at one point or another had constituted the Viceroyalty of Peru.<ref>Peru [http://countrystudies.us/peru/  Peru] {{webarchive |url=https://web.archive.org/web/20161103011538/http://countrystudies.us/peru/ |date=3 November 2016 }}. Retrieved 27 July 2014.</ref> The conquest and colony brought a mix of cultures and ethnicities that did not exist before the Spanish conquered the Peruvian territory. Even though many of the Inca traditions were lost or diluted, new customs, traditions and knowledge were added, creating a rich mixed Peruvian culture.<ref name="discover-peru.org"/> Two of the most important indigenous rebellions against the Spanish were that of [[Juan Santos Atahualpa]] in 1742, and Rebellion of [[Túpac Amaru II]] in 1780 around the highlands near Cuzco.<ref>{{cite web |title=Túpac Amaru II |url=https://www.britannica.com/biography/Tupac-Amaru-II |publisher=Encyclopædia Britannica}}</ref>
+
+===Independence===<!--4 paragraphs with no citations-->
+{{main|Peruvian War of Independence}}
+[[File:BattleofAyacucho.jpg|thumb|upright=0.95|right|The [[Battle of Ayacucho]] was decisive in ensuring Peruvian independence.]]
+In the early 19th century, while most [[South America|South American nations]] were swept by [[South American wars of independence|wars of independence]], Peru remained a [[Royalist (Spanish American Revolution)|royalist]] stronghold. As the elite vacillated between emancipation and loyalty to the Spanish Monarchy, [[independence of Peru|independence]] was achieved only after the occupation by military campaigns of [[José de San Martín]] and [[Simón Bolívar]].
+
+The economic crises, the loss of power of Spain in Europe, the war of independence in North America and native uprisings all contributed to a favorable climate to the development of emancipating ideas among the [[Criollo people|''criollo'']] population in South America. However, the criollo oligarchy in Peru enjoyed privileges and remained loyal to the Spanish Crown. The liberation movement started in [[Argentina]] where autonomous juntas were created as a result of the loss of authority of the Spanish government over its colonies.
+
+After fighting for the independence of the Viceroyalty of Rio de la Plata, [[José de San Martín]] created the [[Army of the Andes]] and crossed the Andes in 21 days, one of the greatest accomplishments in military history. Once in Chile he joined forces with Chilean army General [[Bernardo O'Higgins]] and liberated the country in the battles of [[Battle of Chacabuco|Chacabuco]] and [[Battle of Maipú|Maipú]] in 1818.<ref>Scheina, 2003, ''Latin America's Wars: The Age of the Caudillo, 1791–1899'', p. 58.</ref> On 7 September 1820, a fleet of eight warships arrived in the port of [[Paracas (municipality)|Paracas]] under the command of general Jose de San Martin and [[Thomas Cochrane, 10th Earl of Dundonald|Thomas Cochrane]], who was serving in the Chilean Navy. Immediately on 26 October they took control of the town of [[Pisco, Peru|Pisco]]. San Martin settled in [[Huacho]] on 12 November, where he established his headquarters while Cochrane sailed north blockading the port of Callao in Lima. At the same time in the north, [[Guayaquil]] was occupied by rebel forces under the command of Gregorio Escobedo. Because Peru was the stronghold of the Spanish government in South America, San Martin's strategy to liberate Peru was to use diplomacy. He sent representatives to Lima urging the [[Viceroy]] that Peru be granted independence, however all negotiations proved unsuccessful.
+
+[[File:Congreso_1822.jpg|link=https://en.wikipedia.org/wiki/File:Congreso_1822.jpg|thumb|left|[[Constituent Congress of Peru, 1822|First Constituent Congress of Peru]] in the chapel of the [[National University of San Marcos]] on 22 September 1822]]
+
+The Viceroy of Peru, [[Joaquín de la Pezuela, 1st Marquess of Viluma|Joaquín de la Pazuela]] named [[José de la Serna e Hinojosa|Jose de la Serna]] commander-in-chief of the loyalist army to protect Lima from the threatened invasion of San Martin. On 29 January, de la Serna organized a coup against de la Pazuela which was recognized by Spain and he was named Viceroy of Peru. This internal power struggle contributed to the success of the liberating army. In order to avoid a military confrontation San Martin met the newly appointed viceroy, Jose de la Serna, and proposed to create a constitutional monarchy, a proposal that was turned down. De la Serna abandoned the city and on 12 July 1821 San Martin occupied Lima and declared Peruvian independence on 28 July 1821. He created the first Peruvian flag. [[Alto Peru]] (Bolivia) remained as a Spanish stronghold until the army of [[Simón Bolívar]] liberated it three years later. Jose de San Martin was declared Protector of Peru. Peruvian national identity was forged during this period, as Bolivarian projects for a [[Congress of Panama|Latin American Confederation]] floundered and a [[Peru-Bolivian Confederation|union with Bolivia]] proved ephemeral.<ref>Gootenberg (1991) p. 12.</ref>[[File:La Independencia del Perú.jpg|thumb|upright=0.95|San Martín proclaiming the independence of Peru. Painting by [[Juan Lepiani]].|alt=]]Simon Bolivar launched his campaign from the north liberating the Viceroyalty of New Granada in the Battles of [[Battle of Carabobo|Carabobo]] in 1821 and [[Battle of Pichincha|Pichincha]] a year later. In July 1822 Bolivar and San Martin gathered in the [[Guayaquil Conference]]. Bolivar was left in charge of fully liberating Peru while San Martin retired from politics after the first parliament was assembled. The newly founded [[Congress of the Republic of Peru|Peruvian Congress]] named Bolivar dictator of Peru giving him the power to organize the military.
+
+With the help of [[Antonio José de Sucre]] they defeated the larger Spanish army in the [[Battle of Junín]] on 6 August 1824 and the decisive [[Battle of Ayacucho]] on 9 December of the same year, consolidating the independence of Peru and Alto Peru. Alto Peru was later established as [[Bolivia]]. During the early years of the Republic, endemic struggles for power between military leaders caused political instability.<ref>Discover Peru (Peru cultural society). [http://www.discover-peru.org/peru-history-independence/ War of Independence] {{webarchive |url=https://web.archive.org/web/20161021143330/http://www.discover-peru.org/peru-history-independence/ |date=21 October 2016 }}. Retrieved 28 July 2014</ref>
+
+===19th century===
+[[File:Angamos2.jpg|thumb|upright=1.15|The [[Battle of Angamos]], during the [[War of the Pacific]].|left|alt=]]
+
+From the 1840s to the 1860s, Peru enjoyed [[Guano Era (Peru)|a period of stability]] under the presidency of [[Ramón Castilla]], through increased state revenues from [[guano]] exports.<ref>Gootenberg (1993) pp. 5–6.</ref> However, by the 1870s, these resources had been depleted, the country was heavily indebted, and political in-fighting was again on the rise.<ref>Gootenberg (1993) p. 9.</ref> Peru embarked on a railroad-building program that helped but also bankrupted the country.
+
+In 1879, Peru entered the [[War of the Pacific]] which lasted until 1884. Bolivia invoked its alliance with Peru against Chile. The [[Peruvian Government]] tried to mediate the dispute by sending a diplomatic team to negotiate with the Chilean government, but the committee concluded that war was inevitable. Chile declared war on 5 April 1879. Almost five years of war ended with the loss of the [[Tarapacá Department (Peru)|department of Tarapacá]] and the provinces of [[Tacna Province|Tacna]] and [[Arica Province (Peru)|Arica]], in the Atacama region. Two outstanding military leaders throughout the war were [[Francisco Bolognesi]] and [[Miguel Grau Seminario|Miguel Grau]]. Originally Chile committed to a referendum for the cities of Arica and Tacna to be held years later, in order to self determine their national affiliation. However, Chile refused to apply the Treaty, and neither of the countries could determine the statutory framework. After the War of the Pacific, an extraordinary effort of rebuilding began. The government started to initiate a number of social and economic reforms in order to recover from the damage of the war. Political stability was achieved only in the early 1900s.
+
+=== 20th century ===
+[[File:Protocolo de Río.jpg|thumb|The signing of the [[Rio Protocol]] in January 1942]]
+Internal struggles after the war were followed by a period of stability under the [[Civilista Party]], which lasted until the onset of the authoritarian regime of [[Augusto B. Leguía]]. The [[Great Depression]] caused the downfall of Leguía, renewed political turmoil, and the emergence of the [[American Popular Revolutionary Alliance]] (APRA).<ref>Klarén, Peter (2000). ''Peru: society and nationhood in the Andes''. New York: Oxford University Press, pp. 262–276, {{ISBN|0195069285}}.</ref> The rivalry between this organization and a coalition of the elite and the military defined Peruvian politics for the following three decades. A final peace treaty in 1929, signed between Peru and Chile called the [[Treaty of Lima]], returned [[Tacna]] to Peru. Between 1932 and 1933, Peru was engulfed in a [[Leticia Incident|year-long war with Colombia]] over a territorial dispute involving the [[Amazonas department]] and its capital [[Leticia, Amazonas|Leticia]].
+
+Later, in 1941, Peru and [[Ecuador]] fought the [[Ecuadorian–Peruvian War]], after which the [[Rio Protocol]] sought to formalize the boundary between those two countries. In a military coup on 29 October 1948, Gen. [[Manuel A. Odría]] became president. Odría's presidency was known as the ''Ochenio''. Momentarily pleasing the oligarchy and all others on the right, but followed a [[Populism|populist]] course that won him great favor with the poor and lower classes. A thriving economy allowed him to indulge in expensive but crowd-pleasing social policies. At the same time, however, [[civil rights]] were severely restricted and [[political corruption|corruption]] was rampant throughout his régime. Odría was succeeded by [[Manuel Prado Ugarteche]]. However, widespread allegations of fraud prompted the Peruvian military to depose Prado and install a military junta, led by [[Ricardo Pérez Godoy]]. Godoy ran a short transitional government and held new elections in 1963, which were won by [[Fernando Belaúnde Terry]] who assumed presidency until 1968. Belaúnde was recognized for his commitment to the [[democracy|democratic]] process. In 1968, the Armed Forces, led by General [[Juan Velasco Alvarado]], staged a coup against Belaúnde. Alvarado's regime undertook radical reforms aimed at fostering development, but failed to gain widespread support. In 1975, General [[Francisco Morales-Bermúdez]] forcefully replaced Velasco, paralyzed reforms, and oversaw the reestablishment of democracy.
+
+[[File:Zonas donde se ha registrado actividad de Sendero Luminoso.png|thumb|left|Areas where the [[Shining Path]] was active in Peru]]
+
+Peru engaged in a brief successful conflict with Ecuador in the [[Paquisha War]] as a result of territorial dispute between the two countries. After the country experienced [[chronic inflation]], the Peruvian currency, the [[Peruvian sol (1863–1985)|sol]], was replaced by the ''[[Inti (currency)|Inti]]'' in mid-1985, which itself was replaced by the [[Peruvian nuevo sol|nuevo sol]] in July 1991, at which time the new sol had a cumulative value of one billion old soles. The per capita annual income of Peruvians fell to $720 (below the level of 1960) and Peru's [[Gross Domestic Product|GDP]] dropped 20% at which national reserves were a negative $900 million. The economic turbulence of the time acerbated social tensions in Peru and partly contributed to the rise of violent rebel rural insurgent movements, like [[Shining Path|Sendero Luminoso]] (Shining Path) and [[Túpac Amaru Revolutionary Movement|MRTA]], which caused [[Internal conflict in Peru|great havoc]] throughout the country. Concerned about the economy, the increasing terrorist threat from Sendero Luminoso and MRTA, and allegations of official corruption, [[Alberto Fujimori]] assumed presidency in 1990. Fujimori implemented drastic measures that caused inflation to drop from 7,650% in 1990 to 139% in 1991.{{fact|date=February 2019}}
+
+Faced with opposition to his reform efforts, Fujimori dissolved Congress in the ''[[auto-golpe]]'' ("self-coup") of 5 April 1992. He then revised the constitution; called new congressional elections; and implemented substantial economic reform, including privatization of numerous state-owned companies, creation of an investment-friendly climate, and sound management of the economy. Fujimori's administration was dogged by insurgent groups, most notably the [[Shining Path|Sendero Luminoso]], who carried out terrorist campaigns across the country throughout the 1980s and 1990s. Fujimori cracked down on the insurgents and was successful in largely quelling them by the late 1990s, but the fight was marred by atrocities committed by both the Peruvian security forces and the insurgents: the [[Barrios Altos massacre]] and [[La Cantuta massacre]] by Government paramilitary groups, and the bombings of [[Tarata bombing|Tarata]] and [[Frecuencia Latina bombing|Frecuencia Latina]] by Sendero Luminoso. Those incidents subsequently came to symbolize the [[Human rights in Peru|human rights]] violations committed in the last years of violence.{{fact|date=February 2019}}
+
+During early 1995, once again Peru and Ecuador clashed in the  [[Cenepa War]],  but in 1998 the governments of both nations signed a peace treaty that clearly demarcated the international boundary between them. In November 2000, Fujimori resigned from office and went into a self-imposed exile, avoiding prosecution for human rights violations and corruption charges by the new Peruvian authorities.<ref name=":0" />
+
+=== 21st century ===
+Since the end of the Fujimori regime, Peru has tried to fight corruption while sustaining economic growth.<ref name=":0">''The Economist'' (17 October 2007), ''[https://web.archive.org/web/20080410185845/http://www.economist.com/research/backgrounders/displaybackgrounder.cfm?bg=709221 Peru].''</ref> In spite of human rights progress since the time of insurgency, many problems are still visible and show the continued marginalization of those who suffered through the violence of the Peruvian conflict.<ref>{{Cite journal
+|last=White
+|first=Gavin David
+|date=2009
+|title=Displacement, decentralisation and reparation in post-conflict Peru
+|url=http://www.fmreview.org/protracted/white.html|journal=Forced Migration Review
+}}</ref> A caretaker government presided over by [[Valentín Paniagua]] took on the responsibility of conducting new presidential and congressional elections. Afterwards [[Alejandro Toledo]] became president in 2001 to 2006.
+
+On 28 July 2006 former president [[Alan García]] became President of Peru after winning the [[Peruvian election, 2006|2006 elections]]. In May 2008, Peru became a member of the [[Union of South American Nations]]. In April 2009 former president [[Alberto Fujimori]] was convicted of human rights violations and [[Alberto Fujimori's arrest and trial|sentenced]] to 25 years in prison for his role in killings and kidnappings by the [[Grupo Colina]] [[death squad]] during his government's battle against leftist guerrillas in the 1990s.<ref>{{Cite news|last=|first=|title=Peru's Fujimori sentenced to 25 years prison|url=https://www.reuters.com/article/bondsNews/idUSN0746237820090407|work=[[Reuters]]|date=7 April 2009}}</ref> On 5 June 2011, [[Ollanta Humala]] was elected President. During his presidency, Prime Minister [[Ana Jara]] and her cabinet were [[Motion of no confidence|successfully censured]], which was the first time in 50 years that a cabinet had been forced to resign from the Peruvian legislature.<ref>{{cite news |author=Staff writer |date=31 March 2015 |title=Peru's Prime Minister Ana Jara deposed over spy row |url=https://www.bbc.com/news/world-latin-america-32129407 |work=BBC |agency=BBC News |access-date=19 August 2017 }}</ref> In 2016, [[Pedro Pablo Kuczynski]] was elected, though his government was short lived as he [[Resignation of Pedro Pablo Kuczynski|resigned]] in 2018 amid various controversies surrounding his administration. Vice president [[Martín Vizcarra]] then assumed office in March 2018 with generally favorable approval ratings.<ref>{{cite news|url=https://www.usnews.com/news/world/articles/2018-04-15/perus-vizcarra-begins-presidency-with-57-pct-approval-rating|title=Peru's Vizcarra Begins Presidency With 57 Pct Approval Rating|date=15 April 2018|work=[[U.S. News & World Report]]|accessdate=16 April 2018}}</ref>
+
+==Government and politics==
+{{main|Politics of Peru}}
+===Government===
+{{main|Government of Peru}}
+Peru is a [[Unitary state|unitary]] [[Semi-presidential system|semi-presidential]] [[representative democracy|representative democratic]] [[republic]] with a [[multi-party system]].<ref name="Draft" /><ref name="Dual" /> Under the current constitution, the President is both [[head of state]] and [[head of government|government]]; he or she is elected for five years and cannot serve consecutive terms.<ref>''Constitución Política del Perú'', Article No. 112.</ref> The President designates the [[Prime Minister of Peru|Prime Minister]] and, on his or her advice, the rest of the [[Council of Ministers of Peru|Council of Ministers]].<ref>''Constitución Política del Perú'', Article No. 122.</ref> The [[Congress of the Republic of Peru|Congress of the Republic]] is [[unicameralism|unicameral]] with 130 members elected for five-year terms.<ref>''Constitución Política del Perú'', Article No. 90.</ref> Bills may be proposed by either the executive or the legislative branch; they become law after being passed by Congress and promulgated by the President.<ref>''Constitución Política del Perú'', Articles No. 107–108.</ref> The judiciary is nominally independent,<ref>''Constitución Política del Perú'', Article No. 146.</ref> though political intervention into judicial matters has been common throughout history and arguably continues in modern day.<ref>Clark, Jeffrey. [https://web.archive.org/web/20070813232240/http://www.humanrightsfirst.org/pubs/descriptions/perubuilding.htm ''Building on quicksand'']. Retrieved 24 July 2007.</ref>
+
+The Peruvian government is [[directly elected]], and voting is [[compulsory voting|compulsory]] for all citizens aged 18 to 70.<ref>''Constitución Política del Perú'', Article No. 31.</ref> Congress is currently composed of [[Popular Force|Fuerza Popular]] (59 seats), [[Peruvians for Change|Peruanos Por el Kambio]] (17 seats), [[Broad Front (Peru)|Frente Amplio]] (10 seats), [[New Peru]] (10 seats),  [[Alliance for Progress (Peru)|Alianza para el Progreso]] (9 seats), [[Popular Action (Peru)|Acción Popular]] (5 seats) and [[American Popular Revolutionary Alliance|APRA]] (5 seats) and 18 not grouped.<ref>{{es icon}} Congreso de la República del Perú, [http://www.congreso.gob.pe/organizacion/grupos.asp ''Grupos Parlamentarios''] {{webarchive |url=https://web.archive.org/web/20071229061528/http://www.congreso.gob.pe/organizacion/grupos.asp |date=29 December 2007 }}. Retrieved 27 August 2011.</ref>
+
+===Law===
+{{Main|Law of Peru}}
+The law of Peru includes the constitution, and a number of codes and decrees.
+
+===Foreign relations===
+{{main|Foreign relations of Peru}}[[File:Representantes_del_Grupo_de_Lima.jpg|link=https://en.wikipedia.org/wiki/File:Representantes_del_Grupo_de_Lima.jpg|thumb|Foreign ministers representing member states of the [[Lima Group]], with Peru taking a leadership role in the process.|alt=]]Peruvian foreign relations have historically been dominated by border conflicts with neighboring countries, most of which were settled during the 20th century.<ref name=John/> Recently,{{when|date=January 2019}} [[Chilean-Peruvian maritime dispute of 2006-2007|Peru disputed its maritime limits with Chile]] in the Pacific Ocean.<ref>BBC News (4 November 2005), [http://news.bbc.co.uk/1/hi/world/americas/4405402.stm ''Peru–Chile border row escalates''] {{webarchive |url=https://web.archive.org/web/20090115142819/http://news.bbc.co.uk/1/hi/world/americas/4405402.stm |date=15 January 2009 }}. Retrieved 16 May 2007.</ref> Peru is an active member of several regional blocs and one of the founders of the [[Andean Community of Nations]]. It is also a participant in international organizations such as the [[Organization of American States]] and the [[United Nations]]. [[Javier Pérez de Cuéllar]] served as [[UN Secretary General]] from 1981 to 1991. Former President Fujimori's tainted re-election to a third term in June 2000 strained Peru's relations with the [[United States]] and with many Latin American and European countries, but relations improved with the installation of an interim government in November 2000 and the inauguration of [[Alejandro Toledo]] in July 2001 after free and fair elections.
+
+Peru is planning full integration into the [[Andean Community of Nations|Andean Free Trade Area]]. In addition, Peru is a standing member of [[APEC]] and the [[World Trade Organization]], and is an active participant in negotiations toward a [[Free Trade Area of the Americas]] (FTAA).
+
+During the [[crisis in Bolivarian Venezuela]], Peru participated in a leading role to help mediate the situation in Venezuela by being active within the [[Lima Group]].
+
+===Military and law enforcement===
+{{main|Peruvian Armed Forces}}
+[[File:Peruvian Navy Ceremony 2016.jpg|thumb|Aircraft and ships of the [[Peruvian Navy]]]]
+The Peruvian Armed Forces are the military services of Peru, comprising independent [[Peruvian Army|Army]], [[Peruvian Navy|Navy]] and [[Peruvian Air Force|Air Force]] components. Their primary mission is to safeguard the independence, sovereignty and territorial integrity of the country. As a secondary mission they participate in economic and social development as well as in [[civil defense]] tasks.<ref>Ministerio de Defensa, ''Libro Blanco de la Defensa Nacional''. Ministerio de Defensa, 2005, 90.</ref> [[Conscription]] was abolished in 1999 and replaced by [[voluntary military service]].<ref>''Ley N° 27178, Ley del Servicio Militar'', Articles No. 29, 42 and 45.</ref> The armed forces are subordinate to the [[Ministry of Defence (Peru)|Ministry of Defense]] and to the President as [[Commander-in-Chief]].
+
+The [[National Police of Peru]] is often classified as a part of the armed forces. Although in fact it has a different organization and a wholly civil mission, its training and activities over more than two decades as an [[anti-terrorist]] force have produced markedly [[military]] characteristics, giving it the appearance of a virtual fourth military service with significant land, sea and air capabilities and approximately 140,000 personnel. The Peruvian armed forces report through the Ministry of Defense, while the [[National Police of Peru]] reports through the Ministry of Interior.{{Image frame|width=300|content= {{Peru Labelled Area Map}} |caption=Clickable map of the regions of Peru|link=File:Scalable Vectorized Adminstrative Map of Perú JMK.SVG|align=left}}
+=== Administrative divisions ===
+{{main|Administrative divisions of Peru}}
+
+Peru is divided into [[Regions of Peru|24 departments]] and the [[Lima Province|Constitutional Province of El Callao]]. Each region has an elected government composed of a president and council that serve four-year terms.<ref>''Ley N° 27867, Ley Orgánica de Gobiernos Regionales'', Article No. 11.</ref> These governments plan regional development, execute public investment projects, promote economic activities, and manage public property.<ref>''Ley N° 27867, Ley Orgánica de Gobiernos Regionales'', Article No. 10.</ref>  The province of Lima is administered by a city council.<ref>''Ley N° 27867, Ley Orgánica de Gobiernos Regionales'', Article No. 66.</ref> The goal of devolving power to regional and municipal governments was among others to improve popular participation. [[NGO]]s played an important role in the [[decentralization]] process and still influence local politics.<ref>{{cite web |title=Mixed Feelings |author1=Monika Huber |author2=Wolfgang Kaiser |publisher=dandc.eu |date=February 2013 |url=http://www.dandc.eu/en/article/perus-ngos-want-government-decentralisation-serve-social-goals-and-public-participation}}</ref>
+
+====Departments====
+{{div col|colwidth=12em}}
+* [[Amazonas Region|Amazonas]]
+* [[Ancash Region|Ancash]]
+* [[Apurímac Region|Apurímac]]
+* [[Arequipa Region|Arequipa]]
+* [[Ayacucho Region|Ayacucho]]
+* [[Cajamarca Region|Cajamarca]]
+* [[Cuzco Region|Cuzco]]
+* [[Huancavelica Region|Huancavelica]]
+* [[Huánuco Region|Huánuco]]
+* [[Ica Region|Ica]]
+* [[Junín Region|Junín]]
+* [[La Libertad Region|La Libertad]]
+* [[Lambayeque Region|Lambayeque]]
+* [[Lima Region]]
+* [[Loreto Region|Loreto]]
+* [[Madre de Dios Region|Madre de Dios]]
+* [[Moquegua Region|Moquegua]]
+* [[Pasco Region|Pasco]]
+* [[Piura Region|Piura]]
+* [[Puno Region|Puno]]
+* [[San Martín Region|San Martín]]
+* [[Tacna Region|Tacna]]
+* [[Tumbes Region|Tumbes]]
+* [[Ucayali Region|Ucayali]]
+{{div col end}}
+
+====Constitutional Province====
+* [[El Callao Province]]
+
+====Metropolitan areas====
+{{See also|List of metropolitan areas of Peru}}
+Several metropolitan areas are defined for Peru – these overlap the district areas, and have limited authority. The largest of them, the [[Lima metropolitan area]], is the seventh-[[List of metropolitan areas in the Americas|largest metropolis in the Americas]].
+
+== Geography ==
+{{main|Geography of Peru}}
+{{Multiple image
+| align = 
+| direction = vertical
+| width = 170
+| image1 = Manu riverbank.jpg
+| caption1 = 
+| image2 = Alpamayo.jpg
+| caption2 = 
+| image3 = Paracas National Reserve. Ica, Peru.jpg
+| caption3 = [[Manú National Park]] in the [[Peruvian Amazon|Amazon]], the mountain peak [[Alpamayo]] and [[Paracas National Reserve]].
+}}
+Peru is located on the central western coast of [[South America]] facing the [[Pacific Ocean]]. It lies wholly in the [[Southern Hemisphere]], its northernmost extreme reaching to 1.8 minutes of latitude or about 3.3 kilometres (2.1 mi) south of the [[equator]], covers {{convert|1285216|km²|sqmi|0|abbr=on}} of western South America. It borders [[Ecuador]] and [[Colombia]] to the north, [[Brazil]] to the east, [[Bolivia]] to the southeast, [[Chile]] to the south, and the Pacific Ocean to the west. The [[Andes]] mountains run parallel to the Pacific Ocean; they define the three regions traditionally used to describe the country geographically.
+
+The ''costa'' (coast), to the west, is a narrow plain, largely arid except for valleys created by seasonal rivers. The ''sierra'' (highlands) is the region of the Andes; it includes the ''[[Altiplano]]'' plateau as well as the highest peak of the country, the {{convert|6768|m|ft|0|abbr=on|adj=on}} [[Huascarán]].<ref>Andes Handbook, [http://www.andeshandbook.cl/eng/default.asp?main=cerro.asp?codigo=54 ''Huascarán'']  {{webarchive|url=https://web.archive.org/web/20161008051103/http://www.andeshandbook.cl/eng/default.asp?main=cerro.asp%3Fcodigo%3D54 |date=8 October 2016 }}. 2 June 2002.</ref> The third region is the ''selva'' (jungle), a wide expanse of flat terrain covered by the [[Amazon rainforest]] that extends east. Almost 60 percent of the country's area is located within this region.<ref>Instituto de Estudios Histórico–Marítimos del Perú, ''El Perú y sus recursos: Atlas geográfico y económico'', p. 16.</ref>The country has fifty-four hydrographic basins, fifty-two of which are small coastal basins that discharge their waters into the Pacific Ocean. The other two are the Amazon basin, which empties into the Atlantic Ocean, and the endorheic basin of Lake Titicaca, both delimited by the Andes mountain range. In the second of these basins, the giant Amazon River is born, which, with its 6872 km, is the longest and mightiest river in the world, with 75% of the Peruvian territory. Peru contains 4% of the planet's fresh water.
+
+Most Peruvian rivers originate in the peaks of the Andes and drain into one of three [[drainage basin|basins]]. Those that drain toward the Pacific Ocean are steep and short, flowing only intermittently. Tributaries of the [[Amazon River]] have a much larger flow, and are longer and less steep once they exit the ''sierra''. Rivers that drain into [[Lake Titicaca]] are generally short and have a large flow.<ref>Instituto de Estudios Histórico–Marítimos del Perú, ''El Perú y sus recursos: Atlas geográfico y económico'', p. 31.</ref> Peru's longest rivers are the [[Ucayali]], the [[Marañón River (Peru)|Marañón]], the [[Içá|Putumayo]], the [[Yavarí River|Yavarí]], the [[Huallaga River|Huallaga]], the [[Urubamba River|Urubamba]], the [[Mantaro River|Mantaro]], and the Amazon.<ref>Instituto Nacional de Estadística e Informática, ''Perú: Compendio Estadístico 2005'', p. 21.</ref>
+
+The largest [[List of lakes of Peru|lake in Peru]], Lake Titicaca between Peru and [[Bolivia]] high in the Andes, is also the largest of [[South America]].<ref name="strontium">{{cite journal|year= 2003|title= Application of Strontium Isotopes to Understanding the Hydrology and Paleohydrology of the Altiplano, Bolivia-Peru|journal=Palaeogeography, Palaeoclimatology, Palaeoecology|volume= 194|pages=281–297|doi=10.1016/S0031-0182(03)00282-7|last1= Grove|first1= Matthew J|last2= Baker|first2= Paul A|last3= Cross|first3= Scott L|last4= Rigsby|first4= Catherine A|last5= Seltzer|first5= Geoffrey O}}</ref>
+The largest [[Water resources management in Peru|reservoirs]], all in the coastal region of Peru, are the [[Poechos Reservoir|Poechos]], Tinajones, San Lorenzo, and El Fraile reservoirs.<ref name="inrena">{{cite web|author=Oficina nacional de evaluación de recursos naturales (previous INRENA) |title=Inventario nacional de lagunas y represamientos |website=INRENA |url=http://www.inrena.gob.pe/irh/inv_nac_lagunas_represas/inv_nac_lag_rep.pdf |accessdate=3 March 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20070625070846/http://www.inrena.gob.pe/irh/inv_nac_lagunas_represas/inv_nac_lag_rep.pdf |archivedate=25 June 2007 }}</ref>
+
+=== Climate ===
+{{main|Climate of Peru}}
+[[File:Peru map of Köppen climate classification.svg|thumb|Peru map of Köppen climate classification.]]The combination of tropical latitude, mountain ranges, topography variations, and two ocean currents ([[Humboldt Current|Humboldt]] and [[El Niño Southern Oscillation|El Niño]]) gives Peru a large diversity of climates. The coastal region has moderate temperatures, low precipitations, and high humidity, except for its warmer, wetter northern reaches.<ref>Instituto de Estudios Histórico–Marítimos del Perú, ''El Perú y sus recursos: Atlas geográfico y económico'', pp. 24–25.</ref> In the mountain region, rain is frequent in summer, and temperature and humidity diminish with altitude up to the frozen peaks of the Andes.<ref>Instituto de Estudios Histórico–Marítimos del Perú, ''El Perú y sus recursos: Atlas geográfico y económico'', pp. 25–26.</ref> The [[Peruvian Amazon]] is characterized by heavy rainfall and high temperatures, except for its southernmost part, which has cold winters and seasonal rainfall.<ref>Instituto de Estudios Histórico–Marítimos del Perú, ''El Perú y sus recursos: Atlas geográfico y económico'', pp. 26–27.</ref>
+===Wildlife===
+{{main|Wildlife of Peru}}Because of its varied geography and climate, Peru has a high biodiversity with 21,462 species of plants and animals reported as of 2003, 5,855 of them [[endemism|endemic]].,<ref>Instituto Nacional de Estadística e Informática, ''Perú: Compendio Estadístico 2005'', p. 50.</ref> and is one of the [[megadiverse]] countries.
+Peru has over 1,800 [[species]] of birds (120 endemic), and 500 species of [[mammal]]s and over 300 species of [[reptile]]s.<ref>{{cite web|url=http://www.peruwildlife.info/|title=Peru Wildlife Information}}</ref> The hundreds of mammals include rare species like the [[Puma (genus)|puma]], [[jaguar]] and [[spectacled bear]]. The [[Bird]]s of Peru produce large amounts of [[guano]], an economically important export. The [[Pacific]] holds large quantities of [[bass (fish)|sea bass]], [[flounder]], [[anchovies]], [[tuna]], [[crustacean]]s, and [[shellfish]], and is home to many [[shark]]s, [[sperm whale]]s, and [[whale]]s.<ref name="selectlatam">{{cite web | url=http://www.selectlatinamerica.co.uk/destinations/peru/wildlife | title=Peru: Wildlife | publisher=Select Latin America | accessdate=16 September 2009 |archive-url=https://web.archive.org/web/20100226200532/http://www.selectlatinamerica.co.uk/destinations/peru/wildlife | archive-date=26 February 2010}}</ref>
+
+Peru also has an equally diverse [[Flora of Peru|flora]]. The coastal deserts produce little more than [[cacti]], apart from hilly [[lomas|fog oases]] and river valleys that contain unique plant life.<ref>{{cite web|last1=Dillon|first1=Michael O.|title=The solanaceae of the lomas formations of coastal peru and chile|url=http://www.sacha.org/solanaceae/lomas_solanaceae.pdf|website=sacha.org|accessdate=28 November 2016}}</ref>
+The Highlands above the tree-line known as [[Puna grassland|puna]] is home to bushes, [[cactus]], drought-resistant plants such as [[Jarava ichu|ichu]], and the largest species of [[bromeliad]]&nbsp;– the spectacular [[Puya raimondii]].
+
+The cloud-forest slopes of the Andes sustain [[moss]], [[orchid]]s, and bromeliads, and the [[Amazon rainforest]] is known for its variety of trees and canopy plants.<ref name="selectlatam"/>
+{{Clear}}
+
+==Economy and infrastructure==
+{{Main|Economy of Peru}}
+{{multiple image
+| direction = vertical
+| align = right
+| width = 271
+| image1 = Lima - Perú.jpg
+| image2 = Puerto de Callao.jpg
+| caption1 = Buildings in Lima's financial district of [[San Isidro, Peru|San Isidro]].
+| caption2 = The [[Callao]] seaport, Peru's main export outlet.
+}}
+The economy of Peru is the 48th largest in the world (ranked by PPP),<ref name="cia">[https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html Peru] {{webarchive |url=https://web.archive.org/web/20161105025708/https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html |date=5 November 2016 }}. CIA, The World Factbook</ref> and the income level is classified as ''upper middle'' by the World Bank.<ref name="WBdata">The World Bank, [http://data.worldbank.org/country/peru ''Data by country: Peru''] {{webarchive |url=https://web.archive.org/web/20161108042430/http://data.worldbank.org/country/peru |date=8 November 2016 }}. Retrieved on 1 October 2011.</ref> Peru is, {{As of|2011|lc=y}}, one of the world's fastest-growing economies owing to the economic boom experienced during the 2000s.<ref>BBC (31 July 2012), [http://news.bbc.co.uk/2/hi/americas/country_profiles/1224656.stm ''Peru country profile''] {{webarchive |url=https://web.archive.org/web/20161105050541/http://news.bbc.co.uk/2/hi/americas/country_profiles/1224656.stm |date=5 November 2016 }}.</ref> It has an above-average [[Human Development Index]] of 0.74 which has seen steady improvement over the last 25 years.<ref name="UNDP">{{cite web|title=Human Development Reports, Peru|url=http://hdr.undp.org/en/countries/profiles/PER|website=hdr.undp.org|publisher=United Nations|language=en|date=2016}}</ref> Historically, the country's economic performance has been tied to exports, which provide [[hard currency]] to finance imports and external debt payments.<ref>Thorp, p. 4.</ref> Although they have provided substantial revenue, self-sustained growth and a more egalitarian [[distribution of income]] have proven elusive.<ref>Thorp, p. 321.</ref> According to 2015 data, 19.3% of its total population is poor, including 9% that lives in extreme poverty.<ref>{{cite web|url=http://www.worldbank.org/en/country/peru/overview|title=Overview|publisher=}}</ref> [[Inflation]] in 2012 was the lowest in [[Latin America]] at only 1.8%, but increased in 2013 as oil and commodity prices rose; {{As of|2014|lc=y}} it stands at 2.5%.<ref name = "IMF">{{cite web | url=http://www.imf.org/external/country/PER/index.htm?pn=2 | title = Peru and the IMF | publisher = [[International Monetary Fund]]}}</ref> The unemployment rate has fallen steadily in recent years, and {{As of|2012|lc=y}} stands at 3.6%.
+
+Peruvian economic policy has varied widely over the past decades. The 1968–1975 government of [[Juan Velasco Alvarado]] introduced radical reforms, which included [[agrarian reform]], the expropriation of foreign companies, the introduction of an [[economic interventionism|economic planning system]], and the creation of a large state-owned sector. These measures failed to achieve their objectives of [[income redistribution]] and the end of [[dependency theory|economic dependence on developed nations]].<ref>Thorp, pp. 318–319.</ref>
+
+Despite these results, most reforms were not reversed until the 1990s, when the [[liberalization|liberalizing]] government of [[Alberto Fujimori]] ended [[price controls]], [[protectionism]], restrictions on [[foreign direct investment]], and most state ownership of companies.<ref name=Sheahan/> Reforms have permitted sustained economic growth since 1993, except for a slump after the [[1997 Asian financial crisis]].<ref>{{es icon}} Banco Central de Reserva, [http://www.bcrp.gob.pe/docs/Estadisticas/Cuadros-Anuales/ACuadro_06.xls ''Producto bruto interno por sectores productivos 1951–2006''] {{webarchive |url=https://web.archive.org/web/20160909085826/http://www.bcrp.gob.pe/docs/Estadisticas/Cuadros-Anuales/ACuadro_06.xls |date=9 September 2016 }}. Retrieved 27 December 2010.</ref>
+
+[[Tertiary sector of industry|Services]] account for 53% of Peruvian gross domestic product, followed by [[secondary sector of industry|manufacturing]] (22.3%), [[primary sector of industry|extractive industries]] (15%), and taxes (9.7%).<ref>2006 figures. {{es icon}} Banco Central de Reserva, [http://www.bcrp.gob.pe/publicaciones/memoria-anual/memoria-2006.html ''Memoria 2006''] {{webarchive |url=https://web.archive.org/web/20160909090819/http://www.bcrp.gob.pe/publicaciones/memoria-anual/memoria-2006.html |date=9 September 2016 }}, p. 204. Retrieved 27 December 2010.</ref> Recent economic growth has been fueled by macroeconomic stability, improved [[terms of trade]], and rising investment and consumption.<ref>{{es icon}} Banco Central de Reserva, [http://www.bcrp.gob.pe/publicaciones/memoria-anual/memoria-2006.html ''Memoria 2006''] {{webarchive |url=https://web.archive.org/web/20160909090819/http://www.bcrp.gob.pe/publicaciones/memoria-anual/memoria-2006.html |date=9 September 2016 }}, pp. 15, 203. Retrieved 27 December 2010.</ref> Trade is expected to increase further after the implementation of a [[United States-Peru Trade Promotion Agreement|free trade agreement with the United States]] signed on 12 April 2006.<ref>Office of the U.S. Trade Representative, [https://web.archive.org/web/20110501000640/http://ustraderep.gov/Document_Library/Press_Releases/2006/April/United_States_Peru_Sign_Trade_Promotion_Agreement.html ''United States and Peru Sign Trade Promotion Agreement''], 12 April 2006. Retrieved 27 December 2010.</ref> Peru's main exports are copper, gold, zinc, textiles, and fish meal; its major trade partners are the United States, China, Brazil, and Chile.<ref>2006 figures. {{es icon}} Banco Central de Reserva, [http://www.bcrp.gob.pe/publicaciones/memoria-anual/memoria-2006.html ''Memoria 2006''] {{webarchive |url=https://web.archive.org/web/20160909090819/http://www.bcrp.gob.pe/publicaciones/memoria-anual/memoria-2006.html |date=9 September 2016 }}, pp. 60–61. Retrieved 27 December 2010.</ref>
+
+== Demographics ==
+{{main|Demographics of Peru|Peruvian people}}
+
+===Urbanization===
+
+{{Largest cities of Peru}}
+
+===Ethnic groups===
+[[File:Juan Mauricio Rugendas - Study for Lima’s Main Square - Google Art Project.jpg|thumb|Lima's main square, c. 1843. Throughout its history, Peruvian society has been diverse.]]
+Peru is a [[multiethnic society|multiethnic nation]] formed by successive waves of different peoples over five centuries. [[Indigenous Peoples in Peru|Amerindians]] inhabited Peruvian territory for several millennia before [[Spanish conquest of the Inca Empire|Spanish Conquest]] in the 16th century; according to historian Noble David Cook, their population decreased from nearly 5–9&nbsp;million in the 1520s to around 600,000 in 1620 mainly because of [[infectious disease]]s.<ref>Cook, Noble David (1982) ''Demographic collapse: Indian Peru, 1520–1620''. Cambridge University Press. p. 114. {{ISBN|0521239958}}.</ref>
+
+Spaniards and Africans arrived in large numbers under colonial rule, mixing widely with each other and with indigenous peoples. After independence, there was gradual immigration from England, France, Germany, Italy, and Spain.<ref>Vázquez, Mario (1970) "Immigration and mestizaje in nineteenth-century Peru", pp. 79–81 in ''Race and class in Latin America''. Columbia Univ. Press. {{ISBN|0-231-03295-1}}</ref> Peru freed its black slaves in 1854.<ref>"[http://news.bbc.co.uk/2/hi/8384853.stm Peru apologises for abuse of African-origin citizens]". BBC News. 29 November 2009</ref> Chinese and Japanese arrived in the 1850s as laborers following the end of slavery, and have since become a major influence in Peruvian society, forming the [[Asian Peruvians|largest population of Asians]] in Latin America after Brazil.<ref>Mörner, Magnus (1967), ''Race mixture in the history of Latin America'', p.&nbsp;131.</ref>
+===Population===
+With about 31.5&nbsp;million inhabitants, Peru is the [[List of South American countries by population|fourth most populous country in South America]].<ref name="INEI est">{{cite web|title=El Perú tiene una población de 31 millones 488 mil 625 habitantes|url=https://www.inei.gob.pe/prensa/noticias/el-peru-tiene-una-poblacion-de-31-millones-488-mil-625-habitantes-9196/|website=www.inei.gob.pe|publisher=INEI|language=Spanish|date=11 July 2016}}</ref> The demographic growth rate of Peru declined from 2.6% to 1.6% between 1950 and 2000; with the population being expected to reach approximately 42 million in 2050.<ref>Instituto Nacional de Estadística e Informática, ''Perú: Estimaciones y Proyecciones de Población, 1950–2050'', pp. 37–38, 40.</ref> According to the 1940 Peruvian census, Peru had a population at the time of 7 million residents.<ref>{{cite news |title=First results of the Peruvian population census conducted last year |url=https://www.perutelegraph.com/news/peru-living-lifestyle/first-results-of-the-peruvian-population-census-conducted-last-year |work=The Peru Telegraph |date=26 June 2018}}</ref>
+
+{{As of|2007}}, 75.9% lived in urban areas and 24.1% in rural areas.<ref>Instituto Nacional de Estadística e Informática, ''Perfil sociodemográfico del Perú'', p. 13.</ref> Major cities include the [[Lima metropolitan area]] (home to over 9.8 million people), [[Arequipa]], [[Trujillo, Peru|Trujillo]], [[Chiclayo]], [[Piura]], [[Iquitos]], [[Cusco]], [[Chimbote]], and [[Huancayo]]; all reported more than 250,000 inhabitants in the [[2007 Peru Census|2007 census]].<ref>Instituto Nacional de Estadística e Informática, ''Perfil sociodemográfico del Perú'', p. 24.</ref> There are 15 [[Uncontacted peoples|uncontacted]] Amerindian tribes in Peru.<ref>"[https://web.archive.org/web/20160305101828/http://www.usatoday.com/news/world/story/2012-01-31/isolated-peru-tribe/52903966/1 Isolated Peru tribe threatened by outsiders]. USATODAY.com. 31 January 2012</ref>
+
+===Language===
+{{main|Languages of Peru}}
+[[File:Downtown Lima (3913099716).jpg|thumb|
+[[Casa de Osambela]], headquarters of the [[Academia Peruana de la Lengua]] (APL) in [[Lima]]]]
+According to the Peruvian Constitution of 1993, Peru's official languages are [[Spanish language|Spanish]] and [[Quechuan languages|Quechua]], [[Aymara language|Aymara]] and other indigenous languages in areas where they predominate. Spanish is spoken natively by 84.1% of the population and Quechua by 13%, Aymara by 1.7%  while other languages are spoken by the remaining 1.2%.<ref name="cia"/>
+
+Spanish is used by the government and is the mainstream language of the country, which is used by the media and in educational systems and commerce. Amerindians who live in the Andean highlands speak [[Quechuan languages|Quechua]] and [[Aymara language|Aymara]] and are ethnically distinct from the diverse indigenous groups who live on the eastern side of the Andes and in the tropical lowlands adjacent to the Amazon basin. Peru's distinct geographical regions are mirrored in a language divide between the coast where Spanish is more predominant over the Amerindian languages, and the more diverse traditional Andean cultures of the mountains and highlands. The indigenous populations east of the Andes speak various languages and dialects. Some of these groups still adhere to traditional indigenous languages, while others have been almost completely assimilated into the Spanish language. There has been an increasing and organized effort to teach Quechua in public schools in the areas where Quechua is spoken. In the Peruvian Amazon, numerous indigenous languages are spoken, including [[Asháninka language|Asháninka]], [[Bora language|Bora]], and [[Aguaruna language|Aguaruna]].<ref>{{es icon}} [http://www.resonancias.org/content/read/355/ Resonancias.org] {{webarchive |url=https://web.archive.org/web/20161007040234/http://www.resonancias.org/content/read/355/ |date=7 October 2016 }} –  Aboriginal languages of Peru</ref>
+
+===Religion===
+{{main|Religion in Peru}}
+[[File:Catedral de Arequipa.jpg|alt=|thumb|[[Arequipa Cathedral]], [[Arequipa]]]]
+[[File:Coricancha, Cusco, Perú, 2015-07-31, DD 68.JPG|thumb|[[Coricancha|Quri Kancha]] and the Convent of Santo Domingo]]
+Roman Catholicism has been the predominant faith in Peru for centuries, albeit with a high degree of [[syncretism]] with indigenous traditions. As of the 2017 census, 76% of the population over 12 years old described themselves as Catholic, 14.1% as [[Evangelical Protestant|Evangelical]], 4.8% as [[Protestant]], [[Jewish]], [[Latter-day Saints]], and [[Jehovah's Witness]], and 5.1% as nonreligious.<ref>{{cite web|url=https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1539/libro.pdf |title=Perú: Perfil Sociodemográfico |page = 231 |website = Instituto Nacional de Estadística e Informática}}</ref>
+
+Amerindian religious traditions continue to play a major role in the beliefs of Peruvians. Catholic festivities like [[Corpus Christi (feast)|Corpus Christi]], [[Holy Week]] and [[Christmas]] sometimes blend with Amerindian traditions. Amerindian festivities from pre-Columbian remain widespread; [[Inti Raymi]], an ancient Inca festival, is still celebrated, especially in rural communities.
+
+The majority of towns, cities, and villages have their own official church or cathedral and patron saint.
+
+===Education===
+Peru's literacy rate is estimated at 92.9% as of 2007; this rate is lower in rural areas (80.3%) than in urban areas (96.3%).<ref>Instituto Nacional de Estadística e Informática, ''Perfil sociodemográfico del Perú'', p. 93.</ref> Primary and secondary education are [[compulsory education|compulsory]] and free in public schools.<ref name="cia"/><ref>''Constitución Política del Perú'', Article No. 17.</ref>
+
+=== Health ===
+Peru has a [[life expectancy]] of 75.0 years (72.4 for males and 77.7 for females) according to the latest data for the year 2016 from the [[World Bank]].<ref>{{Cite web|url=https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PE&year_high_desc=true|title=Life expectancy at birth, total (years) {{!}} Data|website=data.worldbank.org|language=en-us|access-date=25 August 2018}}</ref>
+
+{{Clear}}
+
+{{Clear}}
+
+== Toponyms ==
+Many of the Peruvian [[toponym]]s have [[Indigenous language|indigenous]] sources. In the Andes communities of [[Áncash Region|Áncash]], [[Cusco Region|Cusco]] and [[Puno Region|Puno]] Quechua or Aymara names are overwhelmingly predominant. Their Spanish-based orthography, however, is in conflict with the normalized alphabets of these languages. According to Article 20 of ''Decreto Supremo No 004-2016-MC''  (Supreme Decree) which approves the Regulations to Law 29735, published in the  official newspaper El Peruano on 22 July 2016,  adequate spellings of the [[toponym]]s in the normalized alphabets of the indigenous languages must progressively be proposed with the aim of standardizing the namings used by the National Geographic Institute ''(Instituto Geográfico Nacional, IGN)'' The National Geographic Institute realizes the necessary changes in the official maps of Peru.<ref name=decree>{{cite web |url=http://busquedas.elperuano.com.pe/normaslegales/decreto-supremo-que-aprueba-el-reglamento-de-la-ley-n-29735-decreto-supremo-n-004-2016-mc-1407753-5/|title=Decreto Supremo que aprueba el Reglamento de la Ley N° 29735, Ley que regula el uso, preservación, desarrollo, recuperación, fomento y difusión de las lenguas originarias del Perú, Decreto Supremo N° 004-2016-MC|last= |first= |date= |website= |publisher= |access-date=10 July 2017|quote=}}</ref>
+
+== Culture ==
+{{multiple image
+| align = right
+| total_width = 220
+| image1 = Mario Vargas Llosa (crop 2).jpg
+| caption1 = [[Mario Vargas Llosa]]
+| image2 = Retrato del Inca Garcilaso de la Vega (10949628505).jpg
+| caption2 = [[Inca Garcilaso de la Vega]]
+}}
+{{main|Culture of Peru}}
+[[File:Anonymous, Cuzco School, Peru - The Virgin of the Pilgrims and Child - Google Art Project.jpg|upright|thumb|''The Virgin of the Pilgrims and Child'', Anonymous [[Cusco School|Colonial Cusco School]] painting, 18th century]]
+Peruvian culture is primarily rooted in Amerindian and Spanish traditions,<ref name=Belaunde/> though it has also been influenced by various Asian, African, and other European ethnic groups. [[Peruvian arts|Peruvian artistic traditions]] date back to the elaborate pottery, textiles, jewelry, and sculpture of [[Pre-Inca cultures]]. The Incas maintained these crafts and made [[Architecture of Peru|architectural]] achievements including the construction of [[Machu Picchu]]. [[Baroque]] dominated colonial art, though modified by native traditions.<ref>Bailey, pp. 72–74.</ref>
+
+During this period, most art focused on religious subjects; the numerous churches of the era and the paintings of the [[Cusco School]] are representative.<ref>Bailey, p. 263.</ref> Arts stagnated after independence until the emergence of ''[[Indigenismo]]'' in the early 20th century.<ref name=Lucie/> Since the 1950s, Peruvian art has been [[Eclecticism in art|eclectic]] and shaped by both foreign and local art currents.
+
+=== Pre-Columbian art ===
+Peruvian art has its origin in the [[Peruvian Ancient Cultures|Andean civilizations]]. These [[Peruvian Ancient Cultures|civilizations]] rose in the territory of modern Peru before the [[Spanish colonization of the Americas|arrival of the Spanish]]. Peru's earliest artwork came from the [[Cupisnique]] culture, which was concentrated on the Pacific coast, and the Chavín culture, which was largely north of [[Lima]] between the Andean mountain ranges of the Cordillera Negra and the Cordillera Blanca. Decorative work from this era, approximately the 9th century BCE, was symbolic and religious in nature. The artists worked with gold, silver and [[Ceramics (art)|ceramics]] to create a variety of sculpture and relief carvings. These civilizations were also known for their [[architecture]] and wood sculpture.
+
+=== Colonial art ===
+Peruvian [[sculpture]] and [[painting]] began to define themselves from the [[Studio|ateliers]] founded by [[Monk|monks]], who were strongly influenced by the Sevillian Baroque School. In this context, the stalls of the [[Lima Cathedral|Cathedral]] choir, the fountain of the Main Square of [[Lima District|Lima]] both by [[Pedro de Noguera]], and a great part of the colonial production were registered. The first center of art established by the Spanish was the [[Cuzco School]] that taught [[Quechua languages|Quechua]] artists European painting styles. [[Diego Quispe Tito]] (1611-1681) was one of the first members of the Cuzco school and [[Marcos Zapata]] (1710-1773) was one of the last.<ref name="Bayon" />
+
+Painting of this time reflected a synthesis of European and indigenous influences, as is evident in the portrait of prisoner Atahualpa, by D. de Mora or in the canvases of the Italians [[Mateo Pérez de Alesio]] and Angelino Medoro, the Spaniards Francisco Bejarano and J. de Illescas and the Creole J. Rodriguez.
+
+During the 17th and 18th centuries, the [[Baroque]] Style also dominated the field of [[Plastic arts|plastic arts]].
+
+=== Literature ===
+The term [[Peruvian literature]] not only refers to literature produced in the independent Republic of Peru, but also to literature produced in the [[Viceroyalty of Peru]] during the country's colonial period, and to [[Oral tradition|oral]] artistic forms created by diverse ethnic groups that existed in the area during the [[Prehispanic#South%20America|prehispanic period]], such as the [[Quechua people|Quechua]], the [[Aymara people|Aymara]] and the [[Chanka]] South American native groups.
+
+Peruvian literature is rooted in the oral traditions of [[pre-Columbian]] civilizations. Spaniards introduced writing in the 16th century; colonial literary expression included [[chronicle]]s and [[Christian literature|religious literature]]. After independence, [[Costumbrism]] and [[Romanticism]] became the most common literary genres, as exemplified in the works of [[Ricardo Palma]].<ref>Martin, "Literature, music and the visual arts, c. 1820–1870", pp. 37–39.</ref> The early 20th century's ''Indigenismo'' movement was led by such writers as [[Ciro Alegría]]<ref>Martin, "Narrative since c. 1920", pp. 151–152.</ref> and [[José María Arguedas]].<ref>Martin, "Narrative since c. 1920", pp. 178–179.</ref> [[César Vallejo]] wrote modernist and often politically engaged verse. Modern Peruvian literature is recognized thanks to authors such as [[List of Nobel laureates in Literature|Nobel laureate]] [[Mario Vargas Llosa]], a leading member of the [[Latin American Boom]].<ref>Martin, "Narrative since c. 1920", pp. 186–188.</ref>[[File:Ceviche de caballa.JPG|alt=|thumb|''[[Ceviche]]'' is a popular lime marinated seafood dish which originated in Peru.]]
+=== Cuisine ===
+Due to the Spanish expedition and discovery of the Americas, the explorers started the Columbian Exchange which included food unheard of in the Old World, such as potato, tomato, and maize. Modern indigenous Peruvian food mainly consists of corn, potatoes, and chilies. There are now more than 3,000 kinds of potatoes grown on Peruvian terrain, according to Peru's Instituto Peruano de la Papa.<ref>{{cite web|url=https://guide.michelin.com/sg/features/7-things-you-need-to-know-about-peruvian-cuisine/news|title=7 Things You Need to Know about Peruvian Cuisine|website=MICHELIN Guide}}</ref>
+Modern [[Peruvian cuisine]] blends [[Native American cuisine#Native American cuisine of South America|Amerindian]] and [[Spanish food]] with strong influences from Chinese, African, Arab, Italian, and Japanese cooking.<ref>Custer, pp. 17–22.</ref> Common dishes include ''[[anticuchos]]'', ''[[ceviche]]'', and ''[[pachamanca]]''. Peru's varied climate allows the growth of diverse plants and animals good for cooking.<ref>Custer, pp. 25–38.</ref> Peru's diversity of ingredients and cooking techniques is receiving worldwide acclaim.<ref>[https://web.archive.org/web/20120118164339/http://www.peruvianembassy.us/do.php?p=507 Embassy of Peru in the United States, ''The Peruvian Gastronomy''].peruvianembassy.us.</ref>
+
+Peruvian cuisine reflects local practices and ingredients—including influences from the indigenous population including the [[Quechua people|Inca]] and cuisines brought in with colonizers and immigrants. Without the familiar ingredients from their home countries, immigrants modified their traditional cuisines by using ingredients available in Peru. The four traditional staples of Peruvian cuisine are [[Maize|corn]], [[potato]]es and other [[tuber]]s, [[Amaranthaceae]]s ([[quinoa]], [[kañiwa]] and [[kiwicha]]) and [[legume]]s ([[beans]] and [[lupins]]). Staples brought by the Spanish include [[rice]], [[wheat]] and meats (beef, pork and chicken). Many traditional foods—such as [[quinoa]], [[kiwicha]], [[chili pepper]]s, and several roots and [[tuber]]s have increased in popularity in recent decades, reflecting a revival of interest in native Peruvian foods and culinary techniques. Chef [[Gaston Acurio]] has become well known for raising awareness of local ingredients.
+
+=== Music ===
+[[File:Marinera_Norteña.jpg|link=https://en.wikipedia.org/wiki/File:Marinera_Norte%C3%B1a.jpg|thumb|[[Marinera]] Norteña]]
+[[Peruvian music]] has Andean, Spanish, and African roots.<ref>Romero, Raúl (1999). "Andean Peru". In: John Schechter (ed.), ''Music in Latin American culture: regional tradition''. New York: Schirmer Books, pp.&nbsp;385–386.</ref> In pre-Hispanic times, musical expressions varied widely in each region; the ''[[quena]]'' and the ''[[tinya]]'' were two common instruments.<ref name="Olsen" /> Spaniards introduced new instruments, such as the guitar and the harp, which led to the development of crossbred instruments like the ''[[charango]]''.<ref name="Turino" /> African contributions to Peruvian music include its rhythms and the ''[[Cajon|cajón]]'', a percussion instrument. [[Peruvian folk dances]] include [[marinera]], [[tondero]], [[zamacueca]], [[diablada]] and [[huayno]].<ref>Romero, Raúl (1985). "La música tradicional y popular". In: Patronato Popular y Porvenir, ''La música en el Perú''. Lima: Industrial Gráfica, pp.&nbsp;pp. 243–245, 261–265.</ref>
+
+Peruvian music is dominated by the national [[Musical instrument|instrument]], the [[charango]]. The charango is member of the [[lute]] family of instruments and was invented during the [[Viceroyalty of Peru]] by musicians imitating the [[Spain|Spanish]] [[vihuela]]. In the Canas and [[Titicaca]] regions, the charango is used in courtship rituals, symbolically invoking [[Mermaid|mermaids]] with the instrument to lure the woman to the male performers. Until the 1960s, the charango was denigrated as an instrument of the rural poor. After the revolution in 1959, which built upon the [[Indigenismo]] movement (1910–1940), the charango was popularized among other performers. Variants include the [[walaycho]], [[chillador]], [[chinlili]], and the larger and lower-tuned [[charangon]].
+
+While the Spanish [[guitar]] is widely played, so too is the Spanish-in-origin [[bandurria]]. Unlike the guitar, it has been transformed by Peruvian players over the years, changing from a 12-string, 6-course instrument to one having 12 to 16 strings in a mere 4 courses. [[Violins]] and [[harps]], also of European origin, are also played.
+
+=== Cinema ===
+While the Peruvian film industry has not been nearly as prolific as that of some other Latin American countries, some Peruvian movies produced enjoyed regional success. Historically, the cinema of Peru [[Cinema of Iquitos|began in Iquitos]] in 1932 by Antonio Wong Rengifo (with a momentous, initial [[Movie theater|film billboard]] from 1900) because the [[Rubber boom|rubber boom]] and the intense arrival of foreigners with technology to the city, and thus continued an extensive, unique filmography, with a different style than the films made in the capital, Lima.
+
+Peru also produced the first animated 3-D film in [[Latin America]], ''[[Piratas en el Callao]]''. This film is set in the historical port city of [[Callao]], which during colonial times had to defend itself against attacks by Dutch and British privateers seeking to undercut Spain's trade with its colonies. The film was produced by the [[Peruvians|Peruvian]] company Alpamayo Entertainment, which made a second 3-D film one year later: ''Dragones: Destino de Fuego''.
+
+In February 2006, the film ''[[Madeinusa]]'', produced as a joint venture between Peru and Spain and directed by [[Claudia Llosa]], was set in an imaginary Andean village and describes the stagnating life of Madeinusa performed by [[Magaly Solier]] and the traumas of post-civil war Peru.
+
+Llosa, who shared elements of [[Gabriel García Márquez]]'s [[Magic realism|magic realism]], won an award at the [[Rotterdam Film Festival]]. Llosa's second feature, [[The Milk of Sorrow]] ("La Teta Asustada"), was nominated for the [[82nd Academy Awards]] for Best Foreign Language Picture, the first Peruvian film in the Academy's history to be nominated. [[The Milk of Sorrow]] ("La Teta Asustada"), won the Golden Bear award at the 2009 Berlinale.
+
+==See also==
+{{Portal|Peru}}
+*[[Outline of Peru]]
+
+==Notes and references==
+{{notelist}}
+{{reflist|30em|refs=
+<ref name=Altroy>D'Altroy, Terence (2002). ''The Incas''. Malden: Blackwell, {{ISBN|1405116765}}, pp. 2–3.</ref>
+
+<ref name=Andrien>Andrien, Kenneth (1985). ''Crisis and decline: the Viceroyalty of Peru in the seventeenth century''. Albuquerque: University of New Mexico Press, {{ISBN|1597403237}}, pp. 200–202.</ref>
+
+<ref name=Bakewell>Bakewell, Peter (1984). ''Miners of the Red Mountain: Indian labor in Potosi 1545–1650''. Albuquerque: University of New Mexico, {{ISBN|0826307698}}, p. 181.</ref>
+
+<ref name=Bayon>Bayón, Damián (1998). "Art, c. 1920–c. 1980". In: Leslie Bethell (ed.), ''A cultural history of Latin America''. Cambridge: University of Cambridge, {{ISBN|0521626269}}, pp.&nbsp;425–428.</ref>
+
+<ref name=Belaunde>Belaunde, Víctor Andrés (1983). ''Peruanidad''. Lima: BCR, p. 472.</ref>
+
+<ref name=Burkholder>Burkholder, Mark (1977). ''From impotence to authority: the Spanish Crown and the American audiencias, 1687–1808''. Columbia: University of Missouri Press, {{ISBN|0826202195}}, pp. 83–87.</ref>
+
+<ref name=Dillehay>Dillehay, Tom, Duccio Bonavia and Peter Kaulicke (2004). "The first settlers". In Helaine Silverman (ed.), ''Andean archaeology''. Malden: Blackwell, {{ISBN|0631234012}}, p. 20.</ref>
+
+<ref name=John>St John, Ronald Bruce (1992). ''The foreign policy of Peru''. Boulder: Lynne Rienner, {{ISBN|1555873049}}, pp. 223–224.</ref>
+
+<ref name=Haas>{{cite journal|author=Haas, Jonathan, Creamer, Winifred and Ruiz, Alvaro |title=Dating the Late Archaic occupation of the Norte Chico region in Peru|pmid=15616561|doi=10.1038/nature03146|url=https://www.scribd.com/doc/93993434/HAAS-Et-Al-2004-Dating-the-Late-Archaic-Occupation-of-the-Norte-Chico-Region-in-Peru|journal=Nature|volume= 432|issue=7020|pages=1020–1023|year=2004}}</ref>
+
+<ref name=Lucie>Lucie-Smith, Edward (1993). [https://archive.org/details/latinamericanart00luci ''Latin American art of the 20th century''] {{webarchive |url=https://web.archive.org/web/20160820094958/https://archive.org/details/latinamericanart00luci |date=20 August 2016 }}. London: Thames and Hudson, {{ISBN|0500203563}}, pp. 76–77, 145–146.</ref>
+
+<ref name=Mayer>Mayer, Enrique (2002). ''The articulated peasant: household economies in the Andes''. Boulder: Westview, {{ISBN|081333716X}}, pp. 47–68</ref>
+
+<ref name=Olsen>Olsen, Dale (2002). ''Music of El Dorado: the ethnomusicology of ancient South American cultures''. Gainesville: University Press of Florida, {{ISBN|0813029201}}, pp. 17–22.</ref>
+
+<ref name=Phelan>O'Phelan, Scarlett (1985). ''Rebellions and revolts in eighteenth century Peru and Upper Peru''. Cologne: Böhlau, {{ISBN|3412010855}}, 9783412010850, p. 276.</ref>
+
+<ref name=Sheahan>Sheahan, John. ''Searching for a better society: the Peruvian economy from 1950''. University Park, Pennsylvania: The Pennsylvania State University Press, 1999, {{ISBN|0271018720}}, p. 157.</ref>
+
+<ref name=Suarez>{{es icon}} Suárez, Margarita. [https://books.google.com/books/about/Desafíos_transatlánticos.html?id=gzWGAAAAIAAJ ''Desafíos transatlánticos'']{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}. Lima: FCE/IFEA/PUCP, 2001, pp. 252–253.</ref>
+
+<ref name=Turino>[[Thomas Turino|Turino, Thomas]] (1993). "Charango". In: Stanley Sadie (ed.), ''The New Grove Dictionary of Musical Instruments''. New York: MacMillan Press Limited, vol. I, {{ISBN|0333378784}}, p.&nbsp;340.</ref>
+
+}}
+
+== Bibliography ==
+{{refbegin}}
+* Bailey, Gauvin Alexander. ''Art of colonial Latin America''. London: Phaidon, 2005, {{ISBN|0714841579}}.
+* [https://web.archive.org/web/20070324043856/http://www.tc.gob.pe/legconperu/constitucion.html ''Constitución Política del Perú'']. 29 December 1993.
+* Custer, Tony. ''The Art of Peruvian Cuisine''. Lima: Ediciones Ganesha, 2003, {{ISBN|9972920305}}.
+* [[Gonzalo Garland|Garland, Gonzalo]]. "Perú Siglo XXI", series of 11 working papers describing sectorial long-term forecasts, Grade, Lima, Peru, 1986–1987.
+* Garland, Gonzalo. Peru in the 21st Century: Challenges and Possibilities in ''Futures: the Journal of Forecasting, Planning and Policy'', Volume 22, No. 4, Butterworth-Heinemann, London, England, May 1990.
+* Gootenberg, Paul. (1991) ''Between silver and guano: commercial policy and the state in postindependence Peru''. Princeton: Princeton University Press {{ISBN|0691023425}}.
+* Gootenberg, Paul. (1993) ''Imagining development: economic ideas in Peru's "fictitious prosperity" of Guano, 1840–1880''. Berkeley: University of California Press, 1993, 0520082907.
+* Higgins, James (editor). ''The Emancipation of Peru: British Eyewitness Accounts'', 2014. Online at https://sites.google.com/site/jhemanperu
+* Instituto de Estudios Histórico–Marítimos del Perú. ''El Perú y sus recursos: Atlas geográfico y económico''. Lima: Auge, 1996.
+* Instituto Nacional de Estadística e Informática. {{cite web|url= http://www.inei.gob.pe/biblioineipub/bancopub/Est/Lib0638/Libro.pdf |archive-url= https://web.archive.org/web/20070307225725/http://www.inei.gob.pe/biblioineipub/bancopub/Est/Lib0638/Libro.pdf |dead-url= yes |archive-date= 7 March 2007 |title=''Perú: Compendio Estadístico 2005'' }}&nbsp;{{small|(8.31&nbsp;MB)}}. Lima: INEI, 2005.
+* Instituto Nacional de Estadística e Informática. ''Perfil sociodemográfico del Perú''. Lima: INEI, 2008.
+* Instituto Nacional de Estadística e Informática. ''Perú: Estimaciones y Proyecciones de Población, 1950–2050''. Lima: INEI, 2001.
+* {{DOClink|[https://web.archive.org/web/20070614010900/http://www.ccffaa.mil.pe/INFORMACION/Ley27178_Ley__ServicioMilitar.doc ''Ley N° 27178, Ley del Servicio Militar'']}}. 28 September 1999.
+* Ley N° 27867, [https://web.archive.org/web/20070702195833/http://www.pmde.gob.pe/taller/Compilacion%20normativa/DESCENTRALIZACI%C3%93N/LEY%20N%C2%BA%2027867_LEY%20ORG%C3%81NICA%20DE%20GOBIERNOS%20LOCALES.pdf ''Ley Ley Orgánica de Gobiernos Regionales'']. 16 November 2002.
+* Martin, Gerald. "Literature, music and the visual arts, c. 1820–1870". In: Leslie Bethell (ed.), ''A cultural history of Latin America''. Cambridge: University of Cambridge, 1998, pp.&nbsp;3–45.
+* Martin, Gerald. "Narrative since c. 1920". In: Leslie Bethell (ed.), ''A cultural history of Latin America''. Cambridge: University of Cambridge, 1998, pp.&nbsp;133–225.
+* Porras Barrenechea, Raúl. ''El nombre del Perú''. Lima: Talleres Gráficos P.L. Villanueva, 1968.
+* {{citation
+ | title = Latin America's Wars: The Age of the Caudillo, 1791–1899
+ | first = Robert
+| last = Scheina
+ | location = 
+ | publisher = Brassey’s
+ | year = 2003
+ | isbn = 978-1-57488-450-0 }}
+* Thorp, Rosemary and Geoffrey Bertram. ''Peru 1890–1977: growth and policy in an open economy''. New York: Columbia University Press, 1978, {{ISBN|0231034334}}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+;Economy
+* {{es icon}} Banco Central de Reserva. [http://www.bcrp.gob.pe/estadisticas/cuadros-anuales-historicos.html ''Cuadros Anuales Históricos''].
+* {{es icon}} Instituto Nacional de Estadística e Informática. ''Perú: Perfil de la pobreza por departamentos, 2004–2008''. Lima: INEI, 2009.
+* Concha, Jaime. "Poetry, c. 1920–1950". In: Leslie Bethell (ed.), ''A cultural history of Latin America''. Cambridge: University of Cambridge, 1998, pp.&nbsp;227–260.
+{{refend}}
+
+== External links ==
+{{sister project links}}
+* [http://news.bbc.co.uk/1/hi/world/americas/country_profiles/1224656.stm Country Profile] from [[BBC News]]
+* [https://web.archive.org/web/20070217165254/http://www.britannica.com/nations/peru Peru] from the [[Encyclopædia Britannica]]
+* {{CIA World Factbook link|pe|Peru}}
+* [https://web.archive.org/web/20080607085421/http://ucblibraries.colorado.edu/govpubs/for/peru.htm Peru] at ''UCB Libraries GovPubs''
+* [http://wits.worldbank.org/CountryProfile/Country/PER/Year/2012/Summary World Bank Summary Trade Statistics Peru]
+* {{dmoz|Regional/South_America/Peru}}
+* [http://www.perulinks.com/pages/english/ PeruLinks] web directory
+* {{Wikiatlas|Peru}}
+* {{Wikivoyage-inline|Peru}}
+* {{es icon}} [http://www.peru.gob.pe/ Web portal] of the Peruvian Government
+* {{OSM relation|288247|bullet=no}}
+<!-- ==============================({{NoMoreLinks}})============================== -->
+<!-- DO ''not'' ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS ''not'' A COLLECTION OF LINKS -->
+<!-- If you think that your link might be useful, instead of placing it here, put  --> 
+<!-- it on this article's discussion page first. Links that have not been verified -->
+<!--                                WILL BE DELETED                                -->
+<!-- ============================================================================= -->
+{{Peru topics}}
+{{Navboxes
+|list =
+{{Countries of South America}}
+{{Union of South American Nations topics}}
+{{Andean Community of Nations}}
+{{Pacific Alliance}}
+{{Mercosur}}
+{{Organization of American States}}
+}}
+{{Authority control}}
+
+[[Category:Peru| ]]
+[[Category:Andean Community]]
+[[Category:Countries in South America]]
+[[Category:Former Spanish colonies]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:Spanish-speaking countries and territories]]
+[[Category:States and territories established in 1821]]

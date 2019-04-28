@@ -1,0 +1,994 @@
+{{pp-move|small=yes}}
+{{about|the country in Europe|other uses|Montenegro (disambiguation)|and|Crna Gora (disambiguation)}}{{short description|Republic in Southeastern Europe}}
+{{Use dmy dates|date=December 2018}}
+{{Coord|42|30|N|19|18|E|display=title}}
+{{Infobox country
+| conventional_long_name = Montenegro  <!--#### Do ''not'' change! #####-->
+| common_name = Montenegro
+| native_name = Црна Гора<br /> ''Crna Gora''
+| image_flag = Flag of Montenegro.svg
+| image_coat = Coat of arms of Montenegro.svg
+| national_motto = 
+| national_anthem = <br />’[[Oj, svijetla majska zoro|Ој, свијетла мајска зоро]]’<br />‘''Oj, svijetla majska zoro''’<br />({{Lang-en|’Oh, Bright Dawn of May’}})<br /><center>[[File:National Anthem of Montenegro.ogg]]</center>
+| image_map = Europe-Montenegro.svg
+| map_caption = {{map caption |location_color=green |region=Europe |region_color=dark grey|legend=Europe-Montenegro.svg}}
+| image_map2 = Montenegro - Location Map (2013) - MNE - UNOCHA.svg
+| capital = [[Podgorica]]
+| coordinates = {{Coord|42|47|N|19|28|E|type:city}}
+| largest_city = capital
+| official_languages = [[Montenegrin language|Montenegrin]] (national and official)<ref>{{cite book |url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544 |title=Constitution of Montenegro |chapter-url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544#LinkTarget_1506 |chapter=Language and alphabet Article 13 |publisher=[[WIPO]] |date=19 October 2007 |quote=The official language in Montenegro shall be Montenegrin. Latin and Cyrillic alphabet shall be equal.}}</ref><br /> [[Serbian language|Serbian]], [[Bosnian language|Bosnian]], [[Albanian language|Albanian]], [[Croatian language|Croatian]] (co-official)<ref>{{cite book |url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544 |title=Constitution of Montenegro |chapter-url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544#LinkTarget_1506 |chapter=Language and alphabet Article 13 |publisher=[[WIPO]] |date=19 October 2007 |quote=Serbian, Bosnian, Albanian and Croatian shall also be in the official use.}}</ref>
+| languages_type = [[Writing system]]
+| languages = [[Latin script|Latin]], [[Cyrillic script|Cyrillic]]
+| ethnic_groups = {{unbulleted list
+ | 44.5% [[Montenegrins]]
+ | 28.7% [[Serbs of Montenegro|Serbs]]
+ | 8.6% [[Bosniaks of Montenegro|Bosniaks]]
+ | 4.9% [[Albanians in Montenegro|Albanians]]
+ | 0.9% [[Croats of Montenegro|Croats]]
+ | 13.6% Others
+}}
+| ethnic_groups_year = 2011<ref name=Monstat>{{cite web |url=http://www.monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |title=Census of Population, Households and Dwellings in Montenegro 2011 |publisher=Monstat |accessdate=12 July 2011}}</ref>
+| religion = {{ublist |item_style=white-space:nowrap; |75.93% [[Christianity|Christians]] | 19.21% [[Islam in Montenegro|Muslims]] | 3.31% [[Religion in Montenegro|irreligious]] | 3.65% [[Religion in Montenegro|Others]]}}
+| religion_year = 2011
+| demonym = Montenegrin<nowiki/> <!-- nowiki prevents unwanted link to disambiguation page [[Montenegrin people]] -->
+| government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[parliamentary system|parliamentary]] [[constitution]]al [[republic]]
+| leader_title1 = [[President of Montenegro|President]]
+| leader_name1 = [[Milo Đukanović]]
+| leader_title2 = [[Prime Minister of Montenegro|Prime Minister]]
+| leader_name2 = [[Duško Marković]]
+| leader_title3 = [[President of the Parliament of Montenegro|Speaker of Parliament]]
+| leader_name3 = [[Ivan Brajović]]
+| legislature = [[Parliament of Montenegro|Parliament]]
+| sovereignty_type = Events
+| established_event1 = Formation of [[Duklja]] as a vassal of [[Byzantine Empire]]
+| established_date1 = 625
+| established_event2 = [[Duklja]] gains independence from the Byzantine Empire
+| established_date2 = 7 October 1042
+| established_event3 = [[Duklja|Kingdom of Duklja]] 
+| established_date3 = 1077
+| established_event4 = [[Kingdom of Zeta]] proclaimed
+| established_date4 = 1373
+| established_event5 = [[Prince-Bishopric of Montenegro]] founded
+| established_date5 = 1516
+| established_event6 = De facto monarchy established under [[Šćepan Mali|"False Emperor" Stephan the Little]]
+| established_date6 = 1767
+| established_event7 = [[Principality of Montenegro]]
+| established_date7 = 1 January 1852
+| established_event8 = [[Kingdom of Montenegro]]
+| established_date8 = 28 August 1910
+| established_event9= Formation of [[Kingdom of Yugoslavia|Yugoslavia]]
+| established_date9 = 1 December 1918
+| established_event10 = [[Montenegrin independence referendum, 2006|Independence regained]]
+| established_date10 = 3 June 2006
+| area_rank = 156th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2 = 13,812
+| area_sq_mi = <!--5332.843-->
+| percent_water = 2.6
+| population_estimate = {{increase}} 678,901<ref>https://data.worldbank.org/country/montenegro</ref>
+| population_census = 620,029<ref>{{cite web |url=http://monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |title=Stanovništvo Crne Gore prema polu, tipu naselja, nacionalnoj, odnosno etničkoj pripadnosti, vjeroispovijesti i maternjem jeziku po opštinama u Crnoj Gori |publisher=monstat.org}}</ref>
+| population_estimate_year = July 2018
+| population_estimate_rank = 164th
+| population_census_year = 2011
+| population_density_km2 = 45
+| population_density_sq_mi = 116
+| population_density_rank = 121st
+| GDP_PPP = $12.310&nbsp;billion<ref name="WEO2018">{{cite web |date=20 October 2018 |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=37&pr.y=8&sy=2015&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=943&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |publisher=[[International Monetary Fund]] |website=IMF.org | access-date=1 February 2019}}</ref>
+| GDP_PPP_year = 2019
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $19,734<ref name="WEO2018" />
+| GDP_PPP_per_capita_rank = 74th
+| GDP_nominal = $5.607&nbsp;billion<ref name="WEO2018" />
+| GDP_nominal_year = 2019
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = $8,988<ref name="WEO2018" />
+| GDP_nominal_per_capita_rank = 80th
+| Gini = 31.9
+| Gini_year = 2014
+| Gini_change = decrease
+| Gini_ref = <ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=ME |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=7 March 2019}}</ref>
+| Gini_rank = 9th
+| HDI = 0.814 <!--number only-->
+| HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 50th
+| currency = [[Euro]] ([[Euro sign|€]])<sup>a</sup>
+| currency_code = EUR
+| time_zone = [[Central European Time|CET]]
+| utc_offset = +1
+| utc_offset_DST = +2
+| time_zone_DST = [[Central European Summer Time|CEST]]
+| drives_on = right
+| calling_code = [[Telephone numbers in Montenegro|+382]]
+| cctld = [[.me]]
+| footnote_a = [[Montenegro and the euro|Adopted unilaterally]]; Montenegro is not a formal member of the [[Eurozone]].
+}}
+
+'''Montenegro''' ({{IPAc-en|audio=en-us-Montenegro.ogg|ˌ|m|ɒ|n|t|ɪ|ˈ|n|eɪ|ɡ|r|oʊ|,_|-|ˈ|n|iː|ɡ|r|oʊ|,_|-|ˈ|n|ɛ|ɡ|r|oʊ}}; {{lang-cg|Црна Гора}} / ''Crna Gora'' {{IPA-sh|tsr̩̂ːnaː ɡɔ̌ra|}})<ref group=note>[[Serbian language|Serbian]] and [[Bosnian language|Bosnian]]: {{lang|srb|Црна Гора, Crna Gora}}; [[Albanian language|Albanian]]: {{lang|sq|Mali i Zi}}; [[Croatian language|Croatian]]: {{lang|cro|Crna Gora}}.</ref> is a country in [[Southeastern Europe]] on the [[Adriatic Sea]]. It borders [[Bosnia and Herzegovina]] to the north; [[Serbia]] and [[Kosovo]] to the east, [[Albania]] to the south and [[Croatia]] to the west. Montenegro has an area of 13,812 square kilometres and a population of 620,079 (2011 census). Its capital [[Podgorica]] is one of the twenty-three municipalities in the country. [[Cetinje]] is designated as the Old Royal Capital.
+
+During the [[Early Medieval]] period, three principalities were located on the territory of modern-day Montenegro: [[Duklja]], roughly corresponding to the southern half; [[Travunia]], the west; and [[Principality of Serbia (early medieval)|Rascia]] proper, the north.<ref name=Luscombe>{{cite book |author1=David Luscombe |author2=Jonathan Riley-Smith |title=The New Cambridge Medieval History: Volume 4, c. 1024{{snd}}c. 1198|url=https://books.google.com/books?id=cUl53tLtFukC&pg=PA267|date= 2004|publisher=[[Cambridge University Press]] | pages=266–|isbn=9780521414111 }}</ref><ref name=Sedlar>{{cite book |author1=Jean W Sedlar |title=East Central Europe in the Middle Ages, 1000–1500 |url=https://books.google.com/?id=4NYTCgAAQBAJ&lpg=PP1&dq=East%20Central%20Europe%20in%20the%20Middle%20Ages%2C%201000-1500&pg=PA32 |publisher=[[University of Washington Press]] |pages=21–|isbn=9780295800646 |date=2013 }}</ref><ref>{{cite book |author1=John Van Antwerp Fine |title=he early medieval Balkans: a critical survey from the sixth to the late twelfth century |url=https://books.google.com/?id=RSNpAAAAMAAJ&q=raska+duklja+serbian+principality&dq=raska+duklja+serbian+principality |publisher=[[University of Michigan Press]] |pages=194|isbn=9780472100255 |year=1983 }}</ref> In 1042, ''[[archon]]'' [[Stefan Vojislav]] led a revolt that resulted in the independence of Duklja from the [[Byzantine Empire]] and the establishment of the [[Vojislavljević dynasty]]. The independent [[Zeta under the Balšići|Principality of Zeta]] emerged in the 14th and 15th centuries, ruled by the [[House of Balšić]] between 1356 and 1421, and by the [[House of Crnojević]] between 1431 and 1498, when the name Montenegro started being used for the country. After falling under [[Montenegro Vilayet|Ottoman rule]], Montenegro regained ''de facto'' independence in 1697 under the rule of the [[House of Petrović-Njegoš]], first under the theocratic rule of [[Prince-Bishopric of Montenegro|prince-bishops]], before being transformed into a secular [[Principality of Montenegro|principality]] in 1852. Montenegro's ''[[de jure]]'' independence was recognised by the [[Great Powers]] at the [[Congress of Berlin]] in 1878, following the [[Montenegrin–Ottoman War (1876–78)|Montenegrin–Ottoman War]]. In 1905, the country became a [[Kingdom of Montenegro|kingdom]]. After [[World War I]], it became part of [[Yugoslavia]]. Following the [[breakup of Yugoslavia]], the republics of [[Republic of Serbia (1992–2006)|Serbia]] and [[Republic of Montenegro (1992–2006)|Montenegro]] together established a [[federation]] known as the [[Federal Republic of Yugoslavia]], which was renamed [[State Union of Serbia and Montenegro]] in 2003. On the basis of an [[Montenegrin independence referendum, 2006|independence referendum]] held in May 2006, Montenegro declared independence and the federation peacefully dissolved on 3 June of that year.
+
+Since 1990, the [[sovereign state]] of Montenegro has been governed by the [[Democratic Party of Socialists of Montenegro|Democratic Party of Socialists]] and its minor coalition partners. Classified by the [[World Bank]] as an upper middle-income country, Montenegro is a member of the [[UN]], [[NATO]], the [[World Trade Organization]], the [[Organization for Security and Co-operation in Europe]], the [[Council of Europe]], and the [[Central European Free Trade Agreement]]. It is a founding member of the [[Union for the Mediterranean]].
+
+== Etymology ==
+[[File:Ancient city Doclea - ruins 02.jpg|thumb|left|Ancient [[Roman Empire|Roman city]] [[Doclea (town)|Doclea]].]]
+
+The country's name derives from [[Venetian language|Venetian]] and translates as "Black Mountain", deriving from the appearance of [[Lovćen|Mount Lovćen]] when covered in dense evergreen forests.<ref name="visit-montenegro">{{cite web |title=Montenegro History – Part I |url=https://www.visit-montenegro.com/montenegro/history/ |website=visit-montenegro.com |accessdate=27 June 2018}}</ref>
+
+The native name ''Crna Gora'' came to denote the majority of contemporary Montenegro only in the 15th century.<ref name=Fine532>{{harvnb|Fine|1994|p=532}}</ref> Originally, it had referred to only a small strip of land under the rule of the [[Paštrovići]], but the name eventually came to be used for the wider mountainous region after the [[Crnojević noble family]] took power in [[Upper Zeta]].<ref name=Fine532 /> The aforementioned region became known as ''Stara Crna Gora'' '[[Old Montenegro]]' by the 19th century to distinguish the independent region from the neighbouring Ottoman-occupied Montenegrin territory of ''Brda'' '(The) Highlands'. Montenegro further increased its size several times by the 20th century, as the result of wars against the [[Ottoman Empire]], which saw the annexation of [[Old Herzegovina]] and parts of [[Metohija]] and southern [[Raška (region)|Raška]]. Its borders have changed little since then, losing [[Metohija]] and gaining the [[Bay of Kotor]].
+ 
+After the second session of the [[Anti-Fascist Council for the National Liberation of Yugoslavia|AVNOJ]] during [[World War II in Yugoslavia]], the modern state of Montenegro was founded as the ''Federal State of Montenegro'' ([[Montenegrin language|Montenegrin]]: Савезна држава Црне Горе / ''Savezna država Crne Gore'') on 15 November 1943 within the Democratic Federal Yugoslavia by the [[State Anti-fascist Council for the National Liberation of Montenegro and Boka|ZAVNOCGB]]. After DF Yugoslavia became the Federal People's Republic of Yugoslavia, the Federal State of Montenegro was renamed to the ''[[Socialist Republic of Montenegro|People's Republic of Montenegro]]'' ([[Montenegrin language|Montenegrin]]: Народна Република Црна Гора / ''Narodna Republika Crna Gora'') on 29 November 1945. In 1963, the FPRY was renamed to the Socialist Federal Republic of Yugoslavia and coincidentally, the People's Republic of Montenegro was renamed to the ''Socialist Republic of Montenegro''  ([[Montenegrin language|Montenegrin]]: Социјалистичка Република Црна Гора / ''Socijalistička Republika Crna Gora''). As the [[breakup of Yugoslavia]] occurred, the SRCG was renamed to the ''Republic of Montenegro'' ([[Montenegrin language|Montenegrin]]: Република Црна Гора / ''Republika Crna Gora'') on 27 April 1992 within the [[Serbia and Montenegro|Federal Republic of Yugoslavia]] by removing the adjective "socialist" from the republic's title. Since 22 October 2007, a year after its independence, the name of the country became simply known as ''Montenegro''.
+
+The [[ISO 3166-1 alpha-2|ISO Alpha-2]] code for Montenegro is ME and the [[ISO 3166-1 alpha-3|Alpha-3 Code]] is MNE.<ref>[http://www.iso.org/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv12-div.html ISO 3166-1 Newsletter No. V-12, Date: 26 September 2006] {{webarchive |url=https://web.archive.org/web/20080820140547/http://www.iso.org/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv12-div.html |date=20 August 2008}}</ref>
+
+== History ==
+{{Main|History of Montenegro}}
+<!-- Please note that the history section is already quite large, info should be added to the History of Montenegro page, and that other sections in this article need expanding -->
+
+=== Arrival of the Slavs ===
+{{Main|Duklja|Principality of Zeta|Tribes of Montenegro}}
+
+[[File:South-Eastern Europe, ca. 1090, by User-Hxseek.png|thumb|[[Duklja|Kingdom of Duklja]] in the zenith of power, 1080 AD. ]]
+
+In the 9th century, three [[Slavs|Slavic]] principalities were located on the territory of Montenegro: [[Duklja]], roughly corresponding to the southern half, [[Travunia]], the west, and [[Principality of Serbia (medieval)|Rascia]], the north.<ref name=Luscombe /><ref name=Sedlar /> Duklja gained its independence from the Byzantine Roman Empire in 1042. Over the next few decades, it expanded its territory to neighbouring Rascia and Bosnia, and also became recognised as a kingdom. Its power started declining at the beginning of the 12th century. After King Bodin's death (in 1101 or 1108), several civil wars ensued. Duklja reached its zenith under Vojislav's son, [[Mihailo I of Duklja|Mihailo]] (1046–81), and his grandson [[Constantine Bodin]] (1081–1101).<ref>{{cite web |url=http://www.montenegro.org/duklja.html |archive-url=https://web.archive.org/web/19970116032145/http://www.montenegro.org/duklja.html |dead-url=yes |archive-date=16 January 1997 |title=Duklja, the first Montenegrin state |publisher=Montenegro.org |accessdate=7 December 2012}}</ref> By the 13th century, ''Zeta'' had replaced ''Duklja'' when referring to the realm. In the late 14th century, southern Montenegro ([[Lordship of Zeta|Zeta]]) came under the rule of the [[Balšić noble family]], then the [[Crnojević noble family]], and by the 15th century, Zeta was more often referred to as ''Crna Gora'' ([[Venetian language|Venetian]]: ''{{lang|vec|monte negro}}'').
+
+As the nobility fought for the throne, the kingdom was weakened, and by 1186, it was conquered by [[Stefan Nemanja]] and incorporated into the [[History of Serbia|Serbian realm]] as a province named Zeta. After the [[Serbian Empire]] collapsed in the second half of the 14th century, the most powerful Zetan family, the [[Balšić]]s, became sovereigns of Zeta.
+[[File:Устанак Црногораца.jpg|thumb|upright|left|[[Montenegrin–Ottoman War (1876–78)|Uprising of Montenegrins against Ottomans]]]]
+
+In 1421, Zeta was annexed to the [[Serbian Despotate]], but after 1455, another noble family from Zeta, the [[Crnojević]]s, became sovereign rulers of the country, making it the last free monarchy of the Balkans before it fell to the [[Ottomans]] in 1496, and got annexed to the ''[[sanjak]]'' of [[Shkodër]]. During the reign of Crnojevićs, Zeta became known under its current name&nbsp;– Montenegro. For a short time, Montenegro existed as a separate autonomous ''sanjak'' in 1514–1528 ([[Sanjak of Montenegro]]). Also, [[Old Herzegovina]] region was part of [[Sanjak of Herzegovina]].
+
+=== Ottoman period ===
+{{Main|Prince-Bishopric of Montenegro}}
+[[File:Petar II Petrovic-2.JPG|thumb|upright|left|[[Petar II Petrović-Njegoš]], was a [[List of rulers of Montenegro|Prince-Bishop]] (''vladika'') of Montenegro and [[Demographics of Montenegro|Montenegrin]] national poet and philosopher.]]
+Large portions fell under the control of the [[Ottoman Empire]] from 1496 to 1878. In the 16th century, Montenegro developed a unique form of autonomy within the Ottoman Empire permitting Montenegrin clans freedom from certain restrictions. Nevertheless, the Montenegrins were disgruntled with Ottoman rule, and in the 17th century, raised numerous rebellions, which culminated in the defeat of the Ottomans in the [[Great Turkish War]] at the end of that century.
+
+Montenegro consisted of territories controlled by warlike clans. Most clans had a chieftain (''knez''), who was not permitted to assume the title unless he proved to be as worthy a leader as his predecessor. The great assembly of Montenegrin clans (''Zbor'') was held every year on 12 July in Cetinje, and any adult clansman could take part.{{citation needed|date=July 2016}}
+
+Parts of the territory were controlled by [[Republic of Venice]] and the [[First French Empire]] and [[Austria-Hungary]], its successors. In 1515, Montenegro became a [[theocracy]] led by the [[Metropolitanate of Montenegro and the Littoral]], which flourished after the [[Petrović-Njegoš]] of Cetinje became the traditional prince-bishops (whose title was "Vladika of Montenegro"). However, the [[Venetian Republic]] introduced governors who meddled in Montenegrin politics. The republic was succeeded by the [[Austrian Empire]] in 1797, and the governors were abolished by Prince-Bishop [[Petar II Petrović-Njegoš|Petar II]] in 1832. His predecessor [[Petar I Petrović-Njegoš|Petar I]] contributed to the unification of Montenegro with the Highlands.{{citation needed|date=July 2016}}
+==== Principality of Montenegro (1852–1910) ====
+{{Main|Principality of Montenegro}}
+[[File:Battle of Vučji Do, Orao, 1877.jpg|thumb|right|[[Battle of Vučji Do]] between Montenegrin and Ottoman Army]]
+Under [[Nicholas I of Montenegro|Nicholas I]], the [[principality]] was enlarged several times in the Montenegro-Turkish Wars and was recognised as independent in 1878. Under the rule of Nicholas I, diplomatic relations were established with the Ottoman Empire. Minor border skirmishes excepted, diplomacy ushered in about 30 years of peace between the two states until the deposition of [[Abdul Hamid II]].<ref name="ttk.gov.tr">Uğur Özcan, [http://www.ttk.gov.tr/index.php?Page=Yayinlar&KitapNo=989 II. Abdülhamid Dönemi Osmanlı-Karadağ Siyasi İlişkileri] (Political relations between the Ottoman Empire and Montenegro in the Abdul Hamid II era) Türk Tarih Kurumu, Ankara 2013. {{ISBN|9789751625274}}</ref>
+
+The political skills of Abdul Hamid and Nicholas I played a major role in the mutually amicable relations.<ref name="ttk.gov.tr" /> Modernization of the state followed, culminating with the draft of a Constitution in 1905. However, political rifts emerged between the reigning [[People's Party of Montenegro|People's Party]], who supported the process of democratization and union with Serbia, and those of the [[True People's Party]], who were monarchist.
+
+During this period, one of the major Montenegrin victories over the Ottomans occurred at the
+[[Battle of Grahovac]]. [[Mirko Petrović Njegoš|Grand Duke Mirko Petrović]], elder brother of [[Knjaz Danilo]], led an army of 7,500 and defeated the numerically superior Ottomans who had 15,000 troops at [[Grahovac]] on 1 May 1858. The glory of Montenegrin victory was soon immortalized in the songs and literature of all the South Slavs, in particular the Montenegrins in Vojvodina, then part of [[Austria-Hungary]]. This forced the [[Great Powers]] to officially demarcate the borders between Montenegro and Ottoman Empire, de facto recognizing Montenegro's independence. Montenegro's independence was recognized by Ottoman Empire with the [[Treaty of Berlin (1878)|Treaty of Berlin]] in 1878.
+
+The first Montenegrin constitution was proclaimed in 1855; it was also known as the Danilo Code.
+
+=== Kingdom of Montenegro (1910–1918) ===
+{{Main|Kingdom of Montenegro}}
+
+[[File:Kralj i kraljica u krugu sire familije.jpg|thumb|[[Petrović-Njegoš dynasty|Royal family of Montenegro]]: King [[Nikola I Petrović-Njegoš|Nicholas I]] with his wife, sons, daughters, grandchildren and sons- and daughters-in-law]]
+
+In 1910, Montenegro became [[Kingdom of Montenegro|a kingdom]], and as a result of the [[Balkan wars]] in 1912 and 1913 (in which the Ottomans lost all Balkan land), a common border with Serbia was established, with [[Shkodër]] being awarded to a newly created [[Albania]], though the current capital city of Montenegro, Podgorica, was the old border of Albania and Yugoslavia.
+
+Montenegro was among the [[Allies of World War I|Allied Powers]] during [[World War I]] (1914–18). From 1916 to October 1918, Montenegro was occupied by Austria-Hungary. During the occupation, King Nicholas fled the country and a government-in-exile was set up in [[Bordeaux]].
+
+=== Kingdom of Yugoslavia ===
+{{Main|Kingdom of Yugoslavia}}
+
+In 1922, Montenegro formally became the [[Oblast of Cetinje]] in the [[Kingdom of Serbs, Croats and Slovenes]], with the addition of the coastal areas around [[Budva]] and [[Bay of Kotor]]. In a further restructuring in 1929, it became a part of a larger [[Zeta Banovina|Zeta Banate]] of the [[Kingdom of Yugoslavia]] that reached the [[Neretva]] River.
+
+Nicholas's grandson, the Serb King [[Alexander I of Yugoslavia|Alexander I]], dominated the Yugoslav government. Zeta Banovina was one of nine banovinas which formed the kingdom; it consisted of the present-day Montenegro and parts of Serbia, Croatia, and Bosnia.
+
+=== World War II ===
+{{Main|Italian governorate of Montenegro}}
+[[File:Crna Gora - Oslobodjenje od strane okupacije 1711-1918.png|thumb|left|Liberation of Montenegro from 1711 to 1918]]
+
+[[File:Bundesarchiv Bild 101I-185-0116-27A, Bucht von Kotor (-), jugoslawische Schiffe.jpg|thumb|Captured ships of the [[Royal Yugoslav Navy|Yugoslavian Navy]], [[Bay of Kotor]] 1941.]]
+[[File:Borbe za oslobođenje Crne Gore.jpg|thumb|Uprising in Montenegro 1944.]]
+
+In April 1941, [[Nazi Germany]], the [[Kingdom of Italy]], and other Axis allies attacked and occupied the Kingdom of Yugoslavia. Italian forces occupied Montenegro and established it as a puppet [[Italian governorate of Montenegro|Kingdom of Montenegro]].
+
+In May, the Montenegrin branch of the Communist Party of Yugoslavia started preparations for an uprising planned for mid-July. The Communist Party and its Youth League organised 6,000 of its members into detachments prepared for [[guerrilla warfare]]. The first armed uprising in [[Nazi Germany|Nazi]]-occupied Europe happened on 13 July 1941 in Montenegro.<ref>{{cite web |url=http://www.b92.net/info/vesti/index.php?yyyy=2010&mm=07&dd=13&nav_category=167&nav_id=445290 |title=Prema oceni istoričara, Trinaestojulski ustanak bio je prvi i najmasovniji oružani otpor u porobljenoj Evropi 1941. godine |publisher=B92.net |language=Serbian |accessdate=7 December 2012}}</ref>
+
+Unexpectedly, the uprising took hold, and by 20 July, 32,000 men and women had joined the fight. Except for the coast and major towns (Podgorica, Cetinje, Pljevlja, and Nikšić), which were besieged, Montenegro was mostly liberated. In a month of fighting, the Italian army suffered 5,000 dead, wounded, and captured. The uprising lasted until mid-August, when it was suppressed by a counter-offensive of 67,000 Italian troops brought in from Albania. Faced with new and overwhelming Italian forces, many of the fighters laid down their arms and returned home. Nevertheless, intense guerrilla fighting lasted until December.
+
+Fighters who remained under arms fractured into two groups. Most of them went on to join the Yugoslav Partisans, consisting of communists and those inclined towards active resistance; these included [[Arso Jovanović]], [[Sava Kovačević (Yugoslav Partisan)|Sava Kovačević]], [[Svetozar Vukmanović-Tempo]], [[Milovan Đilas]], [[Peko Dapčević]], [[Vlado Dapčević]], [[Veljko Vlahović]], and [[Blažo Jovanović]]. Those loyal to the [[Karađorđević dynasty]] and opposing communism went on to become [[Chetniks]], and turned to collaboration with Italians against the Partisans.
+
+War broke out between Partisans and Chetniks during the first half of 1942. Pressured by Italians and Chetniks, the core of the Montenegrin Partisans went to Serbia and Bosnia, where they joined with other Yugoslav Partisans. Fighting between Partisans and Chetniks continued through the war. Chetniks with Italian backing controlled most of the country from mid-1942 to April 1943. Montenegrin Chetniks received the status of "anti-communist militia" and received weapons, ammunition, food rations, and money from Italy. Most of them were moved to [[Mostar]], where they fought in the [[Battle of Neretva]] against the Partisans, but were dealt a heavy defeat.
+
+During the German operation Schwartz against the Partisans in May and June 1943, Germans disarmed large number of Chetniks without fighting, as they feared they would turn against them in case of an Allied invasion of the Balkans. After the capitulation of Italy in September 1943, Partisans managed to take hold of most of Montenegro for a brief time, but Montenegro was soon [[German occupied territory of Montenegro|occupied by German forces]], and fierce fighting continued during late 1943 and entire 1944. Montenegro was liberated by the Partisans in December 1944.
+[[File:Odlazak predsednika Tita iz vile "Gorica".jpg|thumb|upright|left|[[Josip Broz Tito]] was the leader of [[SFR Yugoslavia]] from 1944 to 1980; Pictured: Tito in [[Podgorica]]]]
+
+=== Montenegro within Socialist Yugoslavia ===
+{{Main|Socialist Republic of Montenegro}}
+
+Montenegro, like the rest of Yugoslavia, was liberated by the [[Yugoslav Partisans]] in 1944.
+
+Montenegro became one of the six constituent republics of the communist [[Socialist Federal Republic of Yugoslavia]] (SFRY). Its capital became Podgorica, renamed [[Titograd]] in honour of President [[Josip Broz Tito]]. After the war, the infrastructure of Yugoslavia was rebuilt, industrialization began, and the [[University of Montenegro]] was established. Greater autonomy was established until the [[Socialist Republic of Montenegro]] ratified a new constitution in 1974.{{citation needed|date=July 2016}}
+
+=== Montenegro within FR Yugoslavia ===
+{{Main|Serbia and Montenegro|Republic of Montenegro (1992–2006)}}
+After the dissolution of the SFRY in 1992, Montenegro remained part of a smaller [[Federal Republic of Yugoslavia]] along with Serbia.
+
+In the [[Montenegrin independence referendum, 1992|referendum on remaining in Yugoslavia in 1992]], the turnout was 66%, with 96% of the votes cast in favour of the federation with Serbia. The referendum was [[boycott]]ed by the Muslim, Albanian, and Catholic minorities, as well as the pro-independence Montenegrins. The opponents claimed that the poll was organized under anti-[[Democracy|democratic conditions]] with widespread propaganda from the state-controlled media in favour of a pro-federation vote. No impartial report on the fairness of the referendum was made, as it was unmonitored, unlike in 2006 when [[European Union]] observers were present.
+[[File:Njegos mausoleum montenegro.jpg|thumb|Mausoleum of [[Petar II Petrović-Njegoš]], in [[Lovćen]]]]
+
+During the 1991–1995 [[Bosnian War]] and [[Croatian War]], Montenegrin police and military forces joined Serbian troops in the attacks on [[Dubrovnik]], Croatia.<ref>{{cite web |url=http://www.croatiatraveller.com/southern_dalmatia/Dubrovnik/bombing.html |title=Bombing of Dubrovnik |publisher=Croatiatraveller.com |accessdate=7 December 2012}}</ref> These operations, aimed at acquiring more territory, were characterized by a consistent pattern of large-scale violations of human rights.<ref>{{cite web |url=https://www.un.org/documents/ga/res/47/a47r121.htm |title=A/RES/47/121. The situation in Bosnia and Herzegovina |publisher=United Nations |accessdate=7 December 2012}}</ref>
+
+Montenegrin General Pavle Strugar was convicted for his part in the bombing of Dubrovnik.<ref>[http://www.yihr.org/uploads/newsletters/eng/28.pdf YIHR.org] {{webarchive |url=https://web.archive.org/web/20150403105152/http://www.yihr.org/uploads/newsletters/eng/28.pdf |date=3 April 2015 }}</ref>
+Bosnian refugees were arrested by Montenegrin police and transported to Serb camps in Foča, where they were subjected to systematic torture and executed.<ref>[http://www.ess.uwe.ac.uk/comexpert/ANX/VIII-03.htm#III.A.25 Annex VIII – part 3/10 Prison Camps]. ess.uwe.ac.uk {{webarchive|url=https://web.archive.org/web/20131020191517/http://www.ess.uwe.ac.uk/comexpert/ANX/VIII-03.htm#III.A.25|date=20 October 2013}}</ref><ref>"Porodica Nedžiba Loje o Njegovom Hapšenju i Deportaciji 1992". ''Godine'' [http://bosnjaci.net/aktuelno.php?id=4311 Bosnjaci.net] {{webarchive|url=https://web.archive.org/web/20071012182522/http://bosnjaci.net/aktuelno.php?id=4311 |date=12 October 2007 }}<!--What is this source? The link is dead.--></ref>
+
+In 1996, [[Milo Đukanović]]'s government severed ties between Montenegro and its partner Serbia, which was led by [[Slobodan Milošević]]. Montenegro formed its own [[economic policy]] and adopted the German [[Deutsche Mark]] as its currency and subsequently [[Montenegro and the euro|adopted the euro]], although not part of the [[Eurozone]] [[currency union]]. Subsequent governments pursued pro-independence policies, and political tensions with Serbia simmered despite the political changes in [[Belgrade]]. Targets in Montenegro were bombed by NATO forces during [[Operation Allied Force]] in 1999, although the extent of these attacks was very limited in both time and area affected.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/europe/331036.stm |title=Russia pushes peace plan |publisher=BBC |date=29 April 1999}}</ref>
+
+In 2002, Serbia and Montenegro came to a new agreement for continued cooperation and entered into negotiations regarding the future status of the [[Federal Republic of Yugoslavia]]. This resulted in the Belgrade Agreement, which saw the country's transformation into a more decentralised state union named [[Serbia and Montenegro]] in 2003. The Belgrade Agreement also contained a provision delaying any future referendum on the independence of Montenegro for at least three years.
+
+=== Independence ===
+{{Main|Serbia and Montenegro|Montenegrin independence referendum, 2006}}
+[[File:Independent montenegro.jpg|thumb|[[Montenegrin independence referendum, 2006|Montenegro independence referendum]] in 2006, celebration in historical Royal capital Cetinje.]]
+
+The status of the union between Montenegro and Serbia was decided by a [[Montenegrin independence referendum, 2006|referendum on Montenegrin independence]] on 21 May 2006. A total of 419,240 votes were cast, representing 86.5% of the total electorate; 230,661 votes (55.5%) were for independence and 185,002 votes (44.5%) were against.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/europe/5007364.stm |title=Montenegro vote result confirmed |work=BBC News |date=23 May 2006 |accessdate=11 September 2010}}</ref> This narrowly surpassed the 55% threshold needed to validate the referendum under the rules set by the European Union. According to the electoral commission, the 55% threshold was passed by only 2,300 votes. Serbia, the member-states of the European Union, and the [[permanent members of the United Nations Security Council]] all [[diplomatic recognition|recognised]] Montenegro's independence.
+
+The 2006 referendum was monitored by five international observer missions, headed by an [[Organization for Security and Co-operation in Europe]] (OSCE)/[[ODIHR]] team, and around 3,000 observers in total (including domestic observers from [[Center for Democracy and Technology|CDT]] (OSCE PA), the Parliamentary Assembly of the Council of Europe (PACE), the Congress of Local and Regional Authorities of the Council of Europe (CLRAE), and the European Parliament (EP) to form an International Referendum Observation Mission (IROM). The IROM—in its preliminary report—"assessed compliance of the referendum process with OSCE commitments, Council of Europe commitments, other international standards for democratic electoral processes, and domestic legislation." Furthermore, the report stated that the competitive pre-referendum environment was marked by an active and generally peaceful campaign and that "there were no reports of restrictions on fundamental civil and political rights."
+
+On 3 June 2006, the Montenegrin Parliament declared the independence of Montenegro,<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/world/europe/5043462.stm |title=Montenegro declares independence |work=BBC News |date=4 June 2006 |accessdate=11 September 2010}}</ref> formally confirming the result of the referendum. Serbia did not object to the declaration.
+
+=== Euro-Atlantic integration in the 21st century ===
+[[File:Secretary Kerry Poses With Montenegrin Prime Minister Djukanovic, NATO Secretary-General Stoltenberg, and Fellow NATO Foreign Ministers for a Family Photo at NATO Headquarters in Brussels (27080758736).jpg|thumb|Milo Djukanovic poses with Secretary Kerry, NATO Secretary-General Stoltenberg and other alliance leaders after Montenegro's accession to the alliance, [[Brussels]] 2017.]]
+The [[Law on the Status of the Descendants of the Petrović Njegoš Dynasty]] was passed by the Parliament of Montenegro on 12 July 2011. It rehabilitated the [[House of Petrović-Njegoš|Royal House of Montenegro]] and recognized limited symbolic roles within the constitutional framework of the republic.
+
+In 2015, the investigative journalists' network [[Organized Crime and Corruption Reporting Project|OCCRP]] named Montenegro's long-time President and Prime Minister [[Milo Đukanović]] "Person of the Year in Organized Crime".<ref>"[https://www.occrp.org/personoftheyear/2015/ OCCRP announces 2015 Organized Crime and Corruption ‘Person of the Year’ Award]". [[Organized Crime and Corruption Reporting Project]].</ref> The extent of Đukanović's [[corruption]] led to street demonstrations and calls for his removal.<ref>"[http://www.foreignpolicyjournal.com/2017/01/05/the-balkans-corrupt-leaders-are-playing-nato-for-a-fool/ The Balkans’ Corrupt Leaders are Playing NATO for a Fool]". ''[[Foreign Policy]]''. 5 January 2017.</ref><ref>"[http://www.washingtontimes.com/news/2015/dec/1/montenegros-drive-for-nato-angers-russia-strains-a/ Montenegro invited to join NATO, a move sure to anger Russia, strain alliance's standards]". ''The Washington Times''. 1 December 2015.</ref>
+
+In October 2016, for the day of the [[Montenegrin parliamentary election, 2016|parliamentary election]], a [[Montenegrin coup d'état attempt|coup d'état was prepared]] by a group of persons that included leaders of the Montenegrin opposition, Serbian nationals and Russian agents; the coup was prevented.<ref>{{cite news |first=Dusan |last=Stojanovic |date=31 October 2016 |title=NATO, Russia to Hold Parallel Drills in the Balkans |url=http://hosted.ap.org/dynamic/stories/E/EU_BALKANS_MILITARY_DRILLS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-10-31-12-14-05 |agency=Associated Press |accessdate=8 November 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20161107162123/http://hosted.ap.org/dynamic/stories/E/EU_BALKANS_MILITARY_DRILLS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-10-31-12-14-05 |archivedate=7 November 2016}}<br />{{cite news |author=<!--Staff writer(s); no by-line.--> |title=Russians behind Montenegro coup attempt, says prosecutor |url=http://www.dw.com/en/russians-behind-montenegro-coup-attempt-says-prosecutor/a-36284714 |publisher=Deutsche Welle |location=Germany |agency=AFP, Reuters, AP |date=6 November 2016 |accessdate=8 November 2016}}<br />{{cite news |author=<!--Staff writer(s); no by-line.--> |date=6 November 2016 |title=Montenegro Prosecutor: Russian Nationalists Behind Alleged Coup Attempt |url=https://www.wsj.com/articles/montenegro-prosecutor-russian-nationalists-behind-alleged-coup-attempt-1478473032 |newspaper=The Wall Street Journal |location=United States |accessdate=8 November 2016}}<br />{{cite news |author=<!--Staff writer(s); no by-line.--> |title='Russian nationalists' behind Montenegro PM assassination plot |url=https://www.bbc.com/news/world-europe-37890683 |publisher=BBC |location=United Kingdom |date=6 November 2016 |accessdate=8 November 2016}}</ref> In 2017, fourteen people, including two Russian nationals and two Montenegrin opposition leaders, [[Andrija Mandić]] and [[Milan Knežević (Montenegrin politician)|Milan Knežević]], were indicted for their alleged roles in the coup attempt on charges such as "preparing a conspiracy against the constitutional order and the security of Montenegro" and an "attempted terrorist act."<ref name="rferlcoup">[https://www.rferl.org/a/montenegro-coup-charges-confirmed/28535744.html Montenegrin Court Confirms Charges Against Alleged Coup Plotters] Radio Free Europe/Radio Liberty, 8 June 2017.</ref>
+
+Montenegro formally [[Montenegro–NATO relations|became a member]] of [[NATO]] in June 2017, though "Montenegro remains deeply divided over joining NATO",<ref name="murkypolitico">[https://www.politico.eu/article/montenegro-nato-milo-dukanovicmurky-coup-plot/ Indictment tells murky Montenegrin coup tale: Trial will hear claims of Russian involvement in plans to assassinate prime minister and stop Balkan country's NATO membership.] [[Politico]], 23 May 2017.</ref> an event that triggered a promise of retaliatory actions on the part of Russia's government.<ref>[https://www.theguardian.com/world/2017/may/25/montenegro-tensions-russia-joins-nato-member Montenegro finds itself at heart of tensions with Russia as it joins Nato: Alliance that bombed country only 18 years ago welcomes it as 29th member in move that has left its citizens divided] ''The Guardian'', 25 May 2017.</ref><ref>[http://tass.ru/politika/3682321 МИД РФ: ответ НАТО на предложения российских военных неконкретный и размытый] // ″Расширение НАТО″, [[TASS]], 6 October 2016.</ref><ref>[http://www.mid.ru/web/guest/kommentarii_predstavitelya/-/asset_publisher/MCZ7HQuMdqBY/content/id/2740071 Комментарий Департамента информации и печати МИД России в связи с голосованием в Скупщине Черногории по вопросу присоединения к НАТО] [[Ministry of Foreign Affairs (Russia)|Russian Foreign Ministry]]′s Statement, 28.04.17.</ref>
+
+Montenegro has been in [[Accession of Montenegro to the European Union|negotiations]] with the [[EU]] since 2012. In 2018, the earlier goal of acceding by 2022<ref>[https://europeanwesternbalkans.com/2017/04/20/darmanovic-montenegro-becomes-eu-member-in-2022/ Darmanović: Montenegro becomes EU member in 2022] 20 April 2017. Retrieved 2 June 2017.</ref> was revised to 2025.<ref>[https://www.ft.com/content/e0774a28-0695-11e8-9650-9c0ad2d7c5b5 "EU to map out membership for 6 western Balkan states"], Michael Peel and Neil Buckley, ''Financial Times'', 1 February 2018</ref>
+
+== Geography ==
+{{Main|Geography of Montenegro}}
+
+[[File:Zla Kolata summit view with Kolata peaks (cropped).jpg|thumb|[[Zla Kolata]], highest point of Montenegro]]
+[[File:HSV 654 07 Jan 2014 Montenegro Holokarst.jpg|thumb|left|300px|Satellite view of Montenegro]]
+[[File:Lac de Shkodra.jpg|thumb|[[Lake Skadar]]]]
+[[File:Big Black Lake.jpg|thumb|[[Black Lake (Montenegro)|Black Lake]]]]
+[[File:Pinus heldreichii Bijela gora above Borovi do.jpg|thumb|''[[Pinus heldreichii]]'', [[Bijela gora]].]]
+[[File:Tursiops aduncus, Port River, Adelaide, Australia - 2003.jpg|thumb|The [[common bottlenose dolphin]] is often seen in the [[Bay of Kotor]].]]
+Internationally, Montenegro borders [[Croatia]], [[Bosnia and Herzegovina]], [[Serbia]], [[Kosovo]],{{efn|name=status}} and Albania. It lies between latitudes [[41st parallel north|41°]] and [[44th parallel north|44°N]], and longitudes [[18th meridian east|18°]] and [[21st meridian east|21°E]].
+
+Montenegro ranges from high peaks along its borders with Serbia, Kosovo, and Albania, a segment of the [[Karst]] of the western Balkan Peninsula, to a narrow coastal plain that is only {{convert|1.5|to|6|km|mi|0|abbr=off}} wide. The plain stops abruptly in the north, where [[Mount Lovćen]] and [[Mount Orjen]] plunge into the inlet of the Bay of Kotor.
+
+Montenegro's large karst region lies generally at elevations of {{convert|1000|m|sigfig=3}} above sea level; some parts, however, rise to {{convert|2000|m|abbr=on|sigfig=3}}, such as [[Mount Orjen]] ({{convert|1894|m|disp=or|abbr=on}}), the highest massif among the coastal limestone ranges. The [[Zeta River]] valley, at an elevation of {{convert|500|m|abbr=on|sigfig=2}}, is the lowest segment.
+
+The mountains of Montenegro include some of the most rugged terrain in Europe, averaging more than {{convert|2000|m|abbr=off}} in elevation. One of the country's notable peaks is [[Bobotov Kuk]] in the [[Durmitor]] mountains, which reaches a height of {{convert|2522|m|abbr=on}}. Owing to the hyperhumid climate on their western sides, the Montenegrin mountain ranges were among the most ice-eroded parts of the Balkan Peninsula during the last glacial period.
+
+* Longest beach: [[Velika Plaža]], [[Ulcinj]]&nbsp;– {{convert|13000|m|mi|abbr=on}}
+* Highest peak: [[Zla Kolata]], [[Prokletije]] at {{convert|2535|m|ft|abbr=on}}
+* Largest lake: [[Skadar Lake]]&nbsp;– {{convert|391|km2|abbr=on}} of surface area
+* Deepest canyon: [[Tara River Canyon]]&nbsp;– {{convert|1300|m|abbr=on}}
+* Biggest [[Headlands and bays|bay]]: [[Bay of Kotor]]
+* Deepest cave: Iron Deep {{convert|1169|m|ft|abbr=on}}, exploring started in 2012, now more than {{convert|3000|m|ft|abbr=on}} long<ref>{{cite web |url=https://www.suchy-zleb.cz/en/2012/08/01/first-kilometer-deep-cave-explored-by-czech-team/ |title=[Iron Deep 2012] Czech Speleological Society}}</ref>
+
+{| class="wikitable sortable"
+|-
+! Name
+! Established
+! Area
+
+|-
+| [[Durmitor]] National Park
+| 1952
+| {{convert|390|km2|ha|0}}
+
+|-
+| [[Biogradska Gora]]
+| 1952
+| {{convert|54|km2|ha|0}}
+
+|-
+| [[Lovćen]] National Park
+| 1952
+| {{convert|64|km2|ha|0}}
+
+|-
+| [[Lake Skadar]] National Park
+| 1983
+| {{convert|400|km2|ha|0}}
+
+|-
+| [[Prokletije]] National Park
+| 2009
+| {{convert|166|km2|ha|0}}
+|}
+Montenegro is a member of the [[International Commission for the Protection of the Danube River]], as more than {{convert|2000|km2|0|abbr=on}} of the country's territory lie within the [[Danube]] [[Drainage basin|catchment area]].
+
+=== Biodiversity ===
+
+The diversity of the geological base, landscape, climate, and soil, and the position of Montenegro on the Balkan Peninsula and Adriatic Sea, created the conditions for high biological diversity, putting Montenegro among the "hot-spots" of European and world biodiversity. The number of species per area unit index in Montenegro is 0.837, which is the highest index recorded in any European country.<ref>{{cite book |title=Environment Reporter 2010 |year=2011 |publisher=Environmental Protection Agency of Montenegro |page=22}}</ref>
+
+;Biodiversity outlook
+* Freshwater algae of Montenegro&nbsp;– so far 1,200 species and varieties have been described.
+* The [[vascular flora]] of Montenegro has 3,250 species. The number of [[endemics]] is also high&nbsp;– there are 392 Balkan (regional) endemic species, equivalent to over 7% of Montenegrin flora.
+* There are 354 species of [[List of marine molluscs of Montenegro|marine molluscs in Montenegro]].<ref>Petović S., Gvozdenović S. & Ikica Z. (2017) "An Annotated Checklist of the Marine Molluscs of the South Adriatic Sea (Montenegro) and a Comparison with Those of Neighbouring Areas". ''[[Turkish Journal of Fisheries and Aquatic Sciences]]'' '''17''':  921–934. [http://www.trjfas.org/uploads/pdf_1062.pdf PDF]. {{DOI|10.4194/1303-2712-v17_5_08}}</ref>
+* Lake Skadar is among the most important habitats of freshwater fish, with 40 species, including species that migrate from marine to freshwater ecosystems, such as the eel (''Anguilla anguilla'') and shad (''Alossa falax nilotica'').
+* The diversity of marine fish fauna of the Adriatic Sea includes 117 recorded families, but with a low level of [[endemism]]. To date, 40,742 marine fish species have been recorded in Montenegro, which represent 70% of the species recorded in the Mediterranean.
+* Currently, 56 species (18 amphibian and 38 reptile) and 69 subspecies are recorded within 38 genera, and the list is probably incomplete. The mountain regions of Lovćen and Prokletije are particular hot spots for amphibians and reptiles.
+* Of 526 European bird species, 333 are assumed to be regularly present in Montenegro. Of these, 204 species nest in the country.<ref>{{cite book |title=Environment Reporter 2010 |year=2011 |publisher=Environmental Protection Agency of Montenegro |pages=22–23}}</ref>
+
+== Politics ==
+{{Main|Politics of Montenegro}}
+
+{| class="wikitable" style="text-align:left; float:left; margin-right:9px; margin-left:2px;"
+|-
+| style="text-align:center;" | [[File:Milo Đukanović in 2010.jpg|120px]] || style="text-align:center;" | [[File:Dusko Markovic.png|120px]]
+|-
+| style="text-align:center;" | [[Milo Đukanović]]<br /><small>[[President of Montenegro|President]]</small>
+| style="text-align:center;" | [[Duško Marković]]<br /><small>[[Prime Minister of Montenegro|Prime Minister]]</small>
+|}
+[[File:Резиденции Президента, Парламента и Банка Черногории.jpg|thumb|[[Parliament of Montenegro]] in [[Podgorica]].]]
+[[File:Eesti uus suursaadik Montenegros andis üle volikirja (8313238465).jpg|thumb|Honorary Guard of the Army of Montenegro in the state protocol, [[Blue Palace]] residence of [[President of Montenegro]] in [[Cetinje]].]]
+The [[Constitution of Montenegro]] describes the state as a "[[Civic engagement|civic]], [[Democracy|democratic]], [[environmentalism|ecological]] state of [[social justice]], based on the [[rule of law|reign of Law]]."<ref>{{cite web |url=http://www.skupstina.me/cms/site_data/ustav/Ustav%20Crne%20Gore.pdf |title=Ustav Crne Gore |format=PDF |accessdate=11 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100326020047/http://www.skupstina.me/cms/site_data/ustav/Ustav%20Crne%20Gore.pdf |archivedate=26 March 2010}}</ref> Montenegro is an independent and sovereign republic that proclaimed its new constitution on 22 October 2007.
+
+The [[President of Montenegro]] ([[Montenegrin language|Montenegrin]]: ''Predsjednik Crne Gore'') is the [[head of state]], elected for a period of five years through direct elections. The President represents the country abroad, promulgates laws by ordinance, calls elections for the [[Parliament of Montenegro|Parliament]], proposes candidates for [[Prime Minister of Montenegro|Prime Minister]], president and justices of the Constitutional Court to the Parliament. The President also proposes the calling of a [[referendum]] to Parliament, grants amnesty for criminal offences prescribed by the national law, confers decoration and awards and performs other constitutional duties and is a member of the Supreme Defence Council. The official residence of the President is in [[Cetinje]].
+
+The [[Government of Montenegro]] ([[Montenegrin language|Montenegrin]]: ''Vlada Crne Gore'') is the [[Executive (government)|executive branch]] of government authority of Montenegro. The government is headed by the [[Prime Minister of Montenegro|Prime Minister]], and consists of the deputy prime ministers as well as ministers.
+
+The [[Parliament of Montenegro]] ([[Montenegrin language|Montenegrin]]: ''Skupština Crne Gore'') is a [[unicameral]] [[Legislature|legislative]] body. It passes laws, ratifies treaties, appoints the Prime Minister, ministers, and justices of all courts, adopts the budget and performs other duties as established by the Constitution. Parliament can pass a vote of no-confidence in the Government by a simple majority. One representative is elected per 6,000 voters. The present parliament contains 81 seats, with 39 seats held by the [[Coalition for a European Montenegro]] after the [[Montenegrin parliamentary election, 2012|2012 parliamentary election]].
+
+=== Foreign relations of Montenegro ===
+{{See also|Foreign relations of Montenegro}}
+After the promulgation of the Declaration of Independence in the Parliament of the Republic of Montenegro on 3 June 2006, following the independence referendum held on 21 May, the Government of the Republic of Montenegro assumed the competences of defining and conducting the foreign policy of Montenegro as a subject of international law and a [[sovereign state]].
+[[File:Global Investment Game Changers Summit I 2018 (30572772047).jpg|thumb|right|President of Montenegro on the Global Investment Game Changers Summit [[2018]] [[Geneva]].]]
+The implementation of this constitutional responsibility was vested in the Ministry of [[Foreign Affairs]], which was given the task of defining the foreign policy priorities and activities needed for their implementation. These activities are pursued in close cooperation with other state administration authorities, the President, the [[Speaker (politics)|Speaker]] of the Parliament, and other relevant stakeholders.<ref name="mvpei.gov.me">{{cite web|url=http://www.mvpei.gov.me/en/ministry/Foreign-Policy/|archive-url=https://web.archive.org/web/20130921043856/http://www.mvpei.gov.me/en/ministry/Foreign-Policy|dead-url=yes|archive-date=2013-09-21|website=mvpei.gov.me|title=Foreign Policy}}</ref>
+
+Integration into the [[European Union]] is Montenegro's strategic goal. This process will remain in the focus of Montenegrin foreign policy in the short term.
+The second strategic and equally important goal, but one attainable in a shorter time span, was joining [[NATO]], which would guarantee stability and security for pursuing other strategic goals. Montenegro believes NATO integration would speed up EU integration.<ref name="mvpei.gov.me" /> In May 2017 NATO accepted Montenegro as a NATO member starting 5 June 2017.<ref>{{cite news |title=Montenegro to Join NATO on June 5 – WSJ |url=https://www.wsj.com/articles/montenegro-to-join-nato-on-june-5-1495704211 |date=25 May 2017 |author=Julian E. Barnes |newspaper=[[The Wall Street Journal]] |accessdate=25 May 2017}}</ref>
+
+Although it only borders [[Albania]], [[Bosnia and Herzegovina]], [[Croatia]], [[Kosovo]], and [[Serbia]], Montenegro also counts former Yugoslav republics [[North Macedonia]] and [[Slovenia]] as its neighbouring countries, for historical and regional reasons, as well as the neighbours of former Yugoslavia: Austria, Hungary, Romania, Bulgaria, and Greece.
+
+=== Symbols ===
+{{See also|National symbols of Montenegro}}
+
+An official [[flag of Montenegro]], based on the royal standard of [[King Nicholas I]], was adopted on 12 July 2004 by the Montenegrin legislature. This royal flag was red with a silver border, a silver coat of arms, and the initials НІ, in Cyrillic script (corresponding to NI in Latin script), representing King Nicholas I. On the current flag, the border and arms are in gold and the royal cipher in the centre of the arms has been replaced with a golden lion.
+
+The national day of 13 July marks the date in 1878 when the [[Congress of Berlin]] recognized Montenegro as the 27th independent state in the world<ref>{{cite web |url=http://www.predsjednik.me/print.php?id=983&jezik=2 |title=President Vujanovic's Closing Speech at the Crans Montana Forum |publisher=Predsjednik.me |date=21 February 2006 |accessdate=11 September 2010 |archive-url=https://web.archive.org/web/20110511115623/http://www.predsjednik.me/print.php?id=983&jezik=2 |archive-date=11 May 2011 |dead-url=yes}}</ref><!--At end of the speech "Right to vote in the referendum on independence should also be enabled because of the chance for Montenegro to regain her full international subjectivity after 128 years since her international recognition at the Berlin Congress. At that period of time, Montenegro was the 27th state of the international community." ~~~~~ --> and the start of one of the first popular uprisings in Europe against the [[Axis Powers]] on 13 July 1941 in Montenegro.
+
+In 2004, the Montenegrin legislature selected a popular Montenegrin traditional song, "[[Oj, svijetla majska zoro|Oh, Bright Dawn of May]]", as the [[national anthem]]. Montenegro's official anthem during the reign of King Nicholas I was ''[[Ubavoj nam Crnoj Gori]]'' ("To Our Beautiful Montenegro").
+
+=== Military ===
+{{Main|Armed Forces of Montenegro}}
+[[File:Patrolni brod klasa Kotor P34.jpg|thumb|[[Montenegro Navy]]]]
+[[File:Military Montenegro 11.jpg|thumb|[[Armed Forces of Montenegro]]]]
+
+The [[military of Montenegro]] is a fully professional [[standing army]] under the [[Ministry of Defence (Montenegro)|Ministry of Defence]] and is composed of the [[Montenegrin Ground Army]], the [[Montenegrin Navy]], and the [[Montenegrin Air Force]], along with [[special forces]]. Conscription was abolished in 2006<!-- of the Army? -->. The [[military]] currently maintains a force of 1,920 active duty members. The bulk of its equipment and forces were inherited from the armed forces of the State Union of [[Serbia and Montenegro]]; as Montenegro contained the entire [[coastline]] of the former union, it retained practically the entire naval force.
+
+Montenegro was a member of NATO's [[Partnership for Peace]] program and then became an official candidate for full membership in the alliance. Montenegro applied for a Membership Action Plan on 5 November 2008, which was granted in December 2009. Montenegro is also a member of [[Adriatic Charter]].<ref>{{cite web |url=https://www.state.gov/p/eur/rls/fs/112766.htm |title=Adriatic Charter |access-date=7 September 2018 |archive-url=https://web.archive.org/web/20171012213907/https://www.state.gov/p/eur/rls/fs/112766.htm |archive-date=12 October 2017 |dead-url=yes}}</ref> Montenegro was invited to join [[NATO]] on 2 December 2015 and on 19 May 2016, NATO and Montenegro conducted a signing ceremony at NATO headquarters in [[Brussels]] for Montenegro's membership invitation.<ref>{{cite web |url=http://abcnews.go.com/International/wireStory/nato-ministers-meet-wide-array-security-challenges-39222251 |title=NATO Formally Invites Montenegro as 29th Member |agency=Associated Press |date=19 May 2016 |accessdate=20 May 2016}}</ref> Montenegro became NATO's 29th [[Member states of NATO|member]] on 5 June 2017, despite [[Russia]]'s objections.<ref>{{Cite news |url=http://abcnews.go.com/International/wireStory/defying-russia-montenegro-finally-joins-nato-47837516 |title=Defying Russia, Montenegro finally joins NATO |last=Milic |first=Predrag |date=5 June 2017 |publisher=ABC News |access-date=5 June 2017}}</ref> The government plans to have the army participate in [[peacekeeping]] missions through the UN and NATO such as the [[International Security Assistance Force]].<ref>{{cite web |url=http://www.vijesti.me/index.php?id=302794 |title=Spremaju se za Avganistan |publisher=Vijesti.me |accessdate=11 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110725140231/http://www.vijesti.me/index.php?id=302794 |archivedate=25 July 2011}}</ref>
+
+=== Administrative divisions ===
+{{Main|Municipalities of Montenegro|List of regions of Montenegro}}
+Montenegro is divided into twenty-three [[municipality|municipalities]] (''[[opština]]''). This includes 21 District-level Municipalities and 2 Urban Municipalities, with two subdivisions of [[municipality of Podgorica|Podgorica municipality]], listed below.  Each municipality can contain multiple cities and towns.  Historically, the territory of the country was divided into "nahije".
+{| border="0" cellpadding="4"
+|-
+! | No. || Municipality || Seat
+|-
+| rowspan="25" | [[File:Montenegro, administrative divisions - Nmbrs - colored.svg|thumb|upright=1.15|Municipalities of Montenegro.]][[File:Regions of Montenegro.jpg|thumb|upright=1.15|Regions of Montenegro.]]
+|-
+| [[File:Pljevlja-grb.png|x30px]] 1 || [[Pljevlja Municipality]] || [[Pljevlja]]
+|-
+| [[File:Pluzine coa.png|x27px]] 2 || [[Plužine Municipality]] || [[Plužine]]
+|-
+| [[File:Amblem of Zabljak.png|x18px]] 3 || [[Žabljak Municipality]] || [[Žabljak]]
+|-
+| [[File:Mojkovac coa.png|x34px]] 4 || [[Mojkovac Municipality]] || [[Mojkovac]]
+|-
+| [[File:BijeloPoljeWeapon.png|x38px]] 5 || [[Bijelo Polje Municipality]] || [[Bijelo Polje]]
+|-
+| [[File:BeraneWeapon.png|x30px]] 6 || [[Berane Municipality|Berane]]  / [[Petnjica Municipality|Petnjica]] || [[Berane]] / [[Petnjica]] (22)
+|-
+| [[File:Rozaje-grb.png|x25px]] 7 || [[Rožaje Municipality]] || [[Rožaje]]
+|-
+| [[File:SavnikWeapon.png|x30px]] 8 || [[Šavnik Municipality]] || [[Šavnik]]
+|-
+| [[File:Niksic-Grb.gif|x35px]] 9 || [[Nikšić Municipality]] || [[Nikšić]]
+|-
+| [[File:Kolasin coat.gif|x25px]] 10 || [[Kolašin Municipality]] || [[Kolašin]]
+|-
+| [[File:CoatAN.jpg|x30px]] 11 || [[Andrijevica Municipality]] || [[Andrijevica]]
+|-
+| [[File:PlavWeapon.png|x28px]] 12 || [[Plav Municipality|Plav]] / [[Gusinje Municipality|Gusinje]] || [[Plav Municipality|Plav]] / [[Gusinje]] (23)
+|-
+| [[File:Coat of Arms of Kotor.png|x16px]] 13 || [[Kotor Municipality]] || [[Kotor]]
+|-
+| [[File:Cetinje Coat-of-Arms.svg|x28px]] 14 || '''[[Cetinje]]''' || '''Old Royal Capital'''
+|-
+| [[File:Coat of arms of Danilovgrad.jpg|x25px]] 15 || [[Danilovgrad Municipality]] || [[Danilovgrad]]
+|-
+| [[File:Podgorica Coat of Arms.png|x18px]] 16 || '''[[Podgorica]]''' || '''Capital City and Municipality'''
+|-
+| [[File:Herceg-Novi-Grb.gif|x28px]] 17 || [[Herceg Novi Municipality]] || [[Herceg Novi]]
+|-
+| [[File:TivatWeapon.png|x20px]] 18 || [[Tivat Municipality]] || [[Tivat]]
+|-
+| [[File:Budva-grb.gif|x15px]] 19 || [[Budva Municipality]] || [[Budva]]
+|-
+| [[File:Coat of Arms of Bar.png|x18px]] 20 || [[Bar Municipality]] || [[Bar, Montenegro|Bar]]
+|-
+| [[File:Coat of Arms of Ulcinj.svg|x27px]] 21 || [[Ulcinj Municipality]] || [[Ulcinj]]
+|}
+
+=== Cities in Montenegro ===
+{{Main|List of cities in Montenegro}}
+{{Largest cities of Montenegro}}
+
+== Economy ==
+{{Main|Economy of Montenegro}}
+[[File:The port of Bar, view from Vrsuta mnt (39372956332).jpg|thumb|[[Port of Bar]] is Montenegro's main sea port located in [[Bar, Montenegro|Bar]].]]
+[[File:Salaping papel Euro.jpg|thumb|[[Montenegro and the euro|Montenegro uses the]] [[Euro]] as its national currency.]]
+The economy of Montenegro is mostly [[Tertiary sector of the economy|service-based]] and is in [[Transition economy|late transition]] to a [[market economy]]. According to the [[International Monetary Fund]], the [[nominal GDP]] of Montenegro was $4.376 billion in 2016.<ref name="WEO2018"/> The [[Purchasing power parity|GDP PPP]] for 2016 was $10.428 billion, or $16,749 per capita.<ref name="WEO2018"/> According to [[Eurostat]] data, the Montenegrin GDP per capita stood at 46% of the EU average in 2017.<ref>{{cite web |url=https://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=tec00114&language=en&toolbox=data |title=GDP per capita in PPS |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=1 February 2019}}</ref> The [[Central Bank of Montenegro]] is not part of the euro system but the country is "[[euroisation|euroised]]", using [[Montenegro and the euro|the euro unilaterally]] as its currency.
+
+GDP grew at 10.7% in 2007 and 7.5% in 2008.<ref>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=69&pr.y=3&sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=943&s=NGDPD%2CPPPGDP%2CPPPPC&grp=0&a= |title=5. Report for Selected Countries and Subjects |publisher=[[International Monetary Fund]] |website=IMF.org |date=April 2011}}</ref> The country entered a [[recession]] in 2008 as a part of the [[late-2000s recession|global recession]], with GDP contracting by 4%. However, Montenegro remained a target for [[foreign direct investment|foreign investment]], the only country in the Balkans to increase its amount of direct foreign investment.<ref>[http://in.reuters.com/article/fundsNews/idINGEE5B91G120091210 FDI falls across West Balkans, except Montenegro.] [[Reuters]] India 10 December 2009. Retrieved 14 December 2009.</ref> The country exited the recession in mid-2010, with GDP growth at around 0.5%.<ref>{{cite web |url=http://balkans.com/open-news.php?uniquenumber=43059 |title=Montenegro's leader sees slow economic recovery |website=''balkans.com'' |deadurl=yes |archiveurl=https://web.archive.org/web/20110514222459/http://www.balkans.com/open-news.php?uniquenumber=43059 |archivedate=14 May 2011}}</ref> However, the significant dependence of the Montenegrin economy on [[foreign direct investment]] leaves it susceptible to external shocks and a high export/import trade deficit.
+
+In 2007, the [[service sector]] made up 72.4% of GDP, with industry and agriculture making up the rest at 17.6% and 10%, respectively.<ref name=WB>{{cite web |url=http://devdata.worldbank.org/AAG/mne_aag.pdf |title=Montenegro at a glance |deadurl=yes |archiveurl=https://web.archive.org/web/20110511082355/http://devdata.worldbank.org/AAG/mne_aag.pdf |archivedate=11 May 2011}}</ref> There are 50,000 farming households in Montenegro that rely on agriculture to fill the family budget.<ref>{{cite web |first=Milena |last=Milosevic |url=http://www.balkaninsight.com/en/article/agriculture-imposes-new-challenges-for-montenegro |title=EU Farming Standards Pose Test For Montenegro |publisher=Balkan Insight |accessdate=7 December 2012}}</ref>
+
+=== Infrastructure ===
+{{Main|Transport in Montenegro}}
+[[File:Montenegro motorways.JPG|thumb|left|upright=1.2|Roads of Montenegro in service and two planned: red – [[Belgrade–Bar motorway|Bar–Boljare highway]], blue – [[Adriatic–Ionian motorway]]]]
+
+The Montenegrin road infrastructure is not yet at Western European standards. Despite an extensive road network, no roads are built to full [[motorway]] standards. Construction of new motorways is considered a national priority, as they are important for uniform regional economic development and the development of Montenegro as an attractive tourist destination.
+
+Current [[European route]]s that pass through Montenegro are [[European route E65|E65]] and [[European route E80|E80]].
+
+The backbone of the Montenegrin rail network is the [[Belgrade–Bar railway]], which provides international connection towards [[Serbia]]. There is a domestic branch line, the [[Nikšić-Podgorica railway]], which was operated as a freight-only line for decades, and is now also open for passenger traffic after the reconstruction and electrification works in 2012. The other branch line from Podgorica towards the Albanian border, the [[Podgorica–Shkodër railway]], is not in use.
+{{Multiple image
+ |align     = right
+ |direction = horizontal
+ |width     = 
+ |image1    = 01.10.13 Nikšić 6111.101 (10101158945).jpg
+ |width1    = 225
+ |alt1      = 
+ |caption1  = A train of [[Rail transport in Montenegro|Railways of Montenegro]]
+ |image2    =IMG-20170712-100302-montenegro-podgorica-airport-2017.jpg
+ |width2    = 265
+ |alt2      = 
+ |caption2  = [[Podgorica Airport]] Bridge
+}}
+Montenegro has two international airports, [[Podgorica Airport]] and [[Tivat Airport]]. The two airports served 1.1&nbsp;million passengers in 2008. [[Montenegro Airlines]] is the flag carrier of Montenegro.
+
+The [[Port of Bar]] is Montenegro's main seaport. Initially built in 1906, the port was almost completely destroyed during [[World War II]], with reconstruction beginning in 1950. Today, it is equipped to handle over 5 million tons of cargo annually, though the breakup of the former Yugoslavia and the size of the Montenegrin industrial sector has resulted in the port operating at a loss and well below capacity for several years. The reconstruction of the [[Belgrade-Bar railway]] and the proposed [[Belgrade-Bar motorway]] are expected to bring the port back up to capacity.
+
+=== Tourism ===
+{{Main|Tourism in Montenegro}}
+[[File:Velke a male Skrcke jezero mezi Prutasem a Planinici (2330 m.jpg|thumb|[[Durmitor]], Škrčko Lake]]
+[[File:View over Bay of Kotor - Montenegro - 01.jpg|thumb|left|[[Bay of Kotor]]]]
+[[File:Wildpark Bad Mergentheim. Braunbären.jpg|thumb|left|The [[Eurasian brown bear]], a protected species in Montenegro.]]
+[[File:Buljarica beach.jpg|thumb|[[Buljarica]] beach]]
+[[File:Durmitor, canyon Tara - Montenegro.JPG|thumb|right|[[Tara River Canyon|Tara Canyon]], deepest canyon in Europe]]
+Montenegro has both a picturesque coast and a mountainous northern region. The country was a well-known tourist spot in the 1980s. Yet, the [[Yugoslav wars]] that were fought in neighbouring countries during the 1990s crippled the tourist industry and damaged the image of Montenegro for years.
+
+With a total of 1.6&nbsp;million visitors, the nation is the 36th (out of 47 countries) most visited country in Europe.<ref>{{cite web |author1=Mark Hillsdon |title=The European capital you'd never thought to visit (but really should) |url=https://www.telegraph.co.uk/travel/destinations/europe/albania/articles/tirana-albania-what-to-see-and-do-on-a-weekend-break/ |website=The Daily Telegraph |date=27 February 2017}}</ref>
+
+The Montenegrin [[Adriatic]] coast is {{convert|295|km|abbr=on}} long, with {{convert|72|km|abbr=on}} of beaches, and with many well-preserved ancient old towns. ''[[National Geographic Traveler]]'' (edited once in decade) features Montenegro among the "50 Places of a Lifetime", and Montenegrin seaside [[Sveti Stefan]] was used as the cover for the magazine.<ref>{{cite web |url=http://blogs.nationalgeographic.com/blogs/intelligenttravel/2009/09/50-places-of-a-lifetime-1.html |title=50 Places of a Lifetime |website=National Geographic |date=17 September 2009 |accessdate=11 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100329113520/http://blogs.nationalgeographic.com/blogs/intelligenttravel/2009/09/50-places-of-a-lifetime-1.html |archivedate=29 March 2010}}</ref> The coast region of Montenegro is considered one of the great new "discoveries" among world tourists. In January 2010, ''The New York Times'' ranked the Ulcinj South Coast region of Montenegro, including [[Velika Plaza]], [[Ada Bojana]], and the [[Hotel Mediteran]] of Ulcinj, as among the "Top 31 Places to Go in 2010" as part of a worldwide ranking of tourism destinations.<ref>{{cite news |url=https://www.nytimes.com/2010/01/10/travel/10places.html?pagewanted=2&ref=travel |title=The 31 Places to Go in 2010 |work=The New York Times |date=7 January 2010 |accessdate=7 December 2012}}</ref>
+
+Montenegro was also listed in "10 Top Hot Spots of 2009" to visit by Yahoo Travel, describing it as "Currently ranked as the second fastest growing tourism market in the world (falling just behind China)".<ref>{{cite web |url=http://travel.yahoo.com/p-interests-24784785 |title=10 Top Hot Spots of 2009 by Yahoo Travel |publisher=Yahoo! |accessdate=11 September 2010}}</ref> It is listed every year by prestigious tourism guides like Lonely Planet as top touristic destination along with Greece, Spain and other world touristic places.<ref>{{cite web |first=Holger |last=Leue |url=http://www.lonelyplanet.com/france/travel-tips-and-articles/42/50792 |title=Where to go in June |publisher=Lonely Planet |accessdate=11 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100605042913/http://www.lonelyplanet.com/france/travel-tips-and-articles/42/50792 |archivedate=5 June 2010}}</ref><ref>{{cite web |url=http://www.adventureworldmagazineonline.com/news/america-sending-their-best-adventure-racers-to-montenegro/ |title=America Sending their Best Adventure Racers to Montenegro |publisher=Adventureworldmagazineonline.com |date=4 June 2010 |accessdate=11 September 2010 |archive-url=https://web.archive.org/web/20100710170345/http://www.adventureworldmagazineonline.com/news/america-sending-their-best-adventure-racers-to-montenegro/ |archive-date=10 July 2010 |dead-url=yes  }}</ref>
+
+It was not until the 2000s that the tourism industry began to recover, and the country has since experienced a high rate of growth in the number of visits and overnight stays.
+The [[Government of Montenegro]] has set the development of Montenegro as an elite tourist destination a top priority. It is a national strategy to make tourism a major contributor to the Montenegrin economy. A number of steps were taken to attract foreign investors.
+Some large projects are already under way, such as [[Porto Montenegro]], while other locations, like [[Jaz Beach]], [[Buljarica]], [[Velika Plaža]] and [[Ada Bojana]], have perhaps the greatest potential to attract future investments and become premium tourist spots on the [[Adriatic]].
+
+== Demographics ==
+{{Main|Demographics of Montenegro|Demographic history of Montenegro}}
+
+=== Ethnic structure ===
+[[File:MontenegroEthnic2011.PNG|thumb|upright=0.8|left|Predominant ethnic group in each municipality of Montenegro, 2011]]
+According to the 2003 census, Montenegro has 620,145 citizens. If the methodology used up to 1991 had been adopted in the 2003 census, Montenegro would officially have recorded 673,094 citizens. The results of the 2011 census show that Montenegro has 620,029 citizens.<ref name="census2011" />
+{{Historical populations
+| footnote = 
+| 1900 | 311564
+| 1909 | 317856
+| 1921 | 311341
+| 1931 | 360044
+| 1953 | 419873
+| 1971 | 529604
+| 1981 | 584310
+| 1991 | 615035
+| 2003 | 620145
+| 2011 | 620029
+}}
+Montenegro is [[Multinational state|multiethnic state]] in which no ethnic group forms a majority.<ref>{{cite web |url=http://ec.europa.eu/agriculture/analysis/external/applicant/montenegro_en.pdf |title=Montenegro, country report |publisher=[[European Commission]] |date=December 2006 |accessdate=24 January 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160830004805/http://ec.europa.eu/agriculture/analysis/external/applicant/montenegro_en.pdf |archivedate=30 August 2016}}</ref><ref>{{cite book |url=https://books.google.com/?id=xKMtAQAAIAAJ&q=Montenegro+multi+ethnic+country&dq=Montenegro+multi+ethnic+country |title=Montenegro: A Modern History |publisher=[[I.B. Tauris]] |date= 2009|isbn=9781845117108 }}</ref> Major ethnic groups include [[Montenegrins (ethnic group)|Montenegrins]] (Црногорци/''Crnogorci'') and [[Serbs]] (Срби/''Srbi''), others are [[Bosniaks]] (''Bošnjaci''), [[Albanians]] (''Albanci&nbsp;– Shqiptarët'') and [[Croats]] (''Hrvati''). The number of "Montenegrins" and "Serbs" fluctuates widely from census to census due to changes in how people perceive, experience, or choose to express, their identity and ethnic affiliation.<ref>{{cite web |url=http://www.njegos.org/census/index.htm |title=Montenegrin Census' from 1909 to 2003 |publisher=Njegos.org |date=23 September 2004 |accessdate=11 September 2010}}</ref><ref>{{Cite news |url=https://joshuaproject.net/people_groups/14570/MJ |title=Romani, Balkan in Montenegro |work=Joshua Project |access-date=8 July 2018}}</ref><ref>{{Cite web |url=http://www.romea.cz/en/news/world/montenegro-the-money-came-and-went-and-romani-families-are-still-unhoused |title=Montenegro:  The money came and went – and Romani families are still unhoused |website=Romea.cz |date=18 July 2011 |access-date=8 July 2018}}</ref>
+
+{{hidden begin
+| title = Ethnic groups (2011 census)
+| toggle = left
+}}
+Ethnic composition according to the 2011 official data:<ref name="census2011">{{cite press release |url=http://monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |format=PDF |language=Serbo-Croatian, English |title=Popis stanovništva, domaćinstava i stanova u Crnoj Gori 2011. godine |trans-title=Census of Population, Households and Dwellings in Montenegro 2011 |publisher=Statistical office, Montenegro |date=12 July 2011 |accessdate=30 March 2011}}</ref>
+
+{| border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align:left; margin:0.5em 0 0; border-style:solid; border:1px solid #7f7f7f; border-right-width:2px; border-bottom-width:2px; border-collapse:collapse; font-size:100%;"
+|- style="background:beige;"
+| style="background:beige;" | 
+|  style="text-align:center;" | Number
+|  style="text-align:center;" | %
+|- style="background:#c1c1c1;"
+|| '''Total'''
+|| '''620,029'''
+|| 100
+|-
+| style="background:beige;" | [[Montenegrins (ethnic group)|Montenegrins]]
+| 278,865
+| 45.0
+|-
+| style="background:beige;" | [[Serbs]]
+| 178,110
+| 28.7
+|-
+| style="background:beige;" | [[Bosniaks]]
+| 53,605
+| 8.6
+|-
+| style="background:beige;" | [[Albanians]]
+| 30,439
+| 4.9
+|-
+| style="background:beige;" | [[Muslims by nationality]]
+| 20,537
+| 3.3
+|-
+| style="background:beige;" | [[Croats]]
+| 6,021
+| 1.0
+|-
+| style="background:beige;" | [[Romani people|Roma]]
+| 5,251
+| 0.8
+|-
+| style="background:beige;" | [[Serbians|Serbo]]-[[Montenegrins (ethnic group)|Montenegrins]]
+| 2,103
+| 0.3
+|-
+| style="background:beige;" | [[Balkan Egyptians|"Egyptians"]]
+| 2,054
+| 0.3
+|-
+| style="background:beige;" | [[Montenegrins (ethnic group)|Montenegrins]]-[[Serbs]]
+| 1,833
+| 0.3
+|-
+| style="background:beige;" | [[Yugoslavs]]
+| 1,154
+| 0.2
+|-
+| style="background:beige;" | [[Russians]]
+| 946
+| 0.2
+|-
+| style="background:beige;" | [[Macedonians (ethnic group)|Macedonians]]
+| 900
+| 0.2
+|-
+| style="background:beige;" | [[Bosnians]]
+| 427
+| 0.1
+|-
+| style="background:beige;" | [[Slovenes]]
+| 354
+| 0.1
+|-
+| style="background:beige;" | [[Hungarians]]
+| 337
+| 0.1
+|-
+| style="background:beige;" | [[Montenegrins (ethnic group)|Muslim-Montenegrins]]
+| 257
+| <0.1
+|-
+| style="background:beige;" | [[Gorani people]]
+| 197
+| <0.1
+|-
+| style="background:beige;" | [[Bosniaks|Muslim-Bosniaks]]
+| 183
+| <0.1
+|-
+| style="background:beige;" | [[Bosniaks]]-Muslims
+| 181
+| <0.1
+|-
+| style="background:beige;" | [[Montenegrins (ethnic group)|Montenegrin-Muslims]]
+| 175
+| <0.1
+|-
+| style="background:beige;" | [[Italians]]
+| 135
+| <0.1
+|-
+| style="background:beige;" | [[Germans]]
+| 131
+| <0.1
+|-
+| style="background:beige;" | [[Turkish people|Turks]]
+| 104
+| <0.1
+|-
+| style="background:beige;" | ''regional qualification''
+| 1,202
+| 0.2
+|-
+| style="background:beige;" | ''without declaration''
+| 30,170
+| 4.9
+|-
+| style="background:beige;" | ''other''
+| 3,358
+| 0.5
+|}
+{{hidden end}}
+
+=== Languages ===
+{{Main|Languages of Montenegro}}
+[[File:MontenegroLanguage2011.PNG|thumb|upright=0.8|left|Linguistic structure of Montenegro by settlements, 2011]]
+The official language in Montenegro is [[Montenegrin language|Montenegrin]]. Also, [[Serbian language|Serbian]], [[Bosnian language|Bosnian]], [[Albanian language|Albanian]] and [[Croatian language|Croatian]] are recognized in usage. Montenegrin, Serbian, Bosnian, and Croatian are [[mutually intelligible]], all being [[standard varieties]] of [[Serbo-Croatian language]]. Montenegrin is the plurality mother tongue of the population under 18 years of age.<ref>[http://www.vijesti.me/vijesti/vecina-mladih-18-godina-govori-crnogorskim-jezikom-clanak-30645] {{Webarchive|url=https://web.archive.org/web/20131102151127/http://www.vijesti.me/vijesti/vecina-mladih-18-godina-govori-crnogorskim-jezikom-clanak-30645 |date=2 November 2013 }} [[Vijesti]]: The majority of youth below 18 years of age speaks the Montenegrin language (26 July 2011)</ref> In 2013, [[Matica crnogorska]] announced the results of public opinion research regarding the identity attitudes of the citizens of Montenegro, indicating that the majority of the population claims Montenegrin as their mother tongue.<ref>[http://www.maticacrnogorska.me/files/Istrazivanje%20javnog%20mnjenja.pdf] [[Matica crnogorska]]: Third deep research of public opinion regarding the identity attitudes of the citizens of Montenegro (2013)</ref> Previous constitutions endorsed Serbo-Croatian as the official language in [[SR Montenegro]] and Serbian of [[Ijekavian]] standard during the [[Republic of Montenegro (federal)|1992–2006 period]].
+
+{{hidden begin
+| title = Languages (2011 census)
+| toggle = left
+}}
+According to the 2011 Census the following languages are spoken in the country:<ref name="census2011" />
+
+{| border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align:left; margin:0.5em 0 0; border-style:solid; border:1px solid #7f7f7f; border-right-width:2px; border-bottom-width:2px; border-collapse:collapse; font-size:100%;"
+|- style="background:beige;"
+| style="background:beige;" | 
+|  style="text-align:center;" | Number
+|  style="text-align:center;" | %
+|- style="background:#c1c1c1;"
+|| '''Total'''
+|| '''620,029'''
+|| 100
+|-
+| style="background:beige;" | [[Serbian language|Serbian]]
+| 265,895
+| 42.9
+|-
+| style="background:beige;" | [[Montenegrin language|Montenegrin]]
+| 229,251
+| 37.0
+|-
+| style="background:beige;" | [[Bosnian language|Bosnian]]
+| 33,077
+| 5.3
+|-
+| style="background:beige;" | [[Albanian language|Albanian]]
+| 32,671
+| 5.3
+|-
+| style="background:beige;" | [[Serbo-Croatian language|Serbo-Croatian]]
+| 12,559
+| 2.0
+|-
+| style="background:beige;" | [[Roma language|Roma]]
+| 5,169
+| 0.8
+|-
+| style="background:beige;" | ''[[Bosnian language|Bosniak]]''
+| 3,662
+| 0.6
+|-
+| style="background:beige;" | [[Croatian language|Croatian]]
+| 2,791
+| 0.5
+|-
+| style="background:beige;" | Russian
+| 1,026
+| 0.2
+|-
+| style="background:beige;" | ''[[Serbian language|Serbo]]-[[Montenegrin language|Montenegrin]]''
+| 618
+| 0.1
+|-
+| style="background:beige;" | [[Macedonian language|Macedonian]]
+| 529
+| 0.1
+|-
+| style="background:beige;" | ''[[Montenegrin language|Montenegrin]]-[[Serbian language|Serbian]]''
+| 369
+| 0.1
+|-
+| style="background:beige;" | [[Hungarian language|Hungarian]]
+| 225
+| <0.1
+|-
+| style="background:beige;" | ''[[Croatian language|Croatian]]-[[Serbian language|Serbian]]''
+| 224
+| <0.1
+|-
+| style="background:beige;" | English
+| 185
+| <0.1
+|-
+| style="background:beige;" | German
+| 129
+| <0.1
+|-
+| style="background:beige;" | [[Slovene language|Slovene]]
+| 107
+| <0.1
+|-
+| style="background:beige;" | [[Romanian language|Romanian]]
+| 101
+| <0.1
+|-
+| style="background:beige;" | ''mother tongue''
+| 3,318
+| 0.5
+|-
+| style="background:beige;" | ''regional languages''
+| 458
+| 0.1
+|-
+| style="background:beige;" | ''without declaration''
+| 24,748
+| 4.0
+|-
+| style="background:beige;" | ''other''
+| 2,917
+| 0.5
+|}
+{{hidden end}}
+
+=== Religion ===
+{{Main|Religion in Montenegro}}
+{{multiple image|align = right|perrow = 2|total_width=400
+| image1 = Podgorica, cattedrale della resurrezione di cristo, esterno 01.JPG  |width1=500|height1=335
+| image2 = Kotor Cathedral church.jpg |width2=500|height2=335
+| image3 = Perast - panoramio (3).jpg|width3=500|height3=335
+| image4 = Monasterio de Ostrog, Montenegro, 2014-04-14, DD 14.JPG  |width4=500|height4=335
+| footer = Clockwise from left: 1. Orthodox [[Cathedral of the Resurrection of Christ, Podgorica]] 2. [[Kotor Cathedral|Roman Catholic cathedral in Kotor]] 3. Church of Our Lady of the Rosary in [[Perast]] – in the background Saint George Benedictine monastery and [[Our Lady of the Rocks]] on the two [[islets]] off the coast of [[Perast]] in [[Bay of Kotor]] 4. [[Ostrog Monastery]] − the famous and most popular Christian pilgrimage site in Montenegro.
+}}
+[[File:MontenegroReligion2011.PNG|thumb|upright=0.8|right|Religious structure of Montenegro by settlements, 2011]]
+Montenegro has been historically at the crossroads of multiculturalism and over centuries this has shaped its unique form of co-existence between Muslim and Christian populations.<ref>{{Cite book |title=Strengthening Religious Tolerance for a Secure Civil Society in Albania and the Southern Balkans |last=Pettifer |first=James |publisher=IOS Press |year=2007 |isbn=978-1-58603-779-6 |location= |pages=}}</ref> Montenegrins have been, historically, members of the [[Serbian Orthodox Church]] (governed by the [[Metropolitanate of Montenegro and the Littoral]]), and [[Serbian Orthodox Church|Serbian Orthodox Christianity]] is the most popular religion today in Montenegro.  The [[Montenegrin Orthodox Church]] was recently founded and is followed by a small minority of Montenegrins although it is not in communion with any other Christian Orthodox Church as it has not been officially recognized.
+
+Despite tensions between religious groups during the [[Bosnian War]], Montenegro remained fairly stable, mainly due its population having a historic perspective on religious tolerance and faith diversity.<ref>{{Cite book |title=International Religious Freedom 2000: Annual Report: Submitted by the U.S. Department Of State |last=Larkin |first=Barbara |publisher=Diane Publishing |year=2001 |isbn=978-0-7567-1229-7 |location= |pages=}}</ref> Religious institutions from Montenegro all have guaranteed rights and are separate from the state. The second largest religion is Islam, which amounts to 19% of the total population of the country. One third of [[Albanians]] are [[Catholics]] (8,126 in the 2004 census) while the two other thirds (22,267) are mainly [[Sunni Muslims]]; in 2012 a protocol passed that recognizes [[Islam]] as an official religion in Montenegro, ensures that [[halal]] foods will be served at military facilities, hospitals, dormitories and all social facilities; and that Muslim women will be permitted to wear headscarves in schools and at public institutions, as well as ensuring that Muslims have the right to take Fridays off work for the [[Jumu'ah]] (Friday)-prayer.<ref>[http://www.todayszaman.com/newsDetail_getNewsById.action;jsessionid=DA2F43BACD1FEFE22CCCDB093D5DA0B3?newsId=274558 Rifat Fejzic, the reis (president) of the Islamic community in Montenegro] {{webarchive|url=https://web.archive.org/web/20130921055243/http://www.todayszaman.com/newsDetail_getNewsById.action;jsessionid=DA2F43BACD1FEFE22CCCDB093D5DA0B3?newsId=274558 |date=21 September 2013 }} Today's Zaman</ref> There is also a small Roman Catholic population, mostly Albanians with some Croats, divided between the [[Roman Catholic Archdiocese of Bar|Archdiocese of Antivari]] headed by the Primate of Serbia and the [[Roman Catholic Diocese of Kotor|Diocese of Kotor]] that is a part of the [[Church of Croatia]].
+
+Religious determination according to the 2011 census:<ref name="census2011" />
+
+{| border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align:left;margin:0.5em 0 0; border-style:solid; border:1px solid #7f7f7f; border-right-width:2px; border-bottom-width:2px; border-collapse:collapse; font-size:100%;"
+|- style="background:beige;"
+| style="background:beige;text-align:center;" | <small>Religion</small>
+| style="text-align:center;" | Number
+| style="text-align:center;" | %
+|- style="background:#c1c1c1;"
+|| '''Total'''
+|| '''620,029'''
+|| 100
+|-
+| style="background:beige;" | [[Orthodoxy in Montenegro|Eastern Orthodox]]
+| 446,858
+| 72.1
+|-
+| style="background:beige;" | [[Catholicism in Montenegro|Catholics]]
+| 21,299
+| 3.4
+|-
+| style="background:beige;" | Protestants
+| 143
+| 0.1
+|-
+| style="background:beige;" | [[Adventists]]
+| 894
+| 0.1
+|-
+| style="background:beige;" | [[Jehovah's Witnesses]]
+| 145
+| <0.1
+|-
+| style="background:beige;" | Other Christians
+| 1,460
+| 0.2
+|-
+| style="background:beige;" | [[Islam in Montenegro|Islam/Muslims]]
+| 118,477<br />(99,038 ''Islam'', 19,439 ''Muslims'')
+| 19.1<br />(16.0 ''Islam'', 3.1 ''Muslims'')
+|-
+| style="background:beige;" | [[Buddhists]]
+| 118
+| <0.1
+|-
+| style="background:beige;" | [[Atheists]]
+| 7,667
+| 1.2
+|-
+| style="background:beige;" | Agnostics
+| 451
+| 0.1
+|-
+| style="background:beige;" | ''other''
+| 6,337
+| 1.0
+|-
+| style="background:beige;" | ''without declaration''
+| 16,180
+| 2.6
+|}
+:'''Note''': ''In the 2011 census, there are two separate columns for the adherents of Islam, one is called Islam, the other Muslims.''
+
+== Education ==
+{{Main|Education in Montenegro}}
+
+Education in Montenegro is regulated by the [[Government of Montenegro|Montenegrin Ministry of Education and Science]].
+
+Education starts in either pre-schools or elementary schools. Children enroll in elementary schools ([[Montenegrin language|Montenegrin]]: ''Osnovna škola'') at the age of 6; it lasts 9 years. The students may continue their secondary education ([[Montenegrin language|Montenegrin]]: ''Srednja škola''), which lasts 4 years (3 years for trade schools) and ends with graduation ([[Matura]]). Higher education lasts with a certain first degree after 3 to 6 years. There is one public university ([[University of Montenegro]]) and two private ([[Mediterranean University]] and [[University of Donja Gorica]]).
+
+=== Elementary and secondary education ===
+
+Elementary education in Montenegro is free and compulsory for all the children between the age of 7 and 15 when children attend the "eight-year school".
+
+Various types of elementary education are available to all who qualify, but the vocational and technical schools (gymnasiums), where the students follow four-year course which will take them up to the university entrance, are the most popular. At the secondary level there are a number of art schools, apprentice schools and teacher training schools. Those who have attended the technical schools may pursue their education further at one of two-year post-secondary schools, created in response to the needs of industry and the social services.
+
+Secondary schools are divided in three types, and children attend one depending on choice and primary school grades:
+
+* [[Gymnasium (school)|Gymnasium]] (Gimnazija / Гимназиjа), lasts for four years and offers a general, broad education. It is a preparatory school for university, and hence the most academic and prestigious.
+* Professional schools (Stručna škola / Стручна школа) last for three or four years and specialize students in certain fields which may result in their attending college; professional schools offer a relatively broad education.
+* Vocational schools (Zanatska škola / Занатска школа) last for three years and focus on vocational education (e.g., joinery, plumbing, mechanics) without an option of continuing education after three years.
+[[File:Cetinje, Montenegro - panoramio (15).jpg|thumb|[[National Library of Montenegro]] in [[Cetinje]]]]
+
+=== Tertiary education ===
+Tertiary level institutions are divided into "Higher education" (Više obrazovanje) and "High education" (Visoko obrazovanje) level faculties.
+
+* Colleges (Fakultet) and art academies (akademija umjetnosti) last between 4 and 6 years (one year is two semesters long) and award diplomas equivalent to a Bachelor of Arts or a Bachelor of Science degree.
+
+Higher schools (Viša škola) lasts between two and four years.
+
+=== Post-graduate education ===
+Post-graduate education (post-diplomske studije) is offered after tertiary level and offers [[Masters' degree]]s, PhD and specialization education.
+
+== Culture ==
+{{Main|Culture of Montenegro}}
+[[File:THEOTOKOS PHILERMON.jpg|thumb|left|upright=0.7|[[Our Lady of Philermos]] the patroness of Montenegro, [[Rhodes]] and [[Sovereign Military Order of Malta]], one of the first Christian icons, according to legend painted by [[Luke the Evangelist|St. Luke]], [[National Museum of Montenegro]], Cetinje.]]
+
+=== Art ===
+[[File:Vladin Dom (Dom Rządowy) w Cetinje 02.jpg|thumb|[[National Museum of Montenegro]]]]
+[[File:Museo_Marítimo,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_31.JPG|thumb|right|Maritime Museum of Montenegro in [[Kotor]].]]
+
+The culture of Montenegro has been shaped by a variety of influences throughout history. The influence of Orthodox, Ottoman (Turk), Slavic, Central European, and seafaring Adriatic cultures (notably parts of Italy, like the [[Republic of Venice]]) have been the most important in recent centuries.
+
+Montenegro has many significant cultural and historical sites, including heritage sites from the pre-[[Romanesque architecture|Romanesque]], [[Gothic art|Gothic]] and [[Baroque]] periods. The Montenegrin coastal region is especially well known for its religious monuments, including the [[Cathedral of Saint Tryphon]] in [[Kotor]]<ref>{{cite web |first=Aleksandar |last=Šestović |url=http://www.kotoronline.com |title=Kotor |publisher=Kotoronline.com |accessdate=11 September 2010}}</ref> (Cattaro under the Venetians), the basilica of St. Luke (over 800 years), [[Our Lady of the Rocks]] (Škrpjela), the [[Savina monastery (Montenegro)|Savina Monastery]] and others. Montenegro's medieval monasteries contain thousands of square metres of frescos on their walls.
+
+A dimension of Montenegrin culture is the ethical ideal of ''Čojstvo i Junaštvo'', "Humaneness and Gallantry".<ref>{{cite web |url=http://web.f.bg.ac.rs/print.php?sid=58&id=1014&zid=28&kid=338 |archive-url=https://archive.is/20121221112024/http://web.f.bg.ac.rs/print.php?sid=58&id=1014&zid=28&kid=338 |dead-url=yes |archive-date=21 December 2012 |title=Чојство и јнаштво старих Црногораца, Цетиње 1968. 3–11 |publisher=Web.f.bg.ac.rs |accessdate=11 September 2010}}</ref><ref>[http://www.montenegrina.net/pages/pages1/istorija/petrovici_xviii_vijek/oblikovanje_crnogorske_nacije_u_doba_petrovica_njegosa.ht Oblikovanje crnogorske nacije u doba petrovica njegosa, "Cojstvo je osobeno svojstvo Crnogoraca, koje su uzdigli u najvecu vrlinu i uzor."] {{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> The traditional folk dance of the Montenegrins is the [[Hora (dance)|Oro]], the "eagle dance" that involves dancing in circles with couples alternating in the centre, and is finished by forming a human pyramid by dancers standing on each other's shoulders.
+
+=== Literature ===
+Montenegro's capital Podgorica and the former royal capital of Cetinje are the two most important centres of culture and the arts in the country.
+
+The American author [[Rex Stout]] wrote a long series of detective novels featuring his fictional creation [[Nero Wolfe]], who was born in Montenegro. His Nero Wolfe novel "[[The Black Mountain]]" was largely set in Montenegro during the 1950s.
+
+=== Media ===
+{{Main|Media of Montenegro}}
+The media of Montenegro refers to [[mass media]] outlets based in Montenegro. Television, magazines, and newspapers are all operated by both state-owned and for-profit corporations which depend on [[advertising]], [[subscription]], and other sales-related revenues. The [[Constitution of Montenegro]] guarantees freedom of speech.
+As a [[country in transition]], Montenegro's media system is under transformation.
+
+=== Cuisine ===
+{{Main|Montenegrin cuisine}}
+[[File:Foods from Montenegro.jpg|thumb|Foods from Montenegro]]
+Montenegrin cuisine is a result of Montenegro's long history. It is a variation of Mediterranean and Oriental. The most influence is from Italy, [[Turkey]], [[Byzantine Empire]]/[[Greece]], and as well from Hungary. Montenegrin cuisine also varies geographically; the cuisine in the coastal area differs from the one in the northern highland region. The coastal area is traditionally a representative of [[Mediterranean cuisine]], with seafood being a common dish, while the northern represents more the Oriental.
+
+=== Sport ===
+{{Main|Sport in Montenegro}}
+
+The '''Sports in Montenegro''' revolves mostly around team sports, such as [[Association football|football]], [[basketball]], [[water polo]], [[volleyball]], and [[Team handball|handball]]. Other sports involved are [[boxing]], [[tennis]], [[Swimming (sport)|swimming]], [[judo]], [[karate]], [[Athletics (sport)|athletics]], [[table tennis]], and [[chess]].
+
+The most popular sport is [[Association football|football]]. Notable players from Montenegro were [[Dejan Savićević]], [[Predrag Mijatović]], [[Mirko Vučinić]], [[Stefan Savić]] or [[Stevan Jovetić]]. [[Montenegrin national football team]], founded at 2006, played in playoffs for [[UEFA Euro 2012]], which is the biggest success in the history of national team.
+
+[[Water polo]] is often considered the national sport. Montenegro's [[Montenegro national water polo team|national team]] is one of the top ranked teams in the world, winning the gold medal at the [[2008 Men's European Water Polo Championship]] in [[Málaga]], [[Spain]], and winning the gold medal at the [[2009 FINA Men's Water Polo World League]], which was held in Montenegrin capital, [[Podgorica]]. Montenegrin team [[PVK Primorac]] from [[Kotor]] became a champion of Europe at the [[LEN Euroleague]] 2009 in [[Rijeka]], [[Croatia]].[[File:MontenegrinFans2.jpg|thumb|[[Podgorica City Stadium]], Montenegro fans with national features.]]
+
+The [[Montenegro national basketball team]] is also known for good performances and had won a lot of medals in the past as part of the [[Yugoslavia national basketball team]]. In 2006, the [[Basketball Federation of Montenegro]] along with this team joined the [[International Basketball Federation]] (FIBA) on its own, following the [[Montenegrin independence referendum, 2006|Independence of Montenegro]]. Montenegro participated on two Eurobaskets until now.
+
+Among women sports, [[Montenegro women's national handball team|the national handball team]] is the most successful, having won the [[2012 European Women's Handball Championship|2012 European Championship]] and finishing as runners-up at the [[Handball at the 2012 Summer Olympics|2012 Summer Olympics]]. [[ŽRK Budućnost Podgorica]] won two times EHF Champions League.
+
+[[Chess]] is another popular sport and some famous global chess players, like [[Slavko Dedić]], were born in Montenegro.
+
+At the [[Handball at the 2012 Summer Olympics|2012 Olympic Games]] in London, [[Montenegro women's national handball team]] won the country's first Olympic medal by winning silver. They lost in the final to defending World, Olympic and European Champions, [[Norway women's national handball team|Norway]] 26–23. Following this defeat the team won against Norway in the final of the [[2012 European Women's Handball Championship|2012 European Championship]], becoming champions for the first time.
+
+=== Public holidays ===
+{{Main|Public holidays in Montenegro}}
+{| class="wikitable"
+|+ <big>'''Holidays'''</big>
+|-
+! style="background: #efefef; border-bottom: 2px solid gray;" | Date
+! style="background: #efefef; border-bottom: 2px solid gray;" | Name
+! style="background: #efefef; border-bottom: 2px solid gray;" | Notes
+|-
+| 1 January
+| [[New Year's Day]]
+| (non-working holiday)
+|-
+| 7 January
+| [[Orthodox Christmas]]
+| (non-working)
+|-
+| 26 April
+| Orthodox [[Good Friday]]
+| (non-working) *
+|-
+| 28 April
+| [[Orthodox Easter]]
+| (non-working) *
+|-
+| 1 May
+| [[Labor Day]]
+| (non-working)
+|-
+| 9 May
+| [[Victory Day]]
+|
+|-
+| 21 May
+| [[Independence Day]]
+| (non-working)
+|-
+| 13 July
+| [[Statehood Day (Montenegro)|Statehood Day]]
+| (non-working)
+|}
+<sub>*2019 - exact date varies each year according to the [[Julian calendar|Orthodox calendar]]</sub>
+
+== See also ==
+{{Portal|Montenegro}}
+* [[Outline of Montenegro]]
+
+== References ==
+=== Notes ===
+{{reflist|group=note}}
+{{notes
+ | notes =
+{{efn|name=status|{{Kosovo-note}}}}
+}}
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{Refbegin}}
+* {{citation |first=John Van Antwerp |last=Fine |title=The Early Medieval Balkans: A Critical Survey from the Sixth to the Late Twelfth Century |publisher=University of Michigan Press |year=1991 |isbn=978-0-472-08149-3 |url=https://books.google.com/?id=Y0NBxG9Id58C}}
+* John V.A. Fine. (1994). ''The Late Medieval Balkans: A Critical Survey from the Late Twelfth Century to the Ottoman Conquest''. The University of Michigan Press. {{ISBN|0-472-08260-4}}
+* {{cite book |last=Pavlowitch |first=Stevan K. |authorlink=Stevan K. Pavlowitch |year=2007 |title=Hitler's New Disorder: The Second World War in Yugoslavia |publisher=Columbia University Press |location=New York |isbn=978-1-85065-895-5 |url=https://books.google.com/books?id=R8d2409V9tEC |ref=harv}}
+{{Refend}}
+
+== Further reading ==
+{{Refbegin}}
+* Banac, Ivo.  ''The National Question in Yugoslavia: Origins, History, Politics'' [[Cornell University Press]], (1984) {{ISBN|0-8014-9493-1}}
+* Fleming, Thomas. ''Montenegro: The Divided Land'' (2002) {{ISBN|0-9619364-9-5}}
+* Longley, Norm. ''The Rough Guide to Montenegro'' (2009) {{ISBN|978-1-85828-771-3}}
+* Morrison, Kenneth. ''Montenegro: A Modern History'' (2009) {{ISBN|978-1-84511-710-8}}
+* Roberts, Elizabeth. ''Realm of the Black Mountain: A History of Montenegro'' (Cornell University Press, 2007) 521pp {{ISBN|978-1-85065-868-9}}
+* Stevenson, Francis Seymour. ''A History of Montenegro'' 2002) {{ISBN|978-1-4212-5089-2}}
+* Özcan, Uğur ''[http://www.ttk.gov.tr/index.php?Page=Yayinlar&KitapNo=989 II. Abdulhamid Dönemi Osmanlı-Karadağ Siyasi İlişkileri]'' [Political relations between the Ottoman Empire and Montenegro in the Abdul Hamid II era] (2013) [https://web.archive.org/web/20130328034059/http://www.ttk.org.tr/index.php?Page=Anasayfa&Lisan=en Türk Tarih Kurumu] Turkish Historical Society {{ISBN|978-975-16-2527-4}}
+{{Refend}}
+
+== External links ==
+{{Sister project links|Montenegro|voy=Montenegro}}
+* [https://web.archive.org/web/20100427004815/http://www.gov.me/en/homepage Official website of the Government of Montenegro (English)]
+* {{CIA World Factbook link|mj|Montenegro}}
+* [https://web.archive.org/web/20120830120309/http://ucblibraries.colorado.edu/govpubs/for/montenegro.htm Montenegro] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Europe/Montenegro}}
+* [https://www.bbc.co.uk/news/world-europe-17667132 Montenegro profile] from the [[BBC News]]
+* [http://www.culture-corner.me/?jezik=ENG Culture Corner – leading Montenegrin web portal for culture]
+* {{Wikiatlas|Montenegro}}
+* {{osmrelation-inline|53296|bullet=no}}
+{{Municipalities of Montenegro}}
+{{Geographical regions of Montenegro}}
+{{Ethnic groups of Montenegro}}
+{{Montenegrin universities}}
+{{Navboxes
+| list=
+{{Sovereign states of Europe}}
+{{Balkan countries}}
+{{Council of Europe}}
+{{North Atlantic Treaty Organization}}
+{{European Union candidates}}
+{{Central European Free Trade Agreement}}
+{{OSCE}}
+}}
+{{Authority control}}
+
+[[Category:Montenegro| ]]<!--please leave the empty space as standard-->
+[[Category:Balkan countries]]
+[[Category:Member states of NATO]]
+[[Category:Member states of the Council of Europe]]
+[[Category:Member states of the Union for the Mediterranean]]
+[[Category:Member states of the United Nations]]
+[[Category:States and territories established in 2006]]
+[[Category:2006 establishments in Montenegro|*]]
+[[Category:Slavic countries and territories]]
+[[Category:Southeastern European countries]]
+[[Category:Southern European countries]]
+[[Category:Serbian-speaking countries and territories]]
+[[Category:Countries in Europe]]

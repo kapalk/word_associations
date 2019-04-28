@@ -1,0 +1,492 @@
+{{about|the Kingdom of Tonga}}
+{{pp-move-indef}}
+{{EngvarB|date=August 2014}}
+{{Coord|20|S|175|W|display=title}}
+{{Use dmy dates|date=November 2017}}
+{{Infobox country
+| conventional_long_name = Kingdom of Tonga
+| common_name = Tonga
+| native_name = {{small|''Puleʻanga Fakatuʻi ʻo Tonga'' ([[Tongan language|Tongan]])}}
+| image_flag = Flag of Tonga.svg
+| image_coat = Coat of arms of Tonga.svg
+| symbol = Coat of arms of Tonga
+| symbol_type = Seal
+| national_motto = "Ko e ʻOtua mo Tonga ko hoku tofiʻa"<br />{{small|"God and Tonga are my Inheritance"}}
+| national_anthem = ''[[Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga]]''<br />{{small|''The Song of the King of the Tongan Islands''}}<br /><center>[[File:Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga.ogg]]</center>
+| image_map = Tonga on the globe (Polynesia centered).svg
+| image_map2 = Tonga - Location Map (2013) - TON - UNOCHA.svg
+| capital = [[Nukuʻalofa]]
+| coordinates = {{Coord|21|08|S|175|12|W|type:city}}
+| largest_city = capital
+| official_languages = {{Hlist | [[English language|English]] | [[Tongan language|Tongan]]}}
+| ethnic_groups = {{unbulleted list
+ | 97% [[Tongans|Tongan]]
+ | 0.7% Part-Tongan
+ | 2.2% Other
+ }}
+| ethnic_groups_year = 2018<ref name=CIA>{{cite web|url=https://www.cia.gov/library/publications/resources/the-world-factbook/geos/tn.html|title=The World Factbook: Tonga: Geography|accessdate=16 November 2018}}</ref>
+| demonym = Tongan
+| government_type = <span style="white-space: nowrap"> [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] <br /> [[constitutional monarchy]] </span>
+| leader_title1 = [[List of monarchs of Tonga|Monarch]]
+| leader_name1 = [[Tupou VI]]
+| leader_title2 = [[Prime Minister of Tonga|Prime Minister]]
+| leader_name2 = [[ʻAkilisi Pōhiva]]
+| leader_title3 = [[Legislative Assembly of Tonga|Assembly Speaker]]
+| leader_name3 = [[Fatafehi Fakafanua]]
+| legislature = [[Legislative Assembly of Tonga|Legislative Assembly]]
+| sovereignty_type = Independence
+| established_event1 = {{nowrap|from [[United Kingdom|British]] [[Protectorate|protection]]}}
+| established_date1 = 4 June 1970
+| area_km2 = 748
+| area_rank = 175th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 289 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 4.0
+| population_census = 100,651<ref>[http://tonga.prism.spc.int/PublicDocuments/Census%20of%20Population%20and%20Housing_/04_2016/01_2016_Census_Preliminary_Count_Results.pdf]. Tonga 2016 Census Results (11 November 2016).</ref>
+| population_estimate_rank = 189th
+| population_census_year = 2016
+| population_density_km2 = 139
+| population_density_sq_mi = 360 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 76th<sup>a</sup>
+| GDP_PPP = $763 million<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=64&pr.y=0&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=866&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Tonga |publisher=International Monetary Fund |accessdate=22 April 2012}}</ref>
+| GDP_PPP_year = 2011
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $7,344<ref name=imf2 />
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $439 million<ref name=imf2 />
+| GDP_nominal_year = 2011
+| GDP_nominal_per_capita = $4,220<ref name=imf2 />
+| Gini = <!--number only-->
+| Gini_year = 
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = 
+| Gini_rank = 
+| HDI = 0.717 <!--number only-->
+| HDI_year = 2014<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf|title=Human Development Report 2015 |year=2015 |publisher=United Nations |accessdate=15 December 2015}}</ref>
+| HDI_rank = 100th
+| currency = [[Tongan paʻanga|Paʻanga]]
+| currency_code = TOP
+| utc_offset = [[UTC+13:00|+13]]
+| drives_on = left
+| calling_code = [[+676]]
+| cctld = [[.to]]
+| footnote_a = Based on 2005 figures.
+| religion = [[Free Wesleyan Church of Tonga]]<!--This is the state church. In this template, in religion we put a state church, so don't remove. ATTENTION: Free Wesleyan Church of Tonga indicates Christianity ALONE, SO THERE IS NO NEED TO SPECIFY BY ADDING TO IT [[Christianity]]--><ref>Free Wesleyan Church of Tonga is the [[state religion|officially established church]]. See ''Religion'' section in this article for more details.</ref>
+}}
+'''Tonga''' ({{IPAc-en|ˈ|t|ɒ|ŋ|(|ɡ|)|ə}}; [[Tongan language|Tongan]]: {{IPA-to|ˈtoŋa|}}<ref>Churchward, C.M. (1985) ''Tongan grammar'', Oxford University Press, {{ISBN|0-908717-05-9}}</ref> ''Puleʻanga Fakatuʻi ʻo Tonga''), officially the '''Kingdom of Tonga''', is a [[Polynesia]]n country and [[archipelago]] comprising [[List of islands and towns in Tonga|169 islands]], of which 36 are inhabited.<ref name=CIA /> The total surface area is about {{convert|750|km2|sqmi}} scattered over {{convert|700000|km2|sqmi}} of the southern [[Pacific Ocean]]. The [[sovereign state]] has a population of 100,651 people,{{UN_Population|ref}} of whom 70% reside on the main island of [[Tongatapu]].
+
+Tonga stretches across approximately {{convert|800|km|mi}} in a north-south line. It is surrounded by [[Fiji]] and [[Wallis and Futuna]] ([[France]]) to the northwest, [[Samoa]] to the northeast, [[Niue]] to the east (which is the nearest foreign territory), [[Kermadec Islands|Kermadec]] (part of [[New Zealand]]) to the southwest, and [[New Caledonia]] (France) and [[Vanuatu]] to the farther west. It is about {{convert|1800|km|mi}} from New Zealand's [[North Island]].
+
+Tonga became known in the West as the "Friendly Islands" because of the congenial reception accorded to [[James Cook|Captain James Cook]] on his first visit in 1773. He arrived at the time of the ''ʻinasi'' festival, the yearly donation of the [[First Fruits]] to the [[Tuʻi Tonga]] (the islands' paramount chief) and so received an invitation to the festivities. According to the writer [[William Mariner (writer)|William Mariner]], the chiefs wanted to kill Cook during the gathering but could not agree on a plan.<ref>[[William Mariner (writer)|Mariner, William]] and [[John Martin (meteorologist)|Martin]], John (1817). ''An account of the natives of the Tonga islands in the south Pacific Ocean: With an original grammar and vocabulary of their language. Compiled and arranged from the extensive communications of Mr. William Mariner, several years' resident in those islands'', Volume 2, [https://books.google.com/books?id=AD9CAAAAIAAJ&pg=PA64 pp. 64–65]. Retrieved 3 November 2010.</ref>
+
+From 1900 to 1970, Tonga had British [[Protectorate|protected state]] status, with the [[United Kingdom]] looking after its foreign affairs under a [[#History|Treaty of Friendship]]. The country never relinquished its [[sovereignty]] to any foreign power.<ref>[http://thecommonwealth.org/our-member-countries/tonga/history Tonga: History]. The Commonwealth.</ref> In 2010, Tonga took a decisive path towards becoming a [[constitutional monarchy]] rather than a traditional absolute kingdom, after [[legislature|legislative]] reforms passed a course for the first partial [[representative election]]s.
+
+==Etymology== <!--linked-->
+In many [[Polynesian languages]], including Tongan, the word ''tonga'' comes from ''fakatonga '' which means "southwards", as the archipelago is the southernmost group of the islands of central [[Polynesia]].<ref>{{Cite web|url=http://www.tongantranslator.com/search.aspx|title=Search {{!}} English - Tongan Translator|website=www.tongantranslator.com|access-date=2018-04-29}}</ref> The word ''tonga'' is cognate to the [[Hawaiʻi (island)|Hawaiian]] region of ''[[Kona District, Hawaiʻi|Kona]]'', meaning ''leeward'' in the Hawaiian language.<ref>{{cite book | title=Coffee Culture, Destinations and Tourism | editor=Jolliffe, Lee | year=2010 | publisher=Channel View Publications | url=https://books.google.com/books?id=LnpwfgQvAMsC | page=112| isbn=9781845411923 }}</ref>
+
+== History ==
+{{Main|History of Tonga}}
+{{more citations needed|section|date=May 2017}}
+[[File:Tasman-dagboek-a.jpg|thumb|The arrival of [[Abel Tasman]] in Tongatapu, 1643; drawing by [[Isaack Gilsemans]] ]]
+[[File:NL-HaNA 1.11.01.01 121 0051 Scheepsjournaal Abel Tasman 35.jpg|thumb|Page from the ship's log of Abel Tasman with the description of t' Eijlandt Amsterdam, nowadays Tongatapu<ref>Nationaal Archief, archiefinventaris 1.11.01.01 inventarisnummer 121, scan 85 {{hdl|10648/877f659e-35ce-4059-945e-294a4d05d29c}}</ref>]]
+An [[Austronesian languages|Austronesian]]-speaking group linked to the archaeological construct known as the [[Lapita]] cultural complex reached and inhabited Tonga around 1500–1000&nbsp;[[Anno Domini|BC]].<ref>Kirch, Patrick Vinton (1997) ''The Lapita Peoples'', Wiley, {{ISBN|1-57718-036-4}}.</ref> Scholars have much debated the exact dates of the initial settlement of Tonga, but recently it has been thought that the first settlers came to the oldest town, Nukuleka, about 826 BC, ± 8 years.<ref>[http://www.radioaustralia.net.au/international/radio/program/pacific-beat/new-dating-pinpoints-tongas-lapita-settlement/1044482 New dating pinpoints Tonga's Lapita settlement], Radio Australia, 12 November 2012</ref> Not much is known before European contact because of the lack of a [[writing system]], but [[oral history]] has survived and been recorded after the arrival of the Europeans.
+
+By the 12th century, Tongans and the Tongan paramount chief, the [[Tuʻi Tonga]], had a reputation across the central Pacific—from [[Niue]], [[Samoa]], [[Rotuma]], [[Wallis & Futuna]], [[New Caledonia]] to [[Tikopia]]—leading some historians to speak of a [[Tuʻi Tonga Empire]]. In the 15th century and again in the 17th, civil war erupted.
+
+[[File:William Mariner (1791-1853) crop.jpg|thumb|upright=0.9|[[William Mariner (writer)|William Mariner]] was a teenage English sailor adopted into a royal Tongan family.]]
+The Tongan people first encountered Europeans in 1616 when the Dutch vessel [[Eendracht (1615 ship)|''Eendracht'']], captained by [[Willem Schouten]], made a short visit to trade.  Later came other Dutch explorers, including [[Jacob Le Maire]] (who called on the northern island of [[Niuatoputapu]]); and in 1643 [[Abel Tasman]] (who visited [[Tongatapu]] and [[Haʻapai]]). Later noteworthy European visitors included [[James Cook]] (Royal Navy) in 1773, 1774, and 1777; Spanish Navy explorers [[Francisco Mourelle|Francisco Mourelle de la Rúa]] in 1781 and [[Alessandro Malaspina]] in 1793; the first London [[missionaries]] in 1797; and the [[Methodism|Wesleyan Methodist]] Reverend Walter Lawry in 1822.
+
+The [[US Exploring Expedition]] visited in 1840.<ref name=Stanton>{{cite book|last1=Stanton|first1=William|title=The Great United States Exploring Expedition|date=1975|publisher=University of California Press|location=Berkeley|isbn=978-0520025578|pages=186}}</ref>
+
+In 1845, the ambitious young warrior, strategist, and orator [[Tāufaʻāhau]] united Tonga into a kingdom. He held the chiefly title of [[Tuʻi Kanokupolu]], but had been baptised by [[Methodist]] missionaries with the name ''Siaosi'' ("George") in 1831. In 1875, with the help of missionary [[Shirley Waldemar Baker]], he declared Tonga a constitutional monarchy; formally adopted the western royal style; emancipated the "serfs"; enshrined a code of law, land tenure, and freedom of the press; and limited the power of the chiefs.
+
+Tonga became a [[protected state]] under a Treaty of Friendship with Britain on 18 May 1900, when European settlers and rival Tongan chiefs tried to oust the second king. The treaty posted no higher permanent representative on Tonga than a British [[Consul (representative)|Consul]] (1901–1970). Under the protection of Britain, Tonga maintained its sovereignty, and remained the only Pacific nation to retain its monarchical government (unlike [[Kingdom of Tahiti|Tahiti]] and [[Kingdom of Hawaii|Hawaiʻi]]). The Tongan monarchy follows an uninterrupted succession of hereditary rulers from one family.{{citation needed|date=April 2016}}
+
+The [[1918 flu pandemic]], brought to Tonga by a ship from New Zealand, killed 1,800 Tongans, reflecting a mortality rate of about eight per cent.<ref>{{Cite book|first = George C.|last = Kohn|title = Encyclopedia of plague and pestilence: from ancient times to the present|url = https://books.google.com/books?id=tzRwRmb09rgC&pg=PA363|publisher = Infobase Publishing|year = 2008|page = 363|isbn = 978-0-8160-6935-4}}</ref>
+
+The Treaty of Friendship and Tonga's protection status ended in 1970 under arrangements established by Queen [[Salote Tupou III]] prior to her death in 1965. Tonga joined the Commonwealth of Nations in 1970 (atypically as a country with its own monarch rather than that of the United Kingdom, similar to Malaysia, Lesotho, and Swaziland), and became a member of the United Nations in September 1999. While exposed to colonial pressures, Tonga has always governed itself, which makes it unique in the Pacific.
+
+As part of cost-cutting measures across the British Foreign Service, the British Government closed the [[British High Commission]] in Nukuʻalofa in March 2006, transferring representation of British interests to the High Commissioner in Fiji. The last resident British High Commissioner was Paul Nessling.<ref>"[https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/03/21/wtonga21.xml&sSheet=/news/2005/03/21/ixworld.html The Sun Finally Sets on Our Men in Paradise]"; ''[[The Daily Telegraph]]''; article of 21 March 2005; retrieved August 2016.</ref>
+
+== Politics ==
+{{Main|Politics of Tonga}}
+[[File:King George, of the Friendly Islands (1852, p.1, IX) - Copy.jpg|thumb|King George, of the Friendly Islands (1852)<ref name="Juvenile1852">{{cite journal|title=King George, of the Friendly Islands|journal=The Wesleyan Juvenile Offering: A Miscellany of Missionary Information for Young Persons|date=1852|volume=IX|page=1|url=https://archive.org/download/wesleyanjuvenil08socigoog/wesleyanjuvenil08socigoog.pdf|accessdate=24 February 2016}}</ref>]]
+Tonga is a [[constitutional monarchy]]. Reverence for the monarch replaces that held in earlier centuries for the sacred paramount chief, the Tuʻi Tonga. Criticism of the monarch is held to be contrary to Tongan culture and etiquette. King [[Tupou VI]] (a descendant of the first monarch), his family, powerful nobles and a growing non-royal elite caste live in much wealth, with the rest of the country living in relative poverty. The effects of this disparity are mitigated by education, medicine, and land tenure.
+
+Tonga provides for its citizens a free and mandatory education for all, secondary education with only nominal fees, and foreign-funded scholarships for post-secondary education.
+[[File:George Tupou I, c. 1880s.jpg|thumb|[[Tāufaʻāhau]], King of Tonga (1845–1893)]]
+The pro-democracy movement in Tonga promotes reforms, including better representation in the Parliament for the majority of commoners, and better accountability in matters of state. An overthrow of the monarchy is not part of the movement and the institution of monarchy continues to hold popular support, even while reforms are advocated. Until recently, the governance issue was generally ignored by the leaders of other countries, but major aid donors and neighbours New Zealand and Australia are now expressing concerns about some Tongan government actions.
+
+Following the precedents of Queen Sālote and the counsel of numerous international advisors,{{Who|date=February 2010}} the government of Tonga under King [[Tāufaʻāhau Tupou IV]] (reigned 1965–2006) monetised the economy, internationalised the medical and education system, and enabled access by commoners to increasing forms of material wealth (houses, cars, and other commodities), education, and overseas travel.
+
+Tongans have universal access to a national health care system. The [[Constitution of Tonga]] protects land ownership: land cannot be sold to foreigners (although it may be leased<ref>{{Cite web|url=http://www.propertytonga.com/land-law-in-tonga.html |title=Articles:Listing Tonga |publisher=Property Tonga |accessdate=20 September 2016}}</ref>). While there is a land shortage on the urbanised main island of [[Tongatapu]] (where 70% of the population resides), there is farmland available in the outlying islands. The majority of the population engages in some form of subsistence production of food, with approximately half producing almost all of their basic food needs through farming, sea harvesting, and animal husbandry. Women and men have equal access to education and health care and are fairly equal in employment, but women are discriminated against in land holding, electoral politics, and government ministries{{Citation needed|date=July 2018}}.
+
+=== Political culture ===
+[[File:Kingtupou.jpg|thumb|[[Tupou VI|King Tupou VI]] during his coronation on 	4 July 2015]]
+The previous king, Tāufaʻāhau Tupou IV, and his government made some problematic economic decisions and were accused{{By whom|date=February 2010}} of wasting millions of dollars on unwise investments. The problems have mostly been driven by attempts to increase national revenue through a variety of schemes: considering making Tonga a nuclear waste disposal site (an idea floated in the mid 1990s by the current crown prince);<ref>[https://web.archive.org/web/20071013151423/http://michaelfield.org/tonga3.htm Tonga's king tricked by Korean sea water to natural gas scam]. michaelfield.org (December 1997).</ref> and selling Tongan Protected Persons Passports (which eventually forced Tonga to naturalise the purchasers, sparking ethnicity-based concerns within Tonga).<ref>{{Cite web|url=http://www.frommers.com/destinations/tonga/3039020044.html |title=Tonga : In Depth : History |publisher=Frommers.com |accessdate=27 June 2010}}</ref>
+
+Schemes also included the registering of foreign ships (which proved to be engaged in illegal activities, including shipments for [[al-Qaeda]]);<ref>{{Cite web|url=http://www.smh.com.au/articles/2003/01/13/1041990234408.html |title=The ships that died of shame |publisher=smh.com.au |date=14 January 2003 |accessdate=27 June 2010}}</ref> claiming geo-orbital satellite slots (the revenue from which seems to belong to the Princess Royal, not the state);<ref>{{Cite web|url=http://www.mendosa.com/tongasat.html |title=Tongasat |publisher=Mendosa.com |date=30 December 1996 |accessdate=27 June 2010}}</ref> holding a long-term charter on an unusable [[Boeing 757]] that was sidelined in [[Auckland]] Airport, leading to the collapse of [[Royal Tongan Airlines]];<ref>{{Cite web|author=iSite Interactive Limited |url=http://www.islandsbusiness.com/islands_business/index_dynamic/containerNameToReplace=MiddleMiddle/focusModuleID=3896/overideSkinName=issueArticle-full.tpl |title=No Govt Support Blamed for Airline Collapse |publisher=Islands Business |accessdate=27 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20090701041656/http://www.islandsbusiness.com/islands_business/index_dynamic/containerNameToReplace=MiddleMiddle/focusModuleID=3896/overideSkinName=issueArticle-full.tpl |archivedate=1 July 2009 }}</ref> and approving a factory for exporting cigarettes to China (against the advice of Tongan medical officials, and decades of health promotion messaging).<ref>{{Cite web|url=http://www.tobacco.org/articles/country/tonga/ |title=Articles:Listing Tonga |publisher=Tobacco.org |accessdate=27 June 2010}}</ref>
+
+The king proved vulnerable to speculators with big promises and lost reportedly US$26&nbsp;million to [[Jesse Bogdonoff]], a financial adviser who called himself the king's [[jester|Court Jester]]. The police imprisoned pro-democracy leaders, and the government repeatedly confiscated the newspaper ''The Tongan Times'' (printed in New Zealand and sold in Tonga) because the editor had been vocally critical of the king's mistakes.<ref>{{Cite journal|url=http://www.asiapac.org.fj/PJR/issues/next/962tongan.html |title=The contempt case of the 'Tongan Three'|journal=Pacific Journalism Review |author=Robie, David |volume= 3|issue= 2|date= November 1996}}</ref> Notably, the ''Keleʻa'', produced specifically to critique the government and printed in Tonga by pro-democracy leader ʻAkilisi Pōhiva, was not banned during that time. Pōhiva, however, had been subjected to harassment in the form of [[Barratry (common law)|barratry]] (frequent lawsuits).<ref>{{Cite web|url=http://www.radionz.co.nz/international/pacific-news/140250/tongan-court-case-over-wrongful-imprisonment-recommences|publisher=Radio NZ|title=Tongan Court Case Over Wrongful Imprisonment Recommences – July 31, 2002|date=31 July 2002|accessdate=7 September 2016}}</ref>
+
+In mid-2003, the government passed a radical constitutional amendment to "Tonganize" the press, by licensing and limiting freedom of the press, so as to protect the image of the monarchy. The amendment was defended by the government and by royalists on the basis of traditional cultural values. Licensure criteria include 80% ownership by Tongans living in the country. {{As of|2004|2}}, those papers denied licenses under the new act included the ''Taimi ʻo Tonga'' (''Tongan Times''), the ''Keleʻa,'' and the ''Matangi Tonga''—while those permitted licenses were uniformly church-based or pro-government.
+
+[[File:Royal Palace, Nuku'alofa.jpg|thumb|right|The [[Royal Palace, Tonga|Royal palace of Tonga]]]]
+The bill was opposed in the form of a several-thousand-strong protest march in the capital, a call by the Tuʻi Pelehake (a prince, nephew of the king and elected member of parliament) for Australia and other nations to pressure the Tongan government to democratise the electoral system, and a legal writ calling for a judicial investigation of the bill. The latter was supported by some 160 signatures, including seven of the nine elected, "People's Representatives".
+
+The then Crown Prince [[George Tupou V|Tupoutoʻa]] and Pilolevu, the Princess Royal, remained generally silent on the issue. In total, the changes threatened to destabilise the polity, fragment support for the status quo, and place further pressure on the monarchy.
+
+In 2005, the government spent several weeks negotiating with striking civil-service workers before reaching a settlement. The civil unrest that ensued was not limited to Tonga; protests outside the King's New Zealand residence made headlines.
+
+Prime Minister Prince [[Tupou VI|ʻAhoʻeitu ʻUnuakiʻotonga Tukuʻaho (Lavaka Ata ʻUlukālala)]] (now King Tupou VI) resigned suddenly on 11 February 2006, and also gave up his other cabinet portfolios. The elected Minister of Labour, Dr [[Feleti Sevele]], replaced him in the interim.
+
+On 5 July 2006, a driver in [[Menlo Park, California]] caused the deaths of Prince [[Tuʻipelehake (ʻUluvalu)|Tuʻipelehake ʻUluvalu]], his wife, and their driver. Tuʻipelehake, 55, was the co-chairman of the constitutional reform commission, and a nephew of the King.
+
+[[File:Looters.jpg|thumb|Riots in Nukuʻalofa, 2006]]
+The public expected some changes when George Tupou V succeeded his father in September 2006. On [[2006 Tonga riots|16 November 2006, rioting broke out]] in the capital city of [[Nukuʻalofa]] when it seemed that the parliament would adjourn for the year without having made any advances in increasing democracy in government. Pro-democracy activists burned and looted shops, offices, and government buildings. As a result, more than 60% of the downtown area was destroyed, and as many as 6&nbsp;people died.<ref>{{Cite web|url=http://www.matangitonga.to/article/tonganews/crime/riot161106.shtml |title=Rioting crowd leaves leaves trail of wreckage in Nuku'alofa |publisher=Matangitonga.to |date=16 November 2006 |accessdate=27 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100609173107/http://www.matangitonga.to/article/tonganews/crime/riot161106.shtml |archivedate=9 June 2010 }}</ref> The disturbances were ended by action from [[His Majesty's Armed Forces (Tonga)|Tongan Security Forces]] and troops from New Zealand-led Joint Task Force.<ref>{{cite web|url=http://nautilus.org/publications/books/australian-forces-abroad/tonga/adf-deployment-to-tonga-2006/|title=ADF deployment to Tonga, 2006|date=17 January 2012|accessdate=6 September 2017}}</ref>
+
+On 29 July 2008, the Palace announced that King George Tupou V would relinquish much of his power and would surrender his role in day-to-day governmental affairs to the Prime Minister. The royal chamberlain said that this was being done to prepare the monarchy for 2010, when most of the first parliament will be elected, and added: "The Sovereign of the only Polynesian kingdom... is voluntarily surrendering his powers to meet the democratic aspirations of many of his people." The previous week, the government said the king had sold state assets that had contributed to much of the royal family's wealth.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7530209.stm|title=Tonga's king to cede key powers|accessdate=31 July 2008|work=BBC News|date=29 July 2008}}</ref>
+
+On 15 March 2012, King George Tupou V contracted pneumonia and was brought to [[Queen Mary Hospital (Hong Kong)|Queen Mary Hospital]] in [[Hong Kong]]. He was later diagnosed with leukaemia. His health deteriorated significantly shortly thereafter, and he died at 3:15&nbsp;pm on 18 March 2012.
+<ref>{{Cite news|url=http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20120319&sec_id=4104&subsec_id=12731&art_id=16168607|title=蘋果日報 – 20120319 – 患血癌染肺炎　搶救數日無效湯加國王　駕崩瑪麗醫院 |accessdate=19 March 2012|work=Appledaily News HK|date=19 March 2012}}</ref> He was succeeded by his brother [[Tupou VI]], who was crowned<ref>{{cite web|url=http://www.abc.net.au/news/2015-07-04/tonga-formally-crowns-king-tupou-vi-in-lavish-coronation/6595288|title=Tonga crowns King Tupou VI in lavish public coronation, parties|work=ABC News|date=2015-07-04}}</ref> on 4 July 2015.
+
+=== Foreign relations ===
+{{Further|Foreign relations of Tonga}}
+Tonga's foreign policy {{as of| January 2009 | lc=yes}} has been described by [[Matangi Tonga]] as "Look East"—specifically, as establishing closer diplomatic and economic relations with [[Asia]] (which actually lies to the north-west of the Pacific kingdom). Tonga retains cordial relations with the [[United States]]. Although it remains on good terms with the [[United Kingdom]], the two countries do not maintain particularly close relations, and the United Kingdom closed its High Commission in Tonga in 2006. Tonga's relations with Oceania's regional powers, [[Australia]] and [[New Zealand]], are good.<ref name="matangitonga.to">[http://www.matangitonga.to/article/tonga_japan_embassy_120109.shtml "Tonga's diplomatic community grows"]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, Matangi Tonga, 12 January 2009.</ref>
+
+Tonga maintains strong regional ties in the Pacific. It is a full member of the [[Pacific Islands Forum]], the [[South Pacific Applied Geoscience Commission]], the [[South Pacific Tourism Organisation]], the [[Pacific Regional Environment Programme]] and the [[Secretariat of the Pacific Community]].
+
+=== Military ===
+{{Main|Tonga Defence Services}}
+The Tongan government supported the American "[[coalition of the willing]]" action in [[Iraq]] and deployed 40+ soldiers (as part of an American force) in late 2004. The contingent returned home on 17 December 2004.<ref>[http://www.globalsecurity.org/military/ops/iraq_orbat_coalition.htm Iraq Coalition Troops], GlobalSecurity, 18 August 2005</ref> In 2007 a second contingent went to Iraq, and two more were sent during 2008 as part of continued support for the coalition. Tongan involvement concluded at the end of 2008 with no reported loss of life.
+
+In 2010, Brigadier General Tauʻaika ʻUtaʻatu, Commander of the [[Tonga Defence Services]], signed an agreement in London committing a minimum of 200 troops to co-operate with Britain's International Security Assistance Force (ISAF) in [[Afghanistan]]. The task completed in April 2014 and the UK presented Operational Service Medals to each of the soldiers involved during a parade held in Tonga.<ref>{{Cite web|url=
+http://www.mod.uk/DefenceInternet/DefenceNews/DefencePolicyAndBusiness/TonganTroopsToWorkWithUkAndOtherIsafForcesInAfghanistan.htm|title= Tongan troops to work with UK and other ISAF forces in Afghanistan|publisher=Ministry of Defence|date=22 September 2010|accessdate=1 June 2012}}</ref>
+
+Tonga has contributed troops and police to the [[Bougainville Province|Bougainville]] conflict in Papua-New Guinea and to the Australian-led [[RAMSI]] force in the [[Solomon Islands]].
+
+=== Administrative divisions ===
+{{Further|Administrative divisions of Tonga}}
+Tonga is sub-divided into five administrative divisions: [[ʻEua]], [[Haʻapai]], [[Niuas]], [[Tongatapu]], and [[Vavaʻu]].<ref>[https://web.archive.org/web/20081118160301/http://www.spc.int/prism/Country/TO/stats/Census06/Population/population.htm Population Census 2006: Population size, Trend, Distribution and Structure], Tonga Department of Statistics</ref><ref>[http://www.statoids.com/uto.html Divisions of Tonga], Statoids.com</ref>
+
+== Geography ==
+{{Main|Geography of Tonga}}
+[[File:Tonga sm04.gif|thumb|A map of Tonga]]
+
+Located in [[Oceania]], Tonga is an archipelago in the South [[Pacific Ocean]], directly south of [[Samoa]] and about two-thirds of the way from [[Hawaii]] to [[New Zealand]]. Its 169 islands, 36 of them inhabited,<ref name=CIA /> are divided into three main groups – [[Vava'u]], [[Ha'apai]], and [[Tongatapu]] – and cover an {{convert|800|km|mi|adj=on|abbr=off}}-long north-south line.
+
+The largest island, Tongatapu, on which the capital city of [[Nukuʻalofa]] is located, covers {{convert|257|km2|sqmi}}. Geologically the Tongan islands are of two types: most have a limestone base formed from uplifted coral formations; others consist of limestone overlaying a [[volcanic]] base.
+
+=== Climate ===
+The climate is tropical with a distinct warm period (December–April), during which the temperatures rise above {{convert|32|°C|°F|1}}, and a cooler period (May–November), with temperatures rarely rising above {{convert|27|°C|°F|1}}. The temperature increases from {{convert|23|to|27|C|F|1}}, and the annual rainfall is from {{convert|1700|to|2970|mm|in|1|abbr=off}} as one moves from Tongatapu in the south to the more northerly islands closer to the Equator. The average wettest period is around March with on average {{convert|263|mm|in|abbr=on}}.<ref>{{cite web|url=http://www.weather2travel.com/climate-guides/index.php?destination=nuku-alofa |title=Climate Guides – Plan Your Ideal Holiday Trip |publisher=Weather2Travel |date= |accessdate=17 August 2012}}</ref> The average daily humidity is 80%. The highest temperature recorded in Tonga was {{convert|35|C|F}} on 11 February 1979 in Vava'u. The coldest temperature recorded in Tonga was {{convert|8.7|C|F}} on 8 September 1994 in Fua'amotu. Temperatures of {{convert|15|C|F}} or lower are usually measured in the dry season and are more frequent in southern Tonga than in the north of the island.<ref>[http://www.met.gov.to/index_files/climate_summary_tonga.pdf Climate Summary] [[PDF]]</ref> The tropical cyclone season currently runs from 1 November to 30 April, though tropical cyclones can form and affect Tonga outside of the season.
+
+{{Weather box
+|location = Nukuʻalofa
+|width = 80%
+|metric first = yes
+|single line = yes
+|Jan record high C = 32
+|Feb record high C = 32
+|Mar record high C = 31
+|Apr record high C = 30
+|May record high C = 30
+|Jun record high C = 28
+|Jul record high C = 28
+|Aug record high C = 28
+|Sep record high C = 28
+|Oct record high C = 29
+|Nov record high C = 30
+|Dec record high C = 31
+|year record high C = 32
+|Jan high C = 28
+|Feb high C = 29
+|Mar high C = 28
+|Apr high C = 27
+|May high C = 26
+|Jun high C = 25
+|Jul high C = 25
+|Aug high C = 24
+|Sep high C = 25
+|Oct high C = 25
+|Nov high C = 27
+|Dec high C = 27
+|year high C = 26
+|Jan mean C = 25
+|Feb mean C = 25
+|Mar mean C = 25
+|Apr mean C = 24
+|May mean C = 23
+|Jun mean C = 21
+|Jul mean C = 21
+|Aug mean C = 21
+|Sep mean C = 21
+|Oct mean C = 22
+|Nov mean C = 23
+|Dec mean C = 23
+|year mean C = 23
+|Jan low C = 22
+|Feb low C = 22
+|Mar low C = 22
+|Apr low C = 21
+|May low C = 20
+|Jun low C = 18
+|Jul low C = 17
+|Aug low C = 18
+|Sep low C = 17
+|Oct low C = 19
+|Nov low C = 20
+|Dec low C = 20
+|year low C = 20
+|Jan record low C = 16
+|Feb record low C = 17
+|Mar record low C = 15
+|Apr record low C = 15
+|May record low C = 13
+|Jun record low C = 11
+|Jul record low C = 10
+|Aug record low C = 11
+|Sep record low C = 11
+|Oct record low C = 12
+|Nov record low C = 13
+|Dec record low C = 16
+|year record low C = 10
+|rain colour=green
+|Jan rain mm = 130
+|Feb rain mm = 190
+|Mar rain mm = 210
+|Apr rain mm = 120
+|May rain mm = 130
+|Jun rain mm = 100
+|Jul rain mm = 100
+|Aug rain mm = 130
+|Sep rain mm = 110
+|Oct rain mm = 90
+|Nov rain mm = 100
+|Dec rain mm = 120
+|Jan rain days = 11
+|Feb rain days = 13
+|Mar rain days =14
+|Apr rain days = 12
+|May rain days = 12
+|Jun rain days = 10
+|Jul rain days = 10
+|Aug rain days = 12
+|Sep rain days = 10
+|Oct rain days = 10
+|Nov rain days = 10
+|Dec rain days = 10
+|Jan humidity = 77
+|Feb humidity = 78
+|Mar humidity = 79
+|Apr humidity = 76
+|May humidity = 78
+|Jun humidity = 77
+|Jul humidity = 75
+|Aug humidity = 75
+|Sep humidity = 74
+|Oct humidity = 74
+|Nov humidity = 73
+|Dec humidity = 75
+|source 1 = Weatherbase<ref name=Weatherbase>{{cite web | url =http://www.weatherbase.com/weather/weather.php3?s=88719&refer=&units=metric&cityname=Nuku%27alofa-Tonga|work=weatherbase.com | title =Weatherbase: Historical Weather for Nukuʻalofa, Tonga}}</ref>
+|date=August 2010
+}}
+
+=== Ecology ===
+In Tonga, dating back to Tongan legend, flying bats are considered sacred and are the property of the monarchy. Thus they are protected and can not be harmed or hunted. As a result, [[pteropus|flying fox bats]] have thrived in many of the islands of Tonga.<ref>{{cite journal|last1=Grant|first1=Gilbert S.|title=Kingdom of Tonga: Safe Haven for Flying Foxes|journal=Bat Conservation International|date= 1996|volume=14|issue=2|url=http://www.batcon.org/resources/media-education/bats-magazine/bat_article/746|accessdate=13 October 2016}}</ref><ref>{{cite web|title=About Tonga: Tongan Bats|url=http://www.tongacharter.com/about-tonga.html|website=Tonga Charter|accessdate=12 October 2016}}</ref>
+
+== Economy ==
+[[File:Coin tonga.JPG|thumb|A Tongan one-cent (''seniti taha'') coin]]
+[[File:Nuku Island Vava'u.jpg|thumb|Nuku Island, [[Vavaʻu]]]]
+[[File:Majestic Whale Encounters8 - pic by Brandon Cole (15799763491).jpg|thumb|[[Humpback whale]]s of Tonga]]
+
+{{Main|Economy of Tonga}}
+
+Tonga's economy is characterised by a large non-monetary sector and a heavy dependence on [[remittances]] from the half of the country's population who live abroad (chiefly in Australia, New Zealand and the United States). The royal family and the nobles dominate and largely own the monetary sector of the economy – particularly the telecommunications and satellite services. Tonga was named the sixth most corrupt country in the world by Forbes magazine in 2008.<ref>{{Cite news|url=https://www.forbes.com/2008/06/25/somalia-myanmar-corruption-bizcountries08-biz-cx_af_lm_0626bizcountries_corruptcountries_slide_7.html?thisSpeed=undefined|title=In Pictures: The World's Most Corrupt Countries|accessdate=10 August 2010 | work=Forbes Magazine | date=25 June 2008}}</ref>
+
+Tonga was ranked the 165th safest investment destination in the world in the March 2011 [[Euromoney]] Country Risk rankings.<ref>{{Cite web|title=Euromoney Country Risk|url=http://www.euromoneycountryrisk.com/|publisher=Euromoney Institutional Investor PLC|accessdate=15 August 2011}}</ref>
+
+The manufacturing sector consists of [[cottage industry|handicrafts]] and a few other very small scale industries, which contribute only about 3% of GDP. Commercial business activities also are inconspicuous and, to a large extent, are dominated by the same large trading companies found throughout the South Pacific. In September 1974, the country's first commercial trading bank, the Bank of Tonga, opened.
+
+Tonga's development plans emphasise a growing private sector, upgrading agricultural productivity, revitalising the squash and vanilla bean industries, developing tourism, and improving communications and transport. Substantial progress has been made, but much work remains to be done. A small but growing construction sector is developing in response to the inflow of aid monies and remittances from Tongans abroad. In recognition of such a crucial contribution the present government has created a new department within the Prime Minister's Office with the sole purpose of catering for the needs of Tongans living abroad. Furthermore, in 2007 the Tongan Parliament amended citizenship laws to allow Tongans to hold dual citizenship.<ref name="b1" />
+
+{{anchor|Tourism}}
+The tourist industry is relatively undeveloped; however, the government recognises that tourism can play a major role in economic development, and efforts are being made to increase this source of revenue. Cruise ships often stop in [[Vavaʻu]], which has a reputation for its [[whale watching]], game fishing, surfing, beaches and is increasingly becoming a major player in the South Pacific tourism market.<ref>[https://www.state.gov/r/pa/ei/bgn/16092.htm#econ Background Note: Tonga], ''US Department of State'', 31 October 2011.</ref>
+
+[[Postage stamps and postal history of Tonga|Tonga's postage stamps]], which feature colourful and often unusual designs (including heart-shaped and banana-shaped stamps), are popular with [[Philately|philatelists]] around the world.<ref>{{Cite book|url=https://books.google.com/?id=CjIg5FgUUW8C&pg=PA157 | title=Landfalls of Paradise: Cruising Guide to the Pacific Islands |author1=Hinz, Earl R.  |author2=Howard, Jim   |lastauthoramp=yes | publisher=University of Hawaii Press | page=157 | year=2006 | isbn=978-0-8248-3037-3}}</ref>
+
+In 2005, the country became eligible to become a member of the [[World Trade Organization]]. After an initial voluntary delay, Tonga became a full member of the WTO on 27 July 2007.
+
+The Tonga Chamber of Commerce and Industry (TCCI), incorporated in 1996, endeavours to represent the interests of its members, private sector businesses, and to promote economic growth in the Kingdom.
+
+Tonga is home to some 106,000 people, but more than double that number live overseas, mainly in the US, New Zealand and Australia. Remittances from the overseas population has been declining since the onset of the 2008 global economic crisis. The tourism industry is improving, but remains modest at under 90,000 tourists per year.<ref>{{cite web|url=http://www.thejakartaglobe.com/lifeandtimes/paradise-lost-tonga-mired-in-poverty/512266|archive-url=https://archive.is/20130204051244/http://www.thejakartaglobe.com/lifeandtimes/paradise-lost-tonga-mired-in-poverty/512266|dead-url=yes|archive-date=4 February 2013|work=Jakarta Globe|title=Paradise Lost, Tonga Mired in Poverty|date=18 April 2012}}</ref>
+
+=== Agriculture ===
+In Tonga, agriculture and forestry (together with fisheries) provide the majority of employment, foreign exchange earnings and food.<ref name="Halavatau">{{Citation|author1=Halavatau, S. M.  |author2=Halavatau, N. V.  |lastauthoramp=yes |year=2001 |title=Food Security Strategies for the Kingdom of Tonga |series=Working Paper number 57 |publisher=United Nations Centre for Alleviation of Poverty Through Secondary Crops' Development in Asia and the Pacific (CAPSA) |url=http://ageconsearch.umn.edu/bitstream/32700/1/wp010057.pdf |archiveurl=https://web.archive.org/web/20150910175806/http://ageconsearch.umn.edu/bitstream/32700/1/wp010057.pdf |archivedate=10 September 2015 |deadurl=no}}</ref><ref name="Kunzel">{{Citation|author=Kunzel, W. |year=1989 |title=Agroforestry in Tonga: A Traditional Source for Development of Sustainable Farming Systems |series=Occasional Paper 12 |location=[[Armidale, New South Wales]]|publisher=South Pacific Smallholder Project, [[University of New England (Australia)|University of New England]] }}</ref> Rural Tongans rely on both [[plantation]] and [[subsistence agriculture]]. Plants grown for both market [[cash crop]]s and home use include bananas, [[coconut]]s, [[coffee bean]]s, [[vanilla bean]]s, and [[root crops]] such as [[cassava]], [[sweet potato]] and [[taro]]. {{As of |2001}}, two-thirds of agricultural land was in root crops.<ref name="Halavatau" />
+
+The processing of coconuts into [[copra]] and [[desiccation|desiccated]] (dried) coconut was once the only significant industry, and only commercial export, but deteriorating prices on the world market and lack of replanting brought this once vibrant industry, as in most island nations of the South Pacific, to a complete standstill.
+
+Pigs and poultry are the major types of livestock. Horses are kept for draft purposes, primarily by farmers working their ʻapi ʻuta (a plot of bushland). More cattle are being raised, and beef imports are declining.<ref name="b1">{{Cite book|editor=Ellicott, Karen |title=Countries of the world and their leaders yearbook 2007|year=2006|publisher=Thomson Gale|location=Farmington Hills, MI|isbn=978-0-7876-8103-6|page=1873}}</ref>
+
+The traditional feudal land ownership system meant that farmers had no incentive to invest in planting long-term tree crops on land they did not own, but in the late twentieth century kava and vanilla from larger plantations became the main agricultural exports, together with squash.<ref name="Halavatau" /> The export of squash to Japan, beginning in 1987, once brought relief to Tonga's struggling economy, but local farmers became increasingly wary of the Japanese market due to price fluctuations, not to mention the huge financial risks involved.<ref name="b1" /><ref>Rejects from squash production excessed 30%. {{Citation|author1=Halavatau, S. M.  |author2=Hausia, S. F.  |lastauthoramp=yes |year=2000 |title=Small Farmer Participation in Export Production: Kingdom of Tonga Case Studies |location=Apia, Samoa |publisher= FAO Regional Workshop on Small Farmer Participation in Export Production in the Pacific Islands }}</ref>
+
+=== Energy ===
+Tonga has begun implementing tailor-made policies to power its remote islands in a sustainable way without turning to expensive grid-extensions. A number of islands lack a basic electricity supply, a supply entirely coming from imported diesel: in 2009, 19% of GDP and 25% of imports consisted of diesel.
+
+In view of the decreasing reliability of [[fossil-fuel electricity]] generation, its increasing costs and negative environmental side-effects, [[renewable energy]] solutions have attracted the government's attention. Together with [[IRENA]], Tonga has charted out a renewable energy based strategy to power the main and outer islands alike. The strategy focuses on [[Solar Home System]]s that turn individual households into small power plants. In addition, it calls for the involvement of local operators, finance institutions and technicians to provide sustainable business models as well as strategies to ensure the effective operation, management and maintenance once the systems are installed.<ref>{{Cite web|url=http://www.irena.org |title=International Renewable Energy Agency |publisher=IRENA |date=26 January 2009 |accessdate=27 June 2010}}</ref>
+
+With the assistance of IRENA, Tonga has developed the 2010–2020 Tonga Energy Road Map (TERM), which aims for a 50% reduction of diesel importation. This will be accomplished through a range of appropriate renewable technologies, including wind and solar, as well as innovative efficiencies.<ref>{{Cite web |url=http://www.tonga-energy.to/?p=1197 |archive-url=https://web.archive.org/web/20110514035721/http://www.tonga-energy.to/?p=1197 |dead-url=yes |archive-date=14 May 2011 |title=Tonga Energy Press Release: IRENA signing, a milestone for Tonga's renewable energy plans |publisher=Tonga-energy.to |date=24 June 2010 |accessdate=1 June 2012 }}</ref>
+
+== Demographics ==
+[[File:Tonga demography.png|thumb|Tonga's population (1961–2003) in thousands]]
+{{Main|Demographics of Tonga}}
+
+Over 70% of the {{UN_Population|Tonga}}{{UN_Population|ref}} inhabitants live on its main island, [[Tongatapu]]. Although an increasing number of Tongans have moved into the only urban and commercial centre, Nukuʻalofa, where European and indigenous cultural and living patterns have blended, village life and kinship ties remain influential throughout the country. Despite emigration, Tonga grew in population from about 32,000 in the 1930s to more than 90,000 by 1976.<ref>Small, Cathy A. and Dixon, David L.  "[http://www.migrationinformation.org/feature/display.cfm?ID=198 Tonga: Migration and the Homeland]", Migration Policy Institute.</ref>
+
+=== Ethnic groups ===
+According to the government portal, Tongans, [[Polynesians|Polynesian]] by ethnicity with a mixture of [[Melanesia]]n, represent more than 98% of the inhabitants. 1.5% are mixed Tongans and the rest are [[European ethnic groups|European]] (the majority are British), mixed European, and other [[Pacific Islanders]]. In 2001 there were approximately 3,000 or 4,000 [[Chinese in Tonga]], comprising 3 or 4% of the total Tongan population.<ref>[http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&objectid=229612 "Editorial: Racist moves will rebound on Tonga"], ''New Zealand Herald'', 23 November 2001</ref> In [[2006 Nukuʻalofa riots|2006, Nukuʻalofa riots]] mainly targeted Chinese-owned businesses, leading to the emigration of several hundred Chinese<ref>[http://www.abc.net.au/news/2006-11-22/flight-chartered-to-evacuate-chinese-in-tonga/1316302 "Flight chartered to evacuate Chinese in Tonga"], ABC News, 22 November 2006</ref> so that only about 300 remain.<ref>[https://link.springer.com/chapter/10.1057/9780230339750_8 "China’s World Wide Web: Overseas Chinese in the South Pacific"], Springer.com, January 2016</ref>
+
+=== Languages ===
+
+The [[Tongan language]] is the official language, along with English. Tongan, a [[Polynesian language]], is closely related to [[Wallisian language|Wallisian]] (Uvean), [[Niuean language|Niuean]], [[Hawaiian language|Hawaiian]], and [[Samoan language|Samoan]].
+
+=== Religion ===
+[[File:Saione.jpg|right|thumb|The [[Free Wesleyan Church]]]]
+
+Although nominally a [[secular state]], the [[Free Wesleyan Church of Tonga]] is the [[established religion]] in the state. It is the world's only state church in the [[Methodist]] tradition of [[Protestantism]], although only one-third of the island's population adheres to it. In 1928, Queen [[Salote Tupou III]], who was a member of the church, established the Free Wesleyan Church as the state religion of Tonga. The chief pastor of the Free Wesleyan Church serves as the representative of the people of Tonga and of the Church at the coronation of a King or Queen of Tonga where he anoints and crowns the Monarch. In opposition to the establishment of the Free Wesleyan Church as a state religion, the [[Church of Tonga]] separated from the Free Wesleyan Church in 1928.
+
+Everyday life is heavily influenced by Polynesian traditions and by the Christian faith; for example, all commerce and entertainment activities cease on Sunday, from the beginning of the day at midnight, to the end of the day at midnight. The constitution declares the Sabbath sacred forever. The official figures from the latest government census {{as of| 2011|lc=yes}} show that 90% of the population are affiliated with a Christian church or sect, with the four major church affiliations in the kingdom as follows:<ref>{{cite web|url=http://www.spc.int/prism/tonga/index.php/component/docman/doc_download/247-census-report-2011-vol-1-rev?Itemid=111|title=Tonga 2011 Census of Population and Housing|volume=Volume 1: Basic Tables and Administrative Report|at=Table G17|archiveurl=https://web.archive.org/web/20140205070928/http://www.spc.int/prism/tonga/index.php/component/docman/doc_download/247-census-report-2011-vol-1-rev?Itemid=111 |archivedate=5 February 2014 }}</ref>
+* [[Free Wesleyan Church of Tonga]] (36,592 or 36%)
+* [[The Church of Jesus Christ of Latter-day Saints]] (18,554 or 18%)
+* [[Roman Catholicism in Tonga|Roman Catholics]] (15,441 or 15%)
+* [[Free Church of Tonga]] (11,863 or 12%)
+
+=== Health ===
+By some published surveys, Tonga has one of the highest obesity rates in the world.<ref>{{cite news|last1=Watson|first1=Katy|title=How mutton flaps are killing Tonga|url=https://www.bbc.com/news/magazine-35346493|accessdate=25 February 2016|publisher=BBC News Online|date=18 January 2016}}</ref> [[World Health Organization]] data published in 2014 indicates that Tonga stands 4th overall in terms of [[List of countries by Body Mass Index (BMI)|countries listed by mean body mass index data]]. In 2011, 90% of the adult population were considered overweight using NIH interpretation of body mass index (BMI) data, with more than 60% of those [[obesity|obese]].<ref>Sands, Neil (10 April 2011) [http://newsinfo.inquirer.net/breakingnews/world/view/20110410-330400/Pacific-nations-battle-obesity-epidemic "Pacific island nations battle obesity epidemic"] {{webarchive|url=https://web.archive.org/web/20131218082637/http://newsinfo.inquirer.net/breakingnews/world/view/20110410-330400/Pacific-nations-battle-obesity-epidemic |date=18 December 2013 }}, Agence France-Presse.</ref> 70% of Tongan women aged 15–85 are obese. Tonga and nearby [[Nauru]] have the world's highest overweight and obese populations.<ref>Mark Henderson (18 February 2008) [http://www.thetimes.co.uk/tto/health/article1881007.ece Welcome to the town that will make you lose weight]. ''Times Online''. www.timesonline.co.uk</ref>
+
+[[Obesity in the Pacific|Obesity]] is common, as on many Pacific islands.
+
+=== Education ===
+{{Main|Education in Tonga}}
+Primary education between ages 6 and 14 is compulsory and free in state schools. Mission schools provide about 8% of the primary and 90% of the secondary level of education. State schools make up for the rest. Higher education includes teacher training, nursing and medical training, a small private university, a woman's business college, and a number of private agricultural schools. Most higher education is pursued overseas.
+
+Tongans enjoy a relatively high level of education, with a 98.9% [[literacy]] rate,<ref>{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/tn.html|title=Tonga|work=The World Factbook|publisher=Central Intelligence Agency|accessdate=22 June 2010}}</ref> and higher education up to and including medical and graduate degrees (pursued mostly overseas).
+
+== Culture ==
+{{Main|Culture of Tonga}}
+[[File:Faikava.jpg|thumb|[[Kava culture]]]]
+
+Humans have lived in Tonga for nearly 3,000 years, since settlement in late [[Lapita]] times. Before the arrival of European explorers in the late 17th and early 18th centuries, Tongans had frequent contacts with their nearest oceanic neighbours, [[Fiji]] and [[Niue]]. In the 19th century, with the arrival of Western traders and missionaries, Tongan culture changed, especially in religion. {{as of | 2013}}, almost 98&nbsp;percent of residents profess Christianity. The people discarded some old beliefs and habits and adopted others.
+
+[[File:Ula fu.jpg|thumb|The start of a Tongan [[tauʻolunga]] dance]]
+
+Contemporary Tongans often have strong ties to overseas lands. Many Tongans have emigrated to Australia, New Zealand, or the United States to seek employment and a higher standard of living. The United States is the preferred destination for Tongan emigrants, and as of 2000 there were 36,840 Tongans living in the US.<ref>{{Cite book|title=Tongans Overseas: Between Two Shores|author=Helen Morton Lee|date=2003|publisher=University of Hawaii Press|isbn=978-0-8248-2615-4}}</ref> More than 8,000 Tongans live in Australia.<ref>{{Cite web|url = http://www.abc.net.au/radionational/programs/360/the-ties-that-bind-stories-from-the-tongan-diaspora/3131868|title = The ties that bind: stories from the Tongan diaspora|date = 2 May 2009 <!-- 2:05PM --> |accessdate = 29 December 2014|website = |publisher = ABC}}</ref> The Tongan [[diaspora]] retains close ties to relatives at home,{{citation needed|date=September 2013}} and a significant portion of Tonga's income derives from remittances{{citation needed|date=September 2013}} to family members (often aged) who prefer to remain in Tonga.
+
+=== Sport ===
+{{Further|Sport in Tonga}}
+
+====Rugby====
+
+[[Rugby union]] is the national sport,<ref>{{cite web|url=http://www.virtualoceania.net/tonga/culture/sport.shtml|title=Tonga Sport|work=Virtual Oceania|date=26 February 2015}}</ref> and the [[Tonga national rugby union team|national team]] (ʻIkale Tahi, or Sea Eagles) has performed quite well on the international stage. Tonga has competed in six [[Rugby World Cup]]s since [[1987 Rugby World Cup|1987]]. The [[2007 Rugby World Cup|2007]] and [[2011 Rugby World Cup]]s were Tonga's most successful to date, both winning two out of four matches and in a running chance for the quarter finals. In the [[2007 Rugby World Cup]], Tonga won its first two matches, against the [[United States national rugby union team|USA]] 25–15, and [[Samoa national rugby union team|Samoa]] 19–15. They came very close to upsetting the eventual winners of the 2007 tournament, the South African [[Springboks]], losing 30–25. A loss to [[England National Rugby Union Team|England]], 36–20 in their last pool game ended their hopes of making the knockout stages. Nevertheless, by picking up third place in their pool games behind South Africa and England, Tonga earned automatic qualification for the 2011 Rugby World Cup in New Zealand. In [[2011 Rugby World Cup Pool A|Pool A]] of the [[2011 Rugby World Cup]], Tonga beat both [[Japan national rugby union team|Japan]] 31–18 and 5th ranked<ref>{{cite web|url=http://www.rugbyworldcup.com/home/teams/team=42/index.html/|archiveurl=https://web.archive.org/web/20120107015727/http://www.rugbyworldcup.com/home/teams/team=42/index.html/|title=Official RWC 2011 Site|archivedate=7 January 2012|work=rugbyworldcup.com}}</ref> eventual finalist [[France national rugby union team|France]] 19–14 in the latter pool stages. However, a previous heavy defeat to the [[All Blacks]] at the tournament's opener (41–10) and a subsequent tight loss to [[Canada national rugby union team|Canada]] (25–20) meant that Tonga lost out to France (who also lost to [[All Blacks|NZ]]) for the quarter finals due to 2 bonus points and a points difference of 46.
+
+Tonga's best result before 2007 came in [[1995 Rugby World Cup|1995]], when they beat [[Ivory Coast national rugby union team|Côte d'Ivoire]] 29–11, and [[1999 Rugby World Cup|1999]] when they beat Italy 28–25 (although with only 14 men they lost heavily to England, 101–10). Tonga perform the [[Kailao|Ikale Tahi war dance]] or Sipi Tau (a form of [[Kailao]]) before all their matches. Tonga used to compete in the [[Pacific Tri-Nations]] against Samoa and Fiji, which has now been replaced by the [[IRB Pacific Nations Cup]], which now involves [[Japan national rugby union team|Japan]], [[Canada national rugby union team|Canada]], and the [[United States national rugby union team|United States]]. At club level, there are the [[Datec Cup Provincial Championship]] and the [[Pacific Rugby Cup]]. Rugby union is governed by the [[Tonga Rugby Football Union]], which was a member of the [[Pacific Islands Rugby Alliance]] and contributed to the [[Pacific Islanders rugby union team]], before they were disbanded in 2009.
+
+Many players of Tongan descent – e.g., [[Jonah Lomu]], [[Israel Folau]], [[Viliami Ofahengaue|Viliami "William" ʻOfahengaue]], [[Malakai Fekitoa]], [[Ben Afeaki]], [[Charles Piutau]], [[Frank Halai]], [[Sekope Kepu]], [[George Smith (rugby union)|George Smith]], [[Cliff Palu|Wycliff Palu]], [[Sitaleki Timani]], [[Salesi Ma'afu]], [[Anthony Faingaa|Anthony]] and [[Saia Faingaa]], [[Mark Gerrard]], [[Cooper Vuna]], [[Doug Howlett]], [[Toutai Kefu]] and [[Tatafu Polota-Nau]] – have played for either the All Blacks or the Wallabies. [[British and Irish Lions|British and Irish Lion]] and Welsh international player [[Taulupe Faletau|Taulupe "Toby" Faletau]] is Tongan born and the son of Tongan international [[Kuli Faletau]]. Taulupe's cousins and England international players [[Billy Vunipola|Billy]] and [[Mako Vunipola]] (who is also a [[British and Irish Lion]]), are sons of former Tonga rugby captain [[Fe'ao Vunipola]]. Rugby is popular among the nation's schools, and students from schools such as Tonga College and [[Tupou College]] are regularly offered scholarships in New Zealand, Australia and Japan.
+
+[[Rugby league]] has gained some success. In the [[2008 Rugby League World Cup]] [[Tonga national rugby league team|Tonga]] recorded wins against [[Ireland national rugby league team|Ireland]] and [[Scotland national rugby league team|Scotland]]. In the 2017 World Cup, the Tonga side beat New Zealand in Hamilton at Waikato Stadium on 11 November. In doing so, Tonga became the first national side in the history of the sport (outside of the big three nations of Australia, New Zealand and England/Great Britain) to beat one of the big three nations. In addition to the success of the national team, many players of Tongan descent make it big in the Australian [[National Rugby League]] competition. These include [[Willie Mason]], [[Manu Vatuvei]], [[Brent Kite]], [[Willie Tonga]], [[Anthony Tupou]], [[Antonio Kaufusi]], [[Israel Folau]], [[Taniela Tuiaki]], [[Michael Jennings (rugby league)|Michael Jennings]], [[Tony Williams (rugby league)|Tony Williams]], [[Feleti Mateo]], [[Fetuli Talanoa]], to name a few. Subsequently, some Tongan rugby league players have established successful careers in the [[Super League]] such as Antonio Kaufusi.<ref>{{cite web |url= http://superleague.co.uk/article.php?id=12004 |title= Superleague |date= 8 October 2008 |publisher= Superleague |deadurl= yes |archiveurl= https://web.archive.org/web/20120406012927/http://superleague.co.uk/article.php?id=12004 |archivedate= 6 April 2012 |df= dmy-all }}</ref>
+
+==== Olympics ====
+{{Main|Tonga at the Olympics}}
+
+Aside from rugby, Tonga has also produced athletes who have competed at both the Summer and Winter Olympics. Tonga's only Olympic medal came from the [[1996 Summer Olympics]] in Atlanta, where [[Paea Wolfgramm]] won silver in [[Boxing at the 1996 Summer Olympics – Super heavyweight|Super heavyweight]] boxing. One athlete attended the [[2018 Winter Olympics]] in Pyeongchang, South Korea.
+
+=== Media ===
+* ''Matangi Tonga''&nbsp;– online newspaper
+* ''[[Times of Tonga|Taimi o Tonga]]'' (''Times of Tonga'')&nbsp;– controversial newspaper
+* ''Keleʻa''&nbsp;– newspaper
+* ''Talaki''&nbsp;– newspaper
+* ''[[Tonga Chronicle|Kalonikali]]''&nbsp;– newspaper
+* ''Tauʻataina''&nbsp;– newspaper
+* ''Kakalu''&nbsp;– newspaper
+* [[Tonga Broadcasting Commission]] ([[Television Tonga]], [[Television Tonga 2]], [[Radio Tonga]] 1, [[Radio Tonga]] 2 – Kool 90FM, [[Radio Tonga|103FM]])
+
+== See also ==
+{{Portal|Oceania}}
+*[[List of Tonga-related topics]]
+* [[Outline of Tonga]]{{clear}}
+
+== References ==
+<!-- Journal of World Prehistory 12 (3): 337–392 -->
+{{Reflist|30em}}
+
+== Further reading ==
+{{Refbegin}}
+;Ethnography, culture and history
+* ''On the Edge of the Global: Modern Anxieties in a Pacific Island Nation'' (2011) by Niko Besnier. Stanford, CA: Stanford University Press, {{ISBN|978-0-8047-7406-2}}
+* ''Becoming Tongan: An Ethnography of Childhood'' by Helen Morton
+* ''Queen Salote of Tonga: The Story of an Era, 1900–65'' by [[Elizabeth Wood-Ellem]]
+* ''Tradition Versus Democracy in the South Pacific: Fiji, Tonga and Western Samoa'' by Stephanie Lawson
+* ''Voyages: From Tongan Villages to American Suburbs'' Cathy A. Small
+* ''Friendly Islands: A History of Tonga'' (1977). Noel Rutherford. Melbourne: Oxford University Press. {{ISBN|0-19-550519-0}}
+* ''Tonga and the Tongans: Heritage and Identity'' (2007) Elizabeth Wood-Ellem. Alphington, Vic.: Tonga Research Association, {{ISBN|978-0-646-47466-3}}
+* ''Early Tonga: As the Explorers Saw it 1616–1810''. (1987). Edwin N Ferdon. Tucson: University of Arizona Press; {{ISBN|0-8165-1026-1}}
+* ''The Art of Tonga'' (Ko e ngaahi'aati'o Tonga) by Keith St Cartmail. (1997) Honolulu : University of Hawai`i Press. {{ISBN|0-8248-1972-1}}
+* ''The Tonga Book'' by Paul. W. Dale
+* ''Tonga'' by James Siers
+;Wildlife and environment
+* ''Birds of Fiji, Tonga and Samoa'' by [[Dick Watling]]
+* ''A Guide to the Birds of Fiji and Western Polynesia: Including American Samoa, Niue, Samoa, Tokelau, Tonga, Tuvalu and Wallis and Futuna'' by Dick Watling
+* ''Guide to the Birds of the Kingdom of Tonga'' by Dick Watling
+;Travel guides
+* ''Lonely Planet Guide: Samoan Islands and Tonga'' by Susannah Farfor and Paul Smitz
+* ''Moon Travel Guide: Samoa-Tonga'' by David Stanley
+;Bibliography
+* {{cite book|author=Martin Daly|title=Tonga: A New Bibliography|url=https://books.google.com/books?id=LsPR8tXQ69oC|year=2009|publisher=University of Hawaii Press|isbn=978-0-8248-3196-7}}
+;Fiction
+* {{cite book|author=Brian K. Crawford|title=Toki: A Historical Novel|url=https://books.google.com/books?id=7uraAgAAQBAJ|year=2009|publisher=Brian K. Crawford|isbn=978-0-557-03434-5}}
+{{Refend}}
+
+== External links ==
+{{Sister project links|voy=Tonga}}
+* {{CIA World Factbook link|tn|Tonga}}
+* [https://web.archive.org/web/20080607085903/http://ucblibraries.colorado.edu/govpubs/for/tonga.htm Tonga] from ''UCB Libraries GovPubs''
+* [http://www.touchoftonga.com/book.html The Friendly Islands: 1616 to 1900]
+* {{dmoz|Regional/Oceania/Tonga}}
+* [https://www.bbc.co.uk/news/world-asia-pacific-16197014 Tonga] from the [[BBC News]]
+* {{wikiatlas|Tonga}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=TO Key Development Forecasts for Tonga] from [[International Futures]]
+
+; Government
+* [http://www.mic.gov.to/ Ministry of Information and Communications]
+* [http://www.pmo.gov.to/ Prime Minister's Office]
+* [https://web.archive.org/web/20111007133115/http://www.tongaholiday.com/ Tonga Visitors Bureau, Ministry of Tourism, Kingdom of Tonga]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-t/tonga.html Chief of State and Cabinet Members]
+* [http://www.tongachamber.org/ Tonga Chamber of Commerce and Industry]
+* [http://finance.gov.to/ Ministry of Finance, Kingdom of Tonga]
+* [http://reservebank.to/ National Reserve Bank of Tonga, Kingdom of Tonga]
+
+; News media (online only)
+* [http://matangitonga.to/article/global_index.shtml/ Matangi Tonga] national magazine.
+
+{{Tonga topics}}
+{{Navboxes
+|title=Related articles 
+|list=
+{{Polynesia}}
+{{Countries and territories of Oceania}}
+{{Pacific Islands Forum (PIF)}}
+}}
+{{Authority control}}
+
+[[Category:Tonga| ]]
+[[Category:Archipelagoes of the Pacific Ocean]]
+[[Category:British Western Pacific Territories]]
+[[Category:Commonwealth monarchies]]
+[[Category:Countries in Polynesia]]
+[[Category:English-speaking countries and territories]]
+[[Category:Former British protectorates]]
+[[Category:Island countries]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:Christian states]]

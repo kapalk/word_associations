@@ -1,0 +1,587 @@
+{{distinguish|Holy See}}
+{{pp-move-indef}}
+{{Use dmy dates|date=December 2016}}
+{{Use British English|date=September 2010}}
+{{Infobox country
+| coordinates = {{Coord|41|54.2|N|12|27.2|E|type:city|display=title, inline}}
+| leader_name2 = [[Pietro Parolin]]
+| leader_name3 = <br />[[Giuseppe Bertello]]<ref>{{cite web|title=Governorate|url=http://www.vaticanstate.va/content/vaticanstate/en/stato-e-governo/struttura-del-governatorato/organigramma/governatorato.html|publisher=Vaticanstate.va|accessdate=12 August 2013}}</ref>
+| conventional_long_name = Vatican City State
+| native_name = {{ubl|{{native name|la|Status Civitatis Vaticanae}}|{{native name|it|Stato della Città del Vaticano}}}}
+| image_flag = Flag of the Vatican City.svg
+| image_coat = Coat of arms of the Vatican City.svg
+| common_name = Vatican City
+| national_anthem = {{native name|it|[[Pontifical Anthem|Inno e Marcia Pontificale]]}}<br />{{small|"Pontifical Anthem and March"}}<div style="padding-top:0.5em;">[[File:United States Navy Band - Inno e Marcia Pontificale.ogg|center]]</div>
+| image_map = Location_of_the_Vatican_City_in_Europe.svg
+| map_caption = {{map caption |location_color=green |region=Europe |region_color=dark grey |legend=Location Vatican City Europe.png}}
+| capital = {{nowrap|'''Vatican City''' {{small|([[city-state]])}}}}
+| largest_city = capital
+| official_languages = [[Italian language|Italian]]<!-- While the Holy See uses Latin in official documents, the Vatican City State uses Italian only -->{{efn|group="note"|1=Many other [[language]]s are used by institutions situated within the state, such as the [[Holy See]], the [[Pontifical Guard|Pontifical Swiss Guard]], and the [[Pontifical Academy of Sciences]].<br>The Holy See uses [[Latin]] as its main official language, Italian as its main working language and French as its main diplomatic language; in addition, its [[Secretariat of State (Holy See)|Secretariat of State]] uses English, German, Italian, Polish, Portuguese and Spanish. The Swiss Guard, in which commands on parade are given in German, also uses French and Italian, the other two official Swiss languages, in its official ceremonies, such as the annual swearing in of the new recruits on 6th May.<ref>{{cite av media|url=https://www.youtube.com/watch?v=QTeh9_3VGLQ|title=Solemn oath of the Vatican Swiss guards|date=6 May 2014|publisher=|via=YouTube}}</ref>}}
+| government_type = [[Unitary state|Unitary]] [[absolute monarchy]]<ref>{{cite web|url=http://www.vaticanstate.va/EN/State_and_Government/StateDepartments/index.htm |title=Internet portal of Vatican City State |publisher=Vatican City State |accessdate=9 July 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110524030947/http://www.vaticanstate.va/EN/State_and_Government/StateDepartments/index.htm |archivedate=24 May 2011 }}</ref> under an [[ecclesiastical]]<ref name="factbook"/> and [[elective monarchy|elective]]<ref>Robbers, Gerhard (2006) [https://books.google.com/books?id=M3A-xgf1yM4C&pg=PA1009 ''Encyclopedia of World Constitutions'']. Infobase Publishing. {{ISBN|978-0-81606078-8}}. p. 1009</ref> [[theocracy]]<ref>Nick Megoran (2009) [http://www.staff.ncl.ac.uk/nick.megoran/pdf/theocracy.pdf "Theocracy"], p. 226 in ''International Encyclopedia of Human Geography'', vol. 11, Elsevier {{ISBN|978-0-08-044911-1}}</ref>
+| leader_title1 = [[List of Sovereigns of the Vatican City State|Sovereign]]
+| leader_name1 = {{Incumbent pope|[[Pope Francis]]}}
+| leader_title2 = [[Cardinal Secretary of State|Secretary of State]]
+| leader_title3 = [[President of the Pontifical Commission for Vatican City State|President of<br />the Governorate]]
+| legislature = [[Pontifical Commission for Vatican City State|Pontifical Commission]]
+| established_event1 = [[Lateran Treaty]]
+| sovereignty_type = Independence {{nobold|from the [[Kingdom of Italy]]}}
+| established_date1 = 11 February 1929
+| area_km2 = 0.44
+| area_rank = 196th <!-- Should match [[List of countries and dependencies by area]] -->
+| population_estimate = 1,000<ref name="factbook"/>
+| population_estimate_year = 2017
+| population_estimate_rank = 236th
+| population_density_km2 = 2,272
+| population_density_rank = 6th
+| population_density_sq_mi = 5,882
+| Gini = <!--number only-->
+| Gini_year = 
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = 
+| Gini_rank = 
+| HDI = <!--number only-->
+| HDI_year = 
+| HDI_change = <!--increase/decrease/steady-->
+| HDI_ref = 
+| HDI_rank = 
+| currency = [[Euro]] (€)
+| currency_code = EUR
+| time_zone = [[Central European Time|CET]]
+| utc_offset = +1
+| utc_offset_DST = +2
+| time_zone_DST = [[Central European Summer Time|CEST]]
+| drives_on = right{{efn|1=Visitors and tourists are not permitted to drive inside the Vatican without specific permission, which is normally granted only to those on official business in the Vatican.}}
+| calling_code = [[Telephone numbers in Vatican City|+379]]{{efn|1=[[ITU-T]] assigned code 379 to Vatican City. However, Vatican City is included in the Italian telephone numbering plan and uses the Italian country code 39, followed by 06 (for Rome) and 698.}}
+| iso3166code = VA
+| cctld = [[.va]]
+| religion = [[Roman Catholicism]]
+| sport_code = 
+| footnotes = {{Infobox UNESCO World Heritage Site
+  |child=yes
+  |ID = 286
+  |Criteria = Cultural: i, ii, iv, vi
+  |Year = 1984
+  }}
+}}
+
+'''Vatican City''' ({{IPAc-en|audio=en-us-Vatican City.ogg|ˈ|v|æ|t|ɪ|k|ən|}}), officially '''Vatican City State''' ({{lang-it|Stato della Città del Vaticano}};{{efn|1={{lang|it|Stato della Città del Vaticano}} ({{IPA-it|ˈstaːto della tʃitˈta ddel vatiˈkaːno}})<ref>[http://www.dizionario.rai.it/poplemma.aspx?lid=71907 ''città''] in DOP</ref><ref>[http://www.dipionline.it/dizionario/ricerca?lemma=Città+del+Vaticano ''Città del Vaticano''] in DiPI Online</ref> is the name used in [https://web.archive.org/web/20120822001817/http://www.vatican.va/vatican_city_state/legislation/documents/scv_doc_20001126_legge-fondamentale-scv_it.html the text] of the state's [[Constitution|Fundamental Law]] and in [http://www.vaticanstate.va/content/vaticanstate/en.html the state's official website].}} {{lang-la|Status Civitatis Vaticanae}}),{{efn|1=The [[Latin spelling and pronunciation#Ecclesiastical pronunciation|Ecclesiastical]], and therefore official, pronunciation is {{IPA-la|ˈstatus tʃiviˈtatis vatiˈkane|}}, the Classical one is {{IPA-la|ˈstatʊs kiːwɪˈtaːtɪs waːtɪˈkaːnae̯|}}.}}{{efn|In the languages used by the [[Secretariat of State (Holy See)|Secretariat of State]] of the [[Holy See]] (except English and Italian as already mentioned above):
+* {{lang-fr|Cité du Vatican}}—''{{lang|fr|État de la Cité du Vatican}}''
+* {{lang-de|Vatikanstadt}}, cf. ''{{lang|de|Vatikan}}''—''{{lang|de|Staat Vatikanstadt}}'' (in Austria: ''{{lang|de|Staat der Vatikanstadt}}'') 
+* {{lang-pl|Miasto Watykańskie}}, cf. ''{{lang|pl|Watykan}}''—''{{lang|pl|Państwo Watykańskie}}''
+* {{lang-pt|Cidade do Vaticano}}—''{{lang|pt|Estado da Cidade do Vaticano}}''
+* {{lang-es|Ciudad del Vaticano}}—''{{lang|es|Estado de la Ciudad del Vaticano}}''}} is an [[independence|independent]] [[city-state]]<ref>{{Cite news|url=https://www.bbc.com/news/world-europe-17994868|title=Vatican country profile|date=2018|work=BBC News|access-date=2018-08-24|language=en-GB}}</ref> [[enclave]]d within [[Rome]], [[Italy]]. Established with the [[Lateran Treaty]] (1929), it is distinct from yet under "full ownership, exclusive [[dominion]], and [[sovereignty|sovereign authority]] and [[jurisdiction]]" of the [[Holy See]] ({{lang-la|Sancta Sedes}}).{{efn|1=The Holy See is the central governing body of the Catholic Church and a sovereign entity recognized by international law, consisting of the Pope and the [[Roman Curia]]. It is also commonly referred to as "the Vatican", especially when used as a [[metonym]] for the [[hierarchy of the Catholic Church]].}}<ref name="lateran">{{cite web|url=http://www.aloha.net/~mikesch/treaty.htm|title=Text of the Lateran Treaty of 1929|publisher=}}</ref> With an [[area]] of 44 [[hectare]]s (110 [[acre]]s), and a [[population]] of about 1,000,<ref name="factbook">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html|title=Holy See (Vatican City)|work=CIA—The World Factbook}}</ref> it is the smallest state in the world by both [[List of countries by area|area]] and [[List of countries by population|population]].<ref>https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html</ref>
+
+The Vatican City is an [[Ecclesiastical jurisdiction|ecclesiastical]]<ref name="factbook"/> or [[Sacerdotal state|sacerdotal]]-[[Monarchy|monarchical]]<ref name=pages>{{cite web|url=http://www.catholic-pages.com/vatican/vatican_city.asp |title=Vatican City |publisher=Catholic-Pages.com |accessdate=12 August 2013}}</ref> state (a type of [[theocracy]]) ruled by the [[pope]] who is, religiously speaking, the [[Bishop in the Catholic Church|bishop]] of [[Diocese of Rome|Rome]] and head of the [[Catholic Church]]. The highest state functionaries are all [[Catholic clergy]] of various national origins. Since the return of the popes from [[Avignon Papacy|Avignon]] in 1377, they have generally resided at the [[Apostolic Palace]] within what is now Vatican City, although at times residing instead in the [[Quirinal Palace]] in Rome or elsewhere.
+
+The Holy See dates back to [[early Christianity]], and is the [[Primate (bishop)|primate]] [[episcopal see]] of the Catholic Church, with 1.3&nbsp;billion Catholics around the world distributed in the [[Latin Church]] and 23 [[Eastern Catholic Churches]]. The independent Vatican City-state, on the other hand, came into existence in 11 February 1929 by the [[Lateran Treaty]] between the Holy See and [[Italy]], which spoke of it as a new creation,<ref name=Preamble /> not as a vestige of the much larger [[Papal States]] (756–1870), which had previously encompassed much of central Italy.
+
+Within the Vatican City are religious and cultural sites such as [[St. Peter's Basilica]], the [[Sistine Chapel]] and the [[Vatican Museums]]. They feature some of the world's most famous paintings and sculptures. The unique [[economy of Vatican City]] is supported financially by the sale of [[postage stamp]]s and [[souvenir]]s, fees for admission to museums, and sales of [[publication]]s.
+
+==Name==
+The name {{linktext|Vatican City}} was first used in the [[Lateran Treaty]], signed on 11 February 1929, which established the modern city-state. The name is taken from [[Vatican Hill]], the geographic location of the state. "Vatican" is derived from the name of an [[Etruscan civilization|Etruscan]] settlement,  ''Vatica'' or ''Vaticum'' meaning garden, located in the general area the Romans called ''vaticanus ager'', "Vatican territory".{{citation needed|date=November 2017}}
+
+The official [[Italian language|Italian]] name of the city is ''{{lang|it|Città del Vaticano}}'' or, more formally, ''{{lang|it|Stato della Città del Vaticano}}'', meaning "Vatican City State". Although the [[Holy See]] (which is distinct from the Vatican City) and the Catholic Church use [[Ecclesiastical Latin]] in official documents, the Vatican City officially uses Italian. The [[Latin]] name is ''{{lang|la|Status Civitatis Vaticanæ}}'';<ref>{{cite web| url=http://w2.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19451208_vacantis-apostolicae-sedis.html| title=Apostolic Constitution| language=Latin}}</ref><ref>{{cite web| title=Letter to John Cardinal Lajolo| author=Pope Francis| date=8 September 2014| publisher=The Vatican| url=http://w2.vatican.va/content/francesco/la/letters/2014/documents/papa-francesco_20140908_lettera-card-giovanni-lajolo.html| language=Latin| accessdate=28 May 2015}}</ref> this is used in official documents by not just the Holy See, but in most official Church and [[Pope|Papal]] documents.
+
+==History==
+[[File:St Peter's Square, Vatican City - April 2007.jpg|thumb|right|View of St. Peter's Square from the top of Michelangelo's dome]]
+
+===Early history===
+[[File:Obelisque Saint Peter's square Vatican City.jpg|thumb|left|The Vatican [[obelisk]], originally taken from Egypt by [[Caligula]]]]
+{{History of Vatican City}}
+
+The name "Vatican" was already in use in the time of the [[Roman Republic]] for a marshy area on the west bank of the Tiber across from the city of Rome. Under the [[Roman Empire]], many villas were constructed there, after [[Agrippina the Elder]] (14 BC&nbsp;– 18 October [[Anno Domini|AD]] 33) drained the area and laid out her gardens in the early 1st century AD. In AD 40, her son, Emperor [[Caligula]] (31 August AD 12–24 January AD 41; r. 37–41) built in her gardens a circus for charioteers (AD 40) that was later completed by [[Nero]], the ''Circus Gaii et Neronis'',<ref>Lanciani, Rodolfo (1892). [http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/Lanciani/LANPAC/3*.html#sec16 Pagan and Christian Rome] Houghton, Mifflin.</ref> usually called, simply, the [[Circus of Nero]].<ref>{{cite web|url=http://www.vaticanstate.va/content/vaticanstate/en/stato-e-governo/storia/la-citta-del-vaticano-nel-tempo.html|title=Vatican City in the Past|publisher=}}</ref>
+
+Even before the arrival of Christianity, it is supposed that this originally uninhabited part of Rome (the ''ager vaticanus'') had long been considered sacred, or at least not available for habitation.{{Citation needed|date=August 2013}} A shrine dedicated to the Phrygian goddess [[Cybele]] and her consort [[Attis]] remained active long after the [[Constantinian Basilica of St. Peter]] was built nearby.<ref>{{cite web|title=Altar dedicated to Cybele and Attis|url=http://mv.vatican.va/3_EN/pages/x-Schede/MGEs/MGEs_Sala16_03_040.html|publisher=Vatican Museums|accessdate=26 August 2013}}</ref>
+
+The particularly low quality of Vatican water, even after the reclamation of the area, was commented on by the poet [[Martial]] (40 – between 102 and 104 AD).<ref>{{cite web|url=https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/8100/research.pdf?sequence=3|title=Damien Martin, "Wine and Drunkenness in Roman Society"|publisher=}}</ref> [[Tacitus]] wrote, that in AD 69, the [[Year of the Four Emperors]], when the northern army that brought [[Vitellius]] to power arrived in Rome, "a large proportion camped in the unhealthy districts of the Vatican, which resulted in many deaths among the common soldiery; and the Tiber being close by, the inability of the Gauls and Germans to bear the heat and the consequent greed with which they drank from the stream weakened their bodies, which were already an easy prey to disease".<ref>Tacitus, ''The Histories'', II, 93, translation by Clifford H. Moore (The Loeb Classical Library, first printed 1925)</ref>
+
+The [[Vatican Obelisk]] was originally taken by [[Caligula]] from [[Heliopolis (Ancient Egypt)|Heliopolis]] in [[Roman Egypt|Egypt]] to decorate the ''spina'' of his [[Roman circus|circus]] and is thus its last visible remnant.<ref>[[Pliny the Elder]], [[Natural History (Pliny)|Natural History]] XVI.76.</ref> This area became the site of martyrdom of many Christians after the [[Great Fire of Rome]] in AD 64. Ancient tradition holds that it was in this circus that [[Saint Peter]] was [[Cross of St. Peter|crucified upside-down]].<ref>{{cite web|title=St. Peter, Prince of the Apostles|url=http://www.newadvent.org/cathen/11744a.htm#IV|publisher=Catholic Encyclopedia|accessdate=12 August 2013}}</ref>
+
+Opposite the circus was a cemetery separated by the [[Via Cornelia]]. Funeral monuments and mausoleums and small tombs as well as altars to pagan gods of all kinds of polytheistic religions were constructed lasting until before the construction of the Constantinian Basilica of St. Peter's in the first half of the 4th century. Remains of this ancient [[list of necropoleis|necropolis]] were brought to light sporadically during renovations by various popes throughout the centuries, increasing in frequency during the [[Renaissance]] until it was systematically excavated by orders of [[Pope Pius XII]] from 1939 to 1941. The Constantinian basilica was built in 326 over what was believed to be the [[Saint Peter's tomb|tomb of Saint Peter]], buried in that cemetery.<ref>[https://books.google.com/books?id=37b9V9IXDsYC&pg=PA126&dq=Gardner+%22reputed+grave%22&hl=en&sa=X&ei=A3gQUqPdOYWThgeirYCgDg&redir_esc=y#v=onepage&q=Gardner%20%22reputed%20grave%22&f=false Fred S. Kleiner, ''Gardner's Art through the Ages'' (Cengage Learning 2012] {{ISBN|978-1-13395479-8}}), p. 126</ref>
+
+From then on, the area became more populated in connection with activity at the basilica. A palace was constructed nearby as early as the 5th century during the pontificate of [[Pope Symmachus]] (reigned 498–514).<ref>{{cite web |url=http://www.bartleby.com/65/va/Vatican.html |title=Vatican |work=Columbia Encyclopedia |edition=Sixth |date=2001–2005 |archive-url=https://web.archive.org/web/20060207064352/http://www.bartleby.com/65/va/Vatican.html |archive-date=7 February 2006}}</ref>
+[[File:Lieven Cruyl - Veduti - Erfgoedfonds Koning Boudewijnstichting - Fonds du Patrimoine Fondation Roi Baudouin - 4.jpg|thumb|329x329px|[[Lievin Cruyl|Lieven Cruyl]], Veduti (Prospectus Basilicę Vaticanę D. Petri.), depiction of the Vatican during the Baroque ages.]]
+
+===Papal States===
+{{Main|Papal States}}
+{{See also|History of the Papacy}}
+
+[[File:Italy 1796 AD.png|thumb|left|upright|The Italian peninsula in 1796. The shaded yellow territory in central Italy is the Papal State.]]
+
+Popes gradually came to have a secular role as governors of regions near Rome. They ruled the [[Papal States]], which covered a large portion of the Italian peninsula, for more than a thousand years until the mid-19th century, when all the territory belonging to the papacy was seized by the [[Italian unification|newly created]] Kingdom of Italy.
+
+For most of this time the popes did not live at the Vatican. The [[Lateran Palace]], on the opposite side of Rome, was their habitual residence for about a thousand years. From 1309 to 1377, they lived at [[Avignon]] in France. On their return to Rome they chose to live at the Vatican. They moved to the [[Quirinal Palace]] in 1583, after work on it was completed under [[Pope Paul V]] (1605–1621), but on the [[capture of Rome]] in 1870 retired to the Vatican, and what had been their residence became that of the [[Kingdom of Italy|King of Italy]].
+
+===Italian unification===
+{{Main|Roman Question}}
+
+In 1870, the Pope's holdings were left in an uncertain situation when [[capture of Rome|Rome itself was annexed]] by the [[Piedmont]]-led forces which had [[Italian unification|united the rest of Italy]], after a nominal resistance by the papal forces. Between 1861 and 1929 the status of the Pope was referred to as the "Roman Question".
+
+Italy made no attempt to interfere with the Holy See within the Vatican walls. However, it confiscated church property in many places. In 1871 the [[Quirinal Palace]] was confiscated by the king of Italy and became the royal palace. Thereafter the popes resided undisturbed within the Vatican walls, and certain papal prerogatives were recognized by the [[Law of Guarantees]], including the right to send and receive ambassadors. But the Popes did not recognise the Italian king's right to rule in Rome, and they refused to leave the Vatican compound until the dispute was resolved in 1929; [[Pope Pius IX]] (1846–1878), the last ruler of the Papal States, was referred to as a "[[prisoner in the Vatican]]". Forced to give up secular power, the popes focused on spiritual issues.<ref name="World History">{{cite book| last=Wetterau| first=Bruce| title=World History: A Dictionary of Important People, Places, and Events, from Ancient Times to the Present| location=New York| publisher=Henry Holt & Co.| year=1994| isbn=978-0805023503}}</ref>
+
+===Lateran treaties===
+{{Main|Lateran Treaty}}
+
+This situation was resolved on 11 February 1929, when the Lateran Treaty between the Holy See and the Kingdom of Italy was signed by [[Prime Minister of Italy|Prime Minister and Head of Government]] [[Benito Mussolini]] on behalf of King [[Victor Emmanuel III]] and by [[Cardinal Secretary of State]] [[Pietro Gasparri]] for [[Pope Pius XI]].<ref name=Preamble>{{cite web|url=http://www.vaticanstate.va/content/dam/vaticanstate/documenti/leggi-e-decreti/Normative-Penali-e-Amministrative/LateranTreaty.pdf|title=Preamble of the Lateran Treaty|publisher=}}</ref><ref name="lateran"/><ref>[http://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19290211_patti-lateranensi_it.html#TRATTATO_FRA_LA_SANTA_SEDE_E_L’ITALIA Trattato fra la Santa Sede e l'Italia]</ref> The treaty, which became effective on 7 June 1929, established the independent state of Vatican City and reaffirmed the special status of Catholicism in Italy.<ref name=Statute>{{cite web|url=http://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19290211_patti-lateranensi_it.html|title=Patti lateranensi, 11 febbraio 1929 – Segreteria di Stato, card. Pietro Gasparri|author=|date=|work=vatican.va}}</ref>
+
+===World War II===
+{{Main|Vatican City during World War II}}
+
+[[File:The British Army in Italy 1944 NA16179.jpg|thumb|Bands of the British army's 38th Brigade playing in front of St Peter's Basilica, June 1944.]]
+
+The Holy See, which ruled Vatican City, pursued a policy of neutrality during [[World War II]], under the leadership of [[Pope Pius XII]]. Although German troops occupied the city of Rome after the September 1943 [[Armistice of Cassibile]], and the Allies from 1944, they respected Vatican City as neutral territory.<ref>{{cite web|url=http://www.ushmm.org/wlc/en/article.php?ModuleId=10005446 |title=Rome |publisher=Ushmm.org |accessdate=12 December 2013}}</ref> One of the main diplomatic priorities of the [[bishop of Rome]] was to prevent the bombing of the city; so sensitive was the pontiff that he protested even the British air dropping of pamphlets over Rome, claiming that the few landing within the city-state violated the Vatican's neutrality.<ref name="Chadwick1">Chadwick, 1988, pp. 222–32</ref> The British policy, as expressed in the minutes of a Cabinet meeting, was: "that we should on no account molest the Vatican City, but that our action as regards the rest of Rome would depend upon how far the Italian government observed the rules of war".<ref name="Chadwick1"/>
+
+After the American entry into the war, the US opposed such a bombing, fearful of offending Catholic members of its military forces, but said that "they could not stop the British from bombing Rome if the British so decided". The British uncompromisingly said "they would bomb Rome whenever the needs of the war demanded".<ref>Chadwick, 1988, pp. 232–36</ref> In December 1942, the British envoy suggested to the Holy See that Rome be declared an "[[open city]]", a suggestion that the Holy See took more seriously than was probably meant by the British, who did not want Rome to be an open city, but Mussolini rejected the suggestion when the Holy See put it to him. In connection with the [[Allied invasion of Sicily]], 500 American aircraft [[Bombing of Rome in World War II|bombed Rome on 19 July 1943]], aiming particularly at the railway hub. Some 1,500 people were killed; Pius XII himself, who had been described in the previous month as "worried sick" about the possible bombing, viewed the aftermath. Another raid took place on 13 August 1943, after Mussolini had been [[Fall of the Fascist regime in Italy|ousted from power]].<ref>Chadwick, 1988, pp. 236–44</ref> On the following day, the new government declared Rome an open city, after consulting the Holy See on the wording of the declaration, but the British had decided that they would never recognize Rome as an open city.<ref>Chadwick, 1988, pp. 244–45</ref>
+
+===Post-war history===
+Pius XII had refrained from creating [[cardinal (Catholicism)|cardinals]] during the war. By the end of World War II, there were several prominent vacancies: [[Cardinal Secretary of State]], [[Camerlengo of the Holy Roman Church|Camerlengo]], [[Chancellor of the Holy Roman Church|Chancellor]], and Prefect for the [[Congregation for Institutes of Consecrated Life and Societies of Apostolic Life|Congregation for the Religious]] among them.<ref>{{harvnb|Chadwick|1988|p=304}}</ref> Pius XII [[Cardinals created by Pope Pius XII in 1946|created 32 cardinals in early 1946]], having announced his intentions to do so in his preceding Christmas message.
+
+The [[Military in Vatican City|Pontifical Military Corps]], except for the [[Swiss Guard]], was disbanded by will of [[Pope Paul VI|Paul VI]], as expressed in a letter of 14 September 1970.<ref name="Vatican State" /> The [[Corps of Gendarmerie of Vatican City|Gendarmerie Corps]] was transformed into a civilian [[police]] and security force.
+
+In 1984, a new [[concordat]] between the Holy See and Italy modified certain provisions of the earlier treaty, including the position of Catholicism as the Italian state religion, a position given to it by a statute of the [[Kingdom of Sardinia]] of 1848.<ref name=Statute/>
+
+Construction in 1995 of a new guest house, [[Domus Sanctae Marthae]], adjacent to St Peter's Basilica was criticised by Italian environmental groups, backed by Italian politicians. They claimed the new building would block views of the Basilica from nearby Italian apartments.<ref name="guest house">{{cite book|last=Thavis|first=John|title=The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities and Politics at the Heart of the Catholic Church|year=2013|publisher=Viking|location=NY |isbn=978-0-670-02671-5 |pages=121–2}}</ref> For a short while the plans strained the relations between the Vatican and the Italian government. The head of the Vatican's Department of Technical Services robustly rejected challenges to the Vatican State's right to build within its borders.<ref name="guest house" />
+
+==Geography==
+{{more citations needed|section|date=June 2018}}<!--in first part, there are 3 paragraphs without citations-->
+{{Main|Geography of Vatican City}}
+[[File:Vatican City map EN.png|thumb|upright=2.25|Map of Vatican City, highlighting notable buildings and the Vatican gardens.]]
+
+The name "Vatican" predates Christianity and comes from the Latin ''{{lang|la|[[Vatican Hill|Mons Vaticanus]]}}'', meaning Vatican Mount.<ref>{{cite web|url=http://dictionary.reference.com/browse/Vatican|title=Vatican (search)|publisher=Online Dictionary|accessdate=28 November 2007}}</ref> The territory of Vatican City is part of the ''Mons Vaticanus'', and of the adjacent former Vatican Fields. It is in this territory that [[St. Peter's Basilica]], the [[Apostolic Palace]], the [[Sistine Chapel]], and museums were built, along with various other buildings. The area was part of the Roman ''[[rione]]'' of [[borgo (rione of Rome)|Borgo]] until 1929. Being separated from the city, on the west bank of the river [[Tiber]], the area was an outcrop of the city that was protected by being included within the walls of [[Pope Leo IV|Leo IV]] (847–855), and later expanded by the current fortification walls, built under [[Pope Paul III|Paul III]] (1534–1549), [[Pope Pius IV|Pius IV]] (1559–1565) and [[Pope Urban VIII|Urban VIII]] (1623–1644).
+[[File:VaticanCity Annex.jpg|thumb|Territory of Vatican City State according to the [[Lateran Treaty]].]]
+
+When the [[Lateran Treaty]] of 1929 that gave the state its form was being prepared, the boundaries of the proposed territory were influenced by the fact that much of it was all but enclosed by this loop. For some tracts of the frontier, there was no wall, but the line of certain buildings supplied part of the boundary, and for a small part of the frontier a modern wall was constructed.
+
+The territory includes [[St. Peter's Square]], distinguished from the territory of Italy only by a white line along the limit of the square, where it touches Piazza Pio&nbsp;XII. St. Peter's Square is reached through the [[Via della Conciliazione]] which runs from close to the Tiber to St. Peter's. This grand approach was constructed by [[Benito Mussolini]] after the conclusion of the Lateran Treaty.
+
+According to the Lateran Treaty, certain [[properties of the Holy See]] that are located in Italian territory, most notably the [[Papal Palace of Castel Gandolfo]] and the [[major basilica]]s, enjoy extraterritorial status similar to that of foreign [[diplomatic mission|embassies]].<ref name="treaty"/><ref name="treaty text"/> These properties, scattered all over Rome and Italy, house essential offices and institutions necessary to the character and mission of the Holy See.<ref name="treaty text">Lateran Treaty of 1929, Articles 13–16</ref>
+
+Castel Gandolfo and the named basilicas are patrolled internally by [[Corps of Gendarmerie of Vatican City|police agents of Vatican City State]] and not by [[Law enforcement in Italy|Italian police]]. According to the Lateran Treaty (Art. 3) St. Peter's Square, up to but not including the steps leading to the basilica, is normally patrolled by the Italian police.<ref name="treaty">{{cite web|title=Patti Lateranensi|url=http://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19290211_patti-lateranensi_it.html|publisher=vatican.va|accessdate=6 November 2013}}</ref>
+
+There are no passport controls for visitors entering Vatican City from the surrounding Italian territory. There is free public access to Saint Peter's Square and Basilica and, on the occasion of papal general audiences, to the hall in which they are held. For these audiences and for major ceremonies in Saint Peter's Basilica and Square, tickets free of charge must be obtained beforehand. The Vatican Museums, incorporating the Sistine Chapel, usually charge an entrance fee. There is no general public access to the gardens, but guided tours for small groups can be arranged to the gardens and excavations under the basilica. Other places are open to only those individuals who have business to transact there.
+
+{{Panorama
+|image   = File:Vatican StPeter Square.jpg
+|height  = 230
+|alt     = St. Peter's Square, the basilica and obelisk, from Piazza Pio XII
+|caption = <center>St. Peter's Square, the basilica and obelisk, from Piazza Pio XII</center>
+}}
+
+===Climate===
+Vatican City's climate is the same as Rome's: a temperate, [[Mediterranean climate]] ''Csa'' with mild, rainy winters from October to mid-May and hot, dry summers from May to September. Some minor local features, principally mists and dews, are caused by the anomalous bulk of St Peter's Basilica, the elevation, the fountains and the size of the large paved square.
+{{Weather box
+|location= Vatican City
+|metric first= yes
+|single line= yes
+|Jan record high C=19.8
+|Feb record high C=21.2
+|Mar record high C=26.6
+|Apr record high C=27.2
+|May record high C=33.0
+|Jun record high C=37.8
+|Jul record high C=39.4
+|Aug record high C=40.6
+|Sep record high C=38.4
+|Oct record high C=30.0
+|Nov record high C=25.0
+|Dec record high C=20.2
+|Jan high C= 11.9
+|Feb high C= 13.0
+|Mar high C= 15.2
+|Apr high C= 17.7
+|May high C= 22.8
+|Jun high C= 26.9
+|Jul high C= 30.3
+|Aug high C= 30.6
+|Sep high C= 26.5
+|Oct high C= 21.4
+|Nov high C= 15.9
+|Dec high C= 12.6
+|year high C= 20.4
+|Jan mean C= 7.5
+|Feb mean C= 8.2
+|Mar mean C= 10.2
+|Apr mean C= 12.6
+|May mean C= 17.2
+|Jun mean C= 21.1
+|Jul mean C= 24.1
+|Aug mean C= 24.5
+|Sep mean C= 20.8
+|Oct mean C= 16.4
+|Nov mean C= 11.4
+|Dec mean C= 8.4
+|year mean C= 15.2
+|Jan low C= 3.1
+|Feb low C= 3.5
+|Mar low C= 5.2
+|Apr low C= 7.5
+|May low C= 11.6
+|Jun low C= 15.3
+|Jul low C= 18.0
+|Aug low C= 18.3
+|Sep low C= 15.2
+|Oct low C= 11.3
+|Nov low C= 6.9
+|Dec low C= 4.2
+|year low C= 10.0
+|Jan record low C=-11.0
+|Feb record low C=-4.4
+|Mar record low C=-5.6
+|Apr record low C=0.0
+|May record low C=3.8
+|Jun record low C=7.8
+|Jul record low C=10.6
+|Aug record low C=10.0
+|Sep record low C=5.6
+|Oct record low C=0.8
+|Nov record low C=-5.2
+|Dec record low C=-4.8
+|Jan precipitation mm= 67
+|Feb precipitation mm= 73
+|Mar precipitation mm= 58
+|Apr precipitation mm= 81
+|May precipitation mm= 53
+|Jun precipitation mm= 34
+|Jul precipitation mm= 19
+|Aug precipitation mm= 37
+|Sep precipitation mm= 73
+|Oct precipitation mm= 113
+|Nov precipitation mm= 115
+|Dec precipitation mm= 81
+|year precipitation mm= 804
+|Jan precipitation days= 7.0
+|Feb precipitation days= 7.6
+|Mar precipitation days= 7.6
+|Apr precipitation days= 9.2
+|May precipitation days= 6.2
+|Jun precipitation days= 4.3
+|Jul precipitation days= 2.1
+|Aug precipitation days= 3.3
+|Sep precipitation days= 6.2
+|Oct precipitation days= 8.2
+|Nov precipitation days= 9.7
+|Dec precipitation days= 8.0
+|year precipitation days= 79.4
+|unit precipitation days = 1 mm
+|Jan sun= 120.9
+|Feb sun= 132.8
+|Mar sun= 167.4
+|Apr sun= 201.0
+|May sun= 263.5
+|Jun sun= 285.0
+|Jul sun= 331.7
+|Aug sun= 297.6
+|Sep sun= 237.0
+|Oct sun= 195.3
+|Nov sun= 129.0
+|Dec sun= 111.6
+|year sun= 2472.8
+|source 1= [[Servizio Meteorologico]],<ref name=ServizioMeteorologico1>[http://clima.meteoam.it/AtlanteClimatico/pdf/(239)Roma%20Ciampino.pdf Tabelle climatiche 1971–2000 della stazione meteorologica di Roma-Ciampino Ponente dall'Atlante Climatico 1971–2000]&nbsp;– Servizio Meteorologico dell'Aeronautica Militare</ref> data of sunshine hours<ref>{{cite web
+ |url=http://clima.meteoam.it/web_clima_sysman/Clino6190/CLINO239.txt
+ |title=Visualizzazione tabella CLINO della stazione / CLINO Averages Listed for the station Roma Ciampino |accessdate=13 June 2011}}</ref>
+|date=April 2012}}
+
+In July 2007, the Vatican accepted a proposal by two firms based respectively in [[San Francisco]] and [[Budapest]],<ref>{{cite web|url=http://www.thegwpf.com/vatican-footprint-wrong-footed/ |title=Vatican footprint wrong-footed |publisher=The Global Warming Policy Forum |date=26 May 2010 |accessdate=2 January 2015}}</ref> whereby it would become the first [[carbon neutrality|carbon neutral]] state by offsetting its [[List of countries by carbon dioxide emissions|carbon dioxide emissions]] with the creation of a [[Vatican Climate Forest]] in Hungary,<ref>{{cite news|url=http://www.physorg.com/news103554442.html |title=The Vatican to go carbon neutral |agency=United Press International |date=13 July 2007 |accessdate=12 September 2009}}</ref> as a purely symbolic gesture<ref name=CN070713>[http://www.cathnews.com/news/707/76.php Vatican signs up for a carbon offset forest], ''Catholic News Service'', published 13 July 2007. Retrieved 3 August 2007 {{webarchive |url=https://web.archive.org/web/20080705173031/http://www.cathnews.com/news/707/76.php |date=5 July 2008 }}</ref> to encourage [[Catholic Church|Catholics]] to do more to safeguard the planet.<ref>[http://www.wcr.ab.ca/news/2007/0723/carbon072307.shtml Climate forest makes Vatican the first carbon-neutral state], ''Western Catholic Reporter'', published 23 July 2007. Retrieved 3 August 2007 {{webarchive |url=https://web.archive.org/web/20080304130215/http://www.wcr.ab.ca/news/2007/0723/carbon072307.shtml |date=4 March 2008 }}</ref> Nothing came of the project.<ref>[http://www.csmonitor.com/Environment/2010/0420/Carbon-offsets-How-a-Vatican-forest-failed-to-reduce-global-warming "Carbon offsets: How a Vatican forest failed to reduce global warming"]. ''The Christian Science Monitor''</ref><ref>[http://www.ethicalcorp.com/environment/dangers-lurk-offset-investments "Dangers lurk in offset investments"], ''Ethical Corporation'' published 19 September 2011. Retrieved 25 August 2012 {{webarchive |url=https://web.archive.org/web/20120427133116/http://www.ethicalcorp.com/environment/dangers-lurk-offset-investments |date=27 April 2012 }}</ref>
+
+On 26 November 2008, the Vatican itself put into effect a plan announced in May 2007 to cover the roof of the [[Paul VI Audience Hall]] with [[solar panel]]s.<ref>[http://webarchive.loc.gov/all/20070612183543/http://www.catholicnews.com/data/stories/cns/0702971.htm "Going green: Vatican expands mission to saving planet, not just souls"], ''Catholic News Service'', published 25 May 2007. Retrieved 12 June 2007</ref><ref>Glatz, Carol (26 November 2008) [http://salt.claretianpubs.org/sjnews/2008/12/sjn081210a.html "Vatican wins award for creating rooftop solar-power generator"], ''Catholic News Service''.</ref>
+
+===Gardens===
+{{Main|Gardens of Vatican City}}
+
+Within the territory of Vatican City are the [[Gardens of Vatican City|Vatican Gardens]] ({{lang-it|Giardini Vaticani|links=no}}),<ref name="VaticanMap">{{cite web|url=http://www.saintpetersbasilica.org/vaticancity-map.htm |title=Map of Vatican City |publisher=saintpetersbasilica.org |accessdate=11 October 2009}}</ref> which account for more than half of this territory. The gardens, established during the [[Renaissance]] and [[Baroque]] era, are decorated with fountains and sculptures.
+
+The gardens cover approximately {{convert|23|ha|acres}} which is most of the [[Vatican Hill]]. The highest point is {{convert|60|m}} [[above mean sea level]]. Stone walls bound the area in the North, South and West.
+
+The gardens date back to medieval times when orchards and vineyards extended to the north of the Papal [[Apostolic Palace]].<ref name="Pellegrino">{{cite web|url=http://www.pellegrinocattolico.com/ctv/gardens.htm|title=Al Pellegrino Cattolico: ''The Vatican Gardens''|accessdate=21 November 2008|publisher=2008 Al Pellegrino Cattolico s.r.l. Via di Porta Angelica 81\83 (S.Pietro) I- 00193 Roma, Italy|deadurl=yes|archiveurl=https://web.archive.org/web/20080413133503/http://www.pellegrinocattolico.com/ctv/gardens.htm|archivedate=13 April 2008|df=dmy-all}}</ref> In 1279 [[Pope Nicholas III]] (Giovanni Gaetano Orsini, 1277–1280) moved his residence back to the Vatican from the [[Lateran Palace]] and enclosed this area with walls.<ref name="Vatican">{{cite web|url=http://www.vaticanstate.va/EN/Monuments/The_Vatican_Gardens/ |title=Official Vatican City State Website: ''A Visit to the Vatican Gardens'' |accessdate=21 November 2008 |publisher=2007–08 Uffici di Presidenza S.C.V. |deadurl=yes |archiveurl=https://web.archive.org/web/20081108134258/http://www.vaticanstate.va/EN/Monuments/The_Vatican_Gardens/ |archivedate=8 November 2008 }}</ref> He planted an orchard ''(pomerium)'', a lawn ''(pratellum)'' and a garden ''(viridarium)''.<ref name="Vatican"/>
+
+{{Panorama
+|image   = File:Vatican panorama from St. Peters Basilica.jpg
+|height  = 240
+|alt     = A panorama of gardens and several buildings from atop St. Peter's Basilica
+|caption = <center>Panorama of the gardens from atop St. Peter's Basilica</center>
+}}
+
+==Governance==
+<!-- Please add new information into relevant articles of the series -->
+
+{{Politics of Vatican City|Government of Vatican City}}
+{{Main|Politics of Vatican City}}
+
+The politics of Vatican City takes place in an [[absolute monarchy|absolute]] [[elective monarchy]], in which the head of the Roman Catholic Church takes power. The Pope exercises principal legislative, executive, and judicial power over the State of Vatican City (an entity distinct from the [[Holy See]]), which is a rare case of a non-hereditary monarchy.<ref name="nationsencyclopedia1">{{cite web|url=http://www.nationsencyclopedia.com/economies/Europe/Vatican-City-POLITICS-GOVERNMENT-AND-TAXATION.html|title=Vatican City (Politics, government, and taxation)|publisher=Nations Encyclopedia|accessdate=28 November 2007}}</ref>
+
+Vatican City is one of the few widely recognized independent states that has not become a member of the United Nations.<ref>{{Cite web|url=http://www.un.org/apps/news/story.asp?NewsID=56121#.WnNenpM-dsM|title=UN News - FEATURE: Diplomacy of the conscience – The Holy See at the United Nations|last=Section|first=United Nations News Service|date=2017-02-07|website=UN News Service Section|language=en|access-date=2018-02-01}}</ref> The Holy See, which is distinct from Vatican City State, has [[United Nations General Assembly observers|permanent observer status]] with all the rights of a full member except for a vote in the [[United Nations General Assembly|UN General Assembly]].
+
+===Political system===
+The government of Vatican City has a unique structure. The pope is the sovereign of the state. Legislative authority is vested in the [[Pontifical Commission for Vatican City State]], a body of cardinals appointed by the pope for five-year periods. Executive power is in the hands of the [[President of the Pontifical Commission for Vatican City State|President of that commission]], assisted by the general secretary and deputy general secretary. The state's foreign relations are entrusted to the Holy See's [[Secretariat of State (Holy See)|Secretariat of State]] and diplomatic service. Nevertheless, the pope has absolute power in the executive, legislative and judicial branches over Vatican City. He is currently the only absolute monarch in Europe.
+
+There are specific departments that deal with health, security, telecommunications, etc.<ref>{{cite web|url=http://www.catholic-pages.com/vatican/vatican_city.asp|accessdate=4 March 2007|title=Vatican City|publisher=Catholic-Pages.com}}</ref>
+
+The [[Camerlengo of the Holy Roman Church|Cardinal Camerlengo]] presides over the [[Apostolic Camera]] to which is entrusted the administration of the property and protection of other [[temporal power (papal)|papal temporal powers and rights]] of the Holy See during the period of the empty throne or Sede Vacante [[sede vacante|(papal vacancy)]]. Those of the Vatican State remain under the control of the Pontifical Commission for the State of Vatican City. Acting with three other cardinals chosen by lot every three days, one from each order of cardinals (cardinal bishop, cardinal priest, and cardinal deacon), he in a sense performs during that period the functions of head of state of Vatican City.{{Citation needed|date=February 2013}} All the decisions these four cardinals take must be approved by the [[College of Cardinals]] as a whole.
+
+The nobility that was closely associated with the Holy See at the time of the Papal States continued to be associated with the Papal Court after the loss of these territories, generally with merely nominal duties (see [[Master of the Horse#Papal Master of the Horse|Papal Master of the Horse]], [[Prefecture of the Pontifical Household]], [[Hereditary officers of the Roman Curia]], [[Black Nobility]]). They also formed the ceremonial Noble Guard. In the first decades of the existence of the Vatican City State, [[Executive (government)|executive functions]] were entrusted to some of them, including that of delegate for the State of Vatican City (now denominated president of the Commission for Vatican City). But with the [[motu proprio]] ''[[Pontificalis Domus]]'' of 28 March 1968,<ref>[http://www.vatican.va/holy_father/paul_vi/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus_lt.html ''Pontificalis Domus''], 3</ref> [[Pope Paul VI]] abolished the honorary positions that had continued to exist until then, such as [[Quartermaster general]] and [[Master of the Horse]].<ref>The site [http://www.chivalricorders.org/vatican/pplcourt.htm "Hereditary Officers of the Papal Court"] continues to present these functions and titles as still in use, several decades after their abolition. {{webarchive |url=https://web.archive.org/web/20070313165610/http://www.chivalricorders.org/vatican/pplcourt.htm |date=13 March 2007 }}</ref>
+
+Vatican City State, created in 1929 by the Lateran Pacts, provides the Holy See with a temporal jurisdiction and independence within a small territory. It is distinct from the Holy See. The state can thus be deemed a significant but not essential instrument of the Holy See. The Holy See itself has existed continuously as a juridical entity since Roman Imperial times and has been internationally recognized as a powerful and independent sovereign entity since [[Late Antiquity]] to the present, without interruption even at times when it was deprived of territory (e.g. 1870 to 1929). The Holy See has the oldest active continuous diplomatic service in the world, dating back to at least AD 325 with its legation to the [[First Council of Nicaea|Council of Nicea]].<ref>[http://www.catholic-pages.com/vatican/diplomacy.asp "Vatican Diplomacy"]. Catholic-Pages.com. Retrieved 15 March 2007</ref>
+
+===Head of state and government===
+{{Main|Pope|President of the Pontifical Commission for Vatican City State}}
+{{See also|List of Sovereigns of the Vatican City State}}
+[[File:20070610 Rome 29.jpg|thumb|right|The [[Apostolic Palace]] (''Palazzo Apostolico''), the official residence of the Pope. Here, [[Benedict XVI]] is at the window marked by a maroon banner hanging from the windowsill at centre.]]
+
+The Pope is [[Ex officio member|''ex officio'']] [[head of state]]<ref>One of the titles of the Pope listed in the ''[[Annuario Pontificio]]'' is "[[List of Sovereigns of the Vatican City State|Sovereign of Vatican City State]]" (page 23* in recent editions).</ref> of Vatican City since the 1860s,<ref>{{cite web|url=https://www.quora.com/Why-is-Vatican-City-considered-a-country|title=Why is Vatican City considered a country?|website=Quora|accessdate=April 22, 2018}}</ref> functions dependent on his primordial function as bishop of the [[diocese of Rome]]. The term "[[Holy See]]" refers not to the Vatican state but to the Pope's spiritual and pastoral governance, largely exercised through the [[Roman Curia]].<ref>{{cite web|url=http://www.intratext.com/IXT/ENG0017/_P19.HTM|title=Code of Canon Law: text – IntraText CT|publisher=}}</ref> His official title with regard to Vatican City is ''Sovereign of the State of the Vatican City''.
+
+[[Pope Francis]], born Jorge Mario Bergoglio in [[Buenos Aires]], [[Argentina]], was [[Papal conclave, 2013|elected]] on 13 March 2013. His principal subordinate government official for Vatican City as well as the country's [[head of government]] is the [[President of the Pontifical Commission for Vatican City State]], who since 1952 exercises the functions previously belonging to the [[Governor of Vatican City]]. Since 2001, the president of the Pontifical Commission for Vatican City State also has the title of president of the Governorate of the State of Vatican City. The current president is Italian Cardinal [[Giuseppe Bertello]], who was appointed on 1 October 2011.
+
+===Administration===
+{{Main|Law of Vatican City}}
+
+[[Legislature|Legislative]] functions are delegated to the [[Unicameralism|unicameral]] [[Pontifical Commission for Vatican City State]], led by the [[President of the Pontifical Commission for Vatican City State]]. Its seven members are cardinals appointed by the Pope for terms of five years. Acts of the commission must be approved by the Pope, through the Holy See's [[Secretariat of State (Holy See)|Secretariat of State]], and before taking effect must be published in a special appendix of the ''[[Acta Apostolicae Sedis]]''. Most of the content of this appendix consists of routine executive decrees, such as approval for a new set of postage stamps.
+
+[[Executive (government)|Executive authority]] is delegated to the Governorate of Vatican City. The Governorate consists of the President of the Pontifical Commission—using the title "President of the Governorate of Vatican City"—a general secretary, and a Vice general secretary, each appointed by the Pope for five-year terms. Important actions of the Governorate must be confirmed by the Pontifical Commission and by the Pope through the Secretariat of State.
+
+The Governorate oversees the central governmental functions through several departments and offices. The directors and officials of these offices are appointed by the Pope for five-year terms. These organs concentrate on material questions concerning the state's territory, including local security, records, transportation, and finances. The Governorate oversees a modern security and police corps, the ''[[Corps of Gendarmerie of Vatican City|Corpo della Gendarmeria dello Stato della Città del Vaticano]]''.
+
+[[Judiciary|Judicial]] functions are delegated to a supreme court, an appellate court, a tribunal ([[Tribunal of Vatican City State]]), and a trial judge. At the Vatican's request, sentences imposed can be served in Italy (see the [[#Crime|section on crime]], below).
+
+The [[Postal code#Country code prefixes|international postal country code prefix]] is ''SCV'', and the only postal code is ''00120'' – altogether ''SCV-00120''.<ref>"International postal code: SCV-00120." [http://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/sp_ss_scv_info-generale_en.html#Targa www.vatican.va] [[Holy See Press Office]] – General Information. Retrieved 23 October 2009.</ref>
+
+===Defense and security===
+[[File:Garde Suisse guérite, Cité du Vatican.jpg|thumb|upright= 0.75|A guard of the Vatican at his sentry box.]]
+[[File:Swiss Guard- LobozPics.jpg|thumb|upright= 0.75|[[Pontifical Swiss Guard]] in his traditional uniform.]]
+[[File:Fiat Bravo Gendarmeria Vaticana.png|thumb|left|[[Corps of Gendarmerie of Vatican City|Gendarmerie]] car.]]
+
+{{Main|Military in Vatican City|Pontifical Swiss Guard|Corps of Gendarmerie of Vatican City|Corps of Firefighters of the Vatican City State}}
+
+As the Vatican City is an enclave within Italy, its military defence is provided by the [[Italian Armed Forces]]. However, there is no formal defence treaty with Italy, as the Vatican City is a neutral state. Vatican City has no armed forces of its own, although the [[Swiss Guard]] is a military corps of the Holy See responsible for the personal security of the Pope, and resident in the state. Soldiers of the Swiss Guard are entitled to hold Vatican City State passports and nationality. Swiss [[Mercenary|mercenaries]] were historically recruited by Popes as part of an army for the Papal States, and the [[Pontifical Swiss Guard]] was founded by [[Pope Julius II]] on 22 January 1506 as the pope's personal bodyguard and continues to fulfill that function. It is listed in the ''[[Annuario Pontificio]]'' under "Holy See", not under "State of Vatican City". At the end of 2005, the Guard had 134 members. Recruitment is arranged by a special agreement between the Holy See and [[Switzerland]]. All recruits must be Catholic, unmarried males with Swiss citizenship who have completed their [[basic training]] with the [[Swiss Armed Forces]] with certificates of good conduct, be between the ages of 19 and 30, and be at least {{convert|174|cm|ftin|0|abbr=on}} in height. Members are equipped with [[small arms]] and the traditional [[halberd]] (also called the Swiss voulge), and trained in bodyguarding tactics. The [[Palatine Guard]] and the [[Noble Guard (Vatican)|Noble Guard]], the last armed forces of the Vatican City State, were disbanded by [[Pope Paul VI]] in 1970.<ref name="Vatican State">{{cite web|url=http://www.vaticanstate.va/EN/State_and_Government/History/Vatican_City_today.htm |title=Vatican City Today |publisher=Vatican City Government |accessdate=28 November 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071211020340/http://www.vaticanstate.va/EN/State_and_Government/History/Vatican_City_today.htm |archivedate=11 December 2007 }}</ref> As Vatican City has listed every building in its territory on the International Register of Cultural Property under Special Protection, the [[Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict]] theoretically renders it immune to armed attack.<ref>{{cite book |last=Duursma |first=Jorri C. |date=1996 |title=Fragmentation and the International Relations of Micro-states: Self-determination and Statehood |url=https://books.google.com/books?id=CgVDprXjkIYC&lpg=PA396&pg=PA396#v=onepage |location= |publisher=Cambridge University Press |page=396 |isbn=9780521563604}}</ref>
+
+Civil defence is the responsibility of the [[Corps of Firefighters of the Vatican City State]], the national [[fire brigade]]. Dating its origins to the early nineteenth century, the Corps in its present form was established in 1941. It is responsible for fire fighting, as well as a range of civil defence scenarios including flood, natural disaster, and mass casualty management. The Corps is governmentally supervised through the Directorate for Security Services and Civil Defence, which is also responsible for the Gendarmerie (see below).
+
+The [[Corps of Gendarmerie of Vatican City|Gendarmerie Corps]] (''Corpo della Gendarmeria'') is the [[gendarmerie]], or police and security force, of Vatican City and the [[extraterritorial properties of the Holy See]].<ref>{{cite web|url=http://www.vaticanstate.va/IT/Servizi/Direzione_SdS_VVFF/corpo_della_gendarmeria.htm |title=Corpo della Gendarmeria |publisher=Stato della Città del Vaticano |language=Italian |accessdate=15 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20121225094441/http://www.vaticanstate.va/IT/Servizi/Direzione_SdS_VVFF/corpo_della_gendarmeria.htm |archivedate=25 December 2012 }}</ref> The corps is responsible for security, [[public order]], [[border control]], [[road traffic control|traffic control]], [[criminal procedure|criminal investigation]], and other general police duties in Vatican City including providing security for the Pope outside of Vatican City. The corps has 130 personnel and is a part of the Directorate for Security Services and Civil Defence (which also includes the Vatican Fire Brigade), an organ of the Governorate of Vatican City.<ref name="Gendarme">{{cite web|url=http://www.vaticanstate.va/EN/State_and_Government/Structure_Governorate/Gendarme_Corps.htm |title=Gendarme Corps |publisher=Office of the President of Vatican City State |year=2007 |accessdate=15 October 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071023001945/http://www.vaticanstate.va/EN/State_and_Government/Structure_Governorate/Gendarme_Corps.htm |archivedate=23 October 2007 }}</ref><ref name="Administrations">{{cite web|url=http://www.vaticanstate.va/EN/State_and_Government/Structure_Governorate/Administrations_and_Central_Offices.htm |title=Administrations and Central Offices |publisher=Office of the President of Vatican City State |year=2007 |accessdate=15 October 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071023001914/http://www.vaticanstate.va/EN/State_and_Government/Structure_Governorate/Administrations_and_Central_Offices.htm |archivedate=23 October 2007 }}</ref>
+
+===Foreign relations===
+{{See also|Foreign relations of the Holy See|List of diplomatic missions of the Holy See}}
+[[File:Palace of the Governorate. Vatican City State..jpg|thumb|right|[[Governor's Palace, Vatican|Palace of the Governorate of Vatican City State]].]]
+[[File:Vatican City - main entrance with Swiss Guard.jpg|thumb|The ''Ingresso di Sant'Anna'', an entrance to Vatican City from Italy.]]
+
+Vatican City State is a recognized national territory under international law, but it is the Holy See that conducts diplomatic relations on its behalf, in addition to the Holy See's own diplomacy, entering into [[treaty|international agreements]] in its regard. Vatican City thus has no diplomatic service of its own.
+
+Because of space limitations, Vatican City is one of the few countries in the world that is unable to host embassies. Foreign embassies to the Holy See are located in the city of Rome; only during the Second World War were the staff of some embassies accredited to the Holy See given what hospitality was possible within the narrow confines of Vatican City—embassies such as that of the United Kingdom while Rome was held by the Axis Powers and Germany's when the Allies controlled Rome.
+
+The size of Vatican City is thus unrelated to the large global reach exercised by the Holy See as an entity quite distinct from the state.<ref>[http://ukinholysee.fco.gov.uk/resources/en/news/2007/4485113/gregorian "The Holy See and Diplomacy"], [[Foreign and Commonwealth Office]] {{webarchive |url=https://web.archive.org/web/20090521105212/http://ukinholysee.fco.gov.uk/resources/en/news/2007/4485113/gregorian |date=21 May 2009 }}</ref>
+
+However, Vatican City State itself participates in some international organizations whose functions relate to the state as a geographical entity, distinct from the non-territorial legal persona of the Holy See. These organizations are much less numerous than those in which the Holy See participates either as a member or with observer status. They include the following eight, in each of which Vatican City State holds membership:<ref name=Participation>[http://www.vaticanstate.va/EN/State_and_Government/Internationalrelations/Participation_with_international_Organizations.htm "Vatican City State: Participation in International Organizations"]. Vatican City State. {{webarchive |url=https://web.archive.org/web/20100710054455/http://www.vaticanstate.va/EN/State_and_Government/Internationalrelations/Participation_with_international_Organizations.htm |date=10 July 2010 }}</ref><ref>See also appendix at end of [http://www.vatican.va/roman_curia/secretariat_state/documents/rc_seg-st_20010123_holy-see-relations_en.html "Bilateral Relations of the Holy See"]. vatican.va</ref>
+* [[European Conference of Postal and Telecommunications Administrations]] (CEPT)
+* [[Eutelsat|European Telecommunications Satellite Organization]] (Eutelsat IGO)
+* [[International Grains Agreement|International Grains Council]] (IGC)
+* [[International Institute of Administrative Sciences]] (IIAS)
+* [[International Telecommunication Union]] (ITU)
+* [[International Telecommunications Satellite Organization]] (ITSO)
+* [[Interpol]]<ref>{{cite web|url=http://www.interpol.int/Member-countries/Europe/Vatican-City-State|title=Membership Vatican City State|publisher=[[Interpol]]|accessdate=5 June 2012}}</ref>
+* [[Universal Postal Union]] (UPU)
+
+It also participates in:<ref name=Participation/>
+* [[World Medical Association]]
+* [[World Intellectual Property Organization]] (WIPO)
+
+==Economy==
+{{Main|Economy of Vatican City}}
+The Vatican City State budget includes the [[Vatican Museums]] and post office and is supported financially by the sale of [[Postage stamps and postal history of Vatican City|stamps]], [[Vatican euro coins|coins]], medals and tourist mementos; by fees for admission to museums; and by publications sales.{{efn|1=The Holy See's budget, which is distinct from that of Vatican City State, is supported financially by a variety of sources, including investments, real estate income, and donations from Catholic individuals, dioceses, and institutions; these help fund the Roman Curia (Vatican bureaucracy), diplomatic missions, and media outlets. Moreover, an annual collection taken up in dioceses and direct donations go to a non-budgetary fund known as Peter's Pence, which is used directly by the Pope for charity, disaster relief and aid to churches in developing nations.}} The incomes and living standards of lay workers are comparable to those of counterparts who work in the city of Rome.<ref name="economy factbook">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html|title=Holy See (Vatican City): Economy|work=CIA – The World Factbook|accessdate=10 October 2010}}</ref> Other industries include printing, the production of mosaics, and the manufacture of staff uniforms. There is a [[Vatican Pharmacy]].
+
+The [[Institute for Works of Religion]] (IOR, ''Istituto per le Opere di Religione''), also known as the Vatican Bank, is a financial agency situated in the Vatican that conducts worldwide financial activities. It has multilingual [[automated teller machine|ATM]]s with instructions in [[Latin]], possibly the only ATM in the world with this feature.<ref>{{cite web|url=http://www.cardinalseansblog.org/?p=232|title=A Glimpse Inside the Vatican & Msgr. Robert Deeley's Guest Post|author=O'Malley, Seán P. |date=28 September 2006|accessdate=30 January 2008|authorlink=Seán Patrick O'Malley}}</ref>
+
+Vatican City issues its own coins and stamps. It has used the euro as its currency since 1 January 1999, owing to a special agreement with the European Union (council decision 1999/98). Euro coins and notes were introduced on 1 January 2002—the Vatican does not issue [[euro banknotes]]. Issuance of euro-denominated coins is strictly limited by treaty, though somewhat more than usual is allowed in a year in which there is a change in the papacy.<ref>{{cite web|url=http://europa.eu/legislation_summaries/economic_and_monetary_affairs/institutional_and_economic_framework/l25040_en.htm|title=Agreements on monetary relations (Monaco, San Marino, the Vatican and Andorra)|accessdate=23 February 2007|work=Activities of the European Union: Summaries of legislation}}</ref> Because of their rarity, Vatican euro coins are highly sought by collectors.<ref>{{cite web|url=http://cathnews.acu.edu.au/604/100.html|title=Benedict Vatican euros set for release|accessdate=25 September 2014|work=Catholic News|date=21 April 2006}}</ref> Until the adoption of the Euro, Vatican coinage and stamps were denominated in their own [[Vatican lira]] currency, which was on par with the Italian [[lira]].
+
+Vatican City State, which employs nearly 2,000 people, had a surplus of 6.7&nbsp;million euros in 2007 but ran a deficit in 2008 of over 15&nbsp;million euros.<ref>[http://www.christiantelegraph.com/issue6216.html Holy See's budget shortfall shrinks in 2008]. ''Christian Telegraph''. The report quoted deals mainly with the revenues and expenses of the Holy See and mentions only briefly the finances of Vatican City.</ref>
+
+In 2012, the U.S. State Department's International Narcotics Control Strategy Report listed Vatican City for the first time among the nations of concern for money-laundering, placing it in the middle category, which includes countries such as Ireland, but not among the most vulnerable countries, which include the United States itself, Germany, Italy and Russia.<ref>Pullella, Philip (8 March 2012). [https://www.reuters.com/article/2012/03/08/us-vatican-laundering-idUSBRE82710J20120308 "U.S. adds Vatican to money-laundering 'concern' list."] Reuters.</ref>
+
+On 24 February 2014 the Vatican announced it was establishing a secretariat for the economy, to be responsible for all economic, financial and administrative activities of the Holy See and the Vatican City State, headed by Cardinal [[George Pell]]. This followed the charging of two senior clerics including a monsignor with money laundering offenses. [[Pope Francis]] also appointed an auditor-general authorized to carry out random audits of any agency at any time, and engaged a US financial services company to review the Vatican's 19,000 accounts to ensure compliance with international money laundering practices. The pontiff also ordered that the [[Administration of the Patrimony of the Apostolic See]] would be the Vatican's central bank, with responsibilities similar to other central banks around the world.<ref name="VaticanEconomicSecretariat">{{cite news|title=Vatican financial system restructuring begins with new secretariat|url=http://www.theitalynews.net/index.php/sid/220216280/scat/145bb158ac2f80f2/ht/Vatican-financial-system-restructuring-begins-with-new-secretariat|date=25 February 2014|publisher=The Italy News.Net}}</ref>
+
+==Demographics==
+{{See also|Women in Vatican City}}
+
+===Population and languages===
+{{Further|Languages of Vatican City}}
+
+[[File:Seal of Vatican City.svg|thumb|right|The Seal of Vatican City. Note the use of the Italian language.]]
+
+Almost all of Vatican City's more than 450<ref>{{cite web |url=http://www.vaticanstate.va/content/vaticanstate/en/stato-e-governo/note-generali/popolazione.html |title=Vatican City State: Population|year=2017 |website=Vatican City State |publisher=Presidency of the Governorate of Vatican City State |language=English |access-date=7 December 2017}}</ref> citizens either live inside the Vatican's walls or serve in the Holy See's [[List of diplomatic missions of the Holy See|diplomatic service]] in embassies (called "[[Apostolic Nunciature|nunciature]]"; a papal ambassador is a "nuncio") around the world. The Vatican citizenry consists almost entirely of two groups: clergy, most of whom work in the service of the Holy See, and a very few as officials of the state; and the [[Pontifical Swiss Guard|Swiss Guard]]. Most of the 2,400 lay workers who comprise the majority of the Vatican workforce reside outside the Vatican and are citizens of Italy, while a few are citizens of other nations. As a result, all of the city's citizens and places of worship are Catholic.
+
+Vatican City has no formally enacted [[official language]], but, unlike the Holy See which most often uses [[Latin]] for the authoritative version of its official documents, Vatican City uses only Italian in its legislation and official communications.<ref>Vatican City State appendix to the [[Acta Apostolicae Sedis]] is entirely in Italian.</ref> Italian is also the everyday language used by most of those who work in the state. In the Swiss Guard, Swiss German is the language used for giving commands, but the individual guards take their oath of loyalty in their own languages: German, French, [[Romansh language|Romansh]] or Italian. Vatican City's official website languages are Italian, English, French, German, and Spanish. (This site should not be confused with that of the Holy See, which uses all these languages, along with Portuguese, with Latin since 9 May 2008 and Chinese since 18 March 2009.)
+
+===Citizenship===
+Unlike [[citizenship]] of other states, which is based either on ''[[jus sanguinis]]'' (birth from a citizen, even outside the state's territory) or on ''[[jus soli]]'' (birth within the territory of the state), citizenship of Vatican City is granted ''jus officii'', namely on the grounds of appointment to work in a certain capacity in the service of the Holy See. It usually ceases upon cessation of the appointment. Citizenship is extended also to the spouse, parents and descendants of a citizen, provided they are living with the person who is a citizen.<ref>{{cite web |author=United Nations High Commissioner for Refugees |url=http://www.unhcr.org/refworld/category,LEGAL,,LEGISLATION,VAT,3ae6b52f10,0.html |title=Law on Citizenship and Residence, 7 June 1992 |publisher=Unhcr.org |date=7 June 1992 |accessdate=15 October 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110717160038/http://www.unhcr.org/refworld/category,LEGAL,,LEGISLATION,VAT,3ae6b52f10,0.html |archivedate=17 July 2011 |df=dmy-all }}</ref><ref>{{cite web|url=http://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/cittadinanza_it.html |title=Cittadinanza vaticana |publisher=Vatican.va |date=31 December 2001 |accessdate=15 October 2010}}</ref> The [[Holy See]], not being a country, issues only diplomatic and service passports, whereas Vatican City issues normal passports for its citizens.
+
+Anyone who loses Vatican citizenship and does not possess other citizenship automatically becomes an [[Italian citizenship|Italian citizen]] as provided in the [[Lateran Treaty]].<ref name="treaty"/>
+
+As of 31 December 2011, other than the pope, there were 594 persons possessing Vatican citizenship, of which:<ref>{{cite web|url=http://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/cittadini-vaticani_en.html|title=Vatican citizenship|accessdate=3 December 2006|publisher=Holy See Press Office}}</ref>
+
+72% were clergy, including:
+* 71 cardinals residing in Rome,  
+* 307 titular bishops and other clergy serving as papal diplomats, 
+* 51 other members of the clergy.
+
+28% were laity, including:
+* 1 religious sister, 
+* 109 members of the Pontifical Swiss Guard 
+* 55 other lay persons.
+
+The persons authorized to reside in the Vatican City maintaining their original citizenship were 238, of the aforementioned numbers.
+
+The persons residing in buildings outside of the Vatican City in buildings exempt from expropriation and taxation were 3,500 on the above-mentioned date.
+
+On 22 February 2011, Pope Benedict XVI promulgated a new "Law concerning citizenship, residency and access" to Vatican City, which became effective on 1 March. It replaced the 1929 "Law concerning citizenship and residence".<ref name=LawNowAllows/><ref>{{cite web|title=Law on Citizenship, Residency and Access to the Vatican|date=1 March 2011|publisher=VIS – Vatican Information Service|url=http://visnews-en.blogspot.com/2011/03/law-on-citizenship-residency-and-access.html|accessdate=1 March 2011}}</ref> There are 16 articles in the new law, whereas the old law had 33 articles.<ref name=LawNowAllows>{{cite web|title=Law Now Allows for Vatican Residents: 1929 Code Replaced |date=2 March 2011 |work=ZENIT |publisher=Innovative Media, Inc. |url=http://www.zenit.org/article-31900?l=english |accessdate=2 March 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110623221238/http://www.zenit.org/article-31900?l=english |archivedate=23 June 2011 }}</ref> It updated the old law by incorporating changes made after 1929, such as the 1940 granting of Vatican City citizenship, ''[[List of Latin phrases (D)|durante munere]]'', to the members of the Holy See's diplomatic service.<ref>[http://www.toscanaoggi.it/Vita-Chiesa/STATO-CITTA-DEL-VATICANO-NUOVA-LEGGE-SULLA-CITTADINANZA "Stato Città del Vaticano: Nuova legge sulla cittadinanza" in ''Toscana Oggi'', 3 January 2011]</ref> It also created a new category, that of official Vatican "residents", i.e., people living in Vatican City; these are not necessarily Vatican citizens.<ref name=LawNowAllows/>
+
+On 1 March 2011, only 220 of the over 800 people living in Vatican City were citizens. There was a total of 572 Vatican citizens, of whom 352 were not residents, mainly [[apostolic nuncio]]s and diplomatic staff.<ref name=LawNowAllows/>
+
+{{As of|2013}}, there were about 30 female citizens.<ref name=":0">Mrowińska, Alina. [http://www.worldcrunch.com/dossier-the-next-pope/behind-the-walls-what-it-039-s-like-to-live-inside-the-vatican-for-a-woman/c8s11033/ "Behind The Walls: What It's Like To Live Inside The Vatican, For A Woman"] {{webarchive|url=https://web.archive.org/web/20160101202339/http://www.worldcrunch.com/dossier-the-next-pope/behind-the-walls-what-it-039-s-like-to-live-inside-the-vatican-for-a-woman/c8s11033/ |date=1 January 2016 }}, ''Gazeta Wyborcza/Worldcrunch'', 26 February 2013.</ref>
+
+===Statistical oddities===
+In statistics comparing countries in various per capita or per area metrics, the Vatican City is often an outlier — these can stems from the state's small size and ecclesiastical function.<ref name=":1">{{cite web|url=https://www.independent.co.uk/news/world/europe/vatican-city-drinks-more-wine-per-person-than-anywhere-else-in-the-world-9151475.html|title=Vatican City drinks more wine per person than anywhere else in the world|accessdate=27 July 2018|work=The Independent|date=2014-02-25}}</ref> For example, as most of the roles which would confer citizenship are reserved for men, the gender ratio of the citizenship has many men per woman<ref name=":0">Mrowińska, Alina. [http://www.worldcrunch.com/dossier-the-next-pope/behind-the-walls-what-it-039-s-like-to-live-inside-the-vatican-for-a-woman/c8s11033/ "Behind The Walls: What It's Like To Live Inside The Vatican, For A Woman"] {{webarchive|url=https://web.archive.org/web/20160101202339/http://www.worldcrunch.com/dossier-the-next-pope/behind-the-walls-what-it-039-s-like-to-live-inside-the-vatican-for-a-woman/c8s11033/ |date=1 January 2016 }}, ''Gazeta Wyborcza/Worldcrunch'', 26 February 2013.</ref> Further oddities are petty crimes against tourists resulting in a very high per-capita crime rate,<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/europe/2639777.stm|title=Vatican crime rate 'soars'|date=2003-01-08|access-date=2019-03-06|language=en-GB}}</ref> and the city-state leading the world in per-capita wine consumption.<ref name=":1">{{cite web|url=https://www.independent.co.uk/news/world/europe/vatican-city-drinks-more-wine-per-person-than-anywhere-else-in-the-world-9151475.html|title=Vatican City drinks more wine per person than anywhere else in the world|accessdate=27 July 2018|work=The Independent|date=2014-02-25}}</ref> A jocular illustration of these anomalies is sometimes made by calculating a "Popes per km<sup>2</sup>" statistic, which is greater than one because the country is smaller than a square kilometre in area.<ref>{{Cite news|url=https://www.telegraph.co.uk/men/the-filter/qi/9930677/QI-some-quite-interesting-facts-about-Popes.html|title=QI: some quite interesting facts about Popes|last=Miller|first=Anne|date=2013-03-14|work=|access-date=2019-03-06|last2=Mitchinson|first2=John|language=en-GB|issn=0307-1235}}</ref>
+
+{{Panorama
+|image   = File:View from Stpeters.jpg
+|height  = 230
+|alt     = 360-degree view from the dome of [[St. Peter's Basilica]], looking over the Vatican's [[Saint Peter's Square]] (centre) and out into Rome, showing Vatican City in all directions.
+|caption = <center>360-degree view from the dome of [[St. Peter's Basilica]], looking over the Vatican's [[Saint Peter's Square]] (centre) and out into Rome, showing Vatican City in all directions.</center>
+}}
+
+==Culture==
+{{Main|Culture of Vatican City}}
+{{See also|Music of Vatican City}}
+[[File:Museums in the Vatican City.jpg|thumb|The [[Vatican Museums]] (''Musei Vaticani'') display works from the extensive collection of the Catholic Church.]]
+
+Vatican City is home to some of the most famous art in the world. [[St. Peter's Basilica]], whose successive architects include [[Bramante]], [[Michelangelo]], [[Giacomo della Porta]], [[Carlo Maderno|Maderno]] and [[Bernini]], is a renowned work of [[Renaissance architecture]]. The [[Sistine Chapel]] is famous for its frescos, which include works by [[Perugino]], [[Domenico Ghirlandaio]] and [[Sandro Botticelli|Botticelli]] as well as the [[Sistine Chapel ceiling|ceiling]] and [[Last Judgment]] by [[Michelangelo]]. Artists who decorated the interiors of the Vatican include [[Raphael]] and [[Fra Angelico]].
+
+The [[Vatican Library|Vatican Apostolic Library]] and the collections of the [[Vatican Museums]] are of the highest historical, scientific and cultural importance. In 1984, the Vatican was added by [[UNESCO]] to the List of [[World Heritage Site]]s; it is the only one to consist of an entire state.<ref name="UNESCO">{{cite web|url=http://whc.unesco.org/en/list/286 |title=Vatican City – UNESCO World Heritage Centre |publisher=UNESCO |accessdate=10 October 2009}}</ref> Furthermore, it is the only site to date registered with the UNESCO as a ''centre containing monuments'' in the "International Register of Cultural Property under Special Protection" according to the 1954 [[Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict]].<ref name="UNESCO"/>
+
+{{Gallery
+|width=200
+|height=150
+|lines=3
+|File:Michelangelo's Pietà Saint Peter's Basilica Vatican City.jpg|Michelangelo's ''[[Pietà (Michelangelo)|Pietà]]'', in the Basilica, is one of the Vatican's best known artworks.
+|File:Lightmatter Sistine Chapel ceiling.jpg|Michelangelo's [[fresco]]s on the [[Sistine Chapel ceiling]], "an artistic vision without precedent".<ref>{{cite book|last=König|first=Gabriele Bartz, Eberhard|title=Michelangelo Buonarroti, 1475–1564|year=1998|publisher=Könemann|location=Cologne|isbn=978-3-8290-0253-0|edition=English}}</ref>
+|File:The Sistine Hall of the Vatican Library (2994335291).jpg|The elaborately decorated Sistine Hall in the [[Vatican Library]].
+|File:Vatican Museums 2011 6.jpg|Main courtyard of the [[Vatican Museums]]
+}}
+
+{{clear}}
+
+==Sport==
+There is a [[association football|football]] championship, called the [[Vatican City Championship]], with eight teams, including, for example, the Swiss Guard's [[FC Guardia]] and police and museum guard teams.<ref>{{cite web |url=http://www.guardiasvizzera.va/content/guardiasvizzera/en/guardia/vita-nella-guardia.html |title=Life in the Guard |website=Pontifical Swiss Guard |date=  |author= |accessdate= 10 September 2016}}</ref>
+
+==Infrastructure==
+
+===Transport===
+{{Main|Transport in Vatican City}}
+[[File:0 Gare du Vatican.JPG|thumb|The [[Rail transport in Vatican City|shortest national railway system]] in the world.]]
+
+Vatican City has a reasonably well-developed transport network considering its size (consisting mostly of a piazza and walkways). A state that is {{convert|1.05|km|mi|2|abbr=off}} long and {{convert|0.85|km|mi|2|abbr=off}} wide,<ref>{{cite web|url=http://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/sp_ss_scv_info-generale_en.html|title=Holy See – State of the Vatican City|publisher=Vatican Papal Conclave|accessdate=28 November 2007}}</ref> it has a small [[Transport network|transportation system]] with no airports or highways. The only aviation facility in Vatican City is the [[Vatican City Heliport]]. Vatican City is one of the few independent [[List of countries without an airport|countries without an airport]], and is served by the airports that serve the city of Rome, [[Leonardo da Vinci-Fiumicino Airport]] and to a lesser extent [[Rome Ciampino Airport|Ciampino Airport]].<ref name="Sinfin"/>
+
+There is a [[standard gauge]] [[rail transport in Vatican City|railway]], mainly used to transport freight, connected to Italy's network at Rome's Saint Peter's station by an {{Convert|852|m|yd|adj=mid|-long}} spur, {{Convert|300|m|yd|}} of which is within Vatican territory.<ref name="Sinfin">{{cite web|url=http://www.sinfin.net/railways/world/vatican/vaticanrail.html#Origini |title=Railways of the World|publisher=Sinfin.net|accessdate=8 August 2006}}</ref> [[Pope John XXIII]] was the first Pope to make use of the railway; [[Pope John Paul II]] rarely used it.<ref name="Sinfin"/>
+
+The closest [[Rome Metro|metro]] station is [[Ottaviano – San Pietro – Musei Vaticani (Rome Metro)|Ottaviano – San Pietro – Musei Vaticani]].<ref>{{Cite web|url=https://www.rometoolkit.com/whattodo/vatican.htm|title=The Vatican Museums & St Peter's, Rome; gettting there -|website=www.rometoolkit.com|language=en|access-date=2018-03-19}}</ref>
+
+===Communications===
+<!--linked from [[Template:Vatican City topics]]-->
+[[File:Poste_Vaticane.jpg|thumb|The Vatican's post office was established on 11 February 1929.]]
+
+The City<!--Referring to Vatican City, not city. Do not decapitalise.--> is served by an independent, modern telephone system named the [[Vatican Telephone Service]],<ref>[http://www.catholic.org/international/international_story.php?id=20631 On call 24/7: Vatican phone system directs thousands of call each day] {{webarchive|url=https://web.archive.org/web/20121219033109/http://www.catholic.org/international/international_story.php?id=20631 |date=19 December 2012 }}, 24 July 2006.</ref> and a [[Mail|postal system]] that started operating on 13 February 1929. On 1 August, the state started to release its own postal stamps, under the authority of the [[Philatelic and Numismatic Office of the Vatican City State]].<ref>{{cite web|url=http://www.vaticanphilately.org/vc.htm|title=The Early Definitives|publisher=Vatican Philatelic Society|accessdate=28 November 2007 |archiveurl=https://web.archive.org/web/20071211191109/http://www.vaticanphilately.org/vc.htm|archivedate= 11 December 2007}}</ref> The City's postal service is sometimes said to be "the best in the world",<ref name="NYT">{{cite news|url=https://query.nytimes.com/gst/fullpage.html?res=950CEFDE1738F934A15755C0A9629C8B63&n=Top/News/World/Countries%20and%20Territories/Vatican%20City|title=Hail Marys Not Needed: Vatican Mail Will Deliver|work=The New York Times |accessdate=28 November 2007 |first=Al |last=Baker |date=27 June 2004}}</ref> and faster than the postal service in Rome.<ref name="NYT"/>
+
+The Vatican also controls its own Internet [[Top-level domain|TLD]], which is registered as ([[.va]]). Broadband service is widely provided within Vatican City. Vatican City has also been given a radio [[ITU prefix]], HV, and this is sometimes used by [[amateur radio]] operators.
+
+[[Vatican Radio]], which was organized by [[Guglielmo Marconi]], broadcasts on [[Shortwave|short-wave]], [[Medium wave|medium-wave]] and FM frequencies and on the Internet.<ref>{{cite web|url=http://www.vatican.va/news_services/radio/index.htm |title=Vatican Radio – Index |publisher=Vatican.va |date=2 September 2005 |accessdate=6 May 2009}}</ref> Its main transmission antennae are located in Italian territory, and exceed Italian environmental protection levels of emission. For this reason, the Vatican Radio has been [[Vatican Radio lawsuit|sued]]. Television services are provided through another entity, the [[Vatican Television Center]].<ref>{{cite web|url=http://www.vatican.va/news_services/television/index.htm |title=Vatican Television Center – Index |publisher=Vatican.va |accessdate=6 May 2009}}</ref>
+
+''[[L'Osservatore Romano]]'' is the multilingual semi-official newspaper of the Holy See. It is published by a private corporation under the direction of Roman Catholic laymen, but reports on official information. However, the official texts of documents are in the ''[[Acta Apostolicae Sedis]]'', the [[Gazette|official gazette]] of the Holy See, which has an appendix for documents of the Vatican City State.
+
+Vatican Radio, the Vatican Television Center, and L'Osservatore Romano are organs not of the Vatican State but of the Holy See, and are listed as such in the ''[[Annuario Pontificio]]'', which places them in the section "Institutions linked with the Holy See", ahead of the sections on the Holy See's diplomatic service abroad and the [[diplomatic corps]] accredited to the Holy See, after which is placed the section on the State of Vatican City.
+
+===Recycling===
+In 2008, the Vatican began an "ecological island" for renewable waste and has continued the initiative throughout the papacy of [[Pope Francis|Francis]].{{fact|date=March 2019}}
+
+==Crime==
+{{Main|Crime in Vatican City}}
+
+Crime in Vatican City consists largely of purse snatching, [[pickpocketing]] and [[shoplifting]] by outsiders.<ref name="crime rate">{{Cite news|url=http://news.bbc.co.uk/1/hi/world/europe/2639777.stm|title=Vatican crime rate 'soars'|publisher=BBC|accessdate=28 November 2007 | date=8 January 2003}}</ref> The tourist foot-traffic in [[St. Peter's Square]] is one of the main locations for pickpockets in Vatican City.<ref>[http://www.romereports.com/palio/vatican-surpasses-all-nations-in-pickpockets-english-3545.html#.UPt_Wc0hclk "Vatican surpasses all nations... in pickpockets?"] {{webarchive|url=https://web.archive.org/web/20121115144215/http://www.romereports.com/palio/Vatican-surpasses-all-nations-in-pickpockets-english-3545.html |date=15 November 2012 }}. Rome Reports, 14 February 2011.</ref> If crimes are committed in Saint Peter's Square, the perpetrators may be arrested and tried by the Italian authorities, since that area is normally patrolled by Italian police.<ref>Glatz, Carol (19 December 2013) [http://www.catholicnews.com/services/englishnews/2013/man-seriously-injured-after-setting-self-on-fire-in-st-peter-s-square.cfm "Man seriously injured after setting self on fire in St. Peter's Square"]. ''Catholic News Service''</ref>
+
+Under the terms of article 22 of the Lateran Treaty,<ref name="treaty1">{{cite web|title=INTER SANCTAM SEDEM ET ITALIAE REGNUM CONVENTIONES* INITAE DIE 11 FEBRUARII 1929|language=Italian|url=http://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19290211_patti-lateranensi_it.html|publisher=Vatican.va|accessdate=12 July 2013}}</ref> Italy will, at the request of the Holy See, punish individuals for crimes committed within Vatican City and will itself proceed against the person who committed the offense, if that person takes refuge in Italian territory. Persons accused of crimes recognized as such both in Italy and in Vatican City that are committed in Italian territory will be handed over to the Italian authorities if they take refuge in Vatican City or in buildings that enjoy immunity under the treaty.<ref name="treaty1"/><ref>{{cite web |last=Shea |first=Alison |title=Researching the Law of the Vatican City State |url=http://www.nyulawglobal.org/globalex/vatican1.htm |work=Hauser Global Law School Program |publisher=[[New York University School of Law]] |date=2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017130729/https://www.nyulawglobal.org/globalex/Vatican1.htm |archivedate=17 October 2013 |df=dmy-all }}</ref>
+
+Vatican City has no prison system, apart from a few detention cells for pre-trial detention.<ref>[http://www.slate.com/articles/news_and_politics/explainer/2012/05/paolo_gabriele_case_how_does_the_vatican_deal_with_criminals_.html How Does Vatican City Deal With Criminals?] ''[[Slate (magazine)|Slate]]''. 30 May 2012. Retrieved 18 April 2013.</ref> People convicted of committing crimes in the Vatican serve terms in [[Italy|Italian]] prisons ([[Polizia Penitenziaria]]), with costs covered by the Vatican.<ref>"[http://www.spiegel.de/international/0,1518,460967,00.html Is the Vatican a Rogue State?]" ''[[Spiegel Online]]''. 19 January 2007. Retrieved 25 August 2010.</ref>
+
+==See also==
+{{Portal|Italy|Vatican City}}
+* [[Index of Vatican City-related articles]]
+* [[Law of Vatican City]]
+* [[News.va]]
+* [[Outline of Vatican City]]
+
+==References==
+
+===Footnotes===
+{{notelist|30em}}
+
+===Citation notes===
+{{Reflist|30em}}
+
+===Bibliography===
+* {{cite book | last=Chadwick | first=Owen | authorlink=Owen Chadwick | title=Britain and the Vatican During the Second World War | year=1988 | publisher=Cambridge University Press | location= Cambridge | isbn= 978-0-521-36825-4 | ref=harv}}
+* {{cite book | last=Kent | first=Peter C. | year=2002 | title=The Lonely Cold War of Pope Pius XII: The Roman Catholic Church and the Division of Europe, 1943–1950 | location=Montreal | publisher=McGill-Queen's University Press | isbn=978-0-7735-2326-5 | ref=harv}}
+* {{cite book | last=Morley | first=John F. | title= Vatican Diplomacy and the Jews During the Holocaust, 1939–1943 | year= 1980 | publisher=Ktav Pub. House | location=New York | isbn=978-0-87068-701-3 | ref=harv}}
+* {{cite book | last=Nichols | first=Fiona | title=Rome and the Vatican | url=https://books.google.com/books?id=S-TekVnvyx4C&pg=PA85 | year=2006 | publisher=New Holland | location=London | isbn=978-1-84537-500-3 | pages=85–96 | ref=Nichols69}}
+* {{cite book | last=Ricci | first=Corrado | last2=Begni| first2=Ernesto | title= The Vatican: Its History, Its Treasures | year=2003 | origyear=1914 | publisher= Kessinger Publishing | isbn=978-0-7661-3941-1 | ref=harv}}
+
+==External links==
+{{wikimedia}}
+
+===Official websites===
+* {{Official website|http://www.vaticanstate.va/content/vaticanstate/en.html}}
+* [http://w2.vatican.va/content/vatican/en.html Official website of the Holy See]
+
+===Other websites===
+* {{Commons-inline|Vaticano}}
+* {{Wikivoyage-inline|Rome/Vatican|The Vatican}}
+* {{Wikiatlas|Vatican City}}
+* {{Osmrelation-inline|36989|bullet=no}}
+* [https://www.youtube.com/watch?v=Svaxr4erV_Q Inside the Vatican] on [[National Geographic]] [[YouTube]] channel
+* [https://web.archive.org/web/20081210073743/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-h/holy-see-vatican-city.html Vatican Chief of State and Cabinet Members]
+* {{CIA World Factbook link|vt|Holy See (Vatican City)}}
+* [https://web.archive.org/web/20080607084938/http://ucblibraries.colorado.edu/govpubs/for/holysee.htm Holy See (Vatican City)] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Europe/Vatican_City}}
+* [https://www.bbc.co.uk/news/world-europe-17994868 Vatican] from [[BBC News]]
+* [http://cdm16028.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/107497 ''The Vatican: spirit and art of Christian Rome''], a [[book]] from [[Metropolitan Museum of Art|The Metropolitan Museum of Art]] (fully available on the [[Internet]] as [[PDF]])
+
+{{Vatican City topics}}
+{{Holy See}}
+{{Sistine Chapel}}
+{{Catholic Church footer}}
+{{Navboxes|list=
+{{Navboxes
+|title= Geographic locale
+|list =
+{{Sovereign states of Europe}}
+{{List of European capitals by region}}
+}}
+{{Navboxes
+|title= International membership
+|list =
+{{Monarchies|state=collapsed}}
+}}
+
+{{History of Europe}}
+}}
+{{Authority control}}
+
+[[Category:Vatican City| ]]
+[[Category:Southern European countries]]
+[[Category:States and territories established in 1929]]
+[[Category:World Heritage Sites in Europe]]
+[[Category:Countries in Europe]]
+[[Category:Christian states]]
+[[Category:Catholic pilgrimage sites]]
+[[Category:Holy cities]]
+[[Category:Properties of the Holy See]]
+[[Category:Monarchies of Europe]]
+[[Category:Catholic Church in Europe]]
+[[Category:Theocracies]]
+[[Category:City-states]]
+[[Category:Countries that are enclaves of Italy]]
+[[Category:Landlocked countries]]

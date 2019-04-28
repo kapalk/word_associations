@@ -1,0 +1,599 @@
+{{pp-move|small=yes}}
+{{about|the African island nation in the Indian Ocean|the country on the African Continent|Mauritania}}
+{{other uses}}{{short description|Island nation in the Indian Ocean}}
+{{Use dmy dates|date=March 2015}}
+{{coord|-20.2|57.5|display=title|type:country}}
+{{Infobox country
+| conventional_long_name = Republic of Mauritius
+| native_name = {{ubl|{{native name|fr|République de Maurice}}|{{native name|mfe|Repiblik Moris}}}}
+| common_name = Mauritius
+| image_flag = Flag of Mauritius.svg
+| image_coat = Coat of arms of Mauritius (Original version).svg
+| image_map = Mauritius (orthographic projection with inset).svg
+| map_caption = Islands of the Republic of Mauritius (excluding Chagos Archipelago and Tromelin Island)
+| image_map2 = Mauritius (+claim islands).svg
+| map_caption2 = Islands of the Republic of Mauritius labelled in black; Chagos Archipelago and Tromelin are claimed by Mauritius.
+| national_motto = {{native phrase|la|"Stella Clavisque Maris Indici"|italics=off}}<br>{{lang-fr|L’étoile et la clé de l’océan Indien}}<br>{{small|"Star and Key of the Indian Ocean"}}
+| national_anthem = ''[[Motherland (anthem)|Motherland]]''<div style="padding-top:0.5em;"></div>
+| capital = [[Port Louis]]
+| official_languages = ''None'' <ref group=Note>The [[Constitution of Mauritius|Mauritian constitution]] makes no mention of an [[official language]]. The Constitution only mentions that the official language of the National Assembly is English; however, any member can also address the chair in French.</ref><ref name="language"/>
+| languages_type = [[Vernacular|Vernacular languages]] <ref group=Note>The [[First language|mother tongue]] of Mauritians as per 2011 Census.</ref><ref name="2011census"/>
+| languages = {{unbulleted list  
+  | 86.5% [[Mauritian Creole|Creole]]
+  | 5.3% [[Mauritian Bhojpuri|Bhojpuri]]
+  | 4.1% [[French language|French]]
+  | 2.6% Others (including [[English language|English]])
+  | 1.4% Two languages
+  | 0.1% Unspecified 
+ }}
+| ethnic_groups = '''<sup>See [[Mauritius#Demographics|Ethnic groups in Mauritius]]</sup>'''
+| ethnic_groups_year =
+| religion = '''<sup>See [[Mauritius#Demographics|Religion in Mauritius]]</sup>'''
+| religion_year =
+| coordinates = {{Coord|20|10|S|57|31|E|type:city}}
+| demonym = [[Mauritian]]
+| largest_city = [[Port Louis]]
+| government_type = [[Unitary state|Unitary]] [[parliamentary republic]]
+| leader_title1 = [[President of Mauritius|President]]
+| leader_name1 = [[Barlen Vyapoory]]
+| leader_title2 = [[Prime Minister of Mauritius|Prime Minister]]
+| leader_name2 = [[Pravind Jugnauth]]
+| legislature = [[National Assembly (Mauritius)|National Assembly]]
+| sovereignty_type = [[Independence]]
+| sovereignty_note = from the [[United Kingdom]]
+| established_event1 = [[Constitution of Mauritius]]
+| established_date1 = 12 March 1968
+| established_event2 = Republic
+| established_date2 = 12 March 1992
+| area_rank = 170th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_km2 = 2040
+| percent_water = 0.07
+| population_estimate = 1,265,577<ref name="2018 Statistics">{{cite web|url=http://statsmauritius.govmu.org/English/Publications/Documents/2018/EI1404/Pop_vital_Jan-Jun18.pdf|title=Population and Vital Statistics Republic of Mauritius, January – June 2018 |publisher=[[Statistics Mauritius]]|accessdate=24 December 2018}}</ref>
+| population_estimate_rank = 156th
+| population_estimate_year = 2018
+| population_census = 1,233,000<ref name="2011census"/>
+| population_census_year = 2011
+| population_density_km2 = 618.24
+| population_density_sq_mi = 1,602.55
+| population_density_rank = 19th
+| GDP_PPP = $31.935 billion<ref name="IMFWEOMU">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=49&pr.y=8&sy=2016&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=684&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2018|publisher=[[International Monetary Fund]] |website=IMF.org |access-date=2 March 2019}}</ref>
+| GDP_PPP_rank = 133rd
+| GDP_PPP_year = 2019
+| GDP_PPP_per_capita = $24,966<ref name="IMFWEOMU"/>
+| GDP_PPP_per_capita_rank = 61st
+| GDP_nominal = $14.889 billion<ref name="IMFWEOMU"/>
+| GDP_nominal_year = 2019
+| GDP_nominal_rank = 129th
+| GDP_nominal_per_capita = $11,640<ref name="IMFWEOMU"/>
+| GDP_nominal_per_capita_rank = 64th
+| Gini_year = 2012
+| Gini_change = <!--increase/decrease/steady-->
+| Gini = 35.8
+| Gini_ref = <ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=MU |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=2 March 2019}}</ref>
+| Gini_rank = 
+| HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase
+| HDI = 0.790
+| HDI_ref = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 65th
+| currency = [[Mauritian rupee]]
+| currency_code = MUR
+| time_zone = [[Mauritius Time|MUT]]
+| utc_offset = +4
+| date_format = dd/mm/yyyy ([[Anno Domini|AD]])
+| drives_on = [[Right- and left-hand traffic|left]]
+| calling_code = [[+230]]
+| cctld = [[.mu]]
+| official_website 
+= {{URL|http://www.govmu.org}}
+}}
+
+'''Mauritius''' ({{IPAc-en|audio=En-us-Mauritius.ogg|m|ə|ˈ|r|ɪ|ʃ|(|i|)|ə|s|,_|m|ɔː|-}}; {{lang-fr|Maurice}}, [[Mauritian Creole|Creole]]: ''Moris'' {{IPA-mfe|moʁis|}}), officially the '''Republic of Mauritius''' ({{lang-fr|link=no|République de Maurice}}, [[Mauritian Creole|Creole]]: ''Repiblik Moris''), is an [[island nation]] in the [[Indian Ocean]] about 2,000 kilometres (1,200 mi) off the southeast coast of the [[Africa|African]] continent. The country includes the islands of [[Mauritius Island|Mauritius]] and [[Rodrigues]], 560 kilometres (350 mi) east of Mauritius, and the [[Outer islands of Mauritius|outer islands]] of [[Agaléga]] and [[St. Brandon]]. The islands of Mauritius and Rodrigues form part of the [[Mascarene Islands]], along with nearby [[Réunion]], a French overseas department. The area of the country is 2,040 km2 (790 sq mi). The capital and largest city is [[Port Louis]]. The island is widely known as the only known home of the [[dodo]], which, along with several other avian species, was made extinct by human activities relatively shortly after the island's settlement.
+
+Formerly a Dutch colony (1638–1710) and a French colony (1715–1810), Mauritius became a British colonial possession in 1810 and remained so until 1968, the year in which it attained independence. The British [[Crown colony]] of Mauritius once included the current territories of Mauritius, Rodrigues, the outer islands of Agaléga, St. Brandon, [[Chagos Archipelago]], and [[Seychelles]]. The Mauritian territories gradually devolved with the creation of a separate colony of Seychelles in 1903 and the excision of the Chagos Archipelago in 1965. The sovereignty over the Chagos Archipelago is [[Chagos Archipelago sovereignty dispute|disputed]] between Mauritius and the United Kingdom. The UK excised the archipelago from Mauritian territory in 1965, three years prior to Mauritian independence. The UK gradually [[Depopulation of Diego Garcia|depopulated the archipelago's local population]] and leased its biggest island, [[Diego Garcia]], to the United States. Access to the Chagos Archipelago is prohibited to casual tourists, the media, and its former inhabitants. Mauritius also claims sovereignty over [[Tromelin Island]] from France.
+
+The [[Mauritians|people of Mauritius]] are multiethnic, multi-religious, [[Multiculturalism|multicultural]] and multilingual. The island's government is closely modelled on the [[Westminster parliamentary system]], and Mauritius is highly ranked for [[Democracy Index|democracy]] and for [[List of countries by economic freedom|economic]] and [[Freedom in the world|political freedom]]. The [[List of countries by Human Development Index|Human Development Index]] of Mauritius is the second highest in [[Africa]]. Along with the other Mascarene Islands, Mauritius is known for its [[Wildlife of Mauritius|varied flora and fauna]], with many species [[endemism|endemic]] to the island. 
+
+Mauritius is the only country in Africa where [[Hinduism]] is the largest religion. The administration uses English as its main language.
+
+==Etymology==
+The first historical evidence of the existence of an island now known as Mauritius is on a map produced by the [[Italian people|Italian]] [[cartographer]] Alberto Cantino in 1502.<ref>Toorawa, S. (2007). ''The medieval Waqwaq islands and the Mascarenes''. Hassam Toorawa Trust, Port Louis, Mauritius</ref><ref>{{cite web|url=https://commons.wikimedia.org/w/index.php?curid=26117950|title=Cantino Planisphere by anonymous Portuguese (1502) – Biblioteca Estense Universitaria, Modena, Italy, Public Domain|publisher= |accessdate=}}</ref> From this, it appears that Mauritius was first named ''Dina Arobi'' around 975 by [[Arab people|Arab]] sailors, the first people to visit the island. In 1507, Portuguese sailors visited the uninhabited island. The island appears with a [[Portuguese language|Portuguese]] name ''Cirne'' on early Portuguese maps, probably from the name of a ship in the 1507 expedition. Another Portuguese sailor, [[Dom (title)|Dom]] [[Pedro Mascarenhas]], gave the name ''[[Mascarene Islands|Mascarenes]]'' to the Archipelago.
+
+In 1598, a Dutch squadron under [[Admiral]] Wybrand van Warwyck landed at [[Grand Port]] and named the island ''Mauritius'', in honour of [[Maurice, Prince of Orange|Prince Maurice van Nassau]], [[stadholder]] of the [[Dutch Republic]]. Later the island became a French colony and was renamed [[Isle de France (Mauritius)|Isle de France]]. On 3 December 1810, the French surrendered the island to Great Britain during the [[Napoleonic Wars]]. Under British rule, the island's name reverted to ''Mauritius'' {{IPAc-en|audio=En-us-Mauritius.ogg|m|ə|ˈ|r|ɪ|ʃ|ə|s}}. Mauritius is also commonly known as ''Maurice'' ({{IPA-fr|mɔˈʁis|pron}}) and ''Île Maurice'' in French, ''Moris'' ({{IPA-mfe|moʁis|pron}}) in [[Mauritian Creole]].
+
+==History==
+{{main|History of Mauritius}}
+
+===Early history===
+The island of Mauritius was uninhabited before its first recorded visit during the [[Middle Ages]] by [[Arab people|Arab]] sailors, who named it Dina Arobi.
+
+In 1507, [[Portugal|Portuguese]] sailors came to the uninhabited island and established a visiting base. [[Diogo Fernandes Pereira]], a Portuguese navigator, was the first European known to land in Mauritius. He named the island "Ilha do Cirne". The Portuguese did not stay long as they were not interested in these islands.<ref name="govt">{{cite news |url=http://www.govmu.org/English/ExploreMauritius/Pages/History.aspx#dutch|title=History|publisher=Government Portal of Mauritius|accessdate=22 January 2015}}</ref>
+
+===Dutch Mauritius (1638–1710)===
+{{Main|Dutch Mauritius}}
+
+In 1598 a Dutch squadron under Admiral Wybrand van Warwyck  landed at [[Grand Port]] and named the island "Mauritius" after [[Maurice, Prince of Orange|Prince Maurice of Nassau]] ([[Dutch language|Dutch]]: ''Maurits van Nassau'') of the [[Dutch Republic]]. The Dutch inhabited the island in 1638, from which they exploited [[ebony]] trees and introduced [[sugar cane]], [[domestic animals]] and [[deer]]. It was from here that Dutch navigator [[Abel Tasman]] set out to discover the western part of Australia. The first Dutch settlement lasted twenty years. Several attempts were subsequently made, but the settlements never developed enough to produce dividends, causing the Dutch to abandon Mauritius in 1710.<ref name="govt"/><ref>{{cite web|url=http://culture.govmu.org/English//DOCUMENTS/PAMPHLET%20STRIPPED.PDF|title=History of Mauritius|publisher=Ministry of Art & Culture, Government Portal of Mauritius|accessdate=22 January 2015}}</ref>
+
+===French Mauritius (1715–1810)===
+{{main|Isle de France (Mauritius)}}
+France, which already controlled neighbouring Île Bourbon (now [[Réunion]]), took control of Mauritius in 1715 and renamed it [[Isle de France (Mauritius)|Isle de France]]. In 1723, the [[Code Noir]] was established to categorise one group of human beings as "goods", in order for the owner of these goods to be able to obtain insurance money and compensation in case of loss of his "goods".<ref>{{cite web|url=http://www.usip.org/sites/default/files/ROL/TJC_Vol1.pdf|title=USIP|publisher=}}</ref> The 1735 arrival of French governor [[Bertrand-François Mahé de La Bourdonnais]] coincided with development of a prosperous economy based on sugar production. Mahé de La Bourdonnais established [[Port Louis]] as a naval base and a shipbuilding centre.<ref name="govt"/>
+
+Under his governorship, numerous buildings were erected, a number of which are still standing. These include part of Government House, the [[Château de Mon Plaisir]], and the Line Barracks, the headquarters of the [[Mauritius Police Force|police force]]. The island was under the administration of the [[French East India Company]] which maintained its presence until 1767.<ref name="govt"/>
+
+From 1767 to 1810, except for a brief period during the [[French Revolution]] when the inhabitants set up a government virtually independent of France, the island was controlled by officials appointed by the French government. [[Jacques-Henri Bernardin de Saint-Pierre]] lived on the island from 1768 to 1771, then went back to France, where he wrote ''[[Paul et Virginie]]'', a love story, which made the Isle de France famous wherever the French language was spoken. Two famous French governors were the Vicomte de Souillac (who constructed the Chaussée in Port Louis<ref name="Toussaint2">Port Louis, A tropical City, Auguste Toussaint. {{ISBN|0 04 969001 9}}</ref> and encouraged farmers to settle in the district of Savanne), and [[Antoine Bruni d'Entrecasteaux]] (who saw to it that the French in the Indian Ocean should have their headquarters in Mauritius instead of [[Pondicherry]] in India).<ref name="Toussaint">''A short History of Mauritius'', P.J. Barnwell & A. Toussaint</ref>
+[[Charles Mathieu Isidore Decaen]] was a successful general in the [[French Revolutionary Wars]] and, in some ways, a rival of [[Napoléon I]]. He ruled as [[Governor of Isle de France (Mauritius)|Governor of Isle de France]] and Réunion from 1803 to 1810. British naval [[cartographer]] and explorer [[Matthew Flinders]] was arrested and detained by General Decaen on the island, in contravention of an order from Napoléon. During the [[Napoleonic Wars]], Mauritius became a base from which [[French corsairs]] organised successful raids on British commercial ships. The raids continued until 1810, when a [[Royal Navy]] expedition led by [[Commodore (Royal Navy)|Commodore]] [[Josias Rowley]], [[Royal Navy|R.N.]], an [[Anglo-Irish]] [[aristocracy (class)|aristocrat]], was sent to capture the island. Despite winning the [[Battle of Grand Port]], the only French naval victory over the British during these wars, the [[Invasion of Île de France|French could not prevent the British from landing]] at [[Cap Malheureux]] three months later. They formally surrendered the island on the fifth day of the invasion, 3 December 1810,<ref name="Toussaint"/> on terms allowing settlers to keep their land and property and to use the French language and law of France in criminal and civil matters. Under British rule, the island's name reverted to Mauritius.<ref name="govt"/>
+
+===British Mauritius (1810–1968)===
+{{main|British Mauritius}}
+[[File:Combat de Grand Port mg 9425.jpg|thumb|The [[Battle of Grand Port]] between French and British naval forces, 1810]]
+The British administration, which began with [[Robert Townsend Farquhar|Sir Robert Farquhar]] as [[Governor of Mauritius|Governor]], led to rapid social and economic changes. However, it was tainted by the Ratsitatane episode. Ratsitatane, nephew of King Radama of Madagascar, was brought to Mauritius as a political prisoner. He managed to escape from prison and plotted a rebellion that would free the island's slaves. He was betrayed by an associate and was caught by the British forces, summarily judged, and condemned to death. He was beheaded at Plaine Verte on 15 April 1822, and his head was displayed as a deterrent against future uprisings among the slaves.<ref name="Selvon">''A New Comprehensive History of Mauritius'', Sydney Selvon, 2012. {{ISBN|978-99949-34-91-1}}</ref>
+
+In 1832, Adrien d'Épinay launched the first Mauritian newspaper (''Le Cernéen'') which was not controlled by the government. In the same year, there was a move by the procureur-general to abolish slavery without compensation to the slave owners. This gave rise to discontent, and, to check an eventual rebellion, the government ordered all the inhabitants to surrender their arms. Furthermore, a stone fortress, Fort Adelaide, was built on a hill (now known as the Citadel hill) in the centre of Port Louis to quell any uprising.<ref name="Toussaint2"/>
+
+[[Slavery]] was abolished in 1835, and the planters ultimately received two million pounds sterling in compensation for the loss of their slaves who had been imported from Africa and Madagascar during the French occupation. The [[Abolitionism in the United Kingdom|abolition of slavery]] had important impacts on Mauritius's society, economy and population. The planters brought a large number of [[Indentured servant|indentured labourers]] from India to work in the sugar cane fields. Between 1834 and 1921, around half a million indentured labourers were present on the island. They worked on sugar estates, factories, in transport and on construction sites. Additionally, the British brought 8,740 [[Indian people|Indian]] soldiers to the island.<ref name="govt"/> [[Aapravasi Ghat]], in the bay at [[Port Louis]] and now a [[UNESCO]] site, was the first British [[colony]] to serve as a major reception centre for [[indentured servants]].
+
+An important figure of the 19th century was [[Rémy Ollier]], a journalist of mixed origin. In 1828, the colour bar was officially abolished in Mauritius, but British governors gave little power to coloured persons, and appointed only whites as leading officials. Rémy Ollier petitioned to [[Queen Victoria]] to allow coloureds in the council of government, and this became possible a few years later. He also made Port Louis become a municipality so that the citizens could administer the town through their own elected representatives. A street has been named after him in Port Louis, and his bust was erected in the Jardin de la Compagnie in 1906.<ref name="Toussaint"/> In 1885 [[Constitution of Mauritius (1885)|a new constitution]] was introduced to Mauritius. It created elected positions on the governing council, but the franchise was restricted mainly to the French and Creole classes.
+
+[[File:Numa Desjardins Champ de Mars Port Louis 1880.jpg|thumb|left|[[Champ de Mars Racecourse]], Port Louis, 1880]]
+
+The labourers brought from India were not always fairly treated, and a German, Adolph von Plevitz, made himself the unofficial protector of these immigrants. He mixed with many of the labourers, and in 1871 helped them to write a petition which was sent to [[Arthur Hamilton-Gordon, 1st Baron Stanmore|Governor Gordon]]. A commission was appointed to look into the complaints made by the Indian immigrants, and in 1872 two lawyers, appointed by the British Crown, were sent from England to make an inquiry. This Royal Commission recommended several measures that would affect the lives of Indian labourers during the next fifty years.<ref name="Toussaint"/>
+
+In November 1901, [[Mahatma Gandhi]] visited Mauritius, on his way from South Africa to India. He stayed on the island for two weeks, and urged the Indo-Mauritian community to take an interest in education and to play a more active role in politics. Back in India, he sent over a young lawyer, [[Manilal Doctor]], to improve the plight of the Indo-Mauritians. During the same year, faster links were established with the island of Rodrigues thanks to the wireless.<ref name="Dinan">''Mauritius in the making across the censuses 1846–2000'', Monique Dinan. {{ISBN|99903-904-6-0}}</ref>
+
+In 1903, motorcars were introduced in Mauritius, and in 1910 the first taxis, operated by Joseph Merven, came into service. The electrification of Port Louis took place in 1909, and in the same decade the Mauritius Hydro Electric Company (managed by the Atchia Brothers) was authorised to provide power to the towns of upper Plaines Wilhems.
+
+The 1910s were a period of political agitation. The rising middle class (made up of doctors, lawyers, and teachers) began to challenge the political power of the sugar cane landowners. Dr. Eugène Laurent, mayor of Port Louis, was the leader of this new group; his party, Action Libérale, demanded that more people should be allowed to vote in the elections. Action Libérale was opposed by the Parti de l'Ordre, led by Henri Leclézio, the most influential of the sugar magnates.<ref name="Toussaint"/> In 1911 there were riots in Port Louis due to a false rumour that Dr. Eugène Laurent had been murdered by the oligarchs in Curepipe. Shops and offices were damaged in the capital, and one person was killed. In the same year, 1911, the first public cinema shows took place in Curepipe, and, in the same town, a stone building was erected to house the Royal College.<ref name="Dinan"/> In 1912, a wider telephone network came into service, and it was used by the government, business firms, and a few private households.
+
+[[World War I]] broke out in August 1914. Many Mauritians volunteered to fight in Europe against the Germans and in [[Mesopotamia]] against the Turks. But the war affected Mauritius much less than the wars of the eighteenth century. On the contrary, the 1914–1918 war was a period of great prosperity because of a boom in sugar prices. In 1919 the Mauritius Sugar Syndicate came into being, and it included 70% of all sugar producers.
+
+The 1920s saw the rise of a "retrocessionism" movement which favoured the retrocession of Mauritius to France. The movement rapidly collapsed because none of the candidates who wanted Mauritius to be given back to France was elected in the 1921 elections. Due to the post-war recession, there was a sharp drop in sugar prices. Many sugar estates closed down, and it marked the end of an era for the sugar magnates who had not only controlled the economy, but also the political life of the country. Raoul Rivet, the editor of ''Le Mauricien'' newspaper, campaigned for a revision of the constitution that would give the emerging middle class a greater role in the running of the country. The principles of [[Arya Samaj]] began to infiltrate the Hindu community, who clamoured for more social justice.<ref name="Dinan"/>
+
+The 1930s saw the birth of the [[Labour Party (Mauritius)|Labour Party]], launched by Dr. Maurice Curé. [[Emmanuel Anquetil]] rallied the urban workers while Pandit Sahadeo concentrated on the rural working class. The [[Uba riots of 1937]] resulted in reforms by the local British government that improved labour conditions and led to the un-banning of labour unions.<ref name="js">{{Cite journal|title=Small-Scale Sugar Cane Farmers and Biotechnology in Mauritius: The "Uba" Riots of 1937 |journal = Agricultural History|volume = 69|issue = 2|last=Storey |first=William Kelleher |date=1995 |pages=163–176 |jstor = 3744263}}</ref><ref name="rg">{{Cite journal|url=https://www.researchgate.net/publication/258935447 |title=Mauritius 1937: The Origins of a Milestone in Colonial Trade Union Legislation |journal=Labor History |volume=54 |issue=3 |last=Croucher |first=Richard |last2=Mcilroy |first2=John |date=2013-07-01  |pages=223–239 |doi=10.1080/0023656X.2013.804268 |access-date=2018-08-18}}</ref>  Labour Day was celebrated for the first time in 1938. More than 30,000 workers sacrificed a day's wage and came from all over the island to attend a giant meeting at the Champ de Mars.<ref>''L'ile Maurice: Vingt-Cinq leçons d'Histoire (1598–1998)'', Benjamin Moutou. {{ISBN|99903-929-1-9}}</ref>
+
+At the outbreak of [[World War II]] in 1939, many Mauritians volunteered to serve under the British flag in Africa and the Near East, fighting against the German and Italian armies. Some went to England to become pilots and ground staff in the [[Royal Air Force]]. Mauritius was never really threatened, but several British ships were sunk outside Port Louis by German submarines in 1943.
+
+During World War II, conditions were hard in the country; the prices of commodities doubled, but the salaries of workers increased only by 10 to 20 percent. There was civil unrest, and the colonial government crushed all trade union activities. However, the labourers of Belle Vue Harel Sugar Estate went on strike on 27 September 1943. Police officers eventually fired on the crowd, and killed three labourers including a boy of ten and a pregnant woman, Anjaly Coopen.<ref>''Our Struggle, 20th Century Mauritius'', Seewoosagur Ramgoolam, Anand Mulloo</ref><ref>{{cite web|url=http://www.lexpress.mu/node/203804/| title=The historical significance of Anjalay Coopen|website=[[L'Express (Mauritius)|L'Express]]|accessdate=22 January 2015}}</ref>
+
+The first general elections were held on 9 August 1948 and were won by the Labour Party. This party, led by Guy Rozemont, bettered its position in 1953, and, on the strength of the election results, demanded [[universal suffrage]]. Constitutional conferences were held in London in 1955 and 1957, and the ministerial system was introduced. Voting took place for the first time on the basis of universal adult suffrage on 9 March 1959. The general election was again won by the Labour Party, led this time by [[Sir Seewoosagur Ramgoolam]].<ref name=ram>{{cite news|title=Histoire: Mauritius Independence 1961–1968|url=http://www.lemauricien.com/article/histoire-mauritius-independence-1961-1968|accessdate=9 September 2014|newspaper=Le Mauricien=9 March 2014}}</ref>
+
+A Constitutional Review Conference was held in London in 1961, and a programme of further constitutional advance was established. The 1963 election was won by the Labour Party and its allies. The [[Colonial Office]] noted that politics of a communal nature was gaining ground in Mauritius and that the choice of candidates (by parties) and the voting behaviour (of electors) were governed by ethnic and caste considerations.<ref name=ram/> Around that time, two eminent British academics, [[Richard Titmuss]] and [[James Meade]], published a report of the island's social problems caused by overpopulation and the monoculture of sugar cane. This led to an intense campaign to halt the population explosion, and the decade registered a sharp decline in population growth.
+
+===Independence (since 1968)===
+{{main|Mauritius (1968–1992)}}
+At the Lancaster Conference of 1965, it became clear that Britain wanted to relieve itself of the colony of Mauritius. In 1959, [[Harold Macmillan]] had made his famous ''[[Wind of Change (speech)|Winds of Change Speech]]'' where he acknowledged that the best option for Britain was to give complete independence to its colonies. Thus, since the late Fifties, the way was paved for independence.<ref>{{cite news|title=Why independence was irresistible (by Anand Moheeputh)|url=http://www.lexpress.mu/node/243359/|newspaper=L'Express|date=12 March 2014}}</ref>
+
+Later in 1965, after the Lancaster Conference, the [[Chagos Archipelago]] was excised from the territory of Mauritius to form the [[British Indian Ocean Territory]] (BIOT). A general election took place on 7 August 1967, and the Labour Party and its two allies obtained the majority of seats. In January 1968, six weeks before the declaration of independence the [[1968 Mauritian riots]] occurred in Port Louis leading to the deaths of 25 people.<ref name="mg">{{Cite web |url=http://www.mauritiusmag.com/?p=598 |title=An eye witness account of the 1968 riots |website=www.mauritiusmag.com |language=en-US |access-date=2018-08-15}}</ref><ref name="eisa">{{Cite web |url=https://www.eisa.org.za/wep/mauoverview7.htm |title=EISA Mauritius: The road to independence (1945–1968) |website=www.eisa.org.za |access-date=2018-08-15}}</ref>
+
+[[File:Stamp Mauritius 1954 5c.jpg|thumb|190px|[[Elizabeth II]] was [[Queen of Mauritius]] from 1968 to 1992.]]
+Mauritius adopted a new constitution and independence was proclaimed on 12 March 1968. Sir Seewoosagur Ramgoolam became the first prime minister of an independent Mauritius with Queen Elizabeth II remaining head of state as Queen of Mauritius. In 1969, the opposition party [[Mauritian Militant Movement]] (MMM) led by [[Paul Bérenger]] was founded. Later in 1971, the MMM, backed by unions, called a series of strikes in the port which caused a state of emergency in the country.<ref>{{cite web|url=https://www.bbc.co.uk/news/world-africa-13882731|publisher=BBC|title=Mauritius profile|accessdate=27 November 2012}}</ref> The coalition government of the Labour Party and the PMSD (Parti Mauricien Social Démocrate) reacted by curtailing civil liberties and curbing freedom of the press.<ref name="Dinan"/> Two unsuccessful assassination attempts were made against Paul Bérenger. The second one led to the death of Azor Adélaïde, a dock worker and activist, on 25 November 1971.<ref>{{cite news|title=Affaire Azor Adélaïde|url=http://www.lemauricien.com/article/affaire-azor-adelaide-reedition-du-livre-d-eric-bahloo-fils-l-des-condamnes/|newspaper=Le Mauricien|date=25 June 2015}}</ref> General elections were postponed and public meetings were prohibited. Members of the MMM including Paul Bérenger were imprisoned on 23 December 1971. The MMM leader was released a year later.<ref>{{cite news|title=Why are we not taught our own history? |author=K.A. Cassimally|journal= Weekly Magazine|date= 17–23 March 2016}}</ref>
+
+In May 1975, a student revolt that started at the University of Mauritius swept across the country.<ref>{{cite web|url=http://www.lemauricien.com/article/histoire-des-hommes-derriere-20-mai-75-raconte|title=Historie : Un des hommes derrière le 20 mai 75 raconte – Le Mauricien}}</ref> The students were unsatisfied with an education system that did not meet their aspirations and gave limited prospects for future employment. On 20 May, thousands of students tried to enter Port-Louis over the Grand River North West bridge and clashed with police. An act of Parliament was passed on 16 December 1975 to extend the right to vote to 18-year-olds. This was seen as an attempt to appease the frustration of the younger generation.<ref name="Selvon"/>
+
+The next general election took place on 20 December 1976. The Labour Party won 28 seats out of 62<ref>''Untold Stories, A Collection of Socio-Political Essays, 1950–1995'', Sir Satcam Boolell, EOI. {{ISBN|99903-0-234-0}}</ref> but Prime Minister Sir Seewoosagur Ramgoolam managed to remain in office, with a two-seat majority, after striking an alliance with the PMSD of Gaetan Duval.
+
+In 1982 an MMM government led by Prime Minister [[Anerood Jugnauth]] and Paul Bérenger as Minister of Finance was elected. However, ideological and personality differences emerged within the MMM leadership. The power struggle between Bérenger and Jugnauth peaked in March 1983. Jugnauth travelled to New Delhi to attend a [[Non-Aligned Movement]] summit; on his return, Bérenger proposed constitutional changes that would strip power from the Prime Minister. At Jugnauth's request, PM [[Indira Gandhi]] of India planned an armed intervention involving the [[Indian Navy]] and [[Indian Army]] to prevent a [[coup]] under the code name [[Operation Lal Dora]].<ref>{{cite news|title=When India drew Top Secret ‘red line' in Mauritius|url=http://www.thehindu.com/todays-paper/when-india-drew-top-secret-red-line-in-mauritius/article4493495.ece|accessdate=22 March 2013|newspaper=The Hindu|date=10 March 2013}}</ref><ref>{{cite news|last=Medcalf|first=Rory|title=When India (Almost) Invaded Mauritius|url=http://thediplomat.com/flashpoints-blog/2013/03/19/when-india-almost-invaded-mauritius/|accessdate=22 March 2013|newspaper=The Diplomat|date=19 March 2013}}</ref><ref>{{cite web|author=David Brewster|url= https://www.academia.edu/7992843|title=India's Ocean: the Story of India's Bid for Regional Leadership}}. Retrieved 13 August 2014</ref>
+
+The MMM government split up nine months after the June 1982 election. According to an Information Ministry official the nine months was a "socialist experiment".<ref>{{cite web|author=John D. Battersby|url=https://www.nytimes.com/1987/12/28/world/port-louis-journal-land-of-apartheid-befriends-an-indian-ocean-isle.html|title=Port Louis Journal; Land of Apartheid Befriends an Indian Ocean Isle|publisher=''[[The New York Times]]''|date=28 December 1987|accessdate=29 December 2016}}</ref> The new [[Mouvement Socialiste Militant|MSM]] party, led by Anerood Jugnauth, was elected in 1983. Gaëtan Duval became the vice-prime minister. Throughout the decade, Anerood Jugnauth ruled the country with the help of the PMSD and the Labour Party.
+
+That period saw a growth in the EPZ (Export Processing Zone) sector. Industrialisation began to spread to villages as well, and attracted young workers from all ethnic communities. As a result, the sugar industry began to lose its hold on the economy. Large retail chains began opening stores in 1985 and offered credit facilities to low income earners, thus allowing them to afford basic household appliances. There was also a boom in the tourism industry, and new hotels sprang up throughout the island. In 1989 the stock exchange opened its doors and in 1992 the freeport began operation.<ref name="Dinan"/> In 1990, the Prime Minister lost the vote on changing the Constitution to make the country a republic with Bérenger as President.<ref>{{cite web|author=Jane Perlez, Special to The New York Times|url=https://www.nytimes.com/1990/08/27/world/mauritius-political-quarrel-saves-the-queen.html |title=Mauritius' Political Quarrel Saves the Queen|location=Great Britain; Mauritius|publisher=''The New York Times''|date=27 August 1990|accessdate=6 September 2016}}</ref>
+
+===Republic (since 1992)===
+On 12 March 1992, twenty-four years after independence, Mauritius was proclaimed a republic within the [[Commonwealth of Nations]].<ref name="govt"/> The last governor general, [[Veerasamy Ringadoo|Sir Veerasamy Ringadoo]], became the first [[President of Mauritius|president]].<ref>[https://books.google.co.uk/books?id=Bh7zAAAAMAAJ&q=The+last+Governor+General,+Sir+Veerasamy+Ringadoo+became+the+first+President&dq=The+last+Governor+General,+Sir+Veerasamy+Ringadoo+became+the+first+President&hl=en&sa=X&ved=0ahUKEwjrgvucxJrRAhWaeFAKHS75BBwQ6AEIPjAG ''AAPS Newsletter''], Volume 1, Issues 5–19, African Association of Political Science, 1992, p. 20</ref> This was under a transitional arrangement, in which he was replaced by [[Cassam Uteem]] later that year.<ref>[https://books.google.co.uk/books?id=aM0bAQAAMAAJ&dq=Sir+Veerasamy+Ringadoo+Cassam+Uteem&focus=searchwithinvolume&q=Cassam+Uteem ''Country Profile: Mauritius, Seychelles''], [[Economist Intelligence Unit]], 2001, p. 8</ref> Political power remained with the prime minister.
+
+Despite an improvement in the economy, which coincided with a fall in the price of petrol and a favourable dollar exchange rate, the government did not enjoy full popularity. As early as 1984, there was discontent. Through the Newspapers and Periodicals Amendment Act, the government tried to make every newspaper provide a bank guarantee of half a million rupees. Forty-three journalists protested by participating in a public demonstration in Port Louis, in front of Parliament. They were arrested and freed on bail. This caused a public outcry and the government had to review its policy.<ref name="Dinan"/>
+
+There was also dissatisfaction in the education sector. There were not enough high-quality secondary colleges to answer the growing demand of primary school leavers who had got through their CPE (Certificate of Primary Education). In 1991, a master plan for education failed to get national support and contributed to the government's downfall.<ref name="Dinan"/>
+
+[[Navin Ramgoolam]] was elected as prime minister in 1995. In February 1999, the country experienced a [[1999 Mauritian riots|brief period of civil unrest]]. President [[Cassam Uteem]] and Cardinal [[Jean Margéot]] toured the country and, after four days of turmoil, calm was restored.<ref>L'Express, Vendredi 26 février 1999</ref> A commission of enquiry was set up to investigate the root causes of the social disturbance. The resulting report delved into the cause of poverty and qualified many tenacious beliefs as perceptions.<ref>Rapport du Juge Matadeen sur les émeutes de 1999, Imprimerie du Gouvernement, 2000</ref>
+
+Anerood Jugnauth of the MSM returned to power in 2000 after making an alliance with the MMM. In 2002, the island of [[Rodrigues]] became an autonomous entity within the republic and was thus able to elect its own representatives to administer the island. In 2003, the prime ministership was transferred to Paul Bérenger of the MMM, and Anerood Jugnauth went to Le Réduit to serve as president. Berenger was the first Franco-Mauritian premier in the country's history. In 2005, Navin Ramgoolam and the Labour Party returned to power. Ramgoolam lost power in 2014. He was succeeded by Anerood Jugnauth.
+
+On 21 January 2017, Anerood Jugnauth announced that in two days time he would resign in favour of his son, Finance Minister [[Pravind Jugnauth]], who would assume the office of prime minister.<ref>{{cite web|title=Mauritius: PM Anerood Jugnauth to hand over to son|author=Bob Minzesheimer|url=https://www.bbc.com/news/world-africa-38709203|website=BBC News|date=22 January 2017|accessdate=22 January 2017}}</ref> The transition took place as planned on 23 January 2017.<ref>{{cite web|title=New Mauritius PM takes over from father, opponents cry foul|author=Jean Paul Arouff|url=https://www.reuters.com/article/us-mauritius-politics-idUSKBN15715K|website=Reuters|date=23 January 2017|accessdate=23 January 2017}}</ref>
+
+In 2018, Mauritian president [[Ameenah Gurib-Fakim]] (the only erstwhile female head of state in the African Union) resigned over a financial scandal.<ref>{{cite web|url=https://www.bbc.com/news/world-africa-43343550|title=Africa's only female president to quit|date=13 March 2018|publisher=|via=www.bbc.com}}</ref> The current acting president is [[Barlen Vyapoory]]. <ref>{{Cite web|url=http://president.govmu.org/English/Pages/default.aspx|title=Office of the President - Home|website=president.govmu.org|access-date=2019-02-22}}</ref>
+
+==Geography==
+{{main|Geography of Mauritius}}
+
+The total land area of the country is {{Convert|2,040|km2|abbr=on}}. It is the [[List of countries and outlying territories by total area|170th largest nation]] in the world by size. The Republic of Mauritius is constituted of [[Mauritius Island|the main island of Mauritius]] and [[Outer Islands of Mauritius|several outlying islands]]. The nation's [[exclusive economic zone]] (EEZ) covers about {{Convert|2.3|e6km2|sqmi}} of the Indian Ocean, including approximately {{Convert|400000|km2|abbr=on}} jointly managed with the [[Seychelles]].<ref>{{cite web|url=http://www.intercontinentaltrust.com/admin/documents/all/ITL%20Newsletter%20Vol%206%20Issue%2011%20-%20Mauritius%20Exclusive%20Economic%20Zone.pdf|title=Mauritius: Promoting the Development of an Ocean Economy|publisher=Intercontinental Trust|accessdate=22 January 2015}}</ref><ref>{{cite web|url=http://police.govmu.org/English/Publication/Documents/NCG2013.pdf|title=National Coast Guard|publisher=Government Portal of Mauritius|accessdate=22 January 2015}}</ref><ref>{{cite web|url=https://www.un.org/Depts/los/clcs_new/submissions_files/submission_musc.htm|title=Commission on the Limits of the Continental Shelf (CLCS) Outer limits of the continental shelf beyond 200 nautical miles from the baselines:Submissions to the Commission: Joint submission by the Republic of Mauritius and the Republic of Seychelles|publisher=United Nations|accessdate=22 January 2015}}</ref>
+
+===Mauritius Island===
+Mauritius is {{Convert|2000|km|abbr=on}} off the southeast coast of Africa, between latitudes [[19th parallel south|19°58.8']] and [[20th parallel south|20°31.7']] south and longitudes [[57th meridian east|57°18.0']] and [[57th meridian east|57°46.5']] east. It is {{Convert|65|km|abbr=on|round=5}} long and {{Convert|45|km|abbr=on|round=5}} wide. Its land area is {{Convert|1864.8|km2|abbr=on}}.<ref>{{cite web|url=http://metservice.intnet.mu/pdfs/monthly-climatological-summaries.pdf|title=Meteorological Services − Monthly Bulletin of Climatological Summaries|date=May 2008|page=3|publisher=Mauritius Meteorological Services|accessdate=22 January 2015}}</ref><ref>{{cite web|url=http://www.mauritius.net/general_info/index.php|title=General Info – Geography|publisher=Mauritius.net|accessdate=22 January 2015}}</ref> The island is surrounded by more than {{Convert|150|km|4=-2|abbr=on}} of white sandy beaches, and the lagoons are protected from the open sea by the world's third-largest coral reef, which surrounds the island.<ref>{{cite web|url=http://tourism.govmu.org/English/Tourism%20sector/Pages/Overview-of-Mauritius.aspx|title=Tourism − Overview of Mauritius|publisher=Government Portal of Mauritius|accessdate=4 January 2012}}</ref>  Just off the Mauritian coast lie some 49 uninhabited islands and [[Islets of Mauritius|islets]], several used as natural reserves for endangered species.
+
+The island of Mauritius is relatively young geologically, having been created by volcanic activity some 8 million years ago. Together with Saint Brandon, Réunion, and Rodrigues, the island is part of the [[Mascarene Islands]]. These islands emerged as a result of gigantic underwater volcanic eruptions that happened thousands of kilometres to the east of the continental block made up of Africa and Madagascar.<ref name="territory"/> They are no longer volcanically active and the [[Réunion hotspot|hotspot]] now rests under Réunion Island. Mauritius is encircled by a broken ring of mountain ranges, varying in height from {{Convert|300|-|800|m|abbr=on|round=50}} above sea level. The land rises from coastal plains to a central plateau where it reaches a height of {{Convert|670|m|abbr=on}}; the highest peak is in the southwest, [[Piton de la Petite Rivière Noire]] at {{convert|828|m|ft|0}}. Streams and rivers speckle the island, many formed in the cracks created by lava flows.
+[[File:Mauritius.png|thumb|center|650px|A panoramic view of Mauritius Island]]
+
+===Rodrigues Island===
+
+{{main|Rodrigues}}
+The autonomous island of [[Rodrigues]] is located {{Convert|560|km|abbr=on}} to the east of Mauritius, it has an area {{Convert|108|km2|abbr=on}}.<ref name="territory">{{cite web|url=http://www.govmu.org/English/ExploreMauritius/Geography-People/Pages/GeographyPeople/Location.aspx|title=The territory of Mauritius|publisher=Government Portal of Mauritius|accessdate=22 January 2015}}</ref> Rodrigues is a [[volcanic island]] rising from a ridge along the edge of the [[Mascarene Plateau]]. The island is hilly with a central spine culminating in the highest peak, Mountain Limon at {{convert|398|m|ft|abbr=on}}. The island also has a [[coral reef]] and extensive [[limestone]] deposits.
+
+===Chagos Archipelago===
+{{main|Chagos Archipelago}}
+The Chagos Archipelago is composed of atolls and islands, and is located approximately 2200 kilometres north-east of the main island of Mauritius. To the north of the Chagos Archipelago are [[Peros Banhos]], [[Salomon Islands]] and [[Nelsons Island]]; to the south-west are [[Three Brothers, Chagos|The Three Brothers]], [[Eagle Islands]], [[Egmont Islands]] and [[Danger_Island,_Great_Chagos_Bank|Danger Island]]. [[Diego Garcia]] is in the south-east of the Archipelago.<ref name="PCA Memorial Vol 1">{{Cite journal |title=MEMORIAL OF THE REPUBLIC OF MAURITIUS VOLUME I |url=https://pcacases.com/web/sendAttach/1796 |publisher=[[Permanent Court of Arbitration]] |publication-date=1 August 2012 |volume=1 |page=9}}</ref>
+
+===Agalega Islands===
+{{main|Agalega}}
+The twin islands of [[Agalega]] are located some {{Convert|1000|km|abbr=on}} to the north of Mauritius.<ref name="territory"/> Its North Island is 12.5 kilometres (7.8 miles) long and 1.5 kilometres (0.9 miles) wide, while its South Island is 7 kilometres (4.3 miles) long and 4.5 kilometres (2.8 miles) wide. The total area of both islands is {{Convert|26|km2|abbr=on}}.
+
+===Tromelin===
+{{main|Tromelin}}
+Tromelin island lies 430&nbsp;km northeast of Mauritius. Mauritius claims sovereignty over [[Tromelin]] island, as does France. The dispute arises from the question of whether the "dependencies"  mentioned in the Treaty of Paris included Tromelin, since some of the islands such as Agalega, St Brandon, Rodrigues and Tromelin were not specifically mentioned.<ref name="tromelin">{{Cite journal |last=Hervé |first=Gaymard |title=A. UN DIFFÉREND ANCIEN AVEC MAURICE QUANT À LA SOUVERAINETÉ SUR TROMELIN |url=http://www.assemblee-nationale.fr/14/rapports/r0830.asp#P65_3881 |publisher=[[National Assembly (France)]] |publication-date=20 March 2013}}</ref> In 1990, in view of the cordial relations between France and Mauritius, a common agreement was reached for France to put up a meteorological station on Tromelin. In June 1990, following the official visit of President [[François Mitterrand]] to Mauritius, a decision was taken to co-manage Tromelin by Mauritius and France. Ten years later, President [[Nicolas Sarkozy]] and Prime Minister [[Navin Ramgoolam]] again discussed the issue and the co-management agreement was signed and ratified in June 2010. In January 2017, the French government backed away from the co-management treaty. It was removed from the agenda of the French National Assembly.<ref name="defitromelin">{{Cite journal |title=Co-management of Tromelin: French government backs off amidst backlash in Parliament |url=https://defimedia.info/co-management-tromelin-french-government-backs-amidst-backlash-parliament |journal=NEWS ON SUNDAY |publisher=[[Le Défi Media Group]] |publication-date=22 January 2017}}</ref>
+
+===St. Brandon===
+{{main|St. Brandon}}
+[[St. Brandon]], also known as Cargados Carajos Shoals, is located {{convert|402|km|mi}} northeast of Mauritius Island. The archipelago consists of 16 Islands and Islets.
+
+==Districts of Mauritius Island==
+{{main|Districts of Mauritius}}
+Mauritius is subdivided into nine Districts, they consist of different [[List of cities, towns and villages in Mauritius|cities, towns and villages]].
+
+{{Mauritius Districts Labelled Map|float=none}}
+
+==Territorial dispute==
+=== Chagos Archipelago ===
+{{main|Chagos Archipelago sovereignty dispute|Depopulation of Chagossians from the Chagos Archipelago}}
+Mauritius has long sought sovereignty over the [[Chagos Archipelago]], located {{convert|1,287|km|mi}} to the northeast. Chagos was administratively part of Mauritius from the 18th century when the French first settled the islands. All of the islands forming part of the French colonial territory of [[Isle de France (Mauritius)|Isle de France]] (as Mauritius was then known) were ceded to the British in 1810 under the Act of Capitulation signed between the two powers.<ref name="real">{{cite web|url=http://www.realclearworld.com/articles/2012/04/06/mauritius_chagos_archipelago_diego_garcia_99999.html|title=Time for UK to Leave Chagos Archipelago|publisher=Real clear world|accessdate=22 January 2015}}</ref> In 1965, three years before the independence of Mauritius, the United Kingdom split the Chagos Archipelago from Mauritius and the islands of [[Aldabra]], [[Farquhar Group|Farquhar]] and [[Desroches]] from the [[Seychelles]] to form the [[British Indian Ocean Territory]] (BIOT). The islands were formally established as an overseas territory of the United Kingdom on 8 November 1965. On 23 June 1976, Aldabra, Farquhar and Desroches were returned to [[Seychelles]] as a result of its attaining independence. The BIOT now comprises the Chagos Archipelago only. The UK leased the main island of the archipelago [[Diego Garcia]] to the United States under a 50-year lease (which expires in 2016{{Update inline|date=May 2017}}) to establish a military base.<ref name="real"/><ref>{{cite web|url=http://www.geoffreyrobertson.com/documents/DiegoGarciaTheWesternAustraliaLawReviewPubilshedJune2012.pdf |title=Who Owns Diego Garcia? Decolonisation and Indigenous Rights in the Indian Ocean |publisher=[[Geoffrey Robertson]] |accessdate=22 January 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20140502070735/http://www.geoffreyrobertson.com/documents/DiegoGarciaTheWesternAustraliaLawReviewPubilshedJune2012.pdf |archivedate=2 May 2014 |df= }}</ref> Mauritius has repeatedly asserted that the separation of its territories is a violation of United Nations resolutions banning the dismemberment of colonial territories before independence and claims that the Chagos Archipelago, including Diego Garcia, forms an integral part of the territory of Mauritius under both Mauritian law and international law.<ref>{{cite web|url=http://www.defimedia.info/news-sunday/nos-parliament/item/13899-chagos-remains-a-matter-for-discussion.html?tmpl=component&print=1 |title=Chagos remains a matter for discussion |publisher=[[Le Défi Media Group]] |date=15 June 2012 |accessdate=22 January 2015 |author=Indradev Curpen |deadurl=yes |archiveurl=https://web.archive.org/web/20150427032857/http://www.defimedia.info/news-sunday/nos-parliament/item/13899-chagos-remains-a-matter-for-discussion.html?tmpl=component&print=1 |archivedate=27 April 2015 |df= }}</ref>
+After initially denying that the islands were inhabited, British officials forcibly expelled to the mainland approximately 2,000 [[Chagossians]] who had lived on those islands for a century The UK threatened the Chagossians and choked their dogs to death with vehicles fumes being pumped into building, while others were shot or poisoned.<ref name="dog">{{Cite news |url=https://www.bristolpost.co.uk/news/bristol-news/shocking-reason-dogs-hanging-tree-2140149 |title=The shocking reason there are dogs hanging from a tree in Bristol |last=Cork |first=Tristan |publisher=Bristol Post}}</ref> At the [[United Nation]] and in statements to its Parliament the UK pretended that there was no “permanent population” in the Chagos Archipelago and described the population as mere “contract laborers” who were relocated.<ref name="ICJ">{{Cite journal |title=Written Statement of the Republic of Mauritius  |url=https://www.icj-cij.org/files/case-related/169/169-20180301-WRI-05-00-EN.pdf |publisher=[[International Court of Justice]] |publication-date=1 March 2018 |volume=1 |pages=23–24}}</ref> 
+
+Since 1971, only the atoll of Diego Garcia is inhabited, home to some 3,000 UK and US military and civilian contracted personnel. Chagossians have since engaged in activism to return to the archipelago, claiming that their forced expulsion and dispossession were illegal.<ref name="BBC">{{cite news|url=https://www.bbc.co.uk/news/world-africa-13882233|title=Mauritius profile|publisher=BBC World|date=22 July 2011|accessdate=22 January 2015}}</ref><ref>{{cite web|url=http://archive.chagossupport.org.uk/index.php/background/history/|title=History|publisher=The UK Chagos Support Association|accessdate=22 January 2015}}</ref>
+
+==== Permanent Court of Arbitration ====
+[[File:Camp Justice --Diego Garcia.jpg|thumb|The military base of [[Camp Justice (Diego Garcia)|Camp Justice]] on [[Diego Garcia]]]]
+On 20 December 2010, Mauritius initiated proceedings against the United Kingdom under the [[United Nations Convention on the Law of the Sea]] (UNCLOS) to challenge the legality of the [[Chagos Marine Protected Area]] (MPA), which the UK purported to declare around the Chagos Archipelago in April 2010. The dispute was arbitrated by the [[Permanent Court of Arbitration]].
+
+After lengthy written pleadings by the Parties and a hearing from 22 April to 9 May 2014 in [[Istanbul]], Turkey, the Arbitral Tribunal ruled unanimously on 18 March 2015 that the ‘marine protected area' which the United Kingdom had declared around the Chagos Archipelago in April 2010 violates international law. It is the first time that UK's conduct with regard to the Chagos Archipelago has been considered and condemned by any international court or tribunal.<ref name="cha">{{cite web|url=http://mauritiusassembly.govmu.org/English/hansard/Documents/2015/hansard1215.pdf|title=Sixth National Assembly Parliamentary Debates(Hansard)|publisher=[[National Assembly (Mauritius)]]|date=20 March 2015|accessdate=21 January 2016}}</ref>
+
+The Tribunal held unanimously that, in declaring the ‘MPA', UK violated international law. It ruled that UK breached its obligations under Articles 2(3), 56(2), and 194(4) of UNCLOS. In reaching these conclusions, the Tribunal made several findings. It considered the undertakings given by UK to the Mauritian Ministers at the Lancaster House talks in September 1965. UK argued that those undertakings were not binding and had no status in international law. The Tribunal rejected that argument, holding that those undertakings became a binding international agreement upon the independence of Mauritius, and have bound UK since then. It found that UK's commitments to Mauritius in relation to fishing rights and oil and mineral rights in the Chagos Archipelago are legally binding. The Tribunal also found that UK's undertaking to return the Chagos Archipelago to Mauritius when no longer needed for defence purposes is legally binding.<ref name="cha"/>
+The Tribunal held that UK had not respected Mauritius's legal rights over the Chagos Archipelago. It considered the events from February 2009 to April 2010, during which time the ‘MPA' proposal came into being and was then imposed on Mauritius.<ref name="cha"/>
+
+The Tribunal observed that UK's failure to balance its rights and interests with those of Mauritius is to be contrasted with the approach adopted by UK with respect to the United States. It noted that the record demonstrates a conscious balancing of rights and interests, suggestions of compromise and willingness to offer assurances by UK, and an understanding of the United States' concerns in connection with the proposed ‘MPA'. Those elements were noticeably absent in UK's approach to Mauritius. Accordingly, the Tribunal found that, in declaring the ‘MPA', UK had acted unlawfully and in disregard of Mauritius's rights.<ref name="cha"/>
+
+The parties differ on the characterization of the dispute. Mauritius states that its case is that the MPA is unlawful under the Convention. UK argued that the dispute concerns sovereignty over the Chagos Archipelago. Mauritius requested the Tribunal to adjudge and declare that UK is not entitled to declare an "MPA" or other maritime zones because it is not the "coastal State within the meaning of inter alia Articles 2, 55, 56 and 76 of the Convention."<ref>{{cite web|url=https://pca-cpa.org/en/cases/11/|title=Characterization of the Dispute|publisher=[[Permanent Court of Arbitration]]|accessdate=21 January 2016}}</ref>
+
+The sovereignty of Mauritius was explicitly recognised by two of the arbitrators and denied by none of the other three. Three members of the Tribunal found that they did not have jurisdiction to rule on that question; they expressed no view as to which of the two States has sovereignty over the Chagos Archipelago. Tribunal Judges [[Rüdiger Wolfrum]] and James Kateka held that the Tribunal did have jurisdiction to decide this question, and concluded that UK does not have sovereignty over the Chagos Archipelago. 
+They found that:<ref>{{cite web|url=https://www.lexpress.mu/sites/lexpress/files/attachments/article/2015/2015-03/2015-03-20/mu-uk_20150318_award.pdf|title=In the Matter of the Chagos }}</ref>
+
+* Internal United Kingdom documents suggested there was an ulterior motive behind the ‘MPA' and noted the disturbing similarities and common pattern between the establishment of the so-called "BIOT" in 1965 and the proclamation of the ‘MPA' in 2010;
+* the excision of the Chagos Archipelago from Mauritius in 1965 shows a complete disregard for the territorial integrity of Mauritius by UK;
+* UK Prime Minister [[Harold Wilson]]'s threat to Premier [[Sir Seewoosagur Ramgoolam]] in 1965 that he could return home without independence if he did not consent to the excision of the Chagos Archipelago amounted to duress; Mauritian Ministers were coerced into agreeing to the detachment of the Chagos Archipelago, and that this detachment violated the international law of self-determination;
+* the ‘MPA' is legally invalid.
+
+The Tribunal's decision determined that UK's undertaking to return the Chagos Archipelago to Mauritius gives Mauritius an interest in significant decisions that bear upon possible future uses of the Archipelago. The result of the Tribunal's decision is that, it is now open to the Parties to enter into the negotiations that the Tribunal would have expected prior to the proclamation of the MPA, with a view to achieving a mutually satisfactory arrangement for protecting the marine environment, to the extent necessary under a "sovereignty umbrella".<ref name="cha"/>
+
+==== International Court of Justice ====
+
+=====Amendment of exclusion clause by UK=====
+
+In 2004, following the decision of the British government to promulgate the British Indian Ocean Territory Order (BIOT Order), which prohibited the [[Chagossians]] from remaining on the islands without express authorisation, Mauritius contemplated having recourse to the [[International Court of Justice]] to finally and conclusively settle the dispute. However, article 36 of the International Court of Justice Statute provides that it is the option of the State whether it wishes to subject itself to the ICJ’s jurisdiction. Where the State chooses to be so bound, it may also restrict or limit the jurisdiction of the Court in a number of ways. The UK’s clause deposited at the ICJ excluded, amongst other things, the jurisdiction of the ICJ with regard “to any disputes with the government of any country which is a member of the Commonwealth with regard to situations or facts existing before 1 January 1969”. The temporal limitation of 1 January 1969 was inserted to exclude all disputes arising during decolonisation. The effect of the British exclusionary clause would thus have prevented Mauritius from resorting to the ICJ on the Chagos dispute, because it is a member of the [[Commonwealth]]. Before Mauritius even left the Commonwealth, the United Kingdom quickly amended its exclusion clause to the ICJ’s jurisdiction, to exclude any disputes between itself, Commonwealth States and ''former Commonwealth States'', therefore quashing any Mauritian hopes to ever have recourse to the contentious jurisdiction of the ICJ, even if it left the Commonwealth.<ref name="commonwealth">{{Cite web |url=http://www.mauritiustimes.com/mt/vimalen-reddi/ |title=The Chagos Dispute: Also Giving Law A Chance |last=Reddi |first=Vimalen |access-date=2019-02-26}}</ref>
+
+=====Advisory opinion=====
+
+On 22 June 2017, by a margin of 94 to 15 countries, the [[UN General Assembly]] asked the [[International Court of Justice]] to give an advisory opinion on the separation of the Chagos Archipelago from Mauritius before the country's independence in the 1960s. In September 2018, the ICJ began hearings on the case. 17 countries have argued in favour of Mauritius, including India, [[South Africa]] and [[Nigeria]].<ref>{{cite web|url=https://www.telegraph.co.uk/news/2018/09/03/mauritius-disputes-uk-acquisition-chagos-islands-international/|title=International Court of Justice begins hearing on Britain's separation of Chagos islands from Mauritius|first=Roland|last=Oliphant|date=3 September 2018|publisher=|via=www.telegraph.co.uk}}</ref><ref>{{cite web|url=https://www.telegraphindia.com/opinion/what-happened-in-mauritius/cid/1463616|title=What happened in Mauritius|website=www.telegraphindia.com}}</ref> The UK apologised for the “shameful” way islanders were evicted from the Chagos archipelago but were insistent that Mauritius was wrong to bring the dispute over sovereignty of the strategic atoll group to the United Nations’ highest court. <ref>{{Cite web|url=http://defimedia.info/chagos-dispute-critical-verdict-pertaining-future-its-inhabitants|title=Chagos Dispute : critical Verdict Pertaining to the Future of its Inhabitants|website=Le Defi Media Group|language=fr|access-date=2019-02-22}}</ref> 
+
+On 25 February 2019, the International Court of Justice (ICJ) ordered the UK to hand back the Chagos Islands to Mauritius as rapidly as possible. The president of the ICJ, Abdulqawi Ahmed Yusuf, said the detachment of the Chagos archipelago in 1965 from Mauritius had not been based on a “free and genuine expression of the people concerned”. “This continued administration constitutes a wrongful act,”. He added “The UK has an obligation to bring to an end its administration of the Chagos archipelago as rapidly as possible and that all member states must co-operate with the United Nations to complete the decolonization of Mauritius.”<ref>{{Cite web |url=https://www.theguardian.com/world/2019/feb/25/un-court-rejects-uk-claim-to-sovereignty-over-chagos-islands |title=UN court rejects UK's claim of sovereignty over Chagos Islands |last=Bowcott |first=Owen |date=2019-02-25 |publisher=[[The Guardian]] |access-date=2019-02-26}}</ref>
+
+==Biodiversity==
+{{main|Wildlife of Mauritius}}
+
+[[File:Phelsuma ornata - journal.pbio.1001382.png|thumb|[[Mauritius ornate day gecko]]]]
+The country is home to some of the world's rarest plants and animals, but human habitation and the introduction of [[non-native species]] have threatened its indigenous flora and fauna.<ref name="BBC"/> Due to its volcanic origin, age, isolation, and its unique terrain, Mauritius is home to a diversity of flora and fauna not usually found in such a small area. Before the Portuguese arrival in 1507, there were no terrestrial mammals on the island. This allowed the evolution of a number of flightless birds and large reptile species. The arrival of man saw the introduction of invasive alien species and the rapid destruction of habitat and the loss of much of the endemic flora and fauna. Less than 2% of the [[Forest|native forest]] now remains, concentrated in the [[Black River Gorges National Park]] in the southwest, the Bambous Mountain Range in the southeast, and the Moka-Port Louis Ranges in the northwest. There are some isolated mountains, [[Corps de Garde]], [[Le Morne Brabant]], and several [[Islets of Mauritius|offshore islands]] with remnants of coastal and mainland diversity. Over 100 species of plants and animals have become extinct and many more are threatened. Conservation activities began in the 1980s with the implementation of programmes for the reproduction of threatened bird and plant species as well as habitat restoration in the national parks and nature reserves.<ref>{{cite web|url=http://npcs.govmu.org/English//DOCUMENTS/CHAP1.PDF|title=Chapter 1. Introduction to the Republic of Mauritius|publisher=National Parks and Conservation Services, Government Portal of Mauritius|accessdate=22 January 2015}}</ref>
+
+In 2011, The Ministry of Environment & Sustainable Development issued the "Mauritius Environment Outlook Report" which recommended that St Brandon be declared a Marine Protected Area.
+
+In the President's Report of the [[Mauritian Wildlife Foundation]] dated March 2016, St Brandon is declared an official MWF project in order to promote the conservation of the atoll.<ref>{{cite web|url=http://www.mauritian-wildlife.org/application/includes/common/download.php?type=11&record=4E911EA9-BE8F-FB3C-1025-8CFF6C9D3136|title=President's Report of the Mauritian Wildlife Foundation dated March 2016|publisher=|accessdate=29 August 2017}}</ref>
+
+The [[Mauritian flying fox|Mauritian Flying Fox]] is the only remaining mammal endemic to the island, and has been severely threatened in recent years due to the government sanctioned culling introduced in November 2015 due to the belief that they were a threat to fruit plantations. Prior to 2015 the lack of severe cyclone had seen the fruit bat population increase and the status of the species was then changed by the [[International Union for Conservation of Nature|IUCN]] from Endangered to Vulnerable in 2014. October 2018, saw the authorisation of the cull of 20% of the fruit bat population, amounting to 13,000 of the estimated 65,000 fruit bats remaining, although their status had already reverted to Endangered due to the previous years' culls. <ref>{{Cite web|url=http://www.mauritian-wildlife.org/application/index.php?tpid=30&tcid=81|title=Welcome to the Mauritian Wildlife Foundation (MWF) - In The Field - Mauritius - Mauritius Fruit Bat|website=www.mauritian-wildlife.org|access-date=2019-02-22}}</ref> 
+
+=== The dodo ===
+{{main|Dodo}}
+
+[[File:Dronte dodo Raphus cucullatus.jpg|thumb|Mauritius was the only known habitat of the extinct [[dodo]], a flightless bird.]]
+When it was discovered, Mauritius was the home of a previously unknown species of bird, the [[dodo]], descendants of a type of [[pigeon]] which settled in Mauritius over four million years ago.<ref>{{cite journal|doi=10.1126/science.295.5560.1683|last1=Shapiro|first1=B.|last2=et. al.|date=2002|title=Flight of the Dodo|journal=Science|volume=295|issue=5560|page=1683|pmid=11872833|url=http://pgl.soe.ucsc.edu/dodo_Shapiro02.pdf}}</ref> With no predators to attack them, they had lost their ability to fly. Arabs became the first humans to set foot on Mauritius, followed by Portuguese around 1505. The island quickly became a stopover for ships engaged in the spice trade. Weighing up to {{convert|50|lb}}, the dodo was a welcome source of fresh meat for the sailors. Large numbers of dodos were killed for food. Later, when the Dutch used the island as a penal colony, new species were introduced to the island. [[Rat]]s, pigs, and [[monkey]]s ate dodo eggs in the ground nests. The combination of human exploitation and introduced species significantly reduced the dodo population. Within 100 years of the arrival of humans on Mauritius, the once abundant dodo became a rare bird. The last one was killed in 1681.<ref>{{cite web|url=http://www.govmu.org/English/ExploreMauritius/Pages/The-Dodo.aspx|title=The Dodo|publisher=Government Portal of Mauritius|accessdate=22 January 2015}}</ref> The dodo is prominently featured as a (heraldic) [[supporter]] of the national [[coat of arms of Mauritius]].<ref>{{Cite web|url=http://www.govmu.org/English/ExploreMauritius/NationalSymbols/Pages/Coat-of-Arms.aspx|title=Republic of Mauritius- Coat of Arms|website=www.govmu.org|access-date=2019-03-27}}</ref>
+
+==Environment and climate==
+[[File:Black River Gorges National Park, Mauritius.jpg|left|thumb|Black River Gorges National Park]]
+The environment in Mauritius is typically tropical in the coastal regions with forests in the mountainous areas. Seasonal cyclones are destructive to its flora and fauna, although they recover quickly. Mauritius ranked second in an [[air quality index]] released by the [[World Health Organization]] in 2011.<ref>{{cite web|url=http://www.lematinal.com/mobile/sante/13945-Mauritiuss-air-quality-2nd-best-in-world.html|title=Mauritius's air quality 2nd best in world|date=26 September 2011|publisher=Le Matinal|accessdate=22 January 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20131010163739/http://www.lematinal.com/mobile/sante/13945-Mauritiuss-air-quality-2nd-best-in-world.html|archivedate=10 October 2013}}</ref>
+
+Situated near the [[Tropic of Capricorn]], Mauritius has a [[tropical climate]]. There are 2 seasons: a warm humid summer from November to April, with a mean temperature of {{Convert|24.7|C}} and a relatively cool dry winter from June to September with a mean temperature of {{Convert|20.4|C}}. The temperature difference between the seasons is only <!-- Please don't user convert template to describe a range -->4.3{{nbsp}}°C (7.7{{nbsp}}°F). The warmest months are January and February with average day maximum temperature reaching {{Convert|29.2|C}} and the coolest months are July and August with average overnight minimum temperatures of {{Convert|16.4|C}}. Annual rainfall ranges from {{Convert|900|mm|abbr=on}} on the coast to {{Convert|1500|mm|abbr=on}} on the central plateau. Although there is no marked rainy season, most of the rainfall occurs in summer months. Sea temperature in the lagoon varies from {{Convert|22|-|27|C}} The central plateau is much cooler than the surrounding [[coastal]] areas and can experience as much as double the rainfall. The prevailing trade winds keep the east side of the island cooler and bring more rain. Occasional [[tropical cyclones]] generally occur between January and March and tend to disrupt the weather for about three days, bringing heavy rain.<ref>{{cite web|url=http://metservice.intnet.mu/climate-services/climate-of-mauritius.php|title=Climate of Mauritius|publisher=Mauritius Meteorological Services|accessdate=22 January 2015}}</ref>
+
+==Politics==
+{{refimprove|section|date=March 2019}}
+{{main|Politics of Mauritius}}
+[[File:Government House Port Louis.JPG|thumb|Government House, Port Louis]]
+The politics of Mauritius take place in a framework of a [[parliamentary system|parliamentary]] [[representative democracy|representative democratic]] republic, in which the [[President of Mauritius|President]] is the [[head of state]] and the [[Prime Minister of Mauritius|Prime Minister]] is the [[head of government]], assisted by a [[Cabinet of Ministers of Mauritius|Council of Ministers]]. Mauritius has a [[multi-party system]]. [[Executive power]] is exercised by the Government. [[Legislative power]] is vested in both the Government and the [[National Assembly of Mauritius|National Assembly]].
+
+The National Assembly is Mauritius's [[unicameral]] legislature, which was called the Legislative Assembly until 1992, when the country became a republic. It consists of 70 members, 62 elected for four-year terms in multi-member [[constituency|constituencies]] and eight additional members, known as "best losers", appointed by the Electoral Service Commission to ensure that ethnic and religious minorities are equitably represented. The UN Human Rights Committee (UNHRC), which monitors member states' compliance with the International Covenant on Political and Civil Rights (ICPCR), has criticised the country's Best Loser System following a complaint by a local youth and trade union movement.<ref>{{cite web|url=http://country.eiu.com/article.aspx?articleid=59556590&Country=Mauritius&topic=Politics&subtopic=Forecast&subsubtopic=Election+watch&u=1&pid=1764509560&oid=1764509560&uid=1|title=UN Human Rights Committee criticises Best Loser System|publisher=Country.eiu.com|accessdate=6 September 2016}}</ref> The president is elected for a five-year term by the Parliament.
+
+The island of Mauritius is divided into [[Constituencies of Mauritius|20 constituencies]] that return three members each, while Rodrigues is a single constituency that returns two members. After a general election, the Electoral Supervisory Commission may nominate up to eight additional members with a view to correct any imbalance in the representation of ethnic minorities in Parliament. This system of nominating members is commonly called the best loser system.
+
+The political party or party alliance that wins the majority of seats in Parliament forms the government. Its leader becomes the Prime Minister, who selects the Cabinet from elected members of the Assembly, except for the Attorney General, who may not be an elected member of the Assembly. The political party or alliance which has the second largest majority forms the Official Opposition and its leader is normally nominated by the President of the Republic as the Leader of the Opposition. The Assembly elects a Speaker, a Deputy Speaker and a Deputy Chairman of Committees as some of its first tasks.
+
+Mauritius is a democracy with a government elected every five years. The most recent National Assembly Election was held on 10 December 2014 in all the 20 mainland constituencies, and in the constituency covering the island of Rodrigues. Elections have tended to be a contest between two major coalitions of parties.
+
+The 2006–2014 [[Ibrahim Index of African Governance]] ranked Mauritius first in good governance.<ref name="Ibrahim">{{cite web|url=http://www.moibrahimfoundation.org/mauritius/ |publisher=Moibrahim Foundation |title=Mauritius's recent performance in the Ibrahim Index of African Governance |accessdate=24 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121020045619/http://www.moibrahimfoundation.org/mauritius/ |archivedate=20 October 2012 |df= }}</ref> According to the 2017 [[Democracy Index]] compiled by the [[Economist Intelligence Unit]] that measures the state of democracy in 167 countries, Mauritius ranks 16th worldwide and is the only African-related country with "full democracy".<ref>{{cite news|url=http://www.economist.com/node/21551494|title=African democracy − A glass half-full|accessdate=7 April 2012|work=The Economist|date=31 March 2012}}</ref>
+
+{| class="wikitable"
+|-
+!Office held!!Office holder!!Incumbency<ref name="foreign">{{cite web|url=http://foreign.govmu.org/English/Documents/List%20of%20Precedence118.pdf|title=National lists of precedence of Mauritius|date=14 October 2014|accessdate=16 February 2015}}</ref>
+|-
+|[[President of Mauritius|President]]||[[Barlen Vyapoory]]||2018
+|- 23 March2018
+|[[Prime Minister of Mauritius|Prime Minister]]||[[Pravind Jagnauth]]|| 23 January 2017
+|-
+|[[Vice President of Mauritius|Vice President]]|||| 
+|-
+|[[Deputy Prime Minister of Mauritius|Deputy Prime Minister]]|| Ivan Collendavelloo || 14 December 2014
+|-
+|[[Supreme Court of Mauritius|Chief Justice]]||[[Supreme Court of Mauritius|Kheshoe Parsad Matadeen]]|| 31 December 2013
+|-
+|[[List of Speakers of the National Assembly of Mauritius|Speaker of the National Assembly]]||[[Maya Hanoomanjee]]|| 22 December 2014
+|-
+|[[Leader of the Opposition (Mauritius)|Leader of the Opposition]]||[[Xavier-Luc Duval]]|| 14 December 2014
+|}
+
+===Military===
+{{main|Military of Mauritius}}
+All military, police, and security functions in Mauritius are carried out by 10,000 active-duty personnel under the Commissioner of Police. The 8,000-member National Police Force is responsible for domestic law enforcement. The 1,400-member [[Special Mobile Force]] (SMF) and the 688-member National Coast Guard are the only two paramilitary units in Mauritius. Both units are composed of police officers on lengthy rotations to those services.<ref>{{cite web|url=http://www.scoop.co.nz/stories/WO0901/S00160.htm|title=Background Note: Mauritius – Scoop News|website=scoop.co.nz|accessdate=18 January 2017}}</ref>
+
+===Foreign relations===
+{{main|Foreign relations of Mauritius}}
+Mauritius has strong and friendly relations with various African, American, Asian, European and Oceania countries. Considered part of Africa geographically, Mauritius has friendly relations with African states in the region, particularly South Africa, by far its largest continental trading partner. Mauritian investors are gradually entering African markets, notably Madagascar, Mozambique and Zimbabwe. The country's political heritage and dependence on Western markets have led to close ties with the [[European Union]] and its member states, particularly France. It also depends on the United Kingdom as a trading partner. Relations with  India is very strong for both historical and commercial reasons.Mauritius established diplomatic relations with China in April 1972 and was forced to defend this decision, along with naval contracts with the USSR in the same year.
+
+Mauritius is a member of the [[World Trade Organization]], the [[Commonwealth of Nations]], [[La Francophonie]], the [[African Union]], the [[Southern Africa Development Community]] (SADC), the [[Indian Ocean Commission]], [[COMESA]], and formed the [[Indian Ocean Rim Association]].
+
+===Legal system===
+Laws governing the Mauritian penal system are derived partly from [[French civil law]] and [[British common law]].<ref>{{cite web|url=http://www.mongabay.com/history/mauritius/mauritius-penal_system_8147.html|title=Mauritius-Penal System|accessdate=20 October 2012}}</ref> The crime rate reduced from 4.3 per 1,000 population in 2009 to 3.6 per 1,000 population in 2010.<ref>{{cite journal|url=http://www.gov.mu/portal/goc/mof/8Police.pdf|title=Overview of the department|page=151|publisher=Government of Mauritius|accessdate=10 February 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20111116155529/http://www.gov.mu/portal/goc/mof/8Police.pdf|archivedate=16 November 2011}}</ref> The [[Constitution of Mauritius]] states that for purposes of separation of powers, the judiciary is independent. According to Justice E. Balancy,{{when|date=July 2017}} public opinion is characterised by excessive emotional reaction to crimes arousing the moral indignation of the community. The result is a reluctance to give due weight to the liberty of the citizen and the presumption of innocence.<ref>[http://www1.govmu.org/scourt/cjei/doc/bail.doc Court] {{webarchive|url=https://web.archive.org/web/20161104212653/http://www1.govmu.org/scourt/cjei/doc/bail.doc |date=4 November 2016 }}</ref>
+
+The provisional charge, part of criminal procedure law since 1852, is a practice that allows anyone suspected of a crime to be detained – sometimes for up to two years – before being charged.<ref>{{cite web|author=Law & Order|url=http://www.businessinsider.com/an-emerging-vacation-destination-has-a-troubling-human-rights-record-2015-9|title=An emerging vacation destination has a troubling human rights record|publisher=Business Insider|date=26 September 2015|accessdate=6 September 2016}}</ref> In 1994, the police detained the editor-in-chief and a journalist of a weekly magazine for having "unlawfully published secret news". The chairman of the company was also arrested. In 1995, the Supreme Court found the provisional charge to be null and void, as the offence set out on the provisional charge "publishing secret news" was not known to the law.<ref>{{cite web|url=http://www.lexpress.mu/idee/273600/provisional-charge-conundrum|title=Provisional Charge Conundrum|date=4 January 2016}}</ref>
+
+==Demographics==
+{{main|Mauritians|Demographics of Mauritius|Religion in Mauritius}}
+[[File:Mauritius population pyramid 2011.svg|thumb|[[Population pyramid]] of Mauritius according to 2011 census]]
+
+The estimated resident population of the Republic of Mauritius was 1,265,577 as at 1st July 2018. As at mid-2018, the female population outnumbered the male population by 13,169. The population on the island of Mauritius is 1,222,268, and that of Rodrigues island is 43,035; Agalega and Saint Brandon had an estimated total population of 274.<ref name="2018 Statistics"/> Mauritius has the highest [[List of African countries by population density|population density]] in Africa.
+
+Subsequent to a Constitutional amendment in 1982, there is no need for Mauritians to reveal their ethnic identities for the purpose of population census. Official statistics on ethnicity are not available. The 1972 census was the last one to measure ethnicity.<ref>{{cite web|url=https://www.lexpress.mu/article/critical-appraisal-best-loser-system|title=A critical appraisal of the Best Loser System|publisher=[[L'Express (Mauritius)]]|date=5 June 2008|accessdate=11 November 2017|author=La Redaction}}</ref><ref>{{cite web|url=http://www.defimedia.info/blog/item/18524-debate-on-best-loser-system.html|title=Debate on Best Loser System|publisher=Le Défi Media Group|date=10 September 2012|accessdate=21 January 2015|author=M. Rafic Soormally|deadurl=yes|archiveurl=https://web.archive.org/web/20150121084740/http://www.defimedia.info/blog/item/18524-debate-on-best-loser-system.html|archivedate=21 January 2015|df=dmy-all}}</ref> Mauritius is a [[Multiracial|multiethnic]] society, drawn from [[Mauritian of Indian origin|Indian]] (mostly of [[Bihari Mauritian|Biharis]]<ref>http://pinkpigeonpress.com/Across-the-Kalapani-is%20a-celebration-of-the-Bihari-diaspora.html</ref> and a minority of [[Tamil Mauritian|Tamils]]), [[Mauritian of African origin|African]], [[Mauritian of Chinese origin|Chinese]] and European (mostly [[Mauritian of French origin|French]]) origin.
+
+===Religion===
+[[File:Mauritius Mangal-Mahadev-Statue-in-GangaTalao-01.jpg|thumb|The 33-metre statue of Lord Shiva at [[Ganga Talao]]]]
+
+According to the 2011 census conducted by [[Statistics Mauritius]], [[Hinduism]] is the largest religion at 48.5%, followed by [[Christianity]] (32.7%), [[Islam]] (17.2%) and other religions (0.7%). 0.7% reported themselves as [[irreligiosity|non-religious]] and 0.1% did not answer.<ref name="2011 Census Religion">{{cite web|url=http://statsmauritius.govmu.org/English/Documents/publications/Housing/economics%20and%20social%20indicators/reports/2011VolIIPC.pdf|publisher=Statistics Mauritius, Government Portal of Mauritius|page=68|title=Resident population by religion and sex|accessdate=11 November 2017}}</ref> Mauritius is the only country in [[Africa]] to have a [[Hindu]] plurality.
+
+An officially [[secular]] state, Mauritius is a religiously diverse nation, with freedom of religion being enshrined as a constitutional right.<ref>{{cite web|url=http://www.brandeis.edu/globalbrandeis/documents/Nigel%20-%20Mauritius%20FINAL.pdf|format=PDF|publisher=Brandeis University|page=2|title=Country Studies Series: Mauritius|accessdate=31 July 2012}}</ref> The culture of the Mauritian people is reflected in the various religious festivities that are celebrated throughout the year, some of which are recognised as public holidays.
+
+==Languages==
+{{main|Languages of Mauritius}}
+The [[Constitution of Mauritius|Mauritian constitution]] makes no mention of an [[official language]]. The Constitution only mentions that the official language of the National Assembly is English; however, any member can also address the chair in French.<ref name="language">{{cite web|url=http://mauritiusassembly.govmu.org/English/constitution/Pages/Constitution-Contd1.aspx#assembly|title=Constitution of Mauritius – 49. Official language|publisher=[[National Assembly (Mauritius)|National Assembly]], Government Portal of Mauritius|accessdate=11 November 2017}}</ref> English and French are generally considered to be de facto national and common languages of Mauritius, as they are the languages of government administration, courts, and business.<ref>{{cite web|url=http://www.govmu.org/English/ExploreMauritius/Geography-People/Pages/Language.aspx|title=Language|publisher=Government Portal of Mauritius|accessdate=11 November 2017}}</ref> The constitution of Mauritius is written in English, while some laws, such as the [[Civil code]] and [[Criminal code]], are in French.
+
+The Mauritian population is [[multilingual]]; while [[Mauritian Creole]] is the [[mother tongue]] of most Mauritians, most people are also fluent in English and French; they tend to switch languages according to the situation.<ref>{{cite web|url=https://peoplemauritius.blogspot.cz/|title=Language Choice in Multilingual Mauritius}}</ref> French and English are favoured in educational and professional settings, while [[Asian languages]] are used mainly in music, religious and cultural activities. The media and literature are primarily in French.
+
+The Creole language, which is [[French-based Creole|French-based]] with some additional influences, is spoken by the majority of the population as a native language.<ref>{{cite web|url=http://mauritiusgovernment.com/demographics.htm|publisher=mauritiusgovernment.com|title=Demographics|accessdate=7 November 2013}}</ref> The Creole languages which are spoken in different islands of the country are more or less similar: [[Mauritian Creole]], [[Rodriguan Creole]], [[Agalega Creole]] and [[Chagossian Creole]] are spoken by people from the islands of Mauritius, [[Rodrigues]], [[Agalega]] and [[Chagos]]. Some ancestral languages that are also spoken in Mauritius include [[Bhojpuri]],<ref>{{cite web|url=http://culture.govmu.org/English/Documents/legislations/Bhojpuri%20Speaking%20Union%20Act%202011.pdf|title=BHOJPURI-SPEAKING UNION ACT 2011|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> [[Chinese language|Chinese]],<ref name="chinese act">{{cite web|url=http://culture.govmu.org/English/Documents/legislations/Chinese%20Speaking%20Union%20Act%202011.pdf|title=CHINESE-SPEAKING UNION ACT 2011|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> [[Hindi]],<ref name="Hindi act">{{cite web|url=http://culture.govmu.org/English/Documents/legislations/The%20Hindi%20Speaking%20Union%20%20Act%201994.pdf|title=THE HINDI-SPEAKING UNION ACT 1994|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> [[Marathi language|Marathi]],<ref name="marathi act">{{cite web|url=http://culture.govmu.org/English/Documents/legislations/Marathi%20Speaking%20Union%20Act%202008.pdf|title=MARATHI-SPEAKING UNION ACT 2008|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> [[Tamil language|Tamil]],<ref name="tamil act">{{cite web|url=http://culture.govmu.org/English/Documents/legislations/Tamil%20Speaking%20Union%20Act%202008.pdf|title=TAMIL-SPEAKING UNION ACT 2008|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> [[Telugu language|Telugu]]<ref name="telegu act">{{cite web|url=http://culture.govmu.org/English/Documents/legislations/Telugu%20Speaking%20Union%20Act%202008.pdf|title=TELUGU-SPEAKING UNION ACT 2008|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> and [[Urdu]].<ref name="urdu act">{{cite web|url=http://culture.govmu.org/English/Documents/legislations/The%20Urdu%20Speaking%20Union%20Act%202002.pdf|title=THE URDU-SPEAKING UNION ACT 2002|publisher=Ministry of Arts and Culture|accessdate=20 January 2019}}</ref> [[Bhojpuri]] which was widely spoken as mother tongue, has been decreasing over the years. According to the 2011 census, there was a decrease in the use of Bhojpuri at home; it was spoken by 5% of the population compared to 12% in 2000.<ref name="2011census">{{cite journal|url=http://statsmauritius.govmu.org/English/CensusandSurveys/Documents/ESI/pop2011.pdf|publisher=Government Portal of Mauritius|title=2011 POPULATION CENSUS&nbsp;– MAIN RESULTS|author=[[Statistics Mauritius]]|accessdate=11 November 2017}}</ref> School students must learn English and French; they also have to opt for an Asian language or Mauritian Creole. The medium of instruction varies from school to school but is usually Creole, French and English.
+
+==Education==
+{{main|Education in Mauritius}}
+The education system in Mauritius consists of pre-primary, primary, secondary and tertiary sectors. The education structure consists of two to three years of pre-primary school, six years of primary schooling leading to the Primary School Achievement Certificate, five years of secondary education leading to the School Certificate, and two years of higher secondary ending with the Higher School Certificate. Secondary schools have "college" as part of their title.  The government of Mauritius provides [[free education]] to its citizens from pre-primary to tertiary level. In 2013 government expenditure on education was estimated at about Rs 13,584 million, representing 13% of total expenditure.<ref>{{cite journal|url=http://statsmauritius.govmu.org/English/StatsbySubj/Documents/ei1063/edu.pdf|publisher=Government Portal of Mauritius|title=Education statistics|author=Ministry of Education and Human Resource|year=2013|accessdate=22 January 2015}}</ref> As of January 2017, the government has introduced changes to the education system, with the Nine-Year Continuous Basic Education programme, which abolished the Certificate of Primary Education (CPE). [https://defimedia.info/nine-year-continuous-basic-education-what-are-major-changes-brought-system]
+
+The [[O-Level]] and [[A-Level]] examinations are carried out by the [[University of Cambridge]] through [[University of Cambridge International Examinations]]. The tertiary education sector includes universities and other technical institutions in Mauritius. The country's two main public universities are the [[University of Mauritius]] and the [[University of Technology, Mauritius|University of Technology]].
+
+The adult [[literacy rate]] was estimated at 92.7% in 2015. [https://knoema.com/atlas/Mauritius/topics/Education/Literacy/Adult-literacy-rate]
+
+==Economy==
+{{main|Economy of Mauritius|International rankings of Mauritius}}
+[[File:Sugarcane plantation in Mauritius (reduced colour saturation).jpg|thumb|left|[[Sugar cane]] plantation in Mauritius]]
+Since independence from Britain in 1968, Mauritius has developed from a low-income, agriculture-based economy to an upper middle-income diversified economy, based on [[Tourism in Mauritius|tourism]], textiles, sugar, and financial services. The economic history of Mauritius since independence has been called "the Mauritian Miracle" and the "success of Africa" (Romer, 1992; Frankel, 2010; Stiglitz, 2011).<ref>{{cite web|url=https://www.imf.org/external/pubs/ft/wp/2014/wp14134.pdf |title= Mauritius: The Drivers of Growth&nbsp;– Can the Past be Extended? |type= IMF Working paper 2014 |accessdate=}}</ref>
+
+In recent years, information and communication technology, seafood, hospitality and property development, healthcare, renewable energy, and [[Education in Mauritius|education]] and training have emerged as important sectors, attracting substantial investment from both local and foreign investors.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/mp.html#Issues|title=Mauritius|publisher=CIA World Factbook|accessdate=4 January 2012}}</ref>
+
+Mauritius has no exploitable fossil fuel reserves and so relies on petroleum products to meet most of its energy requirements. Local and renewable energy sources are biomass, hydro, solar and wind energy.<ref>{{cite journal|url=http://www.project-syndicate.org/commentary/the-mauritius-miracle|author=[[Joseph E. Stiglitz]]|publisher=[[Project Syndicate]]|title=The Mauritius Miracle|accessdate=21 April 2012}}</ref> Mauritius has one of the largest [[exclusive economic zone]]s in the world, and in 2012 the government announced its intention to develop the marine economy.<ref>{{cite journal|url=http://www.movingthenationforward.com/pdf/Govt-Address-2012.pdf|publisher=Government of Mauritius|title=Moving the Nation Forward|accessdate=21 April 2012}}</ref>
+
+Mauritius is ranked high in terms of economic competitiveness, a friendly investment climate, good governance and a free economy.<ref name="heritage foundation">{{cite news|url=http://www.heritage.org/index/country/mauritius|accessdate=16 April 2012|title=Mauritius|publisher=[[The Heritage Foundation]]}}</ref><ref name="State.gov">{{cite journal|url=https://www.state.gov/e/eb/rls/othr/ics/2012/191196.htm|publisher=U.S. Department of State|title=2012 Investment Climate Statement&nbsp;– Mauritius|accessdate=8 August 2012}}</ref><ref name="Doing business">{{cite journal|url=http://www.doingbusiness.org/rankings |publisher=[[World Bank]] |title=Economy Rankings |accessdate=24 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20110604005151/http://www.forbes.com/feeds/afx/2007/06/12/afx3810988.html |archivedate=4 June 2011 |df= }}</ref> The Gross Domestic Product (PPP) was estimated at US$29.187 billion in 2018, and [[List of countries by GDP (PPP) per capita|GDP (PPP) per capita]] was over US$22,909, one of the highest in Africa.<ref name="heritage foundation"/><ref name="State.gov"/><ref name="Doing business"/>
+
+Mauritius has an ''upper middle income economy'', according to the [[World Bank]] in 2011.<ref>{{cite news|url=http://data.worldbank.org/about/country-classifications/country-and-lending-groups#Upper_middle_income |title=Country and Lending Groups – Upper-middle-income economies |publisher=World Bank |accessdate=8 June 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20110318125456/http://data.worldbank.org/about/country-classifications/country-and-lending-groups |archivedate=18 March 2011 |df= }}</ref> The World Bank's 2019 [[Ease of Doing Business Index]] ranks Mauritius 20th worldwide out of 190 economies in terms of ease of doing business.<ref name="Doing business"/><ref>{{cite web|url=http://www.lexpress.mu/article/292196/ease-doing-business-maurice-degringole|title=Ease of Doing Business: Maurice dégringole|first=Karen|last=Walter|date=23 October 2016|website=lexpress.mu|accessdate=18 January 2017}}</ref> According to the Mauritian Ministry of Foreign Affairs, the country's challenges are heavy reliance on a few industry sectors, high brain drain, scarcity of skilled labour, ageing population and inefficient public companies and para-statal bodies.<ref>{{cite web|url=http://unctad.org/meetings/en/Presentation/ditc_tncd_2015_d12_Bhuglah.pdf|title=UNCTAD|publisher=}}</ref>
+
+Mauritius has built its success on a free market economy. According to the 2013 [[Index of Economic Freedom]], Mauritius is ranked as having the 8th most free economy in the world, and the highest score in investment freedom.<ref>{{cite web|title=2013 Index of Economic Freedom|url=http://www.heritage.org/index/ranking?src=home|publisher=The Heritage Foundation|accessdate=23 August 2013}}</ref> The report's ranking of 183 countries is based on measures of economic openness, regulatory efficiency, rule of law, and competitiveness.
+
+===Financial services===
+[[File:Evening Port Louis.jpg|thumb|[[Port-Louis]], the Capital of Mauritius]]
+The financial services sector is the second contributor to the Mauritian economy, according to the [[Financial Services Commission (Mauritius)|Financial Services Commission]], financial and insurance activities contributed to 11.8% of the country's GDP in 2018.<ref>{{Cite web |url=https://www.fscmauritius.org/en/statistics/contribution-to-gdp |title=Contribution to GDP |website=[[Financial Services Commission (Mauritius)]] |access-date=2019-03-31}}</ref> Over the years, Mauritius has been positioning itself as the preferred hub for investment into Africa due its strategic location between Asia and Africa, strong regulatory framework, ease of doing business, investment protection treaties, highly qualified workforce, political stability, low crime rate coupled with modern infrastructure and connectivity. It is home to a number of international banks, legal firms, corporate services, investment funds and private equity funds. Financial products and services, includes private banking, global business, insurance and reinsurance, limited companies, protected cell companies, trust and foundation, investment banking, global headquarter administration.<ref>{{Cite web |url=http://www.edbmauritius.org/opportunities/financial-services/fs-overview/#tabname-3901-2 |title=Overview of the Financial Services Sector |website=Economic Development Board |access-date=2019-03-31}}</ref><ref>{{Cite web |url=http://www.edbmauritius.org/africa-strategy/africa-strategy/ |title=Africa Strategy |website=Economic Development Board |access-date=2019-03-31}}</ref>
+
+Despite being tagged as a Tax Heaven by the press due to its low tax regime, the country has built up a solid reputation by making use of best practices and adopting a strong legal and regulatory framework to demonstrate its compliance with international demands for greater transparency. In June 2015, Mauritius adhered to the multilateral [[Convention on Mutual Administrative Assistance in Tax Matters]], and currently has an exchange information mechanism with 127 jurisdictions. Mauritius is a founding member of the Eastern and Southern Africa Anti Money Laundering Group and has been at the forefront in the fight against money laundering and other forms of financial crime. The country has adopted exchange of information on an automatic basis under the [[Common Reporting Standard]] and the [[Foreign Accounts Tax Compliance Act]].<ref name="govt5">{{Cite web |url=http://www.govmu.org/English/News/Pages/-Prime-Minister-denies-Mauritius-being-a-tax-haven.aspx |title=Prime Minister denies Mauritius being a tax haven |website=[[Government of Mauritius]] |access-date=2019-03-31}}</ref> Mauritius is not on the [[European Union]] blacklist or the Netherlands list of low tax jurisdictions.<ref>{{Cite web |url=https://ec.europa.eu/taxation_customs/tax-common-eu-list_en |title=Common EU list of third country jurisdictions for tax purposes |website=[[European Commission]] |access-date=2019-03-31}}</ref><ref>{{Cite web |url=https://www.government.nl/latest/news/2018/12/28/netherlands-publishes-own-list-of-low-tax-jurisdictions-in-fight-against-tax-avoidance |title=Netherlands publishes own list of low-tax jurisdictions in fight against tax avoidance |website=Government of Netherlands |access-date=2019-03-31}}</ref> Furthermore, Mauritius appears on the [[OECD]] white list of jurisdictions that have substantially implemented the internationally agreed tax standards. The OECD white list looks at jurisdictions from multiple angles; tax transparency, fair taxation, the implementation of OECD BEPS measures and substance requirements for zero-tax countries.<ref>{{Cite web |url=http://www.oecd.org/countries/monaco/list-of-unco-operative-tax-havens.htm |title=List of Unco-operative Tax Havens |website=OECD |access-date=2019-03-31}}</ref>
+
+===Tourism===
+{{main|Tourism in Mauritius}}
+[[File:Mauritius beach.png|thumb|A tropical beach in [[Trou-aux-Biches]]]]
+Mauritius is a major tourist destination, ranking 3rd in the region and 56th globally.<ref>{{cite web|url=http://reports.weforum.org/travel-and-tourism-competitiveness-report-2015/index-results-the-travel-tourism-competitiveness-index-ranking-2015/|title=Travel and Tourism Competitiveness Report 2015 – Reports – World Economic Forum|publisher=Reports.weforum.org|date=6 May 2015|accessdate=6 September 2016}}</ref> It enjoys a tropical climate with clear warm sea waters, beaches, tropical fauna and flora complemented by a multi-ethnic and cultural population.<ref>{{cite web|url=http://www.tourism-mauritius.mu/documents/ethic_code.pdf|title=Code of ethics of tourism for Mauritius|publisher=MTPA|accessdate=28 January 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120121054348/http://www.tourism-mauritius.mu/documents/ethic_code.pdf|archivedate=21 January 2012|df=dmy-all}}</ref> Mauritius received the World's Leading Island Destination award for the third time and World's Best Beach at the World Travel Awards in January 2012.<ref>{{cite web|url=http://www.worldtravelawards.com/profile-1725-mauritius-tourism-promotion-authority|title=Mauritius awards|publisher=World travel award|accessdate=24 February 2012}}</ref>
+
+Mauritius currently has two [[UNESCO]] [[World Heritage Sites]], namely, [[Aapravasi Ghat]] and [[Le Morne Brabant|Le Morne Cultural Landscape]]. Additionally, [[Black River Gorges National Park]] is currently in the UNESCO tentative list.<ref>https://whc.unesco.org/en/statesparties/mu</ref>
+
+===Transport===
+{{main|Transport in Mauritius}}
+Since 2005 public bus transport in Mauritius is free of charge for students, people with disabilities and senior citizens.<ref>{{cite web| url=http://www.lematinal.com/economie/3558-rs-32-m-de-plus-pour-le-transport-gratuit.html|title=Rs 32 M de plus pour le transport gratuit|publisher=Le Matinal|accessdate=22 August 2014|language=fr}}</ref> There are currently no railways in Mauritius, former privately owned industrial railways having been abandoned.
+
+The harbour of [[Port Louis]] handles international trade as well as a cruise terminal. The sole international airport for civil aviation is [[Sir Seewoosagur Ramgoolam International Airport]], which also serves as the home operating base for the national airline [[Air Mauritius]]; the airport authority inaugurated a new passenger terminal in September 2013.<ref>{{cite web|url=http://www.passengerterminaltoday.com/viewnews.php?NewsID=51796|title=Mauritius airport inaugurates US$305m terminal|publisher=Passenger Terminal Today|accessdate=22 August 2014}}</ref> Another airport is the [[Sir Gaëtan Duval Airport]] in [[Rodrigues]].
+
+Mauritius has a serious traffic problem due to the high number of road users, particularly car drivers. To solve the traffic congestion issue, the government has embarked on the Metro Express project. The rail starts from Port Louis up to Curepipe. The first phase of the project will end in 2019 while the second phase will end in 2021.<ref>La Redaction, [https://www.lexpress.mu/article/292455/metro-express-trace-aux-singapouriens-mise-sur-rails-aux-indiens "Metro Express: le tracé aux Singapouriens, la mise sur les rails aux Indiens"], ''L'Express'', 2016/10/27</ref>
+
+===Information and communication technology===
+ICT is the fourth pillar of the economy. ICT has contributed to 5.7% of its GDP in 2016.<ref>{{Cite web|url=http://statsmauritius.govmu.org/English/Publications/Pages/ICT_Stats_Yr2016.aspx|title=Statistics Mauritius -
+	ICT Statistics Year 2016|website=statsmauritius.govmu.org|language=en-us|access-date=2018-11-13}}</ref> Since 2016, Mauritius has participated in International Competitions led by cyberstorm.mu. They organized the 2016 & 2017 Google Code-in in Mauritius leading to 2 finalists and 1 Grand Prize Winner.<ref>{{Cite web|url=https://defimedia.info/google-code-two-mauritian-students-among-finalists|title=Google Code-in: Two Mauritian students among the finalists|website=Le Defi Media Group|language=fr|access-date=2018-11-16}}</ref><ref>{{Cite news|url=http://starpress.info/prodige-de-linformatique-kifah-meeran-remporte-concours-organise-google-3776/|title=Prodige de l’informatique :&nbsp;Kifah Meeran remporte un concours organisé par Google • Star|date=2018-02-20|work=Star|access-date=2018-11-16|language=fr-FR}}</ref> Additionally, they have participated in the Internet Engineering Task Force ([[Internet Engineering Task Force|IETF]]) [[hackathon]] where they worked on [[TLS 1.3]], HTTP [[HTTP 451|451]] and [[Secure Shell|SSH]].<ref>{{Cite news|url=https://www.theregister.co.uk/2018/11/02/ssh_rc4_security/|title=What's that? SSH can still use RC4? Not for much longer, promise|access-date=2018-11-16|language=en}}</ref><ref>{{Citation|last=IETF - Internet Engineering Task Force|title=IETF Hackathon Presentations|date=2018-11-04|url=https://www.youtube.com/watch?v=0XV9I-gVCB0|access-date=2018-11-16}}</ref>
+
+==Culture==
+{{main|Culture of Mauritius}}
+
+===Art===
+Prominent Mauritian painters include Vaco Baissac,<ref>{{cite web|url=https://kreolmagazine.com/culture/art/experience-mauritius-through-vaco-baissac/#.W7PMIGgzbIU|title=Experience Mauritius Through Vaco Baissac - International Magazine Kreol|website=kreolmagazine.com}}</ref> [[Henri Le Sidaner]] and [[Malcolm de Chazal]]. [[Gabrielle Wiehe]] is a prominent illustrator and graphic designer.
+
+===Architecture===
+The distinctive architecture of Mauritius reflects the island nation's history as a colonial trade base connecting Europe with the East. Styles and forms introduced by Dutch, French, and British settlers from the seventeenth century onward, mixed with influences from India and East Africa, resulted in a unique hybrid architecture of international historic, social, and artistic significance. Mauritian structures present a variety of designs, materials, and decorative elements that are unique to the country and inform the historical context of the Indian Ocean and European colonialism.<ref name="wmf.org">{{cite web|url=https://www.wmf.org/project/traditional-architecture-mauritius|title=Traditional Architecture of Mauritius|publisher=}}</ref>
+
+Decades of political, social, and economic change have resulted in the routine destruction of Mauritian architectural heritage. Between 1960 and 1980, the historic homes of the island's high grounds, known locally as campagnes, disappeared at alarming rates. More recent years have witnessed the demolition of plantations, residences, and civic buildings as they have been cleared or drastically renovated for new developments to serve an expanding tourism industry. The capital city of Port Louis remained relatively unchanged until the mid-1990s, yet now reflects the irreversible damage that has been inflicted on its built heritage. Rising land values are pitted against the cultural value of historic structures in Mauritius, while the prohibitive costs of maintenance and the steady decline in traditional building skills make it harder to invest in preservation.<ref name="wmf.org"/>
+
+The general populace historically lived in what are termed creole houses.<ref>{{cite web|url=http://vintagemauritius.org/vintage-houses/old-colonial-creole-style-houses-mauritius-part-1/|title=Old Colonial and Creole-Style Houses in Mauritius – Part 1 – Vintage Mauritius|date=6 June 2014|publisher=}}</ref>
+
+===Literature===
+{{Main|Mauritian literature}}
+Prominent Mauritian writers include [[Marie-Thérèse Humbert]], Malcolm de Chazal, [[Ananda Devi]], [[Shenaz Patel]], [[Khal Torabully]], [[J. M. G. Le Clézio]], [[Aqiil Gopee]] and [[Dev Virahsawmy]].
+
+J. M. G. Le Clézio, who won the [[Nobel Prize for Literature]] in 2008, is of Mauritian heritage and holds dual French-Mauritian citizenship.
+
+The island plays host to the Le Prince Maurice Prize. In keeping with the island's literary culture the prize alternates on a yearly basis between English-speaking and French-speaking writers.
+
+===Music===
+{{main|Music of Mauritius|Sega (genre)}}
+
+The major musical genres of Mauritius are [[Sega (genre)|Sega]] and its [[fusion genre]], [[Seggae]], [[Bhojpuri language|Bhojpuri]] folk songs, [[Indian Cinema|Indian movie music]] especially [[Bollywood]] and [[Classical music]] mainly [[Western classical music]] and [[Indian classical music]].
+
+===Cuisine===
+{{Further|Cuisine of Mauritius}}
+The [[cuisine of Mauritius]] is a combination of Indian, Creole, French and Chinese, with many dishes unique to the island. Spices are also a big part of Mauritian cuisine.
+
+===Holidays and festivals===
+The public holidays of Mauritius involve the blending of several cultures from Mauritius's history. There are [[Hindu festivals]], [[Chinese festivals]], [[Muslim festivals]], as well as [[Christian festivals]].<ref>[http://pmo.govmu.org/English/Documents/Communiqu%C3%A9%20and%20Reports/Public%20Holidays%20-%202019.pdf Public Holidays - 2019.pdf]</ref>
+
+{| class="wikitable collapsible collapsed" style="text-align:left; font-size:90%"
+|- style="font-size:100%; text-align:left"
+!style="width: 25em"|Public holidays in Mauritius in 2019!!style="width: 6em"|Date
+|-
+| [[New Year|New Year's Day]]  || <small>Tues 01 - Wed 02 January</small>
+|-
+| [[Thaipusam|Thaipoosam Cavadee]] || <small>Mon 21 January</small>
+|-
+| [[Abolitionism in the United Kingdom|Abolition of slavery]] || <small>Fri 01 February</small>
+|-
+| [[Chinese Spring Festival]] || <small>Tues 05 February</small>
+|-
+| [[Mahashivratri|Maha Shivaratri]] || <small>Mon 04 March</small>
+|-
+| [[History of Mauritius|Independence and Republic Day]]  || <small>Tues 12 March</small>
+|-
+| [[Ugadi]]  || <small>Sat 06 April</small>
+|-
+| [[Labour Day]] || <small>Wed 01 May</small>
+|-
+| [[Eid ul-Fitr]] (''Depending on the visibility of the moon'') || <small>Wed 05 June</small>
+|-
+| [[Ganesh Chaturthi]] || <small>Tues 03 September</small>
+|-
+| [[Diwali|Diwali]] || <small>Sun 27 October</small>
+|-
+| [[All Saints' Day]] || <small>Fri 01 November</small>
+|-
+| [[Indian indenture system|Arrival of Indentured Labourers]] || <small>Sat 02 November</small>
+|-
+| [[Christmas Day]] || <small>Wed 25 December</small>
+|}
+
+There are 15 annual public holidays in Mauritius. All the public holidays related to religious festivals have dates that vary from year to year except for Christmas. Other festivals such as [[Holi]], [[Raksha Bandhan]], [[Jacques-Désiré Laval|Père Laval Pilgrimage]] also enrich the cultural landscape of Mauritius.
+
+===Sports===
+
+[[File:Maiden Cup 2006, Champ de Mars Racecourse, Port Louis, Mauritius - 20060910.jpg|thumb|The Maiden Cup in 2006]]
+{{see also|Football in Mauritius}}
+The most popular sport in Mauritius is [[association football|football]]<ref>Richards, Alexandra.''Mauritius: Rodrigues, Réunion''. Bradt Travel Guides, 2009, p. 90</ref> and the national team is known as The [[Dodos]] or [[Mauritius national football team|Club M]]. Other popular sports in Mauritius include cycling, table tennis, horse racing, badminton, volleyball, basketball, handball, boxing, judo, karate, taekwondo, weightlifting, bodybuilding and athletics. Water sports include swimming, sailing, scuba diving, windsurfing and [[kitesurfing]].
+
+[[Thoroughbred horse racing|Horseracing]], which dates from 1812 when the [[Champ de Mars Racecourse]] was inaugurated, remains popular. The country hosted the second (1985) and fifth editions (2003) of the [[Indian Ocean Island Games]]. Mauritius won its first Olympic medal at the [[2008 Summer Olympics]] in Beijing when boxer [[Bruno Julie]] won the bronze medal.
+
+In golf, the former [[Mauritius Open]] and the current [[AfrAsia Bank Mauritius Open]] have been part of the [[European Tour]].
+
+==See also==
+{{portal|Mauritius|Islands}}
+* [[Outline of Mauritius]]
+* [[Index of Mauritius-related articles]]
+* [[List of Mauritius-related topics]]
+
+== Notes ==
+{{Reflist|group=Note}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* ''This article incorporates public domain text from the websites of the <span class="plainlinks">[http://www.govmu.org/ Government Portal of Mauritius]</span>, the [[United States Department of State]], the U.S. [[Library of Congress]], and the [[The World Factbook|CIA World Factbook]].''
+* {{cite book|last=Macdonald|first=Fiona|title=Peoples of Africa|chapter=Mauritius|pages=340–341|display-authors=etal}}
+{{refend}}
+
+==Further reading==
+* {{cite book|last=Bahadur|first=Gaiutra|year=2014|title=Coolie Woman: The Odyssey of Indenture|publisher=The University of Chicago|isbn=978-0-226-21138-1}}
+* {{cite book|last=Moree|first=Perry J.|title=A Concise History of Dutch Mauritius, 1598–1710: A Fruitful and Healthy Land|publisher=Routledge|year=1998}}
+* {{cite journal |last=Vink |first=Markus|title='The World's Oldest Trade': Dutch Slavery and Slave Trade in the Indian Ocean in the Seventeenth Century|journal=[[Journal of World History]]|volume=14|issue=2|year=2003|pages=131–177}}
+
+==External links==
+{{cookbook}}
+{{Sister project links|Mauritius|voy=Mauritius}}
+
+<!-- please only list links of nation-wide relevance here. Consider adding other links to the "External links" section of the sub-articles listed. -->
+'''Reference'''
+* {{CIA World Factbook link|mp|Mauritius}}
+* [http://www.britannica.com/EBchecked/topic/370153/Mauritius Mauritius] entry at ''[[Encyclopædia Britannica]]''
+* [https://web.archive.org/web/20080607053434/http://ucblibraries.colorado.edu/govpubs/for/mauritius.htm Mauritius] at ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Africa/Mauritius}}
+* [https://www.bbc.co.uk/news/world-africa-13882233 Country Profile] from the [[BBC News]]
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=MU Key Development Forecasts for Mauritius] from [[International Futures]]
+
+'''Government'''
+* [http://www.govmu.org/ Mauritius Government portal]
+* [http://statsmauritius.govmu.org/ Statistics Mauritius]
+* [https://web.archive.org/web/20120101020658/http://www.boimauritius.com/ Board of Investment]
+
+'''Geography'''
+* {{Wikiatlas|Mauritius}}
+* {{osmrelation-inline|1=535828#map=10/-20.2963/57.6727}}
+* [http://www.wikimapia.org/#lat=-20.2544671&lon=57.5614929&z=10&l=0&m=b&search=mauritius WikiSatellite view of Mauritius at WikiMapia]
+
+<!--
+===
+===
+===({{NoMoreLinks}})=======
+ DO ''not'' ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS ''not'' A COLLECTION OF
+ LINKS. If you think that your link might be useful, do not add it here,
+ but put it on this article's discussion page first or submit your link
+ to the appropriate category at the Open Directory Project (www.dmoz.org)
+ and link back to that category using the {{dmoz}} template.
+
+ Links that have not been verified WILL BE DELETED.
+ See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details.
+=======({{NoMoreLinks}})======================
+-->
+{{Mauritius topics}}
+{{Navboxes
+|title = Articles relating to Mauritius
+|list  =
+{{Countries of Africa}}
+{{Countries and territories bordering the Indian Ocean}}
+{{Southern African Development Community}}
+{{African Union}}
+{{Commonwealth of Nations}}
+{{La Francophonie |collapsed}}
+{{Community of Portuguese Language Countries |collapsed}}
+{{English dialects by continent}}
+{{Somali Plate}}
+}}
+
+{{Authority control}}
+
+[[Category:Mauritius| ]]
+[[Category:Mascarene Islands]]
+[[Category:Commonwealth republics]]
+[[Category:Island countries of the Indian Ocean]]
+[[Category:East African countries]]
+[[Category:English-speaking countries and territories]]
+[[Category:French-speaking countries and territories]]
+[[Category:Hotspot volcanoes]]
+[[Category:Islands of Mauritius|.]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:Miocene Africa]]
+[[Category:Miocene volcanism]]
+[[Category:Volcanoes of Mauritius]]
+[[Category:Small Island Developing States]]
+[[Category:States and territories established in 1968]]
+[[Category:1968 establishments in Mauritius]]
+[[Category:1968 establishments in Africa]]
+[[Category:Populated places established in 1638]]
+[[Category:Populated places established by the Dutch East India Company]]
+[[Category:1638 establishments in the Dutch Empire]]
+[[Category:Countries in Africa]]
