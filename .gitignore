@@ -9,3 +9,5 @@ wa_venv/*
 */__pycache__/*
 
 *.pyc
+
+src/cleaned_data/.cache/*
