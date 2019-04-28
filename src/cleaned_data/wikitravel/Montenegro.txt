@@ -1,0 +1,312 @@
+{{pagebanner|Montenegro banner.jpg}}
+{{quickbar
+| image=
+|image=Sveti Stefan.jpg|250px|Beautiful place in Montenegro
+| location=LocationMontenegro.png|250px]]
+| flag=FlagOfMontenegro.png|100px
+| capital=[[Podgorica]]
+| government=Republic
+| currency=Euro (EUR)
+| area=13,812 sq km
+| population=684,736 (July 2007 est.)
+| language=[[Montenegrin phrasebook|Montenegrin]] (official), [[Serbian phrasebook|Serbian]] (recognized), [[Spanish phrasebook|Spanish]], [[English phrasebook|English]] (both used by tourists and small communities)
+| religion=Orthodox Christian 74%, Muslim 17%
+| callingcode=+382
+| tld=.me (.cg.yu no longer used)
+| timezone=UTC +1
+}}
+
+'''Montenegro''' [http://www.montenegro.travel/] ([[Montenegrin phrasebook|Montenegrin]]: ''Crna Gora'', ''Црна Гора'') is a country in the [[Balkans]], on the Adriatic Sea. It borders [[Croatia]] and [[Bosnia and Herzegovina]] to the north, [[Serbia]] to the northeast, [[Kosovo]] to the east, and [[Albania]] to the south. To the west of Montenegro is the Adriatic Sea.
+
+Montenegro's tourism suffered greatly from Yugoslavia's tragic civil war in the 1990s. In recent years, along with the stabilized situation in the region, tourism in Montenegro has begun to recover, and Montenegro is being re-discovered by tourists from around the globe.
+
+In 2007, the country received peak level of tourism which almost reached pre-war volumes. As a result, many roads have been renovated (reducing driving time) and many hotels have been constructed or renovated.
+
+==Understand==
+
+===Climate===
+
+Montenegro's southern areas along the coast enjoy a Mediterranean climate, having dry summers and mild, rainy winters. Central and northern regions have Continental climate, where temperature varies greatly with elevation. Podgorica, lying near sea level in the valley of the central region, is noted for having the warmest July temperatures in Montenegro, averaging 35-40°C (95-104 F).  
+
+Cetinje, in the Karst at an elevation of 670m (2,200 ft), has a temperature 5°C (10 F) lower. January temperatures range from 8°C (46 F) from Bar on the southern coast to -3°C (27 F) in the northern region.  
+
+Montenegro's mountainous regions receive some of the highest amounts of rainfall in Europe. In the northern mountains, snow is present throughout the spring.
+
+===Terrain=== 
+
+The terrain of Montenegro ranges from high mountains through a segment of the Karst of the western Balkan Peninsula, to a narrow coastal plain that is only one to four miles wide. The coastal plain disappears completely in the north, where Mount Lovcen and other ranges plunge abruptly into the inlet of the Gulf of Kotor.
+
+Montenegro's section of the Karst lies generally at elevations of just below 1,000m (3,000 ft) above sea level-although some areas rise to 1800m (6,000 ft). The lowest segment is in the valley of the Zeta River, which flows at an elevation of 460m (1,500 ft).
+
+The high mountains of Montenegro include some of the most rugged terrain in Europe. They average more than 2,100m (7,000 ft) in elevation.
+
+===History===
+
+Montenegro was founded as a state under its present name in 15th century, continuing the tradition of the Slavic state of Duklja. It was able to maintain its independence during the reign of the Ottoman Empire in the Balkans, as its independence was formally acknowledged at the Congress of Berlin in 1878. 
+
+After the World War I, fighting for the Allied powers, it was absorbed into the Kingdom of Serbs, Croats, and Slovenes, which later became the Kingdom of Yugoslavia in 1929. Montenegro was also later part of various incarnations of Yugoslavia, until it regained its full independence from the federation of Serbia-Montenegro in the June 2006 referendum. 
+
+Montenegro was the only subsequent republic of the former Yugoslavia that supported Serbia during the wars of the Former Yugoslavia in the 1990s.
+
+==Regions==
+
+Montenegro is officially divided into 21 municipalities, which can be grouped into five regions:
+
+{{Regionlist
+
+| regionmap=Montenegro-map.png |
+| regionmaptext=Regions of Montenegro |
+| regionmapsize=400px |
+
+| region1name=[[Bay of Kotor]]
+| region1color=#cba26a
+| region1items=
+| region1description=This bay is considered one of the most beautiful bays of Europe, and features the [[UNESCO World Heritage Site]]s of [[Perast]] and [[Kotor]], as well as other typically Mediterranean towns.
+
+| region2name=[[Budva Riviera]]
+| region2color=#ced38d
+| region2items=
+| region2description=The main tourist drag with nice beaches, historic villages and wild nightlife.
+
+| region3name=[[Central Montenegro]]
+| region3color=#74a2c0
+| region3items=
+| region3description=This is the heart of the country with the state capital [[Podgorica]], the historical capital [[Cetinje]] and the industrial center [[Nikšić]]. It is also home to natural beauty, such as [[Skadar Lake National Park]] and [[Lovćen National Park]].
+
+| region4name=[[Montenegrin South Coast]]
+| region4color=#ce888e
+| region4items=
+| region4description=The Adriatic coast around the towns of [[Bar]] and [[Ulcinj]], the latter one having an Albanian majority.
+
+| region5name=[[North Montenegrin Mountains]]
+| region5color=#a3bba7
+| region5items=
+| region5description=This region is entirely situated within the Dinaric Alps, famous for its untouched wild nature. A must is the Tara River Canyon in [[Durmitor National Park]]. [[Žabljak]] is Montenegro's winter sports capital.
+}}
+
+==Cities==
+[[File:Kotor, Montenegro.jpg| thumb| right|300px| Kotor old town and bay]]
+* [[Podgorica]] — the capital and biggest city in Montenegro, experiencing a huge architectural boom in the last couple of years
+* [[Bečići]] — with a 2km long fine sandy beach, it is home to numerous resorts and hotels
+* [[Budva]] — most popular town known for its beautiful beaches and vibrant nightlife
+* [[Cetinje]] — the old royal capital of Montenegro, with a large number of museums, monasteries and former embassies
+* [[Herceg Novi]] — founded in 1382 and located in the entrance of the Bay of Kotor
+* [[Kotor]] — an ancient fortified town located deep down the Boka Kotorska bay, UNESCO World Heritage Site
+* [[Nikšić]] — the second largest city in Montenegro and economically important
+* [[Perast]] — beautiful small village, a UNESCO World Natural and Historical Heritage Site
+* [[Tivat]] - a small town in the Bay of Kotor, quickly emerging into a major touristic, business and transport centre
+* [[Žabljak]] — center of Montenegrin mountain tourism and a popular spot for skiers
+
+==Other destinations==
+
+* [[Biogradska Gora National Park]] — one of the last remaining untouched forests in Europe
+* [[Durmitor National Park]] — rafting through the Tara Canyon, the deepest canyon in Europe, is one of the most popular activities in Montenegro
+* [[Lovćen National Park]] — beautiful mountain with natural, cultural and historical scenery
+* [[Mount Ostrog]] — the amazing monastery situated on the almost vertical cliff of Mount Ostrog
+* [[Skadar Lake National Park ]] — the largest lake on the Balkans and the natural habitat of the very diverse flora and fauna
+* [[Sveti Stefan]] — picturesque town-hotel, a former fishermen town on the small peninsula near Budva (currently closed for renovation)
+
+==Get in==
+
+[[Image:Umjetnicki.jpg|thumb|right|350px]]
+
+Nationals of the following states may enter, pass through the territory of and stay in Montenegro up to 90 days with a valid travel document without a visa: [[Andorra]], [[Argentina]], [[Aruba]], [[Australia]], [[Austria]], [[Belgium]], [[Bermuda]], [[Bosnia and Herzegovina]], [[Brazil]], [[Brunei]], [[Bulgaria]], [[Canada]], [[Chile]], [[Costa Rica]], [[Croatia]], [[Cyprus]], [[Czech Republic]], [[Denmark]], [[Estonia]], [[Finland]], [[France]], [[Germany]], [[Guatemala]], [[Greece]], [[Holy See]], [[Honduras]], [[Hong Kong]], [[Hungary]], [[Iceland]], [[Ireland]], [[Israel]], [[Italy]], [[Japan]], [[Latvia]], [[Lichtenstein]], [[Lithuania]], [[Luxembourg]], [[Macau]], [[Macedonia]], [[Malaysia]], [[Malta]], [[Mexico]], [[Monaco]], [[Nicaragua]], [[Netherlands]], [[New Zealand]], [[Norway]], [[Panama]], [[Paraguay]], [[Poland]], [[Portugal]], [[Romania]], [[Russia]], [[El Salvador]], [[San Marino]], [[Seychelles]], [[Serbia]], [[Singapore]], [[Slovakia]], [[Slovenia]], [[South Korea]], [[Spain]], [[Sweden]], [[Switzerland]], [[Taiwan]], [[Turkey]], [[Ukraine]], [[United Kingdom]], [[United States of America]], [[Uruguay]], and [[Venezuela]].
+
+Nationals of EU/EFTA countries, Monaco, San Marino, Albania and the former Yugoslav countries can enter with an ID card and stay for max 30 days
+
+Holders of travel documents containing a valid Schengen visa, a valid visa of the United States of America or a permission to stay in these countries may enter and stay, i.e. pass through, the territory of Montenegro up to 30 days, and not longer than the expiry of visa if the period of validity of visa is less than 30 days. Holders of travel documents having a permission to stay in the United Arab Emirates may also enter Montenegro, for a period of 10 days, but only with confirmed (and direct flight) travel and hotel arrangements. Check Articles 5 and 6 of the Decree on the visa regime [http://www.mvp.gov.me/ResourceManager/FileDownload.aspx?rId=242246&rType=2] for more details. However, border guards are not fully aware of this information, and they might tell you that you require a visa to enter Montenegro. Stay calm and politely ask them to recheck their information. They will fill a form with your passport and car registration information which can take up to 1 hour! 
+
+===By plane===
+
+'''Podgorica Airport''' is Montenegro's main international airport. It is situated 12km (7.5 miles) south of Podgorica. It is a hub for Montenegro's national airline carrier, Montenegro Airlines. 
+
+One can get from the airport to Podgorica center by taking the minibus, which usually waits in front of the terminal. The taxi to the center will be more expensive, usually at €15. From the city center (Republic Place) to the Airport, metered Taxi costs 5-6 Euros. 
+
+One thing to notice about Podgorica airport is the lack of bus service to the coast. Hence, as soon as you exit the terminal, you will be surrounded by guys asking if you want a taxi. At this point, they are competing to see how much they can squeeze you for. Montenegro is most definitely not a cheap country, but still, keep your wits about you. Hotels in Kotor will offer airport transfer for approx 70-80 euros, so don't listen to guys quoting EUR120 or more for the drive to the coast. If you say "forget that", and take a taxi to the centre, they may try to bargain when you're in the car... at least here it's one-to-one.
+
+'''Tivat Airport''' is situated near the city of Tivat, on the Montenegrin coast. It has regular flights to Belgrade and Moscow throughout the year, and has charter flights to major European destinations during the summer. Tivat airport is 20km from Budva and Herceg-Novi and 60 km from Bar.
+
+Destinations covered from these airports are listed in detail on the [http://www.montenegroairports.com/eng/index.php website of 'Airports of Montenegro']. Destinations covered by Montenegro Airlines, as well as booking information, can be found on the [http://www.montenegroairlines.com/active/en/home.html website of the carrier].
+
+'''Dubrovnik airport''' in Croatia is a half hour drive from the Montenegro border and the coastal city of Herceg-Novi, and is served by many major airlines, so it might be a good option for tourists coming by plane (especially from North-West Europe). Crossing the border is quickest by taxi, since the driver will know the small border (that saves time in the highseason). 
+* '''Airport and City Transfer''' [http://www.montenegrotravelservice.com/transfers]
+* '''Airport, city and VIP Transfers''' [http://www.transfer-montenegro.com]
+
+===By train===
+
+There are one daytime and one overnight train (two in summer) from [[Belgrade]]. Trains go through Bijelo Polje, Kolašin, Podgorica and ends in [[Bar]], Montenegro's main seaport. The railway through the Dinar ridge is considered as one of the most scenic railways in Europe. Travel by train is the cheapest way to get to Montenegro, the trip time is 10h from Belgrade to Podgorica (11h to Bar), but expect considerable delays.
+
+Ticket from Belgrade to Podgorica costs €21, plus €3 seat reservation (not compulsory but strongly recommended in summer season) or €6 berth reservation.
+
+===By bus===
+
+Montenegro is well connected with neighbouring countries and ticket prices are all under €25. During the summer, more seasonal lines are being introduced.
+
+===By car===
+
+European routes E65, E80, E762, E763 and E851 pass through the country, which means that you can easily enter Montenegro by road from [[Croatia]],  [[Bosnia and Herzegovina]], [[Serbia]] and [[Albania]].
+
+Entry from Schkoder in Albania can be lengthy. You will need an internationally recognised insurance certificate (green card) or you can purchase minimal frontier insurance for €15 valid for 15 days. Also carry original vehicle registration papers.
+
+There are no roads in Montenegro built to full motorway standard, as all roads are of single carriageway type. Almost all roads in Montenegro are curvy, mountanious roads, and speeds over 80km/h are not permitted. The general speed limit within a built-up area is 50km/h. Roads in the northern mountanious region require additional caution during the winter. 
+
+Driving with headlights is obligatory, even during the daytime; so is the use of seat belts.
+
+===By ship===
+
+There are regular [[Ferries in the Mediterranean|ferry lines]] from [[Bar]] to [[Bari]] and [[Ancona]] in Italy. Lines operate almost daily throughout the year, and get more frequent during the summer. A trip to Bari takes around 8 hours. A 2 hour trip by ship to Durres, Albania from Ulqin
+Lines connecting Montenegro with Italy are Bar-Bari and Kotor Bari. To check the timetable, go to [http://trajekti.info/montenegro_lines/ website with all Adriatic ferry routes].
+
+==Get around==
+
+[[Image:Becicihotels.jpg|thumb|300px|Beach of Becici]]
+
+===By train===
+
+There is local train service, operating from Bar, through Podgorica and Kolašin and Mojkovac to Bijelo Polje. It is the fastest and cheapest way to travel from north to south, but not so frequent as buses. The quality of service varies, from old noisy Soviet-made electric units to a clean renovated cars with air conditioning. International trains to Belgrade consist of mix of Serbian and Montenegrin cars, the Montenegrin offer generally a better quality.
+
+From fall 2013, there is a new connection between Podgorica to Montenegro's second city Niksic with brand new state-of the art carriages and a renovated track, in a spectacular scenery.
+
+Montenegrin railways have recently updated (June 2013) website [http://zcg-prevoz.me/] in Montenegrin and English, there is a searchable timetable (Red vožnje) on the home page and price overview for a connection. Tickets can be purchased on board.
+
+===By bus===
+This may be the easiest way to get around Montenegro. Buses are frequent (especially during the summer), safe and are more or less on schedule. Local buses usually have no air conditioning. 
+
+Ticket prices within Montenegro are all under €15. Buses to attractive tourist destinations (Budva, Kotor) are generally more expensive (up to 2 times more per kilometer) than others.
+
+Examples of prices: Podgorica–Ulcinj €6, Podgorica–Cetinje €3, Podgorica–Kotor €7, Podgorica–Plav €11 (Aug 2012).
+
+Besides the buses, there are minibuses at bus stations that are usually slightly cheaper, but are actually a faster and more comfortable option.
+
+===By car===
+Montenegro has no motorways; most roads have only two-lanes with the frequent addition of a third lane for overtaking, and generally are not up to European standards, although in the past few years many of the main roads and tunnels have been renovated and are quite safe as long as you are not driving recklessly. Most roads are curvy and mountainous, so speeds over 80 km/h (50 mph) are rarely legal, and rarely safe.
+
+The speed limit is 80 km/h on the open road, unless signs specify otherwise. The speed limit inside the cities is 50 km/h.
+
+The use of safety belts and headlights during the day is compulsory, and the use of cellphones while driving is prohibited. Signposts used in Montenegro are almost identical to those used in EU countries.
+
+Local drivers tend to drive fast, and to get involved into dangerous overtakings. Traffic jams are common during the peak of the summer season. Pedestrians are notorious for jaywalking in every Montenegrin city. 
+
+Drivers tend to be extremely vocal, so don't take it personally if a driver yells at you.
+
+===By thumb===
+
+Hitchhiking works pretty great in Montenegro. See [http://hitchwiki.org/en/Montenegro Hitchwiki] for more details.
+
+====Specific roads====
+Roads from Podgorica to Bar and to Niksic are fairly good and easy to drive on.
+
+The roads from Podgorica through Cetinje to Budva and to Petrovac are both in good condition, but are curvy mountainous roads which rarely permit speeds over 70km/h.
+
+The road from Podgorica north to Kolasin, and then on to Zabljak or Serbia, is considered dangerous during the winter, especially the part through the Moraca canyon. It is recommended that one takes the bus to the north during the cold or rainy days, as bus drivers are experienced and know the road.
+
+The old road from Cetinje to Kotor is mostly a narrow one-lane road offering stunning views of Kotor from above, but exercise extreme caution when passing on-coming traffic, over-taking and around corners.
+
+==Talk==
+The official language is Montenegrin. It is essentially the same language as [[Serbian phrasebook|Serbian]], [[Croatian phrasebook|Croatian]] and [[Bosnian phrasebook|Bosnian]]. Even though the languages are virtually identical, people still distinguish between the Montenegrin, Serb, Croat and Bosniak ethnicities; Montenegrins forming a slight relative majority. The Montenegrin language is written in both Cyrillic and Latin forms, however the Latin text is found to be much more common in usage than in neighbouring Serbia and the Serbian portion of Bosnia.
+
+In some municipalities with an Albanian majority or visible participation ([[Ulcinj]], Plav, Gusinje, and the Malesia district in Podgorica), [[Albanian phrasebook|Albanian]] is commonly spoken, and the language has co-official status with Montenegrin. [[Slovenian phrasebook|Slovenian]] and Macedonian are also understood. 
+
+In Podgorica and the coastal area, many people can speak at least some English, but that is not always the case in the north. Older people sometimes have a working knowledge of [[German phrasebook|German]]. [[Italian phrasebook|Italian]] also comes very handy, especially along the coast. [[Russian phrasebook|Russian]], which belongs to the same family of Slavic languages, is also heard sometimes.
+
+==See==
+[[File:Montenegro ferry.jpg| thumb| 300px| Montenegro ferry]]
+Montenegro may be small in terms of area, but it boasts stunning mountainous landscapes, dramatic coast lines, historic monuments and truly beautiful walled towns. The Montenegro coast is just as gorgeous as that of its better known neighbour, [[Croatia]], and it is for good reason that its main tourist destinations can get crowded in summer. Nevertheless, if you can't visit at another time, don't let their popularity hold you back. Even the largest of cruise ship crowds will not stop you from enjoying this country's magnificent Riviera and Medieval coast towns, especially if you're willing to get up early and do your sightseeing ahead of the others.
+
+Of the country's many churches and monasteries, the Serbian Orthodox '''Monastery of Ostrog''' deserves special attention. It's spectacularly located against a practically vertical background, some  15 km from [[Nikšić]]. Founded in the 17th century, it's one of the most visited pilgrimage destinations on the Balkans and boasts a magnificent view over the '''Bjelopavlići plain'''.
+
+===The Riviera===
+The '''[[Bay of Kotor]]''' is probably one of the prettiest bays in the world. On its deepest point lies the equally stunning town of '''[[Kotor]]''', a beautifully preserved fortified, Medieval town with a vibrant history. Wandering through its labyrinth of narrow and cobblestoned streets, you'll come across lively piazzas, many ancient churches and lots of pleasant bars and restaurants. Don't miss the 12th century '''St. Tryphon Cathedral''', the '''Church of St. Luke''' and the Orthodox '''St Nicholas Church'''. Kotor is locked between the blue sea on one side, and a dramatically steep cliff on the other. It's a heavy walk uphill, but climbing the 1500 steps will allow you to see the old '''fortifications''' on the top as well as provide some amazing views over the bay.
+
+'''[[Budva]]''' is the country's most popular tourist destination and boast some great beaches as well as a lovely, walled town centre. The old town centre is picturesquely located on a rather small peninsula, and its narrow, winding lanes hide a multitude of historic buildings, churches and small squares. Among the most interesting monuments here are the 7th century '''St. John's Church''', the 8th century '''Santa Marija of Punta''' and the 12th century '''Church of St. Sava'''. The medieval town fortress is referred to as '''Citadela''' and right next to it is the colourful '''Church of the Holy Trinity''', built in 1804. Budva's over 30 km long Riviera has been called "The Riviera of Sandy Beaches" and is dotted with lovely hamlets and a wealth of historic monuments. A strip of hotels and restaurants separates it from the impressive mountain massifs of Lovcen. From Budva, it's an easy bus ride to the unique '''[[Sveti Stefan]]''' resort.
+
+The small but gorgeous town of '''[[Perast]]''' saw some of its best architecture arise in the 17th and 18th century, when it belonged to the Republic of [[Venice]]. That typically Venetian, baroque architecture has been wonderfully preserved, with highlights including the '''Bujovic, Zmajevic, Badovic''' and '''Smekja Palaces''' which were once owned by wealthy maritime captains. All the way in the south, '''[[Ulcinj]]''' is one of the Adriatic's oldest towns, with a delightful centre and lots of natural beauty around. It also makes a good base from where to explore the old centre of nearby '''[[Bar]]''', [[Skadar Lake National Park|Lake Skadar]] or even a cross border visit to [[Albania]]. Although less spectacular than nearby Kotor, '''[[Herceg Novi]]''' (roughly translated as New Castle) is another charming Montenegrin town with a beautiful old centre and a good number of interesting churches, squares and fortresses.
+
+===Natural attractions===
+Although Montenegro's magnificent sea side scenery is best known among travellers, its mountainous inland has some grand panoramic views to offer, too. The country shares the large freshwater '''[[Skadar Lake National Park|Lake Skadar]]''' with neighbouring Albania. It has National Park status and offers great opportunities for hiking, bird watching and wildlife spotting. Of the many friendly fishermen's towns around it, [[Virpazar]] is the most convenient one for travellers. A real must-see is the splendid '''Tara River Canyon''', with its steep banks rising up to 1300 meters above the River Tara waters. It's the second longest canyon in the world and a UNESCO World Heritage Site. The canyon is located in '''[[Durmitor National Park]]''', which is a World Heritage Site of its own and boasts a rich flora and fauna as well as snow-covered high peaks, several canyons and many glacier lakes. The most visited one is '''Black Lake''', at walking distance of the town of '''[[Žabljak]]''', which serves as a traveller's hub for mountain and winter tourism.
+
+==Do==
+Montenegro has really developed as an 'Adventure Tourism' destination in recent years. A number of companies have invested in training and equipment to provide: White Water Rafting (along Europe's deepest canyon), Kayaking, Mountain Biking, Climbing, Scuba, Sailing, Wind and Kitesurfing, Horse Riding, Hiking and Paragliding. 
+
+Montenegro makes a fantastic location for all Mountain activities, much of the interior is uninhabited mountain and forest wilderness, with dramatic scenery and some of Europe's last bears, wolves and occasionally lynx. Diving is also very attractive; Montenegro may not have the underwater coral gardens of Sharm El Sheik, but there are quite a few semi-exotic species, incredible visibility, impressive underwater topography and a profusion of diveable historic wrecks (7 in the Bay of Kotor alone).
+
+==Buy==
+{{Euro}}
+
+Hundreds of new ATMs have been installed in most major cities. The ATMs accept most international VISA and Mastercard Credit/Debit cards.
+
+==Eat==
+
+Apart from the hotels located in towns and summer resorts offering half-board and full-board accommodation, and those along the roads and communication lines such as restaurants, pizza places, taverns, fast food restaurants and cafes, there is a choice of national restaurants offering traditional Montenegrin cuisine.
+
+In addition to the standard European and Mediterranean cuisine, Montenegro offers a variety of healthy food products and local specialities.
+
+'''Cold hors-d'oeuvres''' include the famous ''njeguški pršut'' (smoked ham) and ''njeguški cheese'', ''pljevaljski cheese'', mushrooms, donuts and dried bleak. The main courses specific for the '''northern''' mountainous region are boiled lamb, lamb cooked in milk, cicvara in fresh milk cream (buttered corn porridge), boiled potatoes with cheese and fresh cream. A selection of traditional recipes of the '''central and coastal''' parts will include the ''kastradina'' (dried mutton), smoked and fresh carp (from Skadar lake) and a variety of fresh sea fish and seafood dishes. Donuts served with honey and dried figs are traditional desserts in these parts of Montenegro.
+
+Products of animal origin are supervised and approved by veterinary and health authorities according to EU standards.
+
+==Drink==
+
+===Wine===
+
+The legal purchasing age of alcoholic beverages is '''18''', but there is '''no legal age''' for drinking.
+
+Montenegrin vineyards and the production of quality wine is part of the tradition of southern and coastal wine makers.
+
+The best known Montenegrin wines are the premium whites: "Krstač", "Cabernet", "Chardonnay" and reds: "Vranac", "Pro Corde". All of them are produced by the famous company "Plantaže", but there's also some home-made wines of high quality, like Crmničko wine.
+
+1L bottle of "Vranac" red wine will cost you from &euro;8 to &euro;15 in the bar or restaurant and it is well worth it! Also, you can buy a bottle of "Plantaze"'s wine for about €2-€4 in supermarkets.
+
+===Brandy===
+The continental region and north are more oriented towards the production of aromatic fruit flavoured brandy (plum brandy - šljivovica, apple brandy - jabukovača). Grape brandy "Montenegrin loza", "Prvijenac", "Kruna" or home made grape brandy (lozova rakija, lozovača) is a must-try, and a good choice to "warm up" before going out in the evening.
+
+===Beer===
+"Nikšićko" beer is the best known beer in the Montenegro, and most common alcoholic beverage, which cost from &euro;0.50 to &euro;2.50. It is produced as a draught beer, or bottled, in both "Nik Gold" and lighter "Nik Cool" variant. The dark variant, "Nik tamno", is praised among beer lovers. The local word for beer is 'pivo', strangely Montenegro also has a river called Piva.
+
+===Other===
+Other alcoholic drinks can cost anywhere between &euro;1 and &euro;10.
+
+==Stay safe==
+Montenegro is generally a safe country. There is, like all countries in the world, a number of criminal activities, but police forces are generally fast in their duties. The number is 122, as well as the international distress call 112. Organized crime is regarded as being widespread, but doesn't target tourists. When travelling in the areas bordering Kosovo, it is recommended you keep to the main roads. Unexploded landmines may remain along the Kosovo border. You should also avoid areas where there is military activity.
+
+In the resort towns such as Kotor, Budva, Sveti Stefan and Herceg Novi, beggars and pickpockets are not uncommon. As in many other European locations, beggars are part of organized crime groups. Do not give them money.  Doing so may also make you a target for more aggressive approaches.  Always carry your bags in the safest way, slung around your shoulder with the pouch in front (with your money carried under your clothing) where you can keep your arm or hand across it.
+
+Prostitution is illegal, so it's best not to engage in it.
+
+==Respect==
+Montenegrins are generally, like most people in the Balkans, very hospitable and welcoming to visitors.
+
+Short pants are usually not permitted inside the public institutions (hospitals, etc). Wear modest dress when visiting monasteries and churches. 
+
+At beaches, taking off the bottom piece of a swimsuit will likely create a stir, and is generally reserved for designated nude beaches. 
+
+Being visibly drunk is a sign of bad taste and character in Montenegro: You may be invited to drink gallons, but are expected to be able to hold your drink. People also usually prefer to sip their liquor instead of emptying it in "bottoms-up" style. Be careful, "rakija", a plum spirit (usually about 53% alcohol content), is stronger than expected, and will make you drunk fast!
+
+==Contact==
+You can buy mobile phone sim cards already for € 1. With that amount of credit, and if you plan to stay a longer time in Montenegro, making local phone calls, it will be certainly worth the expense. As of 2011 you need to fill in short form and show ID or passport in order to activate prepaid number at local operator's store.
+
+<!--[[ro:Muntenegru]]-->
+
+
+[[ca:Montenegro]]
+[[de:Montenegro]]
+[[eo:Montenegro]]
+[[es:Montenegro]]
+[[fi:Montenegro]]
+[[fr:Monténégro]]
+[[hu:Montenegró]]
+[[it:Montenegro]]
+[[ja:モンテネグロ]]
+[[nl:Montenegro]]
+[[pl:Czarnogóra]]
+[[pt:Montenegro]]
+[[ru:Черногория]]
+[[sv:Montenegro]]
+[[wts:Category:Montenegro]]
+
+{{Countryguide}}
+{{outline}}
+{{IsPartOf|Balkans}}
+
+[[Dmoz:Europe/Montenegro/]]
+[[World66:europe/montenegro]]

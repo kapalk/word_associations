@@ -1,0 +1,7 @@
+#REDIRECT [[Eswatini]]
+
+{{Rcat shell|
+{{R from move}}
+{{R from former name}}
+{{R with history}}
+}}

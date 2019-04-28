@@ -1,0 +1,563 @@
+{{pagebanner|Bangladesh Banner.jpg}}
+
+{{quickbar
+| image=Lalbagh Fort.jpg 
+| caption=Lalbagh Fort, Dhaka
+| location=Bangladesh in its region.svg
+| flag=Flag of Bangladesh.svg 
+| capital=[[Dhaka]] (Dacca)
+| government=Parliamentary democracy
+| currency=taka (BDT)
+| area=147,570 km<sup>2</sup>
+| population=164,669,751.00 (2017 December est.)
+| language=[[Bengali phrasebook|Bengali]] (official)<br>English (recognised, has some national status)
+| religion=Muslim 90%, Hindu 9%, other 1%
+| electricity=220V/50Hz(US Type A, Europlug, Type D, Type G, and Danish Plug)
+| callingcode=+880
+| tld=.bd & .bangla
+| timezone=UTC +6
+| emergencies=dial '''999''' in [[Dhaka]], [[Chittagong]] only
+}}
+[http://www.parjatan.gov.bd '''Bangladesh'''] is a country state in [[Southern Asia]] (converging with [[Southeast Asia]]), bordering the Bay of Bengal to the South, almost entirely encircled by the [[Republic of India]] to the West, North and East, and [[Myanmar]] to the Southeast. Although [[Previously Off the beaten path|off the beaten path]] by virtually any measurement, Bangladesh is populated by friendly locals.  
+
+==Understand==
+
+British India was granted Independence in 1947 the region of Bengal was united briefly but was partitioned by joint leaders of the Congress, All India-Muslim League and Great Britain itself in the summer of 1947, creating the commonwealth realms of the Islamic Republic of Pakistan and a Republic of India. Bangladesh officially came into existence in 1971 when Bengali-speaking Muslim-majority East Pakistan was allocated as a Pakistani colony seceded from its Union with Punjabi dominated populous [[Pakistan|West Pakistan]] after a 9 month bloody civil war between the former countrymen. Although Bangladesh emerged as an rebellious Independent country only in 1971, its history stretches back thousands of years and it has long been known as a crossroads of history and culture with Southeast Asia. Here you will find the world's longest beach, countless mosques, the largest mangrove forest in the world, interesting tribal villages and a wealth of elusive wild life. Although relatively impoverished compared to its burgeoning Southern Indoasian neighbour Republic of India, Bangladeshis are very friendly and hospitable people, putting personal hospitality before personal finances.
+
+Ready-made garments, textiles, pharmaceuticals, agricultural goods, ship building and fishing are some of the largest industries. The gap between rich and poor is increasingly obvious and the middle-class is fast-shrinking, as in the rest of Southeast Asia, especially in cities such as Dhaka and Chittagong as you move around between the working class old city and affluent neighborhoods like Gulshan and Baridhara.
+===Climate===
+
+Bangladesh has a sub tropical monsoon climate. There are  six seasons in a year: Winter (Dec-Jan), Spring (Feb-Mar), Summer (Apr-May), Monsoon (June-July), Autumn (Aug-Sep), and Late Autumn (Oct-Nov). The average temperature across the country usually ranges between 9C - 29C in winter months and between 21C - 34C during summer months. Annual rainfall varies from 160cm to 200cm in the West, 200cm to 400cm in the Southeast and 250cm to 400cm in the Northeast. Cyclones above category three/four are uncommon (especially in the deep winter January through March)-- but while rare, can still bring widespread disruption as expected to infrastructure and power outages, especially in the coastal areas. The weather pattern is akin to the Gulf Coast in the United States (Alabama, Mississippi and Louisiana).
+ 
+The current weather can be seen by hitting the 'play' button on the following interactive map, Current Bangladesh Satellite Weather Radar [http://amardeshbd.com/weather/weather.php]
+
+===Landscape===
+
+The country is primarily a low-lying plain of about 144,000 km<sup>2</sup>, situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal. The country is primarily flat fertile farmland and, with the exception of [[Chittagong Division|Chittagong Hill Tracts]], rarely exceeds 10 meters above sea level, making it dangerously susceptible to changes in sea level.
+
+Highest point: Bijoy (1,231 meters).
+
+===Holidays===
+{{Ramadandates}}
+* '''Pohela Boishakh''' - The most widely celebrated secular national festival of the country. Here people from all walks of life participate in various cultural shows called Boishakhi Mela, wearing national dress (kurta or Shari), eating sweets and wishing every one happy new year.
+
+* '''Ekushey - National Mother Language Day''' - February 21. This day marks the anniversary of the martyrs that died in 1952 while protesting against the imposition of [[Urdu]], in the name of Islam, as the mother-tongue. The uprisings to support Bangla as the mother language fueled the movement towards secular nationalism that culminated in independence in 1971.  The holiday is marked by (one of the most colourful events in Asia) tributes to the martyrs by political leaders, intellectuals, poets, writers, artisans and singing beginning at one minute after midnight on the 21st.  Government offices are closed, and expect traffic disruption from February 20.  
+
+* '''Independence day''' - 26 March - On this day 'Father of the Nation' Bangabandhu Sheikh Mujibur Rahman proclaimed Bangladesh's independence.
+
+* '''Victory day''' - 16 December - On this day Pakistani occupied forces surrendered to joint Bangladeshi & Indian forces.
+
+* '''Eid-ul-Fitr''' - the largest Muslim holiday of the year, it celebrates the end of the holy month of Ramazan. Food is the highlight, and if you're lucky you'll be invited into a private home for a feast. Businesses close for at least a couple days if not a week.
+
+* '''Eid-ul-Azha''' - is the second largest Muslim festival.
+
+* '''Durga Puja''' - Four days around October. The largest Hindu festival in the country, it goes on for several days with festivities varying each day.
+* '''Christmas''' - December 25th, This is the largest Festival of Christian Community in the country which is declared as a government holiday. A prayer is held at Tejgaon Church at 23:00 (Local Time) on 24 December. Also some other churches in Dhaka also arrange prayers.
+
+==Regions==
+Bangladesh is a small country, broken into 8 administrative divisions: 
+
+{{Regionlist|
+
+regionmap=Bangladesh regions map.png |
+regionmaptext=Regions of Bangladesh |
+
+region1name=[[Dhaka Division]] |
+region1color=#efef7a |
+region1items= |
+region1description=home to the capital city along with jute and rice paddies. |
+
+region2name=[[Chittagong Division]] |
+region2color=#cfc27b |
+region2items= |
+region2description=a picturesque hinterland of large hills, forests and beaches. |
+
+region3name=[[Rajshahi Division]]  |
+region3color=#aab0c8  |
+region3items=  |
+region3description=known for its silk and mangoes. |
+
+region4name=[[Khulna Division]]   |
+region4color=#d1a6c2  |
+region4items=  |
+region4description=a relaxing, slow paced area; home of the incredible [[Sundarbans]].  |
+
+region5name=[[Sylhet Division]]   |
+region5color=#e58f8d  |
+region5items=  |
+region5description=home to endless rolling tea estates and beautiful natural scenery.  |
+
+region6name=[[Barisal Division]]   |
+region6color=#9dd1ab  |
+region6items=  |
+region6description=the land of rivers, rice paddies, and lush vegetation. |
+
+region7name=[[Rangpur Division]]   |
+region7color=#b5d07b  |
+region7items=  |
+region7description=Indian influence and orange-colored limes. |
+
+
+regionname=[[Mymensingh Division]]   |
+region8color=#9dd1ab  |
+region8items=  |
+region8description=Mymensingh, country's second density populated leafy city built on the banks of the mighty Brahmaputra River, Mymensingh enjoys a lovely riverside setting, a sprinkling of Raj-era buildings.
+
+}}
+
+==Cities==
+[[Image:Bgdsh_029.jpg|thumb|The National Parliament]]
+Most of these cities are also the capital of the '''division''' of the same name:
+
+*[[Dhaka]] - The hectic capital city, an intense and thriving metropolis of some 12 million people that's growing by the day.
+
+*[[Chittagong]] - a bustling  commercial center and the largest international seaport in the country.
+ 
+*[[Mymensingh]] - a historic city located by the side of river Brahmaputa with a rich cultural and political history dating back more than 200 years.
+
+*[[Khulna]] - located on the Rupsha River, famous for shrimp and a starting point for journeys into the [[Sundarbans]].
+
+*[[Rajshahi]] - the silk city.
+
+*[[Rangpur]] - important city in the north-west, with extensive agriculture and trade.
+
+*[[Barisal]] - Southern city famous for Paddy growing and its many rivers, best reached by a slow-paced and relaxing boat ride on the Rocket Steamer.
+
+*[[Sylhet]] - the largest city in the northeast, known for the shrine of Sufi saint Hazrat Shahjalal, one of the holiest sites in the country.
+
+*[[Jessore]] - a bustling district town, and convenient transit point to or from [[Kolkata]]; famous for ''Gur'', a form of cake-like molasses produced from the extract of the date tree.
+
+*[[Comilla]] - (Bengali: কুমিল্লা) is a city in eastern Bangladesh, located along the Dhaka-Chittagong Highway. It is the administrative center of the Comilla District, part of the Chittagong Division. Comilla is the second-largest city of eastern Bangladesh after Chittagong and is one of the three oldest cities in Bangladesh.
+
+==Other destinations==
+* [[Cox's Bazar]] - the longest beach in the world.
+
+* [[Bagerhat]] - an important historical centre and site of several mosques including the famous Shait Gambuj Masjid (60 Dome Mosque).
+
+* [[Bogra]]- a culturally Buddhist area.
+
+* [[Char Atra]] - a low lying island located in the Ganges. 
+
+* [[Paharpur]] - ruins of an ancient Buddhist vihara.
+
+* [[Rangamati]]- the colourful tribal experience of Bangladesh. 
+
+[[Image:St._Martin%27s_Lobster.jpg|thumb|Lobster on [[St Martin's Island]]]]
+* [[St Martin's Island]] - the country's only coral island with friendly locals, a laid back vibe, and coconuts to spare.
+
+* [[Sundarbans]] - the largest mangrove forest in the world, with lots of bird life and home to the very elusive Royal Bengal Tiger.
+
+* [[Vola]] - The island of beauty 
+
+* [[Bandarban]] - The land of highest peak 
+
+* [[Kushtia]] - The akhra of famous baul singer Lalan Fakir
+
+==Get in==
+
+===Visas===
+
+Nationals of [[Barbados]], [[Bhutan]], [[Botswana]], [[Burkina Faso]], [[Fiji]], [[Gabon]], [[Gambia]], [[Ghana]], [[Grenada]], [[Guinea]], [[Guinea-Bissau]], [[Jamaica]], [[Lesotho]], [[Malawi]], [[Maldives]], [[Papua New Guinea]], [[Saint Kitts and Nevis]], [[Samoa]], [[Seychelles]], [[Sierra Leone]], [[Tanzania]], [[Tonga]] and [[Zambia]] do not require visas for stays of up to 90 days.
+
+Nationals of all [[European Economic Area|European Union/European Economic Area]] member states, [[Australia]], [[Bahrain]], [[Canada]], [[China]] (PRC), [[Japan]], [[Kuwait]], [[Malaysia]], [[New Zealand]], [[Oman]], [[Qatar]], [[Russia]], [[Saudi Arabia]], [[Singapore]], [[South Korea]], the [[United Arab Emirates]] and the [[United States]] may obtain a visa on arrival for stays of up to 30 days.
+ 
+Citizens of all other countries without a Bangladeshi mission, or arriving from such countries, may obtain a visa on arrival for the maximum stay of 30 days. However, nationals of [[Brazil]], [[Brunei]], [[Egypt]], [[Hong Kong]], [[India]], [[Indonesia]], [[Iran]], [[Iraq]], [[Jordan]], [[Kenya]], [[Libya]], [[Mauritius]], [[Mexico]], [[Morocco]], [[Myanmar]], [[Nepal]], [[Pakistan]], the [[Philippines]], [[South Africa]], [[Sri Lanka]], [[Thailand]], [[Turkey]], [[Uzbekistan]] and [[Vietnam]] must apply for a visa before travel, unless they are residing in a country without a Bangladeshi representation.
+
+Transit passengers continuing their journey on the first connecting aircraft also do not require visas, provided they hold valid onward or return documentation and do not leave the airport.
+
+On occasion, tourists and business travellers arriving at airports in Dhaka and Chittagong may be granted 'landing permission' by the Chief Immigration Officer for stays of up to 15 days, as long as they hold return air tickets. However, this method is fairly unorthodox and is not available for the average traveller[https://resource.ogrlegal.com/bangladesh-visa/].
+
+There is a flat visa fee of US $50, plus VAT of  BDT 7 (approx. $0.08). In reality they take $51 and somewhere along the line $0.92 gets pocketed. You must pay in USD, although the VAT can be paid in Taka. The whole procedure is now a all-in-one-place affair at the airport, which means upon arrival you will pass a special VoA section shortly before immigration. First you have to pay (if you don't have 1$/85Taka, the overpaid amount in $ will be given back in Taka to a pretty good exchange rate without commission), then you have to fill out an arrival card and a visa application form and then go to the visa counter. A hotel reservation OR a return ticket is obligatory for a tourist visa; be ready to show paperwork indicating invitations from the said government organisations. It would seem that they give you as long as you ask for, but probably with a 30 day maximum. After that you can pass through Immigration without queuing (!), but be aware of the final check guy at the exit behind the counters.
+
+Since most passengers are either Bangladeshi or already have visas there is rarely a queue for VOA. Combined with a special VOA immigration lane, applying for a VOA might be quicker than arriving with a visa (for tourists only).
+
+If you were a Bangladeshi citizen at some point in time and now hold a passport from a different country, you can contact your nearest Bangladesh High Commission for your "No Visa Required" stamp, which works as a permanent visa as long as your passport containing the stamp doesn't expire. This option is also available to the children and grandchildren Bangladeshi citizens.
+
+If you apply in your home country you can usually obtain a 3 month visa if arriving by air, or 30 days if arriving at a land border crossing. Fees vary depending on nationality and length of visa requested.
+
+*[[Image:as-flag.png|20px]] '''Australian citizens''' - All visas cost AU$150 from the Bangladesh High Commission in Canberra. For further information, visit the High Commission's official website here: [http://www.bhcanberra.com/visa.php]. See note above where apparently visa can be purchased on arrival.
+
+*[[Image:ca-flag.png|20px]] '''Canadian citizens''' - A single-entry visa for 3 months is C$80 and a multiple-entry visa is C$158. The visa form for Canada is here: [http://www.bdhc.org/bhcvisa.pdf]. Tourist visas are now issued upon arrival for 30 days at the airport, and may be extended for stays up to 60 days.
+
+*[[Image:uk-flag.png|20px]] '''UK citizens''' - A single or double entry visa is £78.  A multiple entry for 6 months is £78 and multiple entries for 12 months is £270.  The London High Commission is hectic.  A visa of arrival is preferable to dealing with the "queues" here. The UK visa form is here: [http://www.bangladeshhighcommission.org.uk/images/frm-visa.pdf]. The UK also boasts a large number of Bangladeshi consular offices: [http://www.bangladeshhighcommission.org.uk/consular/].
+
+*[[Image:us-flag.png|20px]] '''US citizens''' - The embassy is in is in Washington D.C.: [http://www.bdembassyusa.org/]. The visa fee is currently $160 if obtained from within the USA, and can be applied for by mail. There are also consulates in Los Angeles [http://www.bangladeshconsulatela.com/fees.htm] and New York [http://www.bdcgny.org/] who will answer most questions; ensure you read the 'visa requirements' sections carefully. A U.S. cashier's check, money order or bank draft should be made payable to "Consulate General of Bangladesh". International money orders, personal checks and cash are ''not'' acceptable. Visas on Arrival are available to US tourists for up to 30 days (length may differ at some land borders), provided they have at least $500 in cash or travellers checks. The fee of $51 must be paid in cash (USD, EUR or GBP).
+
+For all other countries, there is a visa fee list here: [http://www.dip.gov.bd/?q=content/page/visa-fees].
+
+The '''Bangladesh High Commission''' in [[Kolkata]], Circus Ave (''Just east of AJC Bose Rd''), ''+91'' 033 4012 7500, issues only 15 day visas, ranging from free for Indians to a hefty Rs 5000 (~US$110) for American citizens. Applications are received at window #4 weekdays from 9-11AM, and visas are generally ready the next afternoon. Bring 3 passport photos and copies of passport and Indian visa.
+
+====Visa extensions====
+Visa extensions are possible in [[Dhaka]] at the Immigration and Passport Office on Agargaon Rd. Fees are the same as a single-entry visa, even if just trying to expand your 15 day pittance into a full-fledged 30-90 day visa, making a sidetrip from India for longer than 15 days an expensive endeavor. If you want to stay only a little longer, it may sound to be better to just pay the '''overstay fee''' of Tk 200/day for up to 15 days, which grows substantially to Tk 500/day thereafter, but be aware that sometimes you get billed the full price for a new visa that covers that time as well. Some of the smaller backwater crossings such as [[Tamabil]] may not even notice that you've overstayed if you don't point it out yourself.
+
+===By plane===
+
+'''Shahjalal International Airport (formerly Zia International Airport) (IATA: DAC, ICAO: VGZR) (Bengali: শাহজালাল আন্তর্জাতিক বিমানবন্দর), '''in [[Dhaka]] is the main gateway to the country, though [[Chittagong]] and [[Sylhet]] also receive international flights.
+
+The national carrier is Bangladesh Biman [http://biman-airlines.com], connecting with a few flights tothe [[Middle East]], [[Asia]] and [[Europe]]. It is now under re-organization and many international routes have been curtailed.  Currently, routes to the UK (London & Manchester), Italy (Rome & Milan) exist in Europe, as well as a number of Middle Eastern destinations, Kolkata, Kathmandu, Bangkok, Kuala Lumpur and Singapore.
+
+The private carrier US Bangla [ https://flyusbair.com/welcome], and Regent Airways [http://www.flyregent.com/], operates domestic and regional flights from Dhaka to [[Bangkok]], [[Muscat]], [[Kolkata]], [[Singapore]],[[Doha]],[[ Kathmandu ]],[[ Dammam]],[[Guangzhou]] and [[Kuala Lumpur]], and is far better managed than Biman. 
+
+
+
+''Connecting from the Middle East:'' 
+
+There are direct flights to Dhaka from Qatar (Qatar Airways), Oman (Oman Air), Bahrain (Gulf Air), Saudi Arabia (Saudia) and the United Arab Emirates on Emirates to Dubai [http://www.emirates.com/] or Etihad Airways to Abu Dhabi [http://www.etihadairways.com/]) through which you can connect to most Asian and European capitals and several North American hubs. Emirates, for instance, serves New York, Toronto and Houston from their Dubai (DXB) hub non-stop -- and then connects to Dhaka via a short four-hour hop.
+
+''Connecting from East Asia:''
+
+Hong Kong (Chek Lap Kok) and Bangkok (Suvarnabhumi) are the most convenient nearby hubs to reach Bangladesh from Eastern Asia (Beijing, Tokyo) and points further East (Western United States).  China Eastern Airlines flies frequently to Kunming, and China Southern to their hub in Guangzhou.  Both these airlines offer a plethora of Chinese and regional connections, as well as longhual flights to the USA and Australia.
+
+Dragonair [http://www.dragonair.com/da/en_INTL/helpingyoutravel/destinationdetails?cityCode=DAC/] flies non-stop from Hong Kong to Dhaka (4~5 hours). Hong Kong as a major international hub has very good connections to the rest of the world.
+
+''Connecting from South East Asia:''
+
+Tiger Airways [http://www.tigerairways.com] flies direct to Dhaka from Singapore, offering the cheapest links if booked early.  Singapore Airlines [https://www.singaporeair.com/] also fly the route, in much more comfort, and at considerable cost. Malaysia Airlines [http://www.malaysiaairlines.com/]  often has cheap rates to Kuala Lumpur. Thai Airways [http://www.thaiair.com/]  fly daily from Bangkok, with nice daytime schedules.
+
+Connecting from North America (East Coast):
+
+No direct flights to Dhaka yet. Cathay Pacific [http://www.cathaypacific.com/cpa/en_INTL/homepage] has a non-stop route from New York (JFK) to Hong Kong over the North Pole (CX830/831). Then you take a short Dragonair flight to Dhaka.
+
+Continental [http://www.continental.com/web/en-US/Default.aspx] flies to Hong Kong non-stop using the same 16-hour polar route, flying from Newark Liberty (New Jersey). Again - the connection is by Dragonair.
+
+''Connecting from North America (West Coast):''
+
+Cathay Pacific, Thai & Singapore Airlines now have non-stop flights from Hong Kong, Bangkok & Singapore (their respective hub cities) to Los Angeles. Singapore Airlines may also have a direct flight to San Francisco as well.  China Southern fly to Los Angeles via Guangzhou. These airlines all have direct connecting flights to Dhaka from their respective hubs.
+
+''Connecting from Australia or South Africa:'' 
+
+You're better off connecting via the Guangzhou, Bangkok, Kuala Lumpur or Singapore hubs (which are served by almost every airline -- it seems).
+
+''Connecting from Western Europe:''
+
+British Airways [http://www.ba.com/] no longer serves Dhaka non-stop from London. Other than Biman (whom offer the only direct flights), you can connect through most Middle Eastern hubs (Dubai, Abu Dhabi, Bahrain, Doha, Riyadh, Jeddah) from Europe.  Jet Airways also fly from Europe/America to Dhaka via both Delhi and Mumbai.
+
+''Connecting from the region (Indian subcontinent):''
+
+Currently, Jet Airways[http://www.jetairways.com/EN/BD/Home.aspx] is the only Indian airline flying to Bangladesh, via it’s hubs (Kolkata, Delhi or Mumbai).  The Dhaka-Kolkata flight is also flown by Biman and United Airways.  United also fly Kolkata-Chittagong.  Air India does not fly to Bangladesh.  There are connections on Pakistan International Airlines to Pakistan. SriLankan Airlines has daily flights to Colombo.
+
+Some regional flights like those operated by Thai Airways [http://www.thaiair.com/] stop in Chittagong or Sylhet en route to/from Dhaka.  
+
+Nearby regional destinations like Kathmandu (Nepal), Paro (Bhutan), Kunming (China) and all Indian cities are readily accessible from Dhaka in under three hours and are served by a great number of private airlines. The most exotic destination from Dhaka is to Paro (Bhutan's Capital) and is served by Druk-Air [http://www.drukair.com.bt], the national Bhutanese airline on Sundays (9:00 AM flight taking an hour). The approach to Paro Airport (PBH) is an adventure in itself.
+
+===By bus===
+The only open land borders are those with [[India]]. No land crossing is possible to [[Myanmar]] (occasionally Bangladesh passport holders are allowed to cross from [[Teknaf]], though this changes regularly).
+
+====From Kolkata====
+
+From India there are a number of land entry points. The most common way is the regular comfortable a/c buses from [[Kolkata]] to [[Dhaka]] via the [[Haridaspur]] / [[Benapole]]  border post. Private Bangladeshi bus companies '''Shohagh''' [http://www.shohagh.com/group/], '''Green Line''' [http://www.greenlineparibahan.com/], '''Shyamoli''' [http://shyamoli.paribahan.com/] among others operate daily Kolkata-Dhaka-Kolkata bus services. Govt. buses run under the label of the state owned West Bengal Surface Transport Service Corporation (WBSTSC) and the '''Bangladesh Road Transport Corporation''' [http://www.brtc.gov.bd/] (BRTC). WBSTSC and BRTC both operate buses from Kolkata ('''Karunamoyee international bus terminus''' in the Salt Lake neighborhood) every Tuesday, Thursday, and Saturday at 5:30AM and 8:30AM, and 12:30PM while from Dhaka they leave on Monday, Wednesday, and Friday at 7:00AM and 7:30AM. The normal journey time is around 12 hours with a one-way fare of Rs550 or BDT600-800, roughly $8-12. If you're headed only to [[Haridaspur]] the fare is Rs86 (2.5 hours).
+
+Timings will vary, please confirm after arrival in Kolkata (Calcutta).
+
+====From Shillong====
+From Shillong you can take early morning taxi/shared sumo/bus from Barra Bazar to reach Indian border village Dawki. You will have to change sumos in Pynursla. It takes around 2 to 3 hours depending on conditions. Border post is at Dawki/Tamabil. The Indian lone immigration officer reaches at the immigration post at around 10:30 am though the timing is 6 am to 6 pm for human crossing. Crossing is hassle free since there is no rush on the Indian side and the formalities hardly take 5 minutes or so. On the Bangladeshi side the situation is almost the same but keep in mind that Bangladeshi immigration officials are a bit poor in spoken english. Bear in mind that on your way back you have to pay 500 taka as departure tax. Tax can only be paid in sonali bank & only a few branches are authorised to collect this tax. They dont take departure tax in cash at land border.
+
+Visa on arrival not available at Dawki/Tamabil (Oct 2017).
+
+====From Siliguri====
+"Shayamoli Paribhahan" has a bus service from Siliguri to Dhaka.Phone# +8802-8360241, +8801716942154. It cost around 1000/=(may increase later) Taka for one way ticket.
+
+====From Agartala====
+
+There is a regular bus service between [[Dhaka]] and [[Agartala]], capital of India's [[Tripura]] state. Two BRTC buses leave daily from Dhaka and connect with the Tripura Road Transport Corporation vehicles, running six days a week with a roundtrip fare of BDT600 ($10). There is only one halt at [[Ashuganj]] in Bangladesh during the journey. Call +880 2 8360241 for schedule. 
+
+Other entry points from India are [[Hili]], [[Chilahati]] / [[Haldibari]] and [[Banglaband]] border posts for entry from [[West Bengal]]; [[Tamabil]] / [[Dawki]] border post for a route between [[Shillong]] ([[Meghalaya]]) and [[Sylhet]] in Bangladesh, and some others with lesser known routes from north-eastern Indian regions.
+
+===By train===
+
+Train services from [[India]] were suspended for 42 years, but the ''Maitree Express'' started running again between [[Dhaka]] to [[Kolkata]] in April 2008.  The service is biweekly: A Bangledeshi train leaves Dhaka every Saturday, returning on Sunday, while an Indian train leaves Kolkata on Saturdays and returns the next day.
+
+==Get around==
+
+===By plane===
+
+Air travel in Bangladesh is very affordable and convenient.  As with most flights, the earlier you book, the better your fare.  Flight time is nearly always less than 1 hour, but can save many hours of tedious and dangerous road travel.  Dhaka’s domestic terminal lies next to the International Terminals, within easy walking distance.  Check in normally is open from 60 until 30 minutes before departure.  The terminal is small, and with few diversions, so don’t arrive too early.
+
+There are airports in all of the divisional capitals and in [[Jessore]], [[Cox's Bazar]] and some other small cities like [[ Syedpur]].  Regent Airways, Novoair and US Bangla Airlines are operating domestic flights.  National airline Biman [http://www.bimanair.com/] also fly domestic routes . Chittagong is often served with wide body aircraft enroute to the Middle East.  Currently, all air routes in the country operate via Dhaka.
+
+All airlines offer online booking and e-tickets.
+
+Despite the short distances, on board service is generally good, with water and juices, as well as small snacks handed out.  Aircraft used on domestic routes are mainly Western built ATR and Dash prop aircraft.
+
+===By helicopter===
+
+There are quite a few rotor-wing craft services available for hire in Bangladesh for tourism, MEDEVAC or Film-footage services. Any reputable travel agent will know full details. As of now - one service "ATL" is at, ATL [http://www.nitolniloy.com/atl_contact.html/] or at ATL [http://www.atlhelicopter.com/].
+
+===By bus===
+
+Local Bangladeshi buses are generally crowded, often to the extent of people riding on the bus steps (entrance) and sometimes even the roof. The state run Bangladesh Road Transport Corporation [http://www.brtc.gov.bd/] (BRTC) buses usually fall into this category. Avoid all of the low cost buses - they are easy to spot by their poor condition.  There are daily fatal accidents involving them. If you do use them, it is worth noting that they do not usually stop, but rather slow down slightly to let passengers on or off - you may have to simply jump off the bus (literally). If you do not speak the language, simply ask the driver for it or for small places the next big city "behind" your destination. If they go your direction, they will give you signal to get on the bus. Additionally, fare collectors, disconcertingly, do not wear uniform, but easy to identify: the one who holds lots of small cash in his hand.
+
+However, there are luxurious air conditioned bus services connecting major cities and popular tourist destinations. Green Line [http://www.greenlineparibahan.com/], Shyamoli [http://shyamoli.paribahan.com/], SilkLine [http://www.paribahan.com/paribahan/silkline_browsers/silkline_main.php?] and Shohagh [http://www.shohagh.com/group/] usually have a couple different offices dotted around the cities they serve. Greenline has a few Scania buses running between Dhaka, Chittagong and Cox's Bazar that offer a level of comfort you've probably never seen in a bus before - they cost about 1/3 more than their Volvo buses, but are comparable to business class on an airplane, at least.  More comfortable and expensive buses use the same over crowded roads, and have the same suicidal drivers as the cheaper buses.  
+
+Bus stations are often very busy and disorganized.  The main Sydabad station in Dhaka is extremely chaotic.  The approach to the “station” can take many hours due to the lack of paved roads, street lights, traffic lights and decorum.  You should take care when having luggage stored in the hold of buses, even on the better carrier that will tag your bag.  Things do go missing (taken off early, or even, not loaded in the first place.  Make sure you out your suitcase in yourself, ideally first, so other luggage is in a thieves firing line.
+
+===By anything else with wheels===
+
+The range of other public transport in Bangladesh is huge. Starting from Motorbikes, going to CNGs, electrified rickshaws, 3 wheeler or plattforms, that are pulled by a tractor engine. If you want to go somewhere, simply go on the side of the road that heads in the direction of your destination and flag down the next best thing that passes by and has already passengers inside. The last part is especially important, because locals believe that foreigners want to charter the whole ride, which is usually 10x the price. Expect to pay 5 to 10 Taka for anything electric powered and tractors; human powered rickshaws, motorbikes and CNGs are more expensive. Jump out (and pay), if the ride makes a turn into the "wrong" direction and get on the next.
+
+===By car===
+
+Driving in Bangladesh is not for the faint hearted - the road network is fairly good, but dodging irrational bus drivers and weaving in and out of rickshaws isn't easy on the nerves. Driving standards are some of the worst in the world, as notable by the many cars which have bumper bars that encircle the whole car.  Traffic in Dhaka has reached unimaginable proportions, and self-driving is definitely not advised. Parking places are non-existent. It is highly advised to hire a local driver. Night time driving is substantially more dangerous as trucks/buses often ignore smaller cars; road travel at night should be avoided, regardless of who's driving.
+
+Officially, cars drive on the left; in reality, cars drive on any side of the road. The speed limit is 25 km/h on all urban roads, though it is highly unlikely a vehicle will even reach this speed with the traffic. Many traffic lights have been installed in recent times, but these are often disregarded by both drivers and traffic police. Traffic police direct cars on all major intersections in urban areas. On many country roads, it is illegal to overtake; but again, this is completely ignored, with locals employing extremely dangerous manoeuvres when passing the vehicle in front of them. The cities are well lit, but country roads often lack street lighting. Some new inter-city roads have tolls, especially new bridges; these are fairly cheap.
+
+===By train===
+
+'''Bangladesh Railways''' [http://www.railway.gov.bd/] is the state and only train operator. The ticket prices are reasonable and usually similar to bus ticket prices and sometimes even cheaper. However, due to the roundabout routes and tricky river crossings, the journey durations are usually much longer. Tickets can be booked over the phone, though unless you speak Bengali you're likely to get better results at one of the computerized station booking offices.
+
+Trains are generally comfortable, with more leg room than buses. Though the carriages are generally not very clean, the AC and 1st class seats are manageable. ''Sulob'' class is the highest 2nd class ticket, with reserved seating and not much different from 1st class (except in price).
+
+Kamlapur Rail Station in Dhaka is large and modern. It serves all major cities but due to the existence of broad gauge ''and'' meter gauge tracks around the country it may be required to change trains en route.
+
+===By boat===
+
+There are over 230 mighty and small rivers throughout the country, and boats and ferries are an integral part of travel for locals and tourists alike. A journey along the river in any mode is probably the best way to see Bangladesh. There are a number of private tour operators offering river sightseeing trips of various lengths, or using the ferries to get between cities is a great way to see the country at a moderate pace.
+
+The '''Rocket Steamer''' service connects [[Dhaka]] and [[Khulna]] via [[Barisal]], and is a fantastic way to enjoy riverine Bangladesh, for those who prefer the scenic route. The 4 ferries are operated by BIWTC [http://www.mos.gov.bd/biwtc.htm/] and run several times per week in each direction. It's advisable to book several days in advance if possible. While there are several different classes it's unlikely that you will end up in anything but 1st or 2nd class. Both of these consist of around 10 small berths on the upper deck of the boat with 2 beds each and a sink (no doubt doubling as a urinal), and fairly clean shared bathrooms. There's a central dining/sitting room in each class with a chef cooking Bengali meals and the odd fish-and-chips or an omelette for around Tk 50-150. Cheaper food can be bought at the vendors in the lower classes on the bottom level. First class is at the front of the boat, with the bow made into a nice sitting area. If you're traveling single you must book 2 beds if you want a berth guaranteed to yourself in either class, though unless the boat is completely full it's unlikely they'll put someone in a foreigner's room even if you just pay for one. The full journey takes anywhere from 26-30 hours and costs Tk 1010/610 in first/second class. It's best avoided during the rainy seasons and during holidays when the launches get over crowded with home-returning city dwellers. The more eco-friendly may prefer to take their trash off with them: otherwise, it's likely to end up in the river at the end of the journey.
+
+BIWTC also operates many other more basic ferries that may be useful for smaller distances.
+
+==Talk==
+The national language is [[Bengali phrasebook|Bengali]] (''Bangla'') and is spoken everywhere. It's an Indo-Aryan language derived from Prakit, Pali and Sanskrit and written in its own script. Many Bangladeshis understand only limited English such as basic affirmatives, negatives, and some numbers. This is especially so in rural areas and among the lower socio-economic classes. Learning a few Bengali words ahead of your trip will prove very useful.
+
+Two centuries of British colonisation lead people to identify most white foreigners as either British or Americans, and to view them with curiosity. The first question you will probably be asked is "What is your country?" ("Desh kothay?" in Bangla). If hawkers or rickshaw-wallahs are over-zealous in selling you their products or services, simply say "Amar dorkar nai" ("I don't need [this item]") or "Lagbey nah" ("No need") as a colloquial way of saying "No, thanks."
+
+If you don't wish to give money to beggars and other unfortunates, simply tell them "Maaf koro" (with informal you) or "Maaf koren" (with polite/formal you), which means "Pardon me"; or you can apply a tricky concept by saying "Amar bangthi poisha nai", meaning "I have no change." Above all, if you're refusing a service or product, don't linger. Walk on as you say these phrases. Otherwise, your lingering may be misinterpreted by peddlers as your uncertainty about refusal.
+
+If you plan to travel beyond the cities it is best to engage a travel guide or an interpreter or buy a tour package that offers you both.
+
+==See==
+
+Bangladesh  as a vacation land has many facets. Her tourist attractions include archaeological sites, historic mosques and monuments, resorts, beaches, picnic spots, forest and wildlife. Bangladesh offers opportunities for angling, water-skiing, river cruising, hiking, rowing, surfing, yachting and sea bathing as well as bringing one in close touch with Mother Nature. She is also rich in wildlife and game birds.
+*[[Ham-Ham Waterfall]] - One of the biggest waterfall of the country
+*[[Sundarbans]] — UNESCO world heritage site, largest Mangrove forest of the earth
+*[[Cox's Bazar]] — world’s longest uninterrupted natural sandy sea beach
+*[[St. Martins Island]] — Bangladesh’s only coral island
+*[[Keokradong peak]] - One of The highest peak of the country
+*[[Nafa-khum Waterfall]] - The largest waterfall of Bangladesh also a place to enjoy rafting on local boats
+* [Lawachara National Park]- IUCN category V protected landscape, a tropical forest of Bangladesh
+*[[Darjilling Para]] - Most cleanest village of Bangladesh
+*[[Bisana Kandi]] - A beautiful landscape beside Meghaloy
+*[[Jaflong]] - The heaven of Bangladesh 
+*[[Nijhum Dip]] - The Island of beauty 
+*[[Puran Dhaka]] - The city of Mughal Emperor 
+*[[Sonargaon]] - The city of Mughal Architecture 
+*[[Mohasthangor]] - 1000 years old buddhist architecture 
+*[[Ratargul Jolabon]] - The Amazon Of The Bangladesh 
+
+If you arrive at a historic monument after it has already closed for the day, it may be possible to "pay" a security guard an "after hours tour fee" to be quickly taken around a site.
+
+==Buy==
+{{infobox|What will it cost?|
+* 2&nbsp;L bottled water: Tk 25
+* Cup of tea: Tk 10
+* Newspaper: Tk 10
+* Candy bar: Tk 15
+* Coke/Pepsi: Tk 20
+* Pair of ready made trousers: c. Tk 500.00}}
+
+The currency of Bangladesh is the Bangladeshi Taka (BDT)  with two symbols commonly see locally: Tk and ৳. As of October 2018, US $1 = Tk 85.
+
+Bangladesh is one of the largest ready-made garment manufacturers in the world, exporting clothing for famous brands such as Nike, Adidas and Levis. Though these products are usually not meant for sale in the local markets, they can be found in abundance in famous shopping areas such as Banga Bazaar and Dhaka College.
+
+In most stores, prices are not fixed. Even most stores that display 'fixed-price' label tolerate bargaining. Prices can thus be lowered quite considerably. If [[haggling|bargaining]] is not your strong point ask a local in the vicinity politely what they think you should pay. Besides there are loads of handicraft, boutique shops. There are lots of shopping malls in and around Dhaka and Chittagong. Foreigners will usually be changed a higher cost, however you will not usually be priced gouged, with what you are changed usually being only slightly more than what the locals would pay, with the difference for small items often being only a matter of a few US cents. 
+
+[http://www.brac-aarong.com/ Aarong] is one of the largest and most popular handicraft and clothing outlets with stores in [[Dhaka]], [[Chittagong]], [[Sylhet]] and [[Khulna]]. It's a great place for souvenirs or to pick up a stylish kurta or salwar kameez at fixed prices.
+
+Women can find a cotton ''shalwar kameez'' for around Tk 400 in a market or Tk 800-1500 in a shop. Silk is more expensive.
+
+'''ATMs''' can be found in most metropolitan areas. Dutch Bangla Bank has the largest ATM network in Bangladesh and finding one isn't hard (there is one at the airports of both Dhaka and Chittagong). Most international banks in the country such as Standard Chartered and Citibank also rely on the Dutch-Bangla Bank Nexus™ ATM network for their own clients. [http://www.hsbc.com.bd/ HSBC] ATMs are located at most hotels. All those ATMs may or may not accept all Mastercard and Visa credit/debit cards. Usually you have to make the ATM rally, which means go from one ATM to the next and give it a try (some may work, even if your type of card is not listed). The Bangladesh National Bank is especially in rural areas the best bet, but it is a good advise to stock up in advance and not run low on cash
+
+Most ATM's are usually quite safe to use as most will be set inside a building with a security guard standing (or more likely sitting) guard at the door.
+
+==Eat==
+Bangladesh is a fish lover's paradise.  Traditionally most of the country lives off of the once-bountiful fresh-water river fish, especially the officially designated "national fish" '''Hilsa''' (kind of Shad fish). The '''Hilsa''' has a nice flavour but some may find the many fine bones difficult to manage; if you can master eating this fish, consider yourself on par with the locals in fish-eating and deboning expertise.  Various recipes exist for cooking Hilsa, suitable for all seasons and all regions of the country. Mutton is also popular, as in most Muslim countries, as is decidedly lean or hard chicken. Rice is almost always the staple side dish.
+
+Mixed vegetable curries are plentiful - potato, eggplant, squash and tomatoes are the staple ingredients. Gourds, tubers and certain root vegetables are common. In the major cities (Dhaka, Chittagong, etc.), you will find a larger variety of vegetables than in rural areas.
+
+The idea of salad varies from the international standard. In Bangladesh, salad has not been extensively developed, and "kacha" (raw) vegetables are generally not deemed very appetizing or palatable (with the exception of cucumbers), especially in more rural or suburban areas and in less Westernized households. Traditionally, most salad vegetables (carrots, celery, lettuce, paprika, etc.) were not even grown in most agrarian households, so the use of these vegetables was extremely rare. Hence, borrowing from the Mughal traditions, a few round slices of onions and cucumbers, spiced with salt, chilies, etc., is often treated as a full plate of salad. 
+
+''Dal'' is usually a given side dish or meal course for all households, even the poorest or most rural (who often cannot afford any other daily meal courses). Most Bangladeshi dal varies from its West Bengali counterpart, and even more so from its other Indian counterparts, primarily because it is more watery and less concentrated or spiced. An easy analogy would be that whereas most Indian dal is more like thick stew, most Bangladeshi dal is more like light soup or broth. The Hindus of Bangladesh have greater varieties of Dal recipes, just as they have greater varieties of vegetarian dishes. The Muslims have thicker and more spiced varieties of dal. Dal recipes vary regionally in Bangladesh, so be careful not to over-generalize after a brief experience.
+
+Boiled eggs (''dhim'') are a popular snack (Tk 3-5), and fresh fruit is abundant, such as bananas (Tk 2/ea), apples (Chinese, Tk 80-100/kg), oranges, grapes, pomegranates and papayas.  Delicious and diverse, mangos (Tk 50-150/kg) are a very popular fruit throughout Bangladesh.
+
+'''Fast food''' restaurants and bakeries serving burgers, kababs, spring rolls, vegetable patties and just about anything else you can throw in a deep fryer are dotted around most cities. Most items will run around Tk 10/each.Bangladesh also has international fast food chains like Pizza Hut, KFC, A&W, Burger King, Nando's, Tekiya.
+
+To enjoy the tastes of Dhaka one needs to go to old Dhaka. The Haji biriyani, Nanna biriyani are a must. Also Al Razzak restaurant is famous for its Shahi food. To savour local food one must go to Korai Gost at Dhanmondi Satmosjid road, Kasturi restaurant at Gulshan & Purana Paltan area. No one should leave Bangladesh without tasting the Phuchka and Chatpati available in the streets of Dhaka,Chittagong. Also there are loads of Chinese and Thai restaurants in Bangladesh which serve localized chinese and thai dishes.Bailey road in Dhaka is the unofficial food street of the nation followed by Satmoshjid Road.Dhaka also has Japanese, Korean and Indian restaurants located mostly in Gulshan area. For world class Ice creams do visit Moven pick, Club gelato in Gulshan. To taste Kebab, Babecue tonight in Dhanmondi is the best followed by Koyla in Gulshan.
+
+Most Bangladeshis eat with their right hand as in neighboring countries. Never use your left hand to bring food to your mouth, though it's ok to use it for bringing a glass to your mouth or to serve food from a common dish with a spoon. Every restaurant will have a handwashing station (sometimes just a pitcher of water and a bowl if they don't have running water), and you should use this before and after the meal. To eat with your hand, rake in a little portion of the rice and a bit of the curry to an open space on your plate (usually create a bit of space on the side of the plate closest to you, sufficiently inward from the rim but NOT in the centre of the plate), and mix the rice and curry with your fingers. Then, create a little ball or mound (it should be compact and modestly sized, but does not need to be perfectly shaped or anything--function over form!) of the mixture and pick it up with all your fingers, and scoop in into your mouth. Your fingers should not enter your mouth in the process, and your upper fingers and palms should not get dirty either. Only toddlers and foreigners/tourists are exempted from these rules. It doesn't matter a whole lot if you don't get it all exactly right, but know that the entire restaurant is watching and waiting to see if you do. Attempting to eat with your hands and failing miserably will raise many a smile.  The use of cutlery (except serving spoons for common dishes) is lacking in rural areas and poorer households, and only basic cutlery of spoons, or sometimes a fork is sometimes available in urban restaurants and more Westernised, urban households. However, the use of hands is a more humble and culturally respectful gesture, especially from a tourist.
+
+Table-sharing is acceptable and even expected in most establishments, with the exception of nicer urban restaurants. Many places have separate curtained-off booths for women and families, a nice reprieve from prying eyes.
+
+==Drink==
+
+'''Nightlife''' in Bangladesh is nearly non-existent. Being a Muslim country, alcohol is frowned upon and found mostly in the international clubs and pricier restaurants in [[Dhaka]] and in some restaurants in tourist centers like [[Cox's Bazar]]. In [[Teknaf]] and on [[Saint Martins Island]] you may stumble upon the occasional beer smuggled in from Myanmar. Some of the nicest hotels in the cities have fully equipped bars with exaggerated prices to match. However, lack of commercial availability of liquor should not always be confused with a cultural aversion to alcohol in mainstream society. You'll likely find that Bengali Christians and many urbanized, upper-class Muslims privately have a more liberal, Westernized attitude toward social consumption of alcohol. However, most 5 Star Hotels like Radisson, Ruposhi Bangla (Former Sheraton), Shonargoan, Regency and few clubs in Gulshan are arranging DJ / Dance parties on a frequent basis. Foreigners may bump into one of those parties if they are lucky. Usual entrance fees of such parties are around BDT 2000/- (USD 30). Young people of upper class and higher upper class of the society are the main portions of the formed crowd. However, in some places, western clothed hired companions are available. Foreigners looking for a clean vacation should stay away from them using common sense. dLequires does not flow freely in these parties most of the time.
+
+Purchasing alcohol is very hard (and expensive), so if you “need” a drink, or imagine you will do so, it is recommended to buy a bottle of duty-free to take with you.  There is a small duty-free shop before immigration in Dhaka Airport, although the selection is poor.  If you are visiting an expatriate in Bangladesh, ask if they would like some duty free….the answer will invariably be yes!
+
+'''Native homemade liquor''' such as Mohua or Choani can be bought from tribal people of the South-Eastern districts (Chittagong Hill Tracts) if you are visiting. Made from nectar, fruits or rice, these drinks are quite strong (Choani has two more varieties: Dochoani and Techoani, meaning they were distilled twice or thrice) and go well with the pork the natives cook.
+
+'''Coffee''' is -- like the rest of the world, a perennial middle-class 'Adda' (gossip) accompaniment in this city. In most places, instant coffee will be the best you can find.
+
+'''Tea''' is everywhere. Ask for red tea if you do not want milk.
+
+'''Fruit juices''' are plentiful, varied and delicious, though be wary of watered down or icy drinks and dirty blenders. Raw sugarcane juice is widely available during the hot season, and usually a safe, sanitary bet. Other safe bets are '''coconuts''', popular in the southeast tourists spots like [[Cox's Bazar]] and [[Saint Martins Island]].
+
+'''Soft Drinks''' are widely available.  Diet versions are limited to Coke or Pepsi, and are hard to find outside of supermarkets in Dhaka or Chittagong.
+
+==Do==
+
+Bangladesh is a large and densely populated country. However, the casual tourist may find it difficult to navigate this country, where tourism by Westerners is virtually unknown. Perhaps one of Bangladesh's greatest treasures are its people; the country is packed with friendly, honest, and amiable locals who are willing to spend time acquainting themselves with the passing tourist. Crowd of locals surrounding you to inquire about your home country, job, marital status, etc. may at first be disconcerting--but don't worry, the locals have good intentions. The people can be impressionable, so make sure to leave a positive impact.
+
+==Sleep==
+
+{{sleeppricerange|Tk 50-500|Tk 550-5000|Tk 5000+}} 	
+
+There's a broad range of hotels in the country, from economy hotels costing $1 per night (sometimes filthy and sometimes reluctant to take foreigners) up to 5-star hotels in some of the major cities.  Compared to nearby destinations (e.g. India and Thailand), the accommodation situation in Bangladesh is of a lower quality/standard, even if this is not reflected in the prices.  This is particularly noticeable in the 5* bracket, where international chains and local boutique hotels have very high prices on what would be 4* (or even 3*) hotels across the border.
+
+==Visit==
+
+Bangladesh is a country with lots of places to visit, many of which offer unforgettable experiences but remain relatively unknown to the rest of the world. 
+
+Dhaka (the Capital) is a pulsing, gritty conglomerate, one of the most densely populated cities in the world. It has a number of attractions for the tourists. They include, but are not limited to, the Lalbagh Quilla, Ahsan Manjil, Shaheed Minar, Boro Katra, Choto Katra, the National Museum, Jatiyo Songshad Bhaban (the Parliament Building) etc. The Suhrawardy Uddan and the Ramna Park are two parks that provide green respite to city dwellers. Other tourist attractions include places like Baitul Mukarram (National Mosque), the High Court Building, the Bangabandhu Museum, etc. If you're visiting only one thing, then the LalBagh Qilla fort is a must-see, in the older part of town. The older part of Dhaka, known as "Puran Dhaka", is literally a city of history, with hundred-year-old buildings crammed on each side of hundreds of narrow lanes. Each "Moholla" (city block) of Puran Dhaka is unique with its specialized shops and artisans and gives an authentic taste of what Dhaka is all about.
+
+The rest of Bangladesh is also ornamented with thousands of gems, most of which remain hidden and await exploration. The names are endless, but the prominent ones include, Moynamoti, Paharpur (Shompur Bihar), Mohasthangor, Kantajir Mondir, Ramshagor, Shatgombuj Mosque, Khanjahan Ali's Shrine, Shriti Shoudho etc. These sites offer architectures from various eras of the country's history, including Buddhist, Hindu and Muslim eras and date back thousand years.
+
+The natural beauty of Bangladesh can be explored away from the hustle and bustle of Dhaka, the Capital. ( Bangladesh has world longest unbroken Surfing beach in Cox's Bazaar ). Also, it has the largest mangrove forest in the world, the "Sundarbans" ("beautiful forests", named after the "Sundari" [beautiful] trees in it). The hill tracts of Rangamati, Khagrachori and "Bandarban" ("monkey forest") offer exciting trekking opportunities, while the Kaptai Lake (situated amongst the hills of Rangamati) can be considered a romantic getaway. The villages are the true countryside of Bangladesh and almost always have green paddy fields and yellow mustard fields with flowing rivers. Other natural wonders of Bangladesh include the Padma (Ganges) river, the Madhabkunda, Jaflong, the tea gardens of Sylhet/Sreemangal and Moulovibazar, etc. Recently Bangladesh Government has formed Tourist Police unit to better protect local and foreign tourists as well as look after the nature and wildlife in the tourist spots.
+
+==Work==
+'''Ministry of Expatriates' Welfare and Overseas Employment''', [http://probashi.gov.bd].
+'''Board of Investment''', [http://www.boi.gov.bd].
+'''Work permit in Bangladesh''', [https://resource.ogrlegal.com/work-permit-bangladesh].
+
+==Stay safe==
+
+Bangladesh is a country full of friendly and open minded people. But being a poor country with a high poverty rate, there are some impoverished or bad-natured people who may find ways to exploit a foreigner/tourist. Please stick to common sense precautions, such as not walking around unnecessarily or alone after dark. Also, if you do find yourself in trouble, create some noise and draw the attention of others who are almost certain to come to your aid. Foreigners, particularly Caucasian, will for the most part will be safe when walking around city streets as you will undoubtedly be watched by multiple curious locals at any one time.  When travelling by rickshaw, CNG (auto-rickshaw) or bus, be careful to keep valuables close at hand. Don't wear expensive jewellery without precaution; most middle-class locals now simply wear imitation gold/silver and rhinestones/clay and beaded pendants.
+
+Phone snatching is very common here. Don't exhibit your costly mobiles on the roads. Be careful in auto's also. Even the auto's are covered with iron grills, still many chances for cutting the side covers and pulling the valuables is common practice by the chain snatchers. 
+
+The clothing of local women varies, according to religion and degree of religious conservatism, socio-political climate (varies from time to time), geographic region, and socio-economic status. In general, as a female tourist, it is wisest to wear at least the salwar kameez, which is both easy to wear and relatively versatile and functional, while being generally culturally respectful. However, most of Bangladesh is a relatively open-minded Muslim country, and the youth in major cities (e.g.: Dhaka, Chittagong, etc.) are quite Westernized.
+
+Nationwide strikes or “hartals” are widely employed as a means of political expression in Bangladesh. The political opposition over the past several years has called a number of these hartals, resulting in the virtual shutdown of transportation and commerce, and sometimes attacks on individuals who do not observe the hartals. Clashes between rival political groups during hartals have resulted in deaths and injuries. Visitors should avoid all political protests, demonstrations, and marches.  During hartals, visitors should exercise caution in all areas and remain indoors whenever possible. Hartals, demonstrations, and other protests can occur at ANY time.
+
+It's best to not eat, drink or smoke anything offered to you by strangers - there's a growing problem in many Asian countries of drugging, and you're likely to see signs warning you against it on buses, trains, etc. That's not to say you shouldn't take someone up on their offer for a home cooked meal, but you may want to think twice about that piece of candy the person in the seat next to you just handed to you. Also, be careful about the sanitation procedures of local street food and snacks.
+
+Speeding bus/coaches/trucks cause many deaths. Road signs and traffic lights are often ignored by cars, and traffic jams are always a given, making it very difficult for pedestrians to travel. It is wisest NOT to drive yourself or to walk major roads alone. Consequently, road travel (if absolutely necessary) is best undertaken with an experienced local driver in a good vehicle with safety belts. Use rickshaws with precaution; although a very authentic local drive, it is also the most dangerous vehicle for transport, especially on major routes (now being banned).
+
+Be aware of the weather, especially during the spring and fall.  Bangladesh has a similar climate to the Southeastern United States.  This, unfortunately, includes severe thunderstorms and violent tornadoes that can appear suddenly and without warning.
+
+==Stay healthy==
+
+* '''Bottled water''' is recommended, as the tap water is often unsafe for foreign stomachs, and some hand-drawn tube wells are contaminated with naturally occurring arsenic. This will easily pass through filters designed only to screen out bacteria. A more environmentally friendly option is to boil your own water, or use purifying tablets.  However, nothing short of distillation will remove arsenic.
+
+* It's also wise to use discretion when eating from '''street vendors''' - make sure it's freshly cooked and hot.
+
+* [[Mosquitoes]] can be abundant in some areas and cities, especially during the rainy and humid seasons, and nets covering your bed at night are often provided, even in some of the cheapest hotels and in all households.
+
+* Consult your travel doctor about precautions against [[malaria]] and [[Tropical_diseases#Water_.28or_contaminated_food.29|typhoid fever]]. Get vaccinated and take preventive and curative medication with you before you go.
+
+* '''Pollution''' can be a problem, and in some of the cities like [[Dhaka]] and [[Chittagong]] you may wish you'd brought along an oxygen tank. While some effort has been shown recently to clean up the country such as the banning of plastic bags, there's still a long way to go and most people use the many waterways as garbage dumps - it would be unwise to swim in most of the rivers and downright senseless in a lake.
+
+==Respect==
+
+{{infobox|Amar dike takaben na!|Foreign tourists are still very much a novelty to many Bangladeshis: kids see you as a toy to play with, while others see you as their opportunity to practice their English with endless enthusiasm. Most however, are content to just look... and look... and look. If it becomes too much, ''Amar dike takaben na'' roughly means "please stop staring at me!"... but use the exclamation sparingly, since most Bangladeshis will think they are favouring you by admiring you so much publicly.}}
+
+Most Bangladeshis are religious but fairly liberal and secular points of view are not uncommon. The people are in general very hospitable, and a few precautions will keep it this way:
+
+* As in most neighbouring countries, the left hand is considered unclean and is used for toilet duties, removing shoes, etc. Hence, always use your right hand to offer or receive anything, and to bring food to your mouth.
+
+* Men, especially strangers and foreigners, should never attempt to shake hands with or touch local women &mdash; simply put your hand on your heart and bow slightly to greet.
+
+* Women travelling without men may find it slightly harder to get an auto-rickshaw driver who will take them to their destination. 
+
+* Mosques are sometimes off-limits to non-Muslims and certain areas of them off-limits to women. Inquire with someone at the mosque before entering and before taking any pictures. Cover your head and arms and legs, and take off your shoes before entering.
+
+* Standing from your seat and bowing slightly to greet elderly individuals will gain you respect and social approval. Do not refer to your elders or those in socially senior positions to you (i.e.: doctors, professors/teachers, religious leaders, etc.) by their first names; this is considered extremely rude and utmostly derogatory. Children do not call their parents by their first or last names, and in some regions of the country, wives do not call their husbands by their first names either.
+
+* Keep in mind that Bangladesh sees only a tiny number of foreign visitors, and most locals will be genuinely curious about you, watching your every move and expression. Don't underestimate how impressionable some can be, make sure you're leaving good ones!
+
+* Also keep in mind, that whenever you enter someone's home, open your shoes before you enter. Wearing shoes into someone's home is considered extremely rude and insulting.
+
+==Cope==
+===Electricity===
+
+Electricity is 220V 50Hz. There are three types of electrical outlets likely to be found in Bangladesh &mdash; the old British standard BS-546, the newer British standard BS-1363 and the European standard CEE-7/16 "Europlug". It's wise to pack adapters for all three.
+
+===Clothing===
+
+Most women wear either a sari or a salwar kameez [an easy/ready-to-wear, three-piece outfit, with a knee-length tunic ("kameez"), pants ("salwar") and a matching scarf ("urna")]. Foreign women may want to consider wearing at least the salwar kameez, out of general cultural respect. Having said this, rapid westernization has changed how modern city dwellers dress, especially the upper class. Jeans, shirts and t-shirts are common among the younger generation, although remember it's polite to keep your shoulders, chest and legs covered. This also goes for men – shorts are worn only by young boys, and undershirts are worn alone (without a shirt covering it) only by the lowest class in public.
+
+===Shaving===
+
+Men can easily leave their razors at home and rely on the ever-present barber shops where a basic shave will run around Tk 10-20. Make sure they use a new blade, though you won't usually have to ask. "Deluxe" shaves will run around double price and barbers will often assume foreign tourists want this, so be clear if you're just after a quick shave and don't want the dubious massage and forehead/nose shaving.
+
+===Tipping===
+
+In upscale restaurants around 7% is expected, but outside of these at informal food joints and with street food vendors, it's the exception not the rule. Consider tipping the driver and delivery men modestly.
+
+===News===
+* '''Prothom Alo''', [http://www.prothom-alo.com/].
+
+* '''The Daily Star''', [http://www.thedailystar.net].
+
+* '''The Bangladesh Observer''', [http://www.bangladeshobserveronline.com].
+
+* '''The News Today''', [http://www.newstoday-bd.com]
+
+* '''The New Nation''', [http://nation.ittefaq.com/artman/publish]
+* '''Bijoy Barta 24''', [http://bijoybarta24.com/]
+
+===FM Radio Stations===
+* ABC Radio (Dhaka) - 89.2 MHz [http://www.abcradiobd.net]
+* Radio Foorti-88.0 MHz (Dhaka), 98.4 MHz (Chittagong), 89.8 MHz (Sylhet) [http://www.radiofoorti.fm]
+* Radio Today- 89.6 MHz(Dhaka), 88.6MHz(Chittagong) [http://www.radiotodaybd.fm]
+* Radio Aamar 88.4 MHz(Dhaka)
+* Bangladesh Betar (Relays BBC World Service) - 100.00 MHz
+
+===Overseas Embassies===
+
+* '''Washington D.C.''', 3510 International Drive NW, [http://www.bangladoot.org].
+
+==Contact==
+
+===Telephone===
+
+The country code for Bangladesh is '''880'''. Add a '''0''' to make a call to any Bangladesh city or region outside the national capital.
+
+It is not possible to access  international information (directory assistance) from within Bangladesh.  If you need international directory assistance, check the Internet telephone directories.
+
+'''Landlines''' are a rarity in Bangladesh, and aren't reliable even when you can find them. Bangladesh Telephone Company Ltd. (BTCL or formerly BTTB, known generally as T&T) is the public sector phone company and the only landline service in the country.
+
+'''Mobile phones''' are a better bet and widely available. In most towns they'll be your only option, and many shop owners let theirs double as PCO's / ISD's.  Banglalink [http://www.banglalinkgsm.com/] and Grameenphone [http://www.grameenphone.com/] are the most widely available, followed by Citycell [http://www.citycell.com/],  Robi [http://www.robi.com.bd/], Teletalk [http://www.teletalk.com.bd/] and Airtel [http://www.airtel.com.bd/]. Except Citycell all work on the GSM network and offer prepaid packages at reasonable prices &ndash; usually about Tk 140 ($2) to get started. International calls are possible, and often more reasonably priced than you would expect if you're calling the US or major European countries although prices can rise drastically as you get more off the beaten path. E-ISD facility offered by different mobile phone service providers can reduce the cost significantly. For the E-ISD service dial 012 instead of 00/+.
+
+===Internet===
+'''Internet''' is available in most of the larger towns, with prices hovering around Tk 15-20/hour. Most are on broadband connections, but speed does not meet international standards.  WiMAX service is now available from some internet service providers. You can also find Wi-Fi connectivity in some places around the big cities.
+
+'''Internet calls''' may be be possible, though the Information Ministry has outlawed them.  Try Dialpad [http://dialpad.com], Hotelphone [http://hottelephone.com], Mediaring [http://www.mediaring.com/pdtnsvcs/pcphone/index.html] or Skype [http://www.skype.com]. You'll likely need your own microphone/headphone.
+
+
+{{isPartOf|Southeast_Asia}}
+{{usablecountry}}
+
+[[de:Bangladesch]]
+[[eo:Bangladeŝo]]
+[[es:Bangladesh]]
+[[fi:Bangladesh]]
+[[fr:Bangladesh]]
+[[hi:बंग्लादेश]]
+[[hu:Banglades]]
+[[it:Bangladesh]]
+[[ja:バングラデシュ]]
+[[nl:Bangladesh]]
+[[pl:Bangladesz]]
+[[pt:Bangladesh]]
+[[ru:Бангладеш]]
+[[sv:Bangladesh]]
+[[wts:Category:Bangladesh]]
+
+
+[[WikiPedia:Bangladesh]]
+[[Dmoz:Asia/Bangladesh/]]
+[[World66:asia/southasia/bangladesh]]
+
+{{related|Sacred_sites_of_the_Indian_sub-continent}}

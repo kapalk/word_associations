@@ -1,0 +1,856 @@
+{{pp-move|small=yes}}
+{{short description|Country comprising ten islands off the Northwest coast of Africa}}
+{{other uses|Cabo Verde (disambiguation)|Cape Verde (disambiguation)}}{{Use dmy dates|date=May 2018}}
+{{Infobox country
+|conventional_long_name = Republic of Cabo Verde
+|native_name = ''República de Cabo Verde'' {{resize|70%|([[Portuguese language|Portuguese]])}}
+|name = ''Repúblika di Kabu Verdi '' {{resize|70%|([[Cape Verdean Creole]])}}
+|common_name = Cape Verde <!-- This field is not visible to the reader, it provides codes for page links. It should not be changed to Cabo Verde unless the actual pages are moved. -->
+|image_flag = Flag of Cape Verde.svg
+|image_coat = Coat of arms of Cape Verde.svg
+|symbol_type = National emblem
+|image_map = Location Cape Verde AU Africa.svg
+|map_caption = {{map caption |countryprefix= |location_color=dark blue |region=Africa |region_color=dark grey |subregion=the [[African Union]] |subregion_color=light blue}}
+|national_motto = {{vunblist|{{native phrase|pt|Unidade, Trabalho, Progresso|italics=on|nolink=off}} |{{small|({{lang-en|"Unity, Work, Progress"}})}}}}
+|national_anthem = {{native name|pt|[[Cântico da Liberdade]]|nolink=yes}}<br/>{{small|''Chant of Freedom''}}<br/><center></center>
+|official_languages = [[Portuguese language|Portuguese]]<ref name=":0"/>
+|national_languages = [[Cape Verdean Creole]]<ref name=":0"/>
+|capital = [[Praia]]
+|coordinates={{coord|14| 55| N |23 |31 |W|display=inline}}
+|largest_city = capital
+|demonym = [[Cape Verdeans|Cape Verdean]] or Cabo Verdean<ref>{{cite web |url = https://www.state.gov/secretary/remarks/2014/07/228873.htm |title = On the Occasion of the Republic of Cabo Verde's National Day |author = John Kerry |author-link = John Kerry |publisher = U.S. Department of State |date = 8 July 2014 |accessdate = 11 July 2014 |quote = On behalf of President Obama and the people of the United States, I send best wishes to Cabo Verdeans as you celebrate 39 years of independence on July 5. |archive-url = https://web.archive.org/web/20140712170642/http://www.state.gov/secretary/remarks/2014/07/228873.htm |archive-date = 12 July 2014 |dead-url = yes |df = dmy-all }}</ref>
+|ethnic_groups_year = 2017<ref name="race">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html|title=People and Society – Cape Verde|accessdate=27 August 2017|archive-url=https://www.webcitation.org/6MjBNW9o0?url=https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html#|archive-date=18 January 2014|dead-url=no|df=dmy-all}}</ref>
+|government_type = {{nowrap|[[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]]}} [[republic]]<ref name="SpL">{{cite journal|last1=Neto|first1=Octávio Amorim|last2=Lobo|first2=Marina Costa|year=2010|ssrn=1644026|title=Between Constitutional Diffusion and Local Politics: Semi-Presidentialism in Portuguese-Speaking Countries|journal=|publisher=[[Social Science Research Network]]|issue=}}</ref>
+|leader_title1 = [[President of Cape Verde|President]]
+|leader_name1 = [[Jorge Carlos Fonseca]]
+|leader_title2 = [[Prime Minister of Cape Verde|Prime Minister]]
+|leader_name2 = [[Ulisses Correia e Silva]]
+|legislature = [[National Assembly (Cape Verde)|National Assembly]]
+|area_rank = 166th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+|area_km2 = 4033
+|area_sq_mi = 1,557 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = negligible
+|population_estimate = {{UN_Population|Cabo Verde}}{{UN_Population|ref}}
+|population_estimate_rank = 167th <!-- UN WPP -->
+|population_estimate_year = {{UN_Population|Year}}
+|population_density_km2 = 123.7
+|population_density_sq_mi = 325.0 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 89th
+|GDP_PPP = $3.649 billion<ref name=imf2>{{cite web |url = http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=9&c=614%2C668%2C638%2C674%2C616%2C676%2C748%2C678%2C618%2C684%2C624%2C688%2C622%2C728%2C626%2C692%2C628%2C694%2C632%2C714%2C636%2C716%2C634%2C722%2C662%2C718%2C642%2C724%2C643%2C199%2C644%2C733%2C646%2C734%2C648%2C738%2C652%2C742%2C656%2C746%2C654%2C754%2C664%2C698%2C666&s=NGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title = Burundi |publisher = International Monetary Fund |accessdate = 13 January 2015 |archive-url = https://web.archive.org/web/20160407230310/http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=9&c=614%2C668%2C638%2C674%2C616%2C676%2C748%2C678%2C618%2C684%2C624%2C688%2C622%2C728%2C626%2C692%2C628%2C694%2C632%2C714%2C636%2C716%2C634%2C722%2C662%2C718%2C642%2C724%2C643%2C199%2C644%2C733%2C646%2C734%2C648%2C738%2C652%2C742%2C656%2C746%2C654%2C754%2C664%2C698%2C666&s=NGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=# |archive-date = 7 April 2016 |dead-url = no |df = dmy-all }}</ref>
+|GDP_PPP_year = 2016
+|GDP_PPP_per_capita = $6,867<ref name=imf2/>
+|GDP_nominal = $1.747 billion<ref name=imf2/>
+|GDP_nominal_year = 2016
+|GDP_nominal_per_capita = $3,287<ref name=imf2/>
+|sovereignty_type = Formation
+|established_event1 = Discovery
+|established_date1 = 1460
+|established_event2 = Independence from [[Portugal]]
+|established_date2 = 5 July 1975
+|established_event3 = [[Multi-party system]]
+|established_date3 = 13 January 1990
+|Gini_year = 2008
+|Gini_change = <!--increase/decrease/steady-->
+|Gini = 47.2
+|Gini_ref = <ref name="gini-index">{{cite web |title = GINI index |url = http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2 |publisher = World Bank |accessdate = 26 July 2013 |archive-url = https://web.archive.org/web/20131220051710/http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2# |archive-date = 20 December 2013 |dead-url = no |df = dmy-all }}</ref>
+|Gini_rank =
+|HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year -->
+|HDI_change = increase<!--increase/decrease/steady-->
+|HDI = 0.654 <!-- number only -->
+|HDI_ref = <ref name="HDI">{{cite web |url = http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf |title = 2016 Human Development Report |date = 2016 |accessdate = 21 March 2017 |publisher = United Nations Development Programme |archive-url = https://web.archive.org/web/20170718200510/http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf# |archive-date = 18 July 2017 |dead-url = no |df = dmy-all }}</ref>
+|HDI_rank = 125th
+|currency = [[Cape Verdean escudo]]
+|currency_code = CVE
+|time_zone = [[Cape Verde Time|CVT]]
+|utc_offset = -1
+|time_zone_DST = ''not observed''
+|utc_offset_DST = -1
+|drives_on = right
+|calling_code = [[+238]]
+|cctld = [[.cv]]
+}}
+
+'''Cape Verde''' ({{IPAc-en|audio=En-Cape Verde-pronunciation.ogg|ˈ|v|ɜːr|d|(|i|)}}) or '''Cabo Verde''' ({{IPAc-en|audio=En-Cabo Verde-pronunciation.ogg|ˌ|k|ɑː|b|oʊ|_|ˈ|v|ɜːr|d|eɪ}}, {{IPAc-en|ˌ|k|æ|b|-}}) ({{lang-pt|Cabo Verde}}, {{IPA-pt|ˈkabu ˈveɾdɨ|pron}}), officially the '''Republic of Cabo Verde''',<ref name="NameNatGeo">{{cite web |url = http://news.nationalgeographic.com/news/2013/12/131212-maps-cabo-verde-cartography-science-cape-verde-africa/ |title = Cape Verde Gets New Name: 5 Things to Know About How Maps Change |author = Tanya Basu |publisher = National Geographic |date = 12 December 2013 |accessdate = 12 December 2013 |archive-url = https://web.archive.org/web/20131213044150/http://news.nationalgeographic.com/news/2013/12/131212-maps-cabo-verde-cartography-science-cape-verde-africa/# |archive-date = 13 December 2013 |dead-url = no |df = dmy-all }}</ref> is an [[island country]] spanning an [[archipelago]] of 10 [[High island|volcanic islands]] in the central [[Atlantic Ocean]]. It forms part of the [[Macaronesia]] [[ecoregion]], along with the [[Azores]], [[Canary Islands]], [[Madeira]], and the [[Savage Isles]]. In ancient times these islands were referred to as "the Islands of the Blessed" or the "Fortunate Isles". Located {{convert|570|km|mi}} west of the [[Cape Verde Peninsula]] off the coast of [[Northwest Africa]], the islands cover a combined area of slightly over {{convert|4000|km2|sqmi}}.
+
+The Cape Verde archipelago was uninhabited until the 15th century, when [[Portuguese Empire|Portuguese]] explorers discovered and [[Colony|colonized]] the islands, establishing the first European settlement in the tropics. Ideally located for the [[Atlantic slave trade]], the islands grew prosperous throughout the 16th and 17th centuries, attracting merchants, [[privateer]]s, and [[Piracy|pirates]]. The end of slavery in the 19th century led to economic decline and emigration. Cape Verde gradually recovered as an important commercial center and stopover for shipping routes. Incorporated as an overseas department of Portugal in 1951, the islands continued to campaign for independence, which was peacefully achieved in 1975.
+
+Since the early 1990s, Cape Verde has been a stable [[representative democracy]], and remains one of the most developed and democratic countries in Africa. Lacking natural resources, its developing economy is mostly service-oriented, with a growing focus on tourism and foreign investment. Its population of around 540,000 is mostly of mixed European, [[Moorish]], [[Arab]] and African heritage, and predominantly Roman Catholic, reflecting the legacy of Portuguese rule. A [[Cape Verdean diaspora|sizeable diaspora community]] exists across the world, slightly outnumbering inhabitants on the islands.
+
+Historically, the name "Cape Verde" has been used in English for the archipelago and, since independence in 1975, for the country. In 2013, the Cape Verdean government determined that the Portuguese designation ''Cabo Verde'' would henceforth be used for official purposes, such as at the [[United Nations]], even in English contexts. <!--The name used in this article should not be changed unless and until there is a consensus to do so, based on changes in general English-language usage. The issue can be discussed on the talkpage, although unnecessary repetition should be avoided. --> Cape Verde is a member of the [[African Union]].
+
+== Etymology ==
+
+The name of the country stems from the nearby [[Cap-Vert]], on the [[Senegal]]ese coast.<ref>Lobban, [https://books.google.com/books?id=K8KA40g7vnQC&pg=PA4 p. 4].</ref> In 1444, Portuguese explorers had named that landmark as ''Cabo Verde,'' a few years before they discovered the islands (''Verde'' is [[Portuguese language|Portuguese]] for "green").
+
+On 24 October 2013, the country's delegation announced at the United Nations that the official name should no longer be translated into other languages. Instead of "Cape Verde", the designation "Republic of Cabo Verde" is to be used.<ref name="NameNatGeo"/><ref>{{cite web |title = Cabo Verde põe fim à tradução da sua designação oficial |url = http://www.panapress.com/Cabo-Verde-poe-fim-a-traducao-da-sua-designacao-oficial--3-885656-47-lang4-index.html |date = 31 October 2013 |accessdate = 17 December 2013 |publisher = Panapress |language = Portuguese |trans-title = Cabo Verde puts an end to translation of its official designation |archive-url = https://web.archive.org/web/20131217224228/http://www.panapress.com/Cabo-Verde-poe-fim-a-traducao-da-sua-designacao-oficial--3-885656-47-lang4-index.html# |archive-date = 17 December 2013 |dead-url = no |df = dmy-all }}</ref>
+
+== History ==
+{{Main|History of Cape Verde}}
+[[File:Insulae Capitis viridis-1598.jpg|thumb|upright=1.15|''Insulae Capitis Viridis'' (1598), showing Cape Verde]]
+Before the arrival of Europeans, the Cape Verde Islands were uninhabited.<ref>{{cite web|title=História|url=http://www.governo.cv/|website=governo|accessdate=28 May 2017|archive-url=https://web.archive.org/web/20131105202959/http://www.governo.cv/#|archive-date=5 November 2013|dead-url=no|df=dmy-all}}</ref> The islands of the Cape Verde archipelago were discovered by [[Genoa|Genoese]] and Portuguese [[navigator]]s around 1456. According to Portuguese official records,<ref>''Carta regia'' (royal letter) of 19 September 1462</ref> the first discoveries were made by [[Genoa]]-born [[António de Noli]], who was afterwards appointed governor of Cape Verde by Portuguese [[Afonso V of Portugal|King Afonso V]]. Other navigators mentioned as contributing to discoveries in the Cape Verde archipelago are [[Diogo Gomes]] (who was with António de Noli and claimed to have been the first to land on and name Santiago island), [[Diogo Dias]], Diogo Afonso and the Italian (Venice-born) [[Alvise Cadamosto]].
+
+In 1462, Portuguese settlers arrived at [[Santiago, Cape Verde|Santiago]] and founded a settlement they called Ribeira Grande (now called [[Cidade Velha]] ("Old City"), to avoid being confused with the town of [[Ribeira Grande, Cape Verde|Ribeira Grande]] on the [[Santo Antão, Cape Verde|Santo Antão]] island). Ribeira Grande was the first permanent European settlement in the [[tropics]].<ref name=bn>[https://www.state.gov/r/pa/ei/bgn/2835.htm Cape Verde background note] {{Webarchive|url=https://web.archive.org/web/20170623233757/https://www.state.gov/r/pa/ei/bgn/2835.htm# |date=23 June 2017 }}. [[United States Department of State]] (July 2008).</ref>
+[[File:Mindelo-MontCara2000.jpg|thumb|upright=1.15|left|A view of [[Monte Cara]] from [[Mindelo]]]]
+
+In the 16th century, the archipelago prospered from the [[Atlantic slave trade]].<ref name=bn/> Pirates occasionally attacked the Portuguese settlements.  [[Francis Drake]], an English [[privateer]], twice sacked the (then) capital [[Cidade Velha|Ribeira Grande]] in 1585 when it was a part of the [[Iberian Union]].<ref name=bn/> After a French attack in 1712, the town declined in importance relative to nearby [[Praia]], which became the capital in 1770.<ref name=bn/>
+
+Decline in the slave trade in the 19th century resulted in an economic crisis. Cape Verde's early prosperity slowly vanished. However, the islands' position astride mid-Atlantic shipping lanes made Cape Verde an ideal location for re-supplying ships. Because of its excellent harbour, the city of [[Mindelo]], located on the island of [[São Vicente, Cape Verde|São Vicente]], became an important commercial centre during the 19th century.<ref name=bn/> Diplomat [[Edmund Roberts (diplomat)|Edmund Roberts]] visited Cape Verde in 1832.<ref name=Roberts>{{cite book |last = Roberts |first = Edmund |title = Embassy to the Eastern Courts of Cochin-China, Siam, and Muscat |year = 1837 |publisher = Harper & Brothers |location = New York |page = 17 |url = http://www.wdl.org/en/item/7317/view/1/17/ |access-date = 10 October 2013 |archive-url = https://web.archive.org/web/20131109011955/http://www.wdl.org/en/item/7317/view/1/17/# |archive-date = 9 November 2013 |dead-url = no |df = dmy-all }}</ref>
+[[File:Garthpool SLV AllanGreen.jpg|thumb|upright=1.15|Grain ship ''Garthpool'', wrecked at Boavista, Cape Verde, in 1928]]
+With few natural resources and inadequate sustainable investment from the Portuguese, the citizens grew increasingly discontented with the colonial masters, who nevertheless refused to provide the local authorities with more autonomy. In 1951, Portugal changed Cape Verde's status from a colony to an overseas province in an attempt to blunt growing [[nationalism]]. In 1956, [[Amílcar Cabral]] and a group of fellow Cape Verdeans and Guineans organised (in [[Portuguese Guinea]]) the clandestine [[African Party for the Independence of Guinea and Cape Verde]] (PAIGC).<ref name=bn/>
+
+It demanded improvement in economic, social and political conditions in Cape Verde and Portuguese Guinea and formed the basis of the two nations' independence movement. Moving its headquarters to [[Conakry]], Guinea in 1960, the PAIGC began an armed rebellion against Portugal in 1961. Acts of sabotage eventually grew into a [[Guinea-Bissau War of Independence|war in Portuguese Guinea]] that pitted 10,000 [[Eastern Bloc|Soviet Bloc]]-supported PAIGC soldiers against 35,000 Portuguese and African troops.<ref name=bn/>
+
+By 1972, the PAIGC controlled much of Portuguese Guinea despite the presence of the Portuguese troops, but the organization did not attempt to disrupt Portuguese control in Cape Verde. Portuguese Guinea declared independence in 1973 and was granted [[de jure]] independence in 1974. A budding independence movement&nbsp;— originally led by [[Amílcar Cabral]], assassinated in 1973&nbsp;— passed on to his half-brother [[Luís Cabral]] and culminated in independence for the archipelago in 1975.
+
+=== Independence (1975) ===
+[[File:Stamps of Germany (DDR) 1978, MiNr 2293.jpg|thumb|left|[[Amílcar Cabral]] on a stamp of the former [[East Germany]]]]
+Following the [[Carnation Revolution|April 1974 revolution in Portugal]], the PAIGC became an active political movement in Cape Verde. In December 1974, the PAIGC and Portugal signed an agreement providing for a transitional government composed of Portuguese and Cape Verdeans. On 30 June 1975, Cape Verdeans elected a National Assembly which received the instruments of independence from Portugal on 5 July 1975.<ref name=bn/> In the late 1970s and 1980s, most African countries prohibited [[South African Airways]] from overflights but Cape Verde allowed them and became a centre of activity for the airline's flights to Europe and the United States.
+
+Immediately following the [[History of Guinea-Bissau#Independence from Portugal|November 1980 coup in Guinea-Bissau]], relations between Cape Verde and Guinea-Bissau became strained. Cape Verde abandoned its hope for unity with Guinea-Bissau and formed the [[African Party for the Independence of Cape Verde]] (PAICV). Problems have since been resolved and [[Cape Verde–Guinea-Bissau relations|relations between the countries]] are good. The PAICV and its predecessor established a one-party system and ruled Cape Verde from independence until 1990.<ref name=bn/>
+
+Responding to growing pressure for pluralistic democracy, the PAICV called an emergency congress in February 1990 to discuss proposed constitutional changes to end one-party rule. Opposition groups came together to form the [[Movement for Democracy (Cape Verde)|Movement for Democracy]] (MPD) in Praia in April 1990. Together, they campaigned for the right to contest the presidential election scheduled for December 1990.
+
+The one-party state was abolished 28 September 1990, and the first multi-party elections were held in January 1991. The MPD won a majority of the seats in the National Assembly, and MPD presidential candidate [[António Mascarenhas Monteiro]] defeated the PAICV's candidate with 73.5% of the votes. Legislative elections in December 1995 increased the MPD majority in the National Assembly. The party won 50 of the National Assembly's 72 seats.
+
+A February 1996 presidential election returned President Monteiro to office. Legislative elections in January 2001 returned power to the PAICV, with the PAICV holding 40 of the National Assembly seats, MPD 30, and [[Party for Democratic Convergence]] (PCD) and [[Labour and Solidarity Party]] (PTS) 1 each. In February 2001, the PAICV-supported presidential candidate [[Pedro Pires]] defeated former MPD leader [[Carlos Veiga]] by only 13 votes.<ref name=bn/>
+{{clear}}
+
+== Politics ==
+{{Main|Politics of Cape Verde}}
+[[File:Jorge Carlos Fonseca with Obamas 2014.jpg|thumb|upright=1.15|Cape Verdean President [[Jorge Carlos Fonseca]] and [[Ligia Fonseca]] meet with the US President [[Barack Obama]] and [[Michelle Obama]] in 2014.]]
+[[File:CV-praia-just-pal.jpg|thumb|right|250px|''Palácio da Justiça'' - Palace of Justice, in Praia]]
+
+Cape Verde is a stable [[Semi-presidential system|semi-presidential]] [[Representative democracy|representative democratic]] [[republic]].<ref name="SpL"/><ref name=constitution>{{cite web |url = http://confinder.richmond.edu/admin/docs/CapeVerde.pdf |title = Constitution of Cape Verde |year = 1992 |accessdate = 20 March 2011 |archive-url = https://web.archive.org/web/20110713081027/http://confinder.richmond.edu/admin/docs/CapeVerde.pdf# |archive-date = 13 July 2011 |dead-url = no |df = dmy-all }}</ref> It is among the most democratic nations in Africa, ranking 26th in the world, according to the ''2018 [[Democracy Index]]''.<ref>{{Cite web|url=https://www.eiu.com/Handlers/WhitepaperHandler.ashx?fi=Democracy_Index_2018.pdf&mode=wp&campaignid=Democracy2018|title=Democracy Index 2018: Me Too?|last=The Economist Intelligence Unit|first=|date=8 January 2019|website=The Economist Intelligence Unit|archive-url=|archive-date=|dead-url=|access-date=13 January 2019}}</ref> The [https://www.constituteproject.org/constitution/Cape_Verde_1992?lang=en constitution]&nbsp;— adopted in 1980 and revised in 1992, 1995 and 1999&nbsp;— defines the basic principles of its government. The [[President of Cape Verde|president]] is the [[head of state]] and is elected by [[Direct election|popular vote]] for a 5-year term.<ref name=bn/>
+
+The [[Prime Minister of Cape Verde|prime minister]] is the [[head of government]] and proposes other ministers and secretaries of state. The prime minister is nominated by the [[National Assembly (Cape Verde)|National Assembly]] and appointed by the president.{{Citation needed|date=September 2016}} Members of the National Assembly are elected by popular vote for 5-year terms. Three parties now hold seats in the National Assembly&nbsp;— MPD (36), PAICV (25) and the Cape Verdean Independent Democratic Union (UCID) (3).<ref name="yahoo.com">{{cite web |url = https://www.yahoo.com/news/opposition-returns-power-cape-verde-15-years-010219999.html |title = Opposition returns to power in Cape Verde after 15 years |website = www.yahoo.com |access-date = 1 April 2016 |archive-url = https://web.archive.org/web/20160413001541/https://www.yahoo.com/news/opposition-returns-power-cape-verde-15-years-010219999.html# |archive-date = 13 April 2016 |dead-url = no |df = dmy-all }}</ref>
+
+The judicial system consists of a Supreme Court of Justice&nbsp;— whose members are appointed by the president, the National Assembly, and the Board of the Judiciary&nbsp;— and regional courts. Separate courts hear civil, constitutional, and criminal cases. Appeal is to the Supreme Court.<ref name=bn/>
+
+The two main political parties are PAICV and MPD.<ref name="yahoo.com"/>
+
+===Foreign relations===
+{{Further|Foreign relations of Cape Verde}}
+[[File:Cape Verdean embassies.PNG|thumb|upright=1.15|left|Map of countries with Cape Verdean embassies]]
+Cape Verde follows a policy of [[Non-Aligned Movement|nonalignment]] and seeks cooperative relations with all friendly states.<ref name=bn/> [[Angola]], [[Brazil]], [[China]], [[Libya]], [[Cuba]], [[France]], [[Germany]], [[Portugal]], [[Spain]], [[Senegal]], [[Russia]], [[Luxembourg]], and the [[United States]] maintain embassies in Praia.<ref name= bn/> Cape Verde is actively interested in foreign affairs{{clarify|date=November 2016}}, especially in Africa.<ref name= bn/>
+
+Cape Verde is a founding member state of the [[Community of Portuguese Language Countries]] (CPLP), also known as the Lusophone Commonwealth, and international organization and political association of [[Lusophone]] nations across four continents, where [[Portuguese language|Portuguese]] is an official language.
+
+Cape Verde has [[Bilateralism|bilateral relations]] with some [[Lusophone]] nations and holds membership in a number of international organisations.<ref name=bn/> It also participates in most international conferences on economic and political issues.<ref name=bn/> Since 2007, Cape Verde has a ''special partnership'' status<ref>{{cite news| last= Percival| first= Debra| title= Cape Verde-EU 'Special Partnership' takes shape|url=http://www.acp-eucourier.info/Newsview.79.0.html?tx_ttnews%5Btt_news%5D=507&tx_ttnews%5BbackPid%5D=6&cHash=6032424471|work=[[The Courier (ACP-EU)|The Courier]]|publisher=[[European Commission]]|archiveurl=https://web.archive.org/web/20110511233031/http://www.acp-eucourier.info/Newsview.79.0.html?&tx_ttnews%5Btt_news%5D=507&tx_ttnews%5BbackPid%5D=6&cHash=6032424471|archivedate=11 May 2011|date=25 May 2008|df=}}</ref> with the [[European Union|EU]], under the [[Cotonou Agreement]], and might apply for [[Cape Verde–European Union relations#Membership|special membership]], even because the [[Cape Verdean escudo]], the country's currency, is indexed to the [[Euro]].<ref>{{cite web |url = http://www.eubusiness.com/Portugal/050507114923.9ivv9852/ |title = Cape Verde could seek EU membership this year |publisher = Eubusiness.com |accessdate = 26 June 2010 |archive-url = https://web.archive.org/web/20090707013625/http://www.eubusiness.com/Portugal/050507114923.9ivv9852# |archive-date = 7 July 2009 |dead-url = no |df = dmy-all }}</ref> In 2011 Cape Verde ratified the [[Rome Statute of the International Criminal Court]].<ref>{{cite web| url= http://www.icc-cpi.int/NR/exeres/D7A59C22-56B6-4E8F-A451-BB737DEEC225.htm| website= icc-cpi.int| title= Cape Verde becomes the 119th State to join the Rome Statute system| date= 13 October 2011 |deadurl= yes |publisher= International Criminal Court |archiveurl= https://web.archive.org/web/20111017135201/http://www.icc-cpi.int/NR/exeres/D7A59C22-56B6-4E8F-A451-BB737DEEC225.htm| archivedate= 17 October 2011}}</ref>
+
+===Military===
+{{Main|Cape Verdean Armed Forces}}
+[[File:Marins du Cap-Vert en 2011.jpg|thumb|Marines of the Cape Verdean Coast Guard]]
+The [[Cape Verdean Armed Forces|military of Cape Verde]] consists of the National Guard and the Coast Guard; 0.7% of the country's GDP was spent on the military in 2005.
+
+Having fought their only [[Guinea-Bissau War of Independence|war for independence]] against Portugal between 1974 and 1975, the efforts of the Caboverdean Armed Forces have now been turned to combating international drug trafficking. In 2007, together with the [[Law enforcement in Cape Verde|Cape Verdean Police]], they carried out Operation Flying Launch (''Operacão Lancha Voador''a), a successful operation to put an end to a drug trafficking group which smuggled cocaine from [[Colombia]] to the [[Netherlands]] and [[Germany]] using the country as a reorder point. The operation took more than three years, being a secret operation during the first two years, and ended in 2010.
+
+Although located in Africa, Cape Verde has always had close relations with Europe. Because of this, some scholars argue that Cape Verde may be eligible to join the [[Organization for Security and Co-operation in Europe]] and [[NATO]].<ref>{{cite web|url=http://davidnoack.net/v2/2010/01/sprungbrett-nach-westafrika|title=Sprungbrett nach Westafrika - David X. Noack|website=davidnoack.net|access-date=4 July 2017|archive-url=https://web.archive.org/web/20180207012528/http://davidnoack.net/v2/2010/01/sprungbrett-nach-westafrika/#|archive-date=7 February 2018|dead-url=no|df=dmy-all}}</ref>
+
+The most recent engagement of the Armed Forces was the [[Monte Tchota massacre]] that resulted in 11 deaths.<ref>{{Cite news|url=https://www.reuters.com/article/us-capeverde-killings-idUSKCN0XN2LA|title=Eleven shot dead in Cape Verde, including two Spanish citizens|date=27 April 2016|newspaper=Reuters|access-date=28 April 2016|archive-url=https://web.archive.org/web/20160427142548/http://www.reuters.com/article/us-capeverde-killings-idUSKCN0XN2LA#|archive-date=27 April 2016|dead-url=no|df=dmy-all}}</ref>
+
+===International recognition===
+Cape Verde is often praised{{citation needed|date=November 2016}} as an example among African nations for its stability and developmental growth despite its lack of natural resources. Among other achievements, it has been recognised with the following assessments:
+
+{| class="wikitable sortable"
+|-
+! Index
+! Score
+! [[Portuguese-speaking African countries|PALOP]] rank
+! [[Community of Portuguese Language Countries|CPLP]] rank
+! [[List of sovereign states and dependent territories in Africa|African]] rank
+! [[List of sovereign states|World]] rank
+! Year
+|-
+| [[Human Development Index]]
+| 0.654
+| {{CV rank|1|palop}}
+| {{CV rank|3|cplp}}
+| {{CV rank|10|africa}}{{ref label|AfricaHDI|A|A}}
+| {{CV rank|125|world}}
+| 2017<ref name=HDI/>
+|-
+| [[Ibrahim Index of African Governance]]
+| 71.1
+| {{CV rank|1|palop}}
+| {{N/A}}
+| {{CV rank|3|africa}}
+| {{N/A}}
+| 2018<ref>{{cite web |url = http://www.moibrahimfoundation.org/downloads/2013/2013-IIAG-summary-report.pdf |title = 2013 Ibrahim Index of African Governance |date = October 2013 |page = 3 |publisher = Mo Ibrahim Foundation |accessdate = 6 August 2014 |deadurl = yes |archiveurl = https://web.archive.org/web/20140803191503/http://www.moibrahimfoundation.org/downloads/2013/2013-IIAG-summary-report.pdf |archivedate = 3 August 2014 |df =  }}</ref>
+|-
+| [[Freedom of the Press (report)|Freedom of the Press]]
+| 27 (Free)
+| {{CV rank|1|palop}}
+| {{CV rank|2|cplp}}
+| {{CV rank|1|africa}}
+| {{CV rank|48|world}}
+| 2014
+|-
+| [[Freedom in the World (report)|Freedom in the World]]
+| 1/1{{ref label|Highest|B|B}}
+| {{CV rank|1|palop}}
+| {{CV rank|1|cplp}}{{ref label|MaxSharedPt|C|C}}
+| {{CV rank|1|africa}}{{ref label|OnlyAfrican|D|D}}
+| {{CV rank|1|world}}{{ref label|MaxShared48|E|E}}
+| 2016
+|-
+| [[Press Freedom Index]]
+| 18.02
+| {{CV rank|1|palop}}
+| {{CV rank|2|cplp}}
+| {{CV rank|3|africa}}
+| {{CV rank|27|world}}
+| 2017
+|-
+| [[Democracy Index]]
+| 7.88 {{nowrap|(Flawed democracy)}}
+| {{CV rank|1|palop}}
+| {{CV rank|1|cplp}}
+| {{CV rank|2|africa}}
+| {{CV rank|26|world}}
+| 2018
+|-
+| [[Corruption Perceptions Index]]
+| 59
+| {{CV rank|1|palop}}
+| {{CV rank|2|cplp}}
+| {{CV rank|2|africa}}
+| {{CV rank|38|world}}
+| 2016
+|-
+| [[Index of Economic Freedom]]<ref name=IEF/>
+| 66.5
+| {{CV rank|1|palop}}
+| {{CV rank|1|cplp}}
+| {{CV rank|3|africa}}
+| {{CV rank|57|world}}
+| 2016
+|-
+| [[e-Government#UN e-Government Development Index|e-Government Readiness Index]]
+| 0.3551
+| {{CV rank|1|palop}}
+| {{CV rank|3|cplp}}
+| {{CV rank|14|africa}}
+| {{CV rank|127|world}}
+| 2014
+|-
+| [[List of countries by Failed States Index|Failed States Index]]
+| 74.1
+| {{CV rank|1|palop}}
+| {{CV rank|3|cplp}}
+| {{CV rank|8|africa}}
+| {{CV rank|93|world}}{{ref label|Failed|F|F}}
+| 2014
+|-
+| [[Networked Readiness Index]]
+| 3.8
+| {{CV rank|1|palop}}
+| {{CV rank|3|cplp}}
+| {{CV rank|7|africa}}
+| {{CV rank|87|world}}
+| 2015<ref name="NRI"/>
+|}
+
+{|
+|{{note label|AfricaHDI|A|A}} See [[List of countries by Human Development Index#Africa]]
+|-
+|{{note label|Highest|B|B}} 1/1 is the highest possible rating.
+|-
+|{{note label|MaxShared48|C|C}} With the maximum score, Cape Verde shares the first place with Portugal.
+|-
+|{{note label|OnlyAfrican|D|D}} Cape Verde was the only African country to reach the maximum rating.
+|-
+|{{note label|MaxSharedPt|E|E}} With the maximum score, Cape Verde shares the first place with 48 other countries.
+|-
+|{{note label|Failed|F|F}} The rank on this list is expressed in reverse order. To be comparable with the other rankings on this table, the actual rank of 88 was inverted, by subtracting it from the number of countries on the list, currently 177.
+|}
+
+==Geography==
+{{Main|Geography of Cape Verde}}
+[[File:Topographic map of Cape Verde-en.svg|thumb|A [[topographic map]] of Cape Verde]]
+[[File:Cape Verde.2010-11-23.250m-per-px.jpg|thumb|A satellite photo of the Cape Verde islands, 2010]]
+The Cape Verde archipelago is in the Atlantic Ocean, approximately {{convert|570|km|mi}} off the western coast of the African continent, near Senegal, The Gambia, and [[Mauritania]], and is part of the [[Macaronesia]] [[ecoregion]]. It lies between latitudes [[14th parallel north|14°]] and [[18th parallel north|18°N]], and longitudes [[22nd meridian west|22°]] and [[26th meridian west|26°W]].
+
+The country is a horseshoe-shaped cluster of ten islands (nine inhabited) and eight islets,<ref name=pc>{{cite web |url = http://www.peacecorps.gov/welcomebooks/cvwb655.pdf |title = The Peace Corps Welcomes You to Cape Verde |publisher = [[Peace Corps]] |date = April 2006 |archiveurl = https://web.archive.org/web/20170427225315/http://files.peacecorps.gov/manuals/welcomebooks/cvwb655.pdf |archivedate = 27 April 2017 |deadurl = yes |df =  }} ''This article incorporates text from this source, which is in the [[public domain]].''</ref> that constitute an area of 4033&nbsp;km<sup>2</sup>.<ref name=pc/>
+
+The islands are spatially divided into two groups:
+*The [[Barlavento Islands]] ([[Windward and leeward|windward]] islands): [[Santo Antão, Cape Verde|Santo Antão]], [[São Vicente, Cape Verde|São Vicente]], [[Santa Luzia, Cape Verde|Santa Luzia]], [[São Nicolau, Cape Verde|São Nicolau]], [[Sal, Cape Verde|Sal]], [[Boa Vista, Cape Verde|Boa Vista]];<ref name=pc/> and
+*The [[Sotavento Islands]] ([[Windward and leeward|leeward]]): [[Maio, Cape Verde|Maio]], [[Santiago, Cape Verde|Santiago]], [[Fogo, Cape Verde|Fogo]], [[Brava, Cape Verde|Brava]].<ref name=pc/>
+The largest island, both in size and population, is Santiago, which hosts the nation's capital, Praia, the principal urban agglomeration in the archipelago.<ref name=pc/>
+
+Three of the Cape Verde islands, Sal, Boa Vista and Maio, are fairly flat, sandy, and dry; the others are generally rockier with more vegetation.
+[[File:Calhau.jpg|thumb|The beach of Calhau, with Monte Verde in the background, on the island of [[São Vicente, Cape Verde|São Vicente]]]]
+
+===Physical geography and geology===
+Geologically, the islands, covering a combined area of slightly over {{convert|4,033|km2|sqmi|abbr=off}}, are principally composed of [[igneous rock]]s, with volcanic structures and [[Pyroclastic rock|pyroclastic]] debris comprising the majority of the archipelago's total volume. The [[Volcano|volcanic]] and [[Pluton|plutonic rocks]] are distinctly basic; the archipelago is a soda-alkaline [[Petrography|petrographic]] province, with a [[Petrology|petrologic]] succession similar to that found in other [[Macaronesia]]n islands.
+
+Magnetic anomalies identified in the vicinity of the archipelago indicate that the structures forming the islands date back 125–150 million years: the islands themselves date from 8 million (in the west) to 20 million years (in the east).<ref name="Pim et al., 2008, p.422">Pim et al., 2008, p.422</ref> The oldest exposed rocks occurred on Maio and northern peninsula of Santiago and are 128–131 million year old pillow lavas. The first stage of volcanism in the islands began in the early [[Miocene]], and reached its peak at the end of this period, when the islands reached their maximum sizes. Historical volcanism (within human settlement) has been restricted to the island of Fogo.
+
+The origin of the islands' volcanism has been attributed to a [[hotspot (geology)|hotspot]], associated with bathymetric swell that formed the [[Cape Verde Rise]].<ref>R. Ramalho et al., 2010</ref> The Rise is one of the largest protuberances in the world's oceans, rising {{convert|2.2|km|mi|1|abbr=off}} in a semi-circular region of 1200&nbsp;km<sup>2</sup>, associated with a rise of the [[geoid]] and elevated surface heat flow.<ref name="Pim et al., 2008, p.422"/>
+
+Most recently erupting in 2014, [[Pico do Fogo]] is the largest active [[volcano]] in the region. It has a {{convert|8|km|mi|0|abbr=off}} diameter [[caldera]], whose rim is {{convert|1,600|m|ft|0|abbr=off}} altitude and an interior cone that rises to {{convert|2,829|m|ft|0|abbr=off}} [[above sea level]]. The caldera resulted from subsidence, following the partial evacuation (eruption) of the [[magma]] chamber, along a cylindrical column from within magma chamber (at a depth of {{convert|8|km|mi|0|abbr=off}}).
+
+Extensive [[Salt pan (geology)|salt flats]] are found on Sal and Maio.<ref name=pc/> On Santiago, Santo Antão, and São Nicolau, arid slopes give way in places to sugarcane fields or banana plantations spread along the base of towering mountains.<ref name=pc/> Ocean cliffs have been formed by catastrophic [[Debris avalanche|debris landslides]].<ref>{{Citation |last = Le Bas |first = T.P. |chapter = Slope Failures on the Flanks of Southern Cape Verde Islands |editor-last = Lykousis, Vasilios |title = Submarine mass movements and their consequences: 3rd international symposium |publisher = Springer |date = 2007 |isbn = 978-1-4020-6511-8 }}</ref>
+
+According to the president of [[Nauru]], Cape Verde has been ranked the eighth most endangered nation due to flooding from [[climate change]].<ref>{{cite web |url = http://www.thefreelibrary.com/A+sinking+feeling%3A+why+is+the+president+of+the+tiny+Pacific+island...-a0273079165 |title = A sinking feeling: why is the president of the tiny Pacific island nation of Nauru so concerned about climate change? |publisher = ''New York Times'' Upfront |date = 14 November 2011 |accessdate = 9 February 2015 |archive-url = https://web.archive.org/web/20150209212434/http://www.thefreelibrary.com/A+sinking+feeling%3A+why+is+the+president+of+the+tiny+Pacific+island...-a0273079165# |archive-date = 9 February 2015 |dead-url = no |df = dmy-all }}</ref>
+
+<gallery mode=packed caption="Geography of Cape Verde">
+File:Estr._Ba%C3%ADa_das_Gatas_-_Calhau,_Cape_Verde_-_panoramio_(1).jpg|The Countryside in Estrada Baía das Gatas
+File:Rocha_Est%C3%A1ncia_-_aerial,_2010_12.JPG|Rocha Estância, in [[Boa Vista, Cape Verde|Boa Vista]]
+File:Praia_de_Chavez_PC120046_16.jpg|''Praia da Chave'', Cape Verde
+File:Santo Antao 01.jpg|Santo Antão island landscapes
+File:Vallée de Garça Cap-Vert.JPG|[[Ribeira da Garça]] Valley in Santo Antão
+</gallery>
+
+===Climate===
+{{more citations needed|section|date=July 2018}}<!--no citations after the table-->
+{{Further|Geography of Cape Verde#Climate}}
+Cape Verde's climate is milder than that of the African mainland, because the surrounding sea moderates temperatures on the islands and cold Atlantic currents produce an arid atmosphere around the archipelago. Conversely, the islands do not receive the upwellings (cold streams) that affect the West African coast, so the air temperature is cooler than in Senegal, but the sea is warmer, because the orographic relief of some islands, such as Santiago with steep mountains, cover it with rich woods and luxuriant vegetation where the humid air condenses and soak the plants, rocks, soil, logs, moss, etc. On the higher islands and somewhat wetter islands, exclusively in mountainous areas, like Santo Antão island, the climate is suitable for the development of dry monsoon forest, and laurel forest as this vegetation<ref name=pc/> Average daily high temperatures range from {{convert|26|C}} in February to {{convert|31|C|1}} in September.<ref name="VoodooSkies.com">{{cite web |url = http://voodooskies.com/weather/cape-verde/praia/monthly/temperature |title = Voodoo Skies - Praia Monthly Temperature weather history |website = VoodooSkies.com |access-date = 8 October 2015 |archive-url = https://web.archive.org/web/20160125001356/http://voodooskies.com/weather/cape-verde/praia/monthly/temperature# |archive-date = 25 January 2016 |dead-url = no |df = dmy-all }}</ref>
+Cape Verde is part of the [[Sahel|Sahelian arid belt]], with nothing like the rainfall levels of nearby West Africa.<ref name=pc/> It rains irregularly between August and October, with frequent brief heavy downpours.<ref name=pc/> A ''desert'' is usually defined as terrain that receives less than {{convert|250|mm|in|1|abbr=on}} of annual rainfall. Sal's total of ({{convert|145|mm|in|1|abbr=on}}) confirms this classification. Most of the year's rain falls in September.<ref name="metoffice.gov.uk">{{cite web |url = http://www.metoffice.gov.uk/holiday-weather/africa/cape-verde |title = Cape Verde weather |publisher = [[Met Office]] |access-date = 8 October 2015 |archive-url = https://web.archive.org/web/20150905151058/http://www.metoffice.gov.uk/holiday-weather/africa/cape-verde# |archive-date = 5 September 2015 |dead-url = no |df = dmy-all }}</ref>
+{{Weather box
+|location = Cape Verde: Sal and Praia
+|metric first = yes
+|single line = yes
+|Jan record high C= 33.0
+|Feb record high C= 36.7
+|Mar record high C= 35.2
+|Apr record high C= 36.0
+|May record high C= 36.4
+|Jun record high C= 40.0
+|Jul record high C= 40.0
+|Aug record high C= 34.9
+|Sep record high C= 35.0
+|Oct record high C= 37.0
+|Nov record high C= 36.9
+|Dec record high C= 33.2
+|year record high C= 40.0
+|Jan high C = 26.1
+|Feb high C = 26.2
+|Mar high C = 27.4
+|Apr high C = 27.7
+|May high C = 28.9
+|Jun high C = 29.4
+|Jul high C = 29.7
+|Aug high C = 30.6
+|Sep high C = 30.5
+|Oct high C = 30.7
+|Nov high C = 29.4
+|Dec high C = 27.6
+|year high C = 
+|Jan mean C = 22
+|Feb mean C = 22
+|Mar mean C = 22
+|Apr mean C = 23
+|May mean C = 24
+|Jun mean C = 24
+|Jul mean C = 25
+|Aug mean C = 26
+|Sep mean C = 26
+|Oct mean C = 26
+|Nov mean C = 25
+|Dec mean C = 23
+|year mean C = 24
+|Jan low C = 19.7
+|Feb low C = 19.2
+|Mar low C = 19.4
+|Apr low C = 20.2
+|May low C = 21.1
+|Jun low C = 21.9
+|Jul low C = 23.3
+|Aug low C = 24.3
+|Sep low C = 24.4
+|Oct low C = 24.1
+|Nov low C = 22.8
+|Dec low C = 21.4
+|year low C = 
+|Jan record low C= 10.0
+|Feb record low C= 10.2
+|Mar record low C= 10.0
+|Apr record low C= 14.0
+|May record low C= 10.7
+|Jun record low C= 14.1
+|Jul record low C= 11.0
+|Aug record low C= 16.0
+|Sep record low C= 18.0
+|Oct record low C= 19.4
+|Nov record low C= 16.4
+|Dec record low C= 16.0	
+|year record low C= 10.0
+|Jan precipitation mm = 3
+|Feb precipitation mm = 7
+|Mar precipitation mm = 5
+|Apr precipitation mm = 5
+|May precipitation mm = 0
+|Jun precipitation mm = 3
+|Jul precipitation mm = 5
+|Aug precipitation mm = 15
+|Sep precipitation mm = 14
+|Oct precipitation mm = 16
+|Nov precipitation mm = 7
+|Dec precipitation mm = 10
+|year precipitation mm = 
+|Jan sun = 310.0
+|Feb sun = 214.5
+|Mar sun = 280.0
+|Apr sun = 330.0
+|May sun = 341.0
+|Jun sun = 300.0
+|Jul sun = 279.0
+|Aug sun = 250.0
+|Sep sun = 295.0
+|Oct sun = 279.0
+|Nov sun = 300.0
+|Dec sun = 279.0
+|year sun = 
+|Jan humidity= 61
+|Feb humidity= 58
+|Mar humidity= 57
+|Apr humidity= 56
+|May humidity= 57
+|Jun humidity= 61
+|Jul humidity= 67
+|Aug humidity= 50
+|Sep humidity= 47
+|Oct humidity= 67
+|Nov humidity= 64
+|Dec humidity= 63
+|year humidity=
+|source 1 = Weatherbase.com (humidity, sun and mean temperature),<ref>{{cite web |url = http://www.weatherbase.com/weather/weather.php3?s=98580&cityname=Praia-Praia-Cape-Verde&units=metric |title = Praia, Cape Verde Travel Weather Averages |publisher = Weatherbase |access-date = 14 January 2014 |archive-url = https://web.archive.org/web/20140115100422/http://www.weatherbase.com/weather/weather.php3?s=98580&cityname=Praia-Praia-Cape-Verde&units=metric# |archive-date = 15 January 2014 |dead-url = no |df = dmy-all }}</ref> Met Office for precipitation<ref name="metoffice.gov.uk"/>
+|source 2 = Voodoo Skies for the rest <ref name="VoodooSkies.com"/>
+}}
+
+Sal, Boa Vista and Maio have a flat landscape and arid climate, whilst the other islands are generally rockier and have more vegetation. Because of the infrequent occurrence of rainfall the landscape is arid. The archipelago can be divided into four broad ecological zones&nbsp;— arid, semiarid, subhumid and humid, according to altitude and average annual rainfall ranging from {{convert|200|mm|abbr=off}} in the arid areas of the coast to more than {{convert|1,000|mm|abbr=off}} in the humid mountain. Most rainfall precipitation is due to condensation of the ocean mist.
+
+[[File:Ribeira Principal (1).jpg|thumb|The small valley (or dale) of Principal, [[Santiago, Cape Verde|Santiago Island]]]]
+In some islands, as [[Santiago, Cape Verde|Santiago]], the wetter climate of the interior and the eastern coast contrasts with the dryer one in the south/southwest coast. Praia, on the southeast coast, is the largest city of the island and the largest city and capital of the country.
+
+Because of their proximity to the Sahara, most of the Cape Verde islands are dry, but on islands with high mountains and farther away from the coast, by orography, the humidity is much higher, providing a rainforest habitat, although much affected by the human presence. Northeastern slopes of high mountains often receive a lot of rain while southwest slopes do not. These umbria areas are identified with cool and moisture.
+
+Western Hemisphere-bound hurricanes often have their early beginnings near the Cape Verde Islands. These are referred to as [[Cape Verde-type hurricane]]s. These hurricanes can become very intense as they cross warm Atlantic waters away from Cape Verde. The average hurricane season has about two Cape Verde-type hurricanes, which are usually the largest and most intense storms of the season because they often have plenty of warm open ocean over which to develop before encountering land. The five largest Atlantic tropical cyclones on record have been Cape Verde-type hurricanes. Most of the longest-lived tropical cyclones in the Atlantic basin are Cape Verde hurricanes.
+
+The islands themselves have only been struck by hurricanes twice in recorded history (since 1851): once in 1892, and again in 2015 by [[Hurricane Fred (2015)|Hurricane Fred]], the easternmost hurricane ever to form in the Atlantic.
+
+===Biome===
+{{main|Wildlife of Cape Verde}}
+Cape Verde's isolation has resulted in the islands having a number of [[endemic (ecology)|endemic]] [[species]], particularly birds and reptiles, many of which are [[endangered species|endangered]] by human development. Endemic birds include [[Alexander's swift]] (''Apus alexandri''), [[Bourne's heron]] (''Ardea purpurea bournei''), the [[Raso lark]] (''Alauda razae''), the [[Cape Verde warbler]] (''Acrocephalus brevipennis''), and the [[Iago sparrow]] (''Passer iagoensis'').<ref>{{cite web|url=http://www.birdlife.org/datazone/ebas/index.html?action=EbaHTMDetails.asp&sid=79&m=0|title=Endemic Bird Areas: Cape Verde Islands|website=Birdlife.org|date=|accessdate=26 June 2010|archive-url=https://web.archive.org/web/20090102230740/http://www.birdlife.org/datazone/ebas/index.html?action=EbaHTMDetails.asp&sid=79&m=0#|archive-date=2 January 2009|dead-url=no|df=dmy-all}}</ref> The islands are also an important breeding area for seabirds including the [[Cape Verde shearwater]]. Reptiles include the Cape Verde giant gecko (''[[Tarentola]] gigas'').
+
+===Administrative divisions===
+{{Main|Administrative divisions of Cabo Verde}}
+[[File:Cabo 2010 Monte Cara.jpg|thumb|View of downtown [[Mindelo]] in Baía do Porto Grande, São Vicente]]
+[[File:Downtown Mosteiros.jpg|thumb|Main Street in Downtown Vila de Igreja, Mosteiros, [[Fogo, Cape Verde|Fogo]]]]
+[[File:Bairro de Cutelo em Assomada.jpg|thumb|Cutelo Neighborhood in [[Assomada]]]]
+Cape Verde is divided into 22 [[Municipality|municipalities]] (''concelhos'') and subdivided into 32 parishes (''[[Freguesia (Portugal)|freguesias]]''), based on the religious parishes that existed during the colonial period:
+<div>
+{| class="wikitable"
+|+ Barlavento Islands
+|-
+| style="width:100px;"| '''Island'''
+| style="width:130px;"| '''Municipality'''
+| style="width:120px;"| '''Census 2013''' <ref name="ReferenceA">2013 Census&nbsp;— source: Instituto Nacional de Estatistica.</ref>
+| style="width:200px;"| '''Parish'''
+|-
+| rowspan=7 | [[Santo Antão, Cape Verde|Santo Antão]]
+| rowspan=4 | [[Ribeira Grande, Cape Verde (municipality)|Ribeira Grande]]
+| rowspan=4 | 18,890
+| [[Nossa Senhora do Rosário (Ribeira Grande)|Nossa Senhora do Rosário]]
+|-
+| [[Nossa Senhora do Livramento, Cape Verde|Nossa Senhora do Livramento]]
+|-
+| [[Santo Crucifixo]]
+|-
+| [[São Pedro Apóstolo (parish)|São Pedro Apóstolo]]
+|-
+| [[Paul, Cape Verde|Paúl]]
+| 6,997
+| [[Santo António das Pombas]]
+|-
+| rowspan="2" | [[Porto Novo, Cape Verde (municipality)|Porto Novo]]
+| rowspan="2" | 18,028
+| [[São João Baptista (Santo Antão)|São João Baptista]]
+|-
+| [[Santo André (Porto Novo)|Santo André]]
+|-
+| [[São Vicente, Cape Verde|São Vicente]]
+| rowspan="2" | [[São Vicente, Cape Verde|São Vicente]]
+| rowspan="2" | 79,374
+| rowspan="2" | [[Nossa Senhora da Luz (São Vicente)|Nossa Senhora da Luz]]
+|-
+| [[Santa Luzia, Cape Verde|Santa Luzia]]
+|-
+| rowspan="3" | [[São Nicolau, Cape Verde|São Nicolau]]
+| rowspan="2" | [[Ribeira Brava, Cape Verde (municipality)|Ribeira Brava]]
+| rowspan="2" | 7,580
+| [[Nossa Senhora da Lapa (Ribeira Brava)|Nossa Senhora da Lapa]]
+|-
+| [[Nossa Senhora do Rosário (Ribeira Brava)|Nossa Senhora do Rosário]]
+|-
+| [[Tarrafal de São Nicolau, Cape Verde (municipality)|Tarrafal de São Nicolau]]
+| 5,237
+| [[São Francisco (Tarrafal de São Nicolau)|São Francisco]]
+|-
+| [[Sal, Cape Verde|Sal]]
+| [[Sal, Cape Verde|Sal]]
+| 30,879
+| [[Nossa Senhora das Dores (Sal)|Nossa Senhora das Dores]]
+|-
+| rowspan="2" | [[Boa Vista, Cape Verde|Boa Vista]]
+| rowspan="2" | [[Boa Vista, Cape Verde|Boa Vista]]
+| rowspan="2" | 9,162
+| [[Santa Isabel (Boa Vista)|Santa Isabel]]
+|-
+| [[São João Baptista (Boa Vista)|São João Baptista]]
+|}
+</div>
+
+<div>
+
+{| class="wikitable"
+|+ Sotavento Islands
+|-
+| style="width:100px;"| '''Island'''
+| style="width:130px;"| '''Municipality'''
+| style="width:120px;"| '''Census 2010''' <ref name="ReferenceA"/>
+| style="width:200px;"| '''Parish'''
+|-
+| [[Maio, Cape Verde|Maio]]
+| [[Maio, Cape Verde|Maio]]
+| 6,952
+| [[Nossa Senhora da Luz (Maio)|Nossa Senhora da Luz]]
+|-
+| rowspan="11" | [[Santiago, Cape Verde|Santiago]]
+| [[Praia, Cape Verde (municipality)|Praia]]
+| 131,719
+| [[Nossa Senhora da Graça (Praia)|Nossa Senhora da Graça]]
+|-
+| rowspan="2" | [[São Domingos, Cape Verde (municipality)|São Domingos]]
+| rowspan="2" | 13,808
+| [[Nossa Senhora da Luz (São Domingos)|Nossa Senhora da Luz]]
+|-
+| [[São Nicolau Tolentino (São Domingos)|São Nicolau Tolentino]]
+|-
+| [[Santa Catarina, Cape Verde|Santa Catarina]]
+| 44,388
+| [[Santa Catarina (parish)|Santa Catarina]]
+|-
+| [[São Salvador do Mundo, Cape Verde|São Salvador do Mundo]]
+| 8,677
+| [[São Salvador do Mundo (São Salvador do Mundo)|São Salvador do Mundo]]
+|-
+| [[Santa Cruz, Cape Verde|Santa Cruz]]
+| 26,617
+| [[Santiago Maior (Santa Cruz)|Santiago Maior]]
+|-
+| [[São Lourenço dos Órgãos, Cape Verde|São Lourenço dos Órgãos]]
+| 7,388
+| [[São Lourenço dos Órgãos (parish)|São Lourenço dos Órgãos]]
+|-
+| rowspan="2" | [[Ribeira Grande de Santiago, Cape Verde|Ribeira Grande de Santiago]]
+| rowspan="2" | 8,325
+| [[Santíssimo Nome de Jesus (Praia)|Santíssimo Nome de Jesus]]
+|-
+| [[São João Baptista (Praia)|São João Baptista]]
+|-
+| [[São Miguel, Cape Verde|São Miguel]]
+| 15,648
+| [[São Miguel Arcanjo (São Miguel)|São Miguel Arcanjo]]
+|-
+| [[Tarrafal, Cape Verde (municipality)|Tarrafal]]
+| 18,565
+| [[Santo Amaro Abade]]
+|-
+| rowspan=4 |[[Fogo, Cape Verde|Fogo]]
+| rowspan="2" | [[São Filipe, Cape Verde (municipality)|São Filipe]]
+| rowspan="2" | 22,248
+| [[São Lourenço (São Filipe)|São Lourenço]]
+|-
+| [[Nossa Senhora da Conceição (São Filipe)|Nossa Senhora da Conceição]]
+|-
+| [[Santa Catarina do Fogo, Cape Verde|Santa Catarina do Fogo]]
+| 5,299
+| [[Santa Catarina (Santa Catarina do Fogo)|Santa Catarina do Fogo]]
+|-
+| [[Mosteiros, Cape Verde (municipality)|Mosteiros]]
+| 9,524
+| [[Nossa Senhora da Ajuda (parish)|Nossa Senhora da Ajuda]]
+|-
+| rowspan="2" | [[Brava, Cape Verde|Brava]]
+| rowspan="2" | [[Brava, Cape Verde|Brava]]
+| rowspan="2" | 6,952
+| [[São João Baptista (Brava)|São João Baptista]]
+|-
+| [[Nossa Senhora do Monte (Cape Verde)|Nossa Senhora do Monte]]
+|}
+</div>{{Clear}}
+
+===Largest cities===
+{{Largest cities of Cape Verde}}
+
+==Economy==
+{{Main|Economy of Cape Verde}}
+[[File:Tree map export 2009 Cape Verde.jpeg|thumb|upright=1.6|A proportional representation of Cape Verde's export products]]
+[[File:TACV_B757_D4-CBG_MUC.jpg|thumb|upright=1.15|Cape Verdean national flag carrier TACV]]
+[[File:Cape Verde Sal pool.jpg|thumb|upright=1.15|A resort in [[Sal, Cape Verde|Sal]]]]
+Cape Verde's notable economic growth and improvement in living conditions despite a lack of natural resources has garnered [[#International recognition|international recognition]], with other countries and international organizations often providing [[development aid]]. Since 2007, the UN has classified it as a [[developing nation]] rather than a [[least developed country]].
+
+Cape Verde has few [[natural resource]]s. Only five of the ten main islands (Santiago, Santo Antão, São Nicolau, Fogo, and Brava) normally support significant agricultural production,<ref>See Carlos Ferreira Couto, ''Incerteza, adaptabilidade e inovação na sociedade rural da Ilha de Santiago de Cabo Verde'', Lisbon: Fundação Galouste Gulbenkian, 2010</ref> and over 90% of all food consumed in Cape Verde is imported. Mineral resources include salt, [[pozzolana]] (a volcanic rock used in cement production), and [[limestone]].<ref name=bn/> Its small number of wineries making Portuguese-style wines have traditionally focused on the domestic market, but have recently met with some international acclaim. A number of wine tours of Cape Verde's various microclimates began to be offered in spring 2010 and can be arranged through the tourism office.
+
+The economy of Cape Verde is service-oriented, with commerce, transport, and public services accounting for more than 70% of GDP.{{Citation needed|date=May 2010}} Although nearly 35% of the population lives in rural areas, agriculture and fishing contribute only about 9% of GDP. Light manufacturing accounts for most of the remainder. Fish and shellfish are plentiful, and small quantities are exported. Cape Verde has cold storage and freezing facilities and [[fish processing]] plants in Mindelo, Praia, and on Sal. Expatriate Cape Verdeans contribute an amount estimated at about 20% of GDP to the domestic economy through [[remittance]]s.<ref name=bn/>
+In spite of having few natural resources and being semi-desert, the country boasts the highest living standards in the region, and has attracted thousands of immigrants of different nationalities.
+
+Since 1991, the government has pursued market-oriented economic policies, including an open welcome to [[foreign investors]] and a far-reaching [[privatization]] programme. It established as top development priorities the promotion of a [[market economy]] and of the private sector; the development of [[Tourism in Cape Verde|tourism]], light manufacturing industries, and fisheries; and the development of [[Transport in Cape Verde|transport]], [[Communications in Cape Verde|communications]], and energy facilities. From 1994 to 2000 about $407 million in foreign investments were made or planned, of which 58% were in tourism,<ref>See now Brígida Rocha Brito and others, ''Turismo em Meio Insular Africano: Potencialidades, constrangimentos e impactos'', Lisbon: Gerpress, 2010</ref> 17% in industry, 4% in infrastructure, and 21% in fisheries and services.<ref name=bn/>
+
+In 2011, on four islands a wind farm was built that supplies about 30% of the electricity of the country. It is one of the top countries for renewable energy.<ref>{{cite web|url=http://www.infracoafrica.com/news.asp?id=11|title=Turbines arrive for ground breaking wind farm in Africa&nbsp;— InfraCo Limited|website=Infracoafrica.com|date=|archiveurl=https://web.archive.org/web/20120611092910/http://www.infracoafrica.com/news.asp?id=11|archivedate=11 June 2012}}</ref>
+
+Between 2000 and 2009, [[real GDP]] increased on average by over 7 percent a year, well above the average for Sub-Saharan countries and faster than most small island economies in the region. Strong economic performance was bolstered by one of the fastest growing tourism industries in the world, as well as by substantial capital inflows that allowed Cape Verde to build up national currency reserves to the current 3.5 months of imports. Unemployment has been falling rapidly, and the country is on track to achieve most of the UN Millennium Development Goals – including halving its 1990 poverty level.
+
+In 2007, Cape Verde joined the [[World Trade Organization]] (WTO) and in 2008 the country graduated from [[Least developed country|Least Developed Country]] (LDC) to Middle Income Country (MIC) status.<ref>{{cite web|url=http://www.mfw4a.org/cape-verde/cape-verde-financial-sector-profile.html|title=MFW4A|website=MFW4A|date=|accessdate=31 January 2011|archive-url=https://web.archive.org/web/20110513110352/http://www.mfw4a.org/cape-verde/cape-verde-financial-sector-profile.html#|archive-date=13 May 2011|dead-url=no|df=dmy-all}}</ref><ref>{{cite web |url = http://data.worldbank.org/country/cape-verde |title = Cabo Verde - Data |publisher = [[World Bank]] |access-date = 22 August 2011 |archive-url = https://web.archive.org/web/20110811164323/http://data.worldbank.org/country/cape-verde# |archive-date = 11 August 2011 |dead-url = no |df = dmy-all }}</ref>
+
+Cape Verde has significant cooperation with Portugal at every level of the economy, which has led it to link its currency first to the [[Portuguese escudo]] and, in 1999, to the [[euro]]. On 23 June 2008 Cape Verde became the 153rd member of the WTO.<ref>{{cite web |url = http://www.wto.org/english/news_e/news08_e/acc_capverde_june08_e.htm |title = Cape Verde to join WTO on 23 July 2008 |publisher = WTO News |access-date = 4 July 2008 |archive-url = https://web.archive.org/web/20080708091440/http://www.wto.org/english/news_e/news08_e/acc_capverde_june08_e.htm# |archive-date = 8 July 2008 |dead-url = no |df = dmy-all }}</ref>
+[[File:CV-praia-in der avenida cabral.jpg|thumb|right|Cabral Avenue, one of the main symbols of Cape Verde's development.]] 
+In early January 2018, the government announced that the minimum wage would be raised to 13,000 CVE (US$140 or EUR 130) per month, from 11,000 CVE, which was effective in mid-January 2018.<ref>{{cite web |url = https://macauhub.com.mo/2018/01/08/pt-governo-de-cabo-verde-aprova-aumento-do-salario-minimo-para-13-mil-escudos/ |title = Cape Verde government raises minimum wage to 13,000 escudos |date = 8 January 2018 |website = MacauHub |access-date = 8 January 2018 |archive-url = https://web.archive.org/web/20180810072602/https://macauhub.com.mo/2018/01/08/pt-governo-de-cabo-verde-aprova-aumento-do-salario-minimo-para-13-mil-escudos/# |archive-date = 10 August 2018 |dead-url = no |df = dmy-all }}</ref><ref>{{cite web |title = Governo vai aumentar salário mínimo nacional de 11 para 13 mil escudos |url = http://asemana.publ.cv/?Governo-vai-aumentar-salario-minimo-nacional-de-11-para-13-mil-escudos |date = 6 January 2018 |publisher = A Semana |language = pt |access-date = 8 January 2018 |archive-url = https://web.archive.org/web/20180108142029/http://asemana.publ.cv/?Governo-vai-aumentar-salario-minimo-nacional-de-11-para-13-mil-escudos |archive-date = 8 January 2018 |dead-url = yes |df = dmy-all }}</ref>
+
+===Development===
+The European Commission's total allocation for the period of 2008–2013 foreseen for Cape Verde to address "poverty reduction, in particular in rural and periurban areas where women are heading the households, as well as good governance" amounts to €54.1 million.<ref>{{cite web |url = http://ec.europa.eu/europeaid/where/acp/country-cooperation/cape-verde/cape-verde_en.htm |title = European Commission |publisher = Ec.europa.eu |date = 21 December 2012 |accessdate = 28 March 2013 |deadurl = yes |archiveurl = https://web.archive.org/web/20130430214342/http://ec.europa.eu/europeaid/where/acp/country-cooperation/cape-verde/cape-verde_en.htm |archivedate = 30 April 2013 |df =}}</ref>
+
+===Tourism===
+{{main|Tourism in Cape Verde}}
+[[File:Mindelo portogrande.jpg|thumb|Yachts in Porto Grande, Mindelo on the island of [[São Vicente, Cape Verde|São Vicente]]. Tourism is a growing source of income on the islands.]]
+Cape Verde's strategic location at the crossroads of mid-Atlantic air and sea lanes has been enhanced by significant improvements at [[Mindelo]]'s harbour ([[Porto Grande Bay|Porto Grande]]) and at [[Amílcar Cabral International Airport|Sal's]] and [[Nelson Mandela International Airport|Praia's international airports]]. A [[Aristides Pereira International Airport|new international airport]] was opened in Boa Vista in December 2007, and on the island of São Vicente, the newest international airport ([[Cesária Évora Airport]]) in Cape Verde, was opened in late 2009. Ship repair facilities at Mindelo were opened in 1983.<ref name=bn/>
+
+The major ports are Mindelo and Praia, but all other islands have smaller port facilities. In addition to the international airport on Sal, [[List of airports in Cape Verde|airports]] have been built on all of the inhabited islands. All but the airports on Brava and [[Santo Antão, Cape Verde|Santo Antão]] enjoy scheduled air service. The archipelago has {{convert|3050|km|mi|0|abbr=on}} of roads, of which {{convert|1010|km|mi|0|abbr=on}} are paved, most using [[cobblestone]].<ref name=bn/>
+
+The country's future economic prospects depend heavily on the maintenance of aid flows, the encouragement of tourism, remittances, outsourcing labour to neighbouring African countries, and the momentum of the government's development programme.<ref name=bn/>
+
+==Society==
+===Demographics===
+{{Main|Cape Verdeans|Demographics of Cape Verde}}
+
+[[File:Cape-Verde-demography.png|thumb|Cape Verde's population, (1961–2003)]]
+[[File:Pyramide Cap-Vert.PNG|thumb|Cape Verde's [[population pyramid]], 2005]]
+
+The official Census recorded that Cape Verde had a population of 512,096 in 2013.<ref>Instituto Nacional de Estatistica, Praia</ref> A large proportion (236,000) of Cape Verdeans live on the main island, Santiago.<ref name=cvp>{{cite web |title = Cape Verde: Population |url = http://www.capeverde.com/population.html |publisher = caperverde.com |access-date = 29 November 2014 |archive-url = https://web.archive.org/web/20141114140611/http://www.capeverde.com/population.html# |archive-date = 14 November 2014 |dead-url = no |df = dmy-all }}</ref>
+
+===Ethnic groups===
+The Cape Verde archipelago was uninhabited when the Portuguese discovered it in 1456. The modern population of Cape Verde descends from the mixture of European settlers and African slaves who were brought to the islands to work on Portuguese plantations. Most Cape Verdeans are therefore [[mulatto]]s, also called [[mestiço]]s in Portuguese.  Another term is [[Creole peoples#Portuguese Africa|creole]], meaning those of mixed native-born African and native-born European descent.
+ 
+European input included [[Spaniards]] and [[Italians|Italian]] seamen who were granted land by the Portuguese Empire, followed by [[Portuguese people|Portuguese]] settlers and exiles, as well as Portuguese Muslims (ethnic [[Moors]]) and Portuguese Jews (ethnic [[Sephardim]]), both of these religious groups were victims of the [[Portuguese Inquisition|Inquisition]]. Other immigrants came from places such as the Netherlands, France, Britain, the Arab countries (especially Lebanon and Morocco), China (especially from Macau), India, Indonesia, South America, and North America (including people of Portuguese and African descent) and were absorbed into the mestiço population.
+
+[[File:Ministério da Cultura - Claridalia (18).jpg|thumb|People in [[Santiago, Cape Verde|Santiago]]]]
+Cape Verde's population in the 21st century is mostly [[Creole peoples#Portuguese Africa|creole]]; the capital city Praia accounts for a quarter of the country's population. Over 65% of the population in the archipelago live in urban centers, and the literacy rate is 89% (i.e., 93,3% among men aged 15 and above and 84,7% among women aged 15 and above) according to the 2017 National Statistics Bureau data.
+Many Cape Verdeans have since emigrated, mainly to the United States and Europe.
+
+A genetic study revealed that the ancestry of the population in Cape Verde is predominantly European in the male line and West African in the female line; counted together the percentage is 56% African and 44% European.<ref>{{cite news|url=http://asemana.sapo.cv/spip.php?article53126&ak=1|title=População cabo-verdiana: "57% dos genes são de origem africana e 43 %, de origem europeia"|work=[[A Semana]]|date=27 May 2010|archiveurl=https://web.archive.org/web/20130501115847/http://asemana.sapo.cv/spip.php?article53126&ak=1|archivedate=1 May 2013|df=}}</ref> The high degree of genetic and ethnic mixture of individuals is a result of centuries of migration.
+
+===Languages===
+Cape Verde's official language is Portuguese.<ref name=":0">{{cite web|url=https://ihl-databases.icrc.org/applic/ihl/ihl-nat.nsf/0/1437105f604ce363c1257082003ea54a/$FILE/Constitution%20Cape%20Verde%20-%20POR.pdf|title=Constituição da República de Cabo Verde|last=|first=|date=|website=[[International Committee of the Red Cross|ICRC]] databases on international humanitarian law|at=Article 9|accessdate=11 March 2017|archive-url=https://web.archive.org/web/20170312062840/https://ihl-databases.icrc.org/applic/ihl/ihl-nat.nsf/0/1437105f604ce363c1257082003ea54a/$FILE/Constitution%20Cape%20Verde%20-%20POR.pdf#|archive-date=12 March 2017|dead-url=no|df=dmy-all}}</ref> It is the language of instruction and government. It is also used in newspapers, television, and radio.
+
+[[Cape Verdean Creole]] is used colloquially and is the mother tongue of virtually all Cape Verdeans. The national constitution calls for the measures to give it parity with Portuguese.<ref name=":0"/> Cape Verdean Creole or Kriolu is a dialect continuum of a Portuguese-based [[creole language|creole]]. There is a substantial body of literature in Creole, especially in the [[Santiago Creole]] and the [[São Vicente Creole]]. Creole has been gaining prestige since the nation's independence from Portugal.
+
+The differences between the forms of the language within the islands have been a major obstacle in the way of standardization of the language. Some people have advocated the development of two standards: a North (Barlavento) standard, centered on the São Vicente Creole, and a South (Sotavento) standard, centered on the Santiago Creole. [[Manuel Veiga (writer)|Manuel Veiga]], PhD, a linguist and Minister of Culture of Cape Verde, is the premier proponent of Kriolu's officialization and standardization.<ref>Amado, A.D. (2015), The Illegible State in Cape Verde: Language Policy and the Quality of Democracy.</ref>
+
+===Religion===
+{{Further|Religion in Cape Verde}}
+{{Pie chart
+|thumb = right
+|caption = Religion in Cape Verde (2010)<ref name="Pew Forum&nbsp;— Religion in Cape Verde">[http://features.pewforum.org/global-christianity/map.php#/Cape%20Verde,Other%20Christian,ALL (CABO VERDE)] {{Webarchive|url=https://web.archive.org/web/20140719204928/http://features.pewforum.org/global-christianity/map.php#/Cape%20Verde,Other%20Christian,ALL#/Cape%20Verde,Other%20Christian,ALL |date=19 July 2014 }}. ''Retrieved 10 June 2012''.</ref>
+|label1 = [[Catholic Church]]
+|value1 = 78.7
+|color1 = DodgerBlue
+|label2 = Other Christian
+|value2 = 10.4
+|color2 = SkyBlue
+|label3 = Other or non-religious
+|value3 = 10.9
+|color3 = DarkGrey
+}}
+Around 95% of the population are Christian. More than 85% of the population was nominally [[Roman Catholic]] in 2007.<ref name=rf>{{cite web |url = https://www.state.gov/g/drl/rls/irf/2007/90087.htm |title = State.gov |publisher = State.gov |date = 14 September 2007 |accessdate = 26 June 2010 |archive-url = https://web.archive.org/web/20100616031329/http://www.state.gov/g/drl/rls/irf/2007/90087.htm# |archive-date = 16 June 2010 |dead-url = no |df = dmy-all }}</ref> For a minority of the population, Catholicism is [[syncretism|syncretized]] with African influences.<ref name="factbook">{{cite web |url = https://www.state.gov/r/pa/ei/bgn/2835.htm |title = Background Note: Cape Verde |publisher = State.gov |date = 15 June 2010 |accessdate = 26 June 2010 |archive-url = https://web.archive.org/web/20100624092627/http://www.state.gov/r/pa/ei/bgn/2835.htm# |archive-date = 24 June 2010 |dead-url = no |df = dmy-all }}</ref>
+
+The largest [[Protestant]] denomination is the [[Church of the Nazarene]]; other groups include the [[Seventh-day Adventist Church]], [[The Church of Jesus Christ of Latter-day Saints]], the [[Assemblies of God]], the [[Universal Church of the Kingdom of God]], and other [[Pentecostal]] and [[Evangelicalism|evangelical]] groups.<ref name=rf/> There is a small [[Muslim]] community.<ref name=rf/> There were [[History of the Jews in Cape Verde|Jewish]] settlements on several islands.<ref>"[http://www1.umassd.edu/specialprograms/caboverde/jewswerlin.html Jews in Cape Verde] {{webarchive|url=https://web.archive.org/web/20150408121318/http://www1.umassd.edu/SpecialPrograms/caboverde/jewswerlin.html |date=8 April 2015 }}", by Louise Werlin</ref> The number of [[atheists]] is estimated at less than 1% of the population.<ref name=rf/>
+
+===Emigration and immigration===
+{{Main|Cape Verdean diaspora}}
+Today, more Cape Verdeans live abroad than in Cape Verde itself, with significant emigrant<ref>Jorgen Carling, 2004, p.113-132</ref> Cape Verdean communities in the United States (500,000 of Cape Verdean descent, with a major concentration on the [[New England]] coast from [[Providence, Rhode Island]], to [[New Bedford, Massachusetts]]).
+
+There are significant Cape Verde populations in Portugal (150,000), [[Angola]] (45,000), [[São Tomé and Príncipe]] (25,000), [[Senegal]] (25,000), the Netherlands (20,000, of which 15,000 are concentrated in [[Rotterdam]]), Spain (65,500), United Kingdom (35,500), France (25,000), Italy (10,000) [[Luxembourg]] (7,000) and Scandinavia (7,000). There is a Cape Verdean community in [[Argentina]] numbering 8,000. A large number of Cape Verdeans and people of Cape Verdean descent who emigrated before 1975 are not included in these statistics, because Cape Verdeans had Portuguese passports before 1975.
+
+The Chinese make up a sizable and important segment of the immigrant population in Cape Verde. The immigrants from the nearby West African coast make up the majority of foreigners in the country. Over the last several years, a few thousand Europeans and Latin Americans have settled in the country. On the islands, there are over 22,000 foreigners/naturalized Cape Verdeans who hail from over 90 countries around the world living and working on a permanent basis.
+
+Over the years, Cape Verde has increasingly become a net immigration country due to its relative high per capita income, political and social stability, and freedom.{{citation needed|date=February 2018}}
+
+Emigrants from the Cape Verde islands to North America have a long history of involvement with the armed forces. Enlisting in aid of the Revolutionary War, the Civil War, the First and Second World Wars, as well as the Korean and Vietnam Wars.<ref>{{cite web|url=http://sites.google.com/site/capeverdeanveterans/Home/Cape-Verdean-Veterans|title=Cape Verdeans: Cape Verdean Veterans|website=Sites.google.com|date=|archiveurl=https://web.archive.org/web/20121114072859/https://sites.google.com/site/capeverdeanveterans/Home/Cape-Verdean-Veterans|archivedate=14 November 2012}}</ref> Cape Verdeans moved to places all over the world, from [[Macau]] to [[Haiti]], and Argentina to northern Europe.<ref>{{cite web|url=http://www.everyculture.com/multi/Bu-Dr/Cape-Verdean-Americans.html|title=Cape Verdean Americans&nbsp;— History, Modern era, The first cape verdeans in america|publisher=Everyculture.com|date=|accessdate=26 June 2010|archive-url=https://web.archive.org/web/20100918035030/http://www.everyculture.com/multi/Bu-Dr/Cape-Verdean-Americans.html#|archive-date=18 September 2010|dead-url=no|df=dmy-all}}</ref>
+
+===Health===
+{{main|Health in Cape Verde}}
+[[File:PraiaCentrodeSaúde.jpg|thumb|upright=1.15|left|A health clinic in a residential area of Praia]]
+The infant mortality rate among Cape Verdean children between 0 and 5 years old is 15 per 1,000 live births according to the latest (2017) data from the National Statistics Bureau,<ref name="ine.cv">{{cite web |url=http://www.ine.cv/ |title=Início - INE |publisher=Ine.cv |date=2014-06-20 |accessdate=2018-09-16 |archive-url=https://web.archive.org/web/20010220170818/http://www.ine.cv/# |archive-date=20 February 2001 |dead-url=no |df=dmy-all }}</ref> while the maternal mortality rate is 42 deaths per 100,000 live births. The HIV-AIDS prevalence rate among Cape Verdeans between 15 and 49 years old is 0.8%.<ref>{{cite web |url = https://www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html |title = The World Factbook — Central Intelligence Agency |website = www.cia.gov |language = en |access-date = 14 March 2017 |archive-url = https://web.archive.org/web/20141221190412/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html# |archive-date = 21 December 2014 |dead-url = no |df = dmy-all }}</ref>
+
+According to the latest data (2017) from the National Statistics Bureau,<ref name="ine.cv"/> life expectancy at birth in Cape Verde is 76,2 years, that is, 72,2 years for males and 80,2 years for females. There are six hospitals in the Cape Verde archipelago: two central hospitals (one in the capital city of Praia and one in Mindelo, São Vicente) and four regional hospitals (one in Santa Catarina (northern Santiago region), one on São Antão, one on Fogo, and one on Sal). In addition, there are 28 health centers, 35 sanitation centers and a variety of private clinics located throughout the archipelago.
+
+Cape Verde's population is among the healthiest in Africa. Since its independence, it has greatly improved its health indicators. Besides having been promoted to the group of "medium development" countries in 2007, leaving the [[least developed countries]] category (which is only the second time it has happened to a country<ref>[https://www.un.org/apps/news/story.asp?NewsID=22918&Cr=cape&Cr1=verde "UN advocate salutes Cape Verde's graduation from category of poorest States"] {{Webarchive|url=https://web.archive.org/web/20171024061915/http://www.un.org/apps/news/story.asp?NewsID=22918&Cr=cape&Cr1=verde# |date=24 October 2017 }}, UN News Centre, 14 June 2007.</ref>), is currently the [[List of countries by Human Development Index#Africa|10th best ranked]] country in Africa in its [[Human Development Index]].
+
+The total expenditure for health was 7.1% of GDP (2015).
+
+===Education===
+{{main|Education in Cape Verde}}
+[[File:Finalistas do jardim infantil.jpg|thumb|upright=1.15|A kindergarten graduation in Santiago island]]
+Although the Cape Verdean educational system is similar to the Portuguese system, over the years the local universities have been increasingly adopting the American educational system; for instance, all 10 existing universities in the country offer 4-year bachelor's degree programs as opposed to 5-year bachelor's degree programs that existed before 2010. Cape Verde has the second best educational system in Africa, after South Africa.{{Citation needed|date=March 2018}}
+Primary school education in Cape Verde is mandatory and free for children between the ages of 6 and 14 years.<ref name=ilab>[http://www.dol.gov/ilab/media/reports/iclp/tda2001/cape-verde.htm "Cape Verde"] {{webarchive|url=https://web.archive.org/web/20080828103410/http://www.dol.gov/ilab/media/reports/iclp/tda2001/cape-verde.htm |date=28 August 2008 }}.
+ ''Findings on the Worst Forms of Child Labor (2001)''. [[Bureau of International Labor Affairs]], [[United States Department of Labor]] (2002). ''This article incorporates text from this source, which is in the [[public domain]].'' {{cite web |url=http://www.dol.gov/ilab/media/reports/iclp/tda2001/cape-verde.htm |title=Archived copy |accessdate=25 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20080828103410/http://www.dol.gov/ilab/media/reports/iclp/tda2001/cape-verde.htm |archivedate=28 August 2008 |df= }}</ref>
+
+In 2011, the net enrollment ratio for primary school was 85%.<ref name=ilab/><ref>{{cite web|url=http://data.worldbank.org/data-catalog/world-development-indicators|title=World Development Indicators &#124; Data|website=Data.worldbank.org|date=|accessdate=31 January 2011|archive-url=https://web.archive.org/web/20141220032256/http://data.worldbank.org/data-catalog/world-development-indicators#|archive-date=20 December 2014|dead-url=no|df=dmy-all}}</ref> Approximately 90% of the total population over 15 years of age is literate, and roughly 25% of the population holds a college degree; a significant number of these college graduates hold doctorate degrees in different academic fields. Textbooks have been made available to 90 percent of school children, and 98 percent of the teachers have attended in-service teacher training.<ref name=ilab/> Although most children have access to education, some problems remain.<ref name=ilab/> For example, there is insufficient spending on school materials, lunches, and books.<ref name=ilab/>
+
+{{as of|2016|October|}}, there were 69 secondary schools throughout the archipelago (including 19 private secondary schools) and at least 10 universities in the country which are based on the two islands of Santiago and São Vicente.
+[[File:Universidade de Santiago.jpg|thumb|University of Santiago]]
+In 2015, 23% of the Cape Verdean population had either attended or graduated from secondary schools.
+When it came to higher education, 9% of Cape Verdean men and 8% of Cape Verdean women held a bachelor's degree or had attended universities. The overall college education rate (i.e., college graduates and undergraduate students) in Cape Verde is about 24%, in relation to the local college age population [http://www.ine.cv/].
+The total expenditure on education was 5.6% of GDP (2010).
+The mean years of schooling of adults over 25 years is 12.
+
+===Science and technology===
+{{Main|Science and technology in Cape Verde}}
+In 2011, Cape Verde devoted just 0.07% of its GDP to research and development, among the lowest rates in West Africa. The Ministry of Higher Education, Science and Culture plans to strengthen the research and academic sectors by placing emphasis on greater mobility, through exchange programmes and international co-operation agreements. As part of this strategy, Cape Verde is participating in the Ibero-American academic mobility programme that expects to mobilize 200 000 academics between 2015 and 2020.<ref name=":1">{{Cite book|url=http://unesdoc.unesco.org/images/0023/002354/235406e.pdf|title=UNESCO Science Report: towards 2030|last=|first=|publisher=UNESCO|year=2015|isbn=978-92-3-100129-1|location=|pages=|access-date=18 July 2017|archive-url=https://web.archive.org/web/20170630025557/http://unesdoc.unesco.org/images/0023/002354/235406e.pdf#|archive-date=30 June 2017|dead-url=no|df=dmy-all}}</ref>
+
+Cape Verde counted 25 researchers in 2011, a researcher density of 51 per million inhabitants. The world average was 1,083 per million in 2013. All 25 researchers were working in the government sector in 2011 and one in three were women (36%). There was no research being conducted in either medical or agricultural sciences. Of the eight engineers involved in research and development, one was a woman. Three of the five researchers working in natural sciences were women, as were three of the six social scientists and two of the five researchers from the humanities.<ref name=":1" />
+
+In 2015, the government was planning to build a 'cyber-island' which would develop and offer services that include software development, computer maintenance and back office operations. Approved in 2013, the Praia Technology Park is a step in this direction. Financed by the [[African Development Bank]], it is expected to be operational by 2018.<ref name=":1" />
+
+===Crime===
+{{Further|Crime in Cape Verde}}
+Theft and burglary are common in Cape Verde especially in crowds, such as market places, festivals, and celebrations.<ref name=us/> Often the perpetrators of these crimes are gangs of street children.<ref name=us>[https://travel.state.gov/travel/cis_pa_tw/cis/cis_1083.html "Cape Verde"] {{webarchive|url=https://web.archive.org/web/20120125120707/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1083.html |date=25 January 2012 }}. United States [[Bureau of Consular Affairs]] (5 May 2008). ''This article incorporates text from this source, which is in the [[public domain]].''</ref> Murders are concentrated in the major population centres of Praia and Mindelo.<ref name=us/>
+
+==Culture==
+{{Main|Culture of Cape Verde}}
+[[File:Chã das Caldeiras-Musiciens.jpg|thumb|Cape Verdeans are a very musical people; The [[Chã das Caldeiras]] group is an example.]]
+The culture of Cape Verde is characterized by a mixture of European and African elements. This is not a sum of two cultures living side by side, but a new culture resulting from an exchange that began in the 15th century.
+
+The Cape Verdean case may be situated in the common context of African nations, in which elites, who questioned European racial and cultural superiority and who in some cases undertook a long armed struggle against European imperialism and national liberation, use the rule of Western codes as the main instrument of internal domination.<ref name=pc/>
+
+Cape Verdean social and cultural patterns are similar to those of rural Portugal.<ref name=pc/> Football games and church activities are typical sources of social interaction and entertainment.<ref name=pc/> The traditional walk around the praça ([[town square]]) to meet friends is practiced regularly in Cape Verde towns.<ref name=pc/>
+
+===Media===
+{{Further|Media of Cape Verde}}
+[[File:Newspapers of Cape Verde.jpg|thumb|Newspapers of Cape Verde including ''Expresso das Ilhas'', ''A Nação'' and ''Já'']]
+In towns with electricity, television is available on three channels; one state owned ([[RTC (Cape Verde)|RTC]] - TCV) and three foreign owned, RTI Cabo Verde launched by the Portuguese-based RTI in 2005, on 31 March 2007, [[Record Cabo Verde]], its own version was launched by the Brazilian-based [[Rede Record]].<ref name=pc/> Cape Verde has now received [[TV CPLP]] and some of its programs are broadcast, the network first aired in 2016. Premium channels includes the Capeverdean versions of Boom TV and Zap Cabo Verde, two channels owned by Brazil's Record.<ref>{{cite news|url=http://www.cvmultimedia.cv/canais|title=TV Record Cabo Verde disponível também nos canais a cabo em Cabo Verde|agency=ZAP TV and BOOM TV|archiveurl=https://web.archive.org/web/20160204143148/http://www.cvmultimedia.cv/canais|archivedate=4 February 2016|df=}}</ref> Other premium channels are aired in Cape Verde especially Satellite Network, they are common in hotels and villas but availability is predominantly limited, one of them is [[RDP África]], the African version of the Portuguese radio station [[Radiodifusão Portuguesa|RDP]].
+
+As of early 2017, about 19% of the Cape Verdean population own an active cellular phone, 70% have access to the Internet, 11% own a landline telephone, and 2% of the population subscribe to local cable TV. In 2003, Cape Verde had 71,700 main line telephones with an additional 53,300 cellular phones in use throughout the country.
+
+In 2004, there were seven radio stations; six independent and one state owned. The media is operated by the Capeverdean News Agency (secondarily as [[Inforpress]]). Nationwide radio stations include RCV, RCV+, Radio Kriola, the religious station Radio Nova.{{Citation needed|date=January 2018}} Local radio stations include Rádio Praia, the first radio station in Cape Verde, Praia FM, the first FM station in the nation, [[Rádio Barlavento]], [[Rádio Clube do Mindelo]] and Radio Morabeza in Mindelo.{{Citation needed|date=January 2018}}
+
+===Music===
+{{Further|Music of Cape Verde}}
+[[File:Cesária Évora (3).jpg|thumb|left|[[Cesária Évora]], Cape Verdean singer]]
+The Cape Verdean people are known for their musicality, well expressed by popular manifestations such as the Carnival of Mindelo. Cape Verde music incorporates "African, Portuguese and Brazilian influences."<ref name=manuel>{{cite book |author = Peter Manuel |url = https://books.google.com/books?id=Ou7UQpV1KtwC&pg=PA95 |pages = 95–97 |title = Popular Musics of the Non-Western World |year = 1988 |publisher = Oxford University Press |location = New York |accessdate = 19 November 2014 |isbn = 9780195063349 }}</ref> Cape Verde's quintessential national music is the ''[[morna (music)|morna]]'', a melancholy and lyrical song form typically sung in [[Cape Verdean Creole]]. The most popular music genre after ''[[morna (music)|morna]]'' is the ''[[coladeira]]'', followed by ''[[funaná]]'' and ''[[batuque (music)|batuque]]'' music. [[Cesária Évora]] was the best-known Cape Verdean singer in the world, known as the "barefoot diva", because she liked to perform barefooted on stage. The international success of Cesária Évora has made other Cape Verdean artists, or descendants of Cape Verdeans born in Portugal, gain more space in the music market. Examples of this are singers Sara Tavares, Lura and [[Mayra Andrade]].
+
+Another great exponent of traditional music from Cape Verde was Antonio Vicente Lopes, better known as Travadinha and [[Ildo Lobo]], who died in 2004. The House of Culture in the center of the city of Praia is called Ildo Lobo House of Culture, in his honor.
+
+There are also well known artists born to Cape Verdean parents who excelled themselves in the international music scene. Amongst these artists are jazz pianist [[Horace Silver]], [[Duke Ellington]]'s saxophonist [[Paul Gonsalves]], [[Teófilo Chantre]], [[Paul Pena]], the [[Tavares (group)|Tavares]] brothers and singer [[Lura (musician)|Lura]].
+
+===Dance===
+Dance forms include the soft dance ''morna'', the extreme sensuality of ''[[coladeira]]'', the Cape Verdean version of the [[zouk]] from [[Guadeloupe]] called ''[[Cabo love]]'', the ''[[Funaná]]'' (a sensual mixed Portuguese and African dance), the ''[[Batuque (music)|Batuque]]'' dance, and the Cabo Zouk.
+
+===Literature===
+[[File:Praia-Fundação_Amílcar_Cabral_(1).jpg|thumb|right|''Fundação Amílcar Cabral'', in Praia]]
+Cape Verdean literature is one of the richest of [[Lusophone]] Africa. Famous poets include Paulino Vieira, Manuel de Novas, Sergio Frusoni, Eugénio Tavares, and B. Léza, and famous authors include [[Baltasar Lopes da Silva]], António Aurélio Gonçalves, [[Manuel Lopes]], [[Orlanda Amarílis]], [[Henrique Teixeira de Sousa]], [[Arménio Vieira]], Kaoberdiano Dambará, Dr. Azágua, and [[Germano Almeida]].
+
+===Cinema===
+The Carnival and the island of [[São Vicente, Cape Verde|São Vicente]] is portrayed in the 2015 feature documentary ''[[Tchindas]]'', nominated at the [[12th Africa Movie Academy Awards]].
+
+===Cuisine===
+[[File:Cachupa_2.jpg|thumb|Cachupa, typical Cape Verdean dish]]
+{{Main|Cape Verdean cuisine}}
+The Cape Verde diet is mostly based on fish and staple foods like corn and rice. Vegetables available during most of the year are potatoes, onions, tomatoes, [[manioc]], cabbage, kale, and dried beans. Fruits such as bananas and [[papaya]]s are available year-round, while others like [[mango]]es and [[avocado]]s are seasonal.<ref name=pc/>
+
+A popular dish served in Cape Verde is [[Cachupa]], a slow cooked stew of corn (hominy), beans, and fish or meat. A common appetizer is the [[Pastel (food)|pastel]] which is a pastry shell filled with fish or meat that is then fried.<ref name=pc/>
+
+===Sports===
+The country's most successful sports team is the [[Cape Verde national basketball team]], which won the bronze medal at the [[FIBA Africa Championship 2007]], after beating [[Egypt national basketball team|Egypt]] in its last game. The country's most well-known player is [[Walter Tavares]], who plays for [[Real Madrid Baloncesto|Real Madrid]] of Spain.
+
+Cape Verde is famous for wave sailing{{Citation needed|date=March 2019}} (a type of windsurfing) and [[Kitesurfing|kiteboarding]]{{Citation needed|date=March 2019}}. Josh Angulo, a Hawaiian and 2009 PWA Wave World Champion, has done much to promote the archipelago as a [[windsurfing]] destination.{{Citation needed|date=March 2019}} Mitu Monteiro, a local kitesurfer, was the 2008 [[International Kiteboarding Association#Wave Riding|Kite Surfing World Champion]] in the wave discipline.
+
+The [[Cape Verde national football team]], nicknamed either the ''Tubarões Azuis'' (Blue Sharks) or ''Crioulos'' (Creoles), is the national team of Cape Verde and is controlled by the [[Cape Verdean Football Federation]]. The team has played at two [[Africa Cup of Nations]], in [[2013 Africa Cup of Nations|2013]] and [[2015 Africa Cup of Nations|2015]].<ref>{{cite web |title = Africa Cup of Nations: Cape Verde and Ethiopia qualify |url = https://www.bbc.com/sport/0/football/19883659 |website = BBC Sport |accessdate = 24 September 2014 |archive-url = https://web.archive.org/web/20150327145930/http://www.bbc.com/sport/0/football/19883659# |archive-date = 27 March 2015 |dead-url = no |df = dmy-all }}</ref>
+
+The country has competed at every [[Summer Olympics]] since 1996.
+
+==Transport==
+{{Main|Transport in Cape Verde}}
+
+===Ports===
+[[File:CaisPortoNovo.JPG|thumb|New port in Santo Antão]]
+There are four international ports: Mindelo, São Vicente; Praia, Santiago; Palmeira, Sal; and Sal Rei, Boa Vista. Mindelo on São Vicente is the main port for cruise liners and the terminus for the ferry service to Santo Antão. Praia on Santiago is a main hub for local ferry services to other islands. Palmeira on Sal supplies fuel for the main airport on the island, Amílcar Cabral International Airport, and is important for the hotel construction taking place on the island. Porto Novo on Santo Antão is the only source for imports and exports of produce from the island as well as passenger traffic since the closure of the airstrip at Ponta do Sol.
+There are smaller harbors, essentially single jetties at Tarrafal on São Nicolau, Sal Rei on Boa Vista, Vila do Maio (Porto Inglês) on Maio, São Filipe on Fogo and Furna on Brava. These act as terminals for the inter-island ferry services, which carry both freight and passengers. The pier at Santa Maria on Sal used by both fishing and dive boats has been rehabilitated.
+
+===Airports===
+[[File:Aeroporto-Internacional-Aristides-Pereira-Terminal-2012.JPG|thumb|[[Aristides Pereira International Airport]] in Boa Vista island]]
+There were seven operational airports {{as of|2014|lc=y}}&nbsp;— 4 international and 3 domestic. Two others were non-operational, one on Brava and the other on Santo Antão, closed for safety reasons.
+
+Due to its geographical location, Cape Verde is often flown over by transatlantic airliners. It is part of the conventional air-traffic route from [[Europe]] to [[South America]], which goes from southern [[Portugal]] via the [[Canary Islands]] and Cape Verde to northern [[Brazil]].
+
+====International airports====
+*[[Amílcar Cabral International Airport]], Sal Island
+*[[Nelson Mandela International Airport]], Santiago Island
+*[[Aristides Pereira International Airport]], Boa Vista Island
+*[[Cesária Évora Airport]], São Vicente Island
+*João dos Santos Airport, CPV
+
+==See also==
+{{portal|Cape Verde}}
+*[[Outline of Cape Verde]]
+*[[Index of Cape Verde-related articles]]
+
+==References==
+{{Reflist|30em|refs=
+<ref name=IEF>{{cite web|url=http://www.heritage.org/index/country/CapeVerde|title=Cape Verde &#124; 2010 Index of Economic Freedom|publisher=Heritage.org|date=|accessdate=31 January 2011|archive-url=https://web.archive.org/web/20110203201846/http://www.heritage.org/index/Country/CapeVerde#|archive-date=3 February 2011|dead-url=no|df=dmy-all}}</ref>
+<ref name=NRI>{{cite web |url = http://www3.weforum.org/docs/WEF_GITR_Report_2011.pdf |title = World Economic Forum : The Global Information Technology Report 2010-2011 |publisher = Weform.org |accessdate = 1 August 2014 |archive-url = https://web.archive.org/web/20140824061420/http://www3.weforum.org/docs/WEF_GITR_Report_2011.pdf# |archive-date = 24 August 2014 |dead-url = no |df = dmy-all }}</ref>
+}}
+
+==Bibliography==
+*{{cite journal|last1=Pim|first1=J.|last2=Pierce|first2=C.|last3=Watts|first3=A. B.|last4=Grevemeyer|first4=I.|last5=Krabbenhoeft|first5=A.|url=http://www.earth.ox.ac.uk/~tony/watts/downloads/Pim_etal_2008.pdf|title=Crustal structure and origin of the Cape Verde Rise|journal=Earth and Planetary Science Letters|date=5 May 2008|volume=272|issue=1–2|pages=422–428|doi=10.1016/j.epsl.2008.05.012|deadurl=yes|archiveurl=https://web.archive.org/web/20110106212841/http://www.earth.ox.ac.uk/%7Etony/watts/downloads/Pim_etal_2008.pdf|archivedate=6 January 2011|df=}}
+*{{cite journal |url = https://www.researchgate.net/publication/227504366 |first = Jorgen |last = Carling |year = 2004 |title = Emigration, Return and Development in Cape Verde: The Impact of Closing Borders |journal = Population, Space and Place |doi = 10.1002/(SICI)1097-4679(199901)55:1<117::AID-JCLP12>3.0.CO;2-A |issue = 10 |pages = 113–132 |pmid = 10100838 |volume = 55 }}
+*{{cite journal |url = https://www.geolsoc.org.uk/en/Publications/Supplementary%20Publications/2010/~/media/Files/GSL/shared/Sup_pubs/2010/18390SupPub.ashx |first = R. |last = Ramalho |first2 = G. |last2 = Helffrich |first3 = D. |last3 = Schmidt |first4 = D. |last4 = Vance |title = Tracers of Uplift and Subsidence in the Cape Verde Archipelago |journal = Journal of the Geological Society |year = 2010 |volume = 167 |issue = 3 |pages = 519–538 |doi = 10.1144/0016-76492009-056 |citeseerx = 10.1.1.173.3419 }}
+
+== External links ==
+
+{{Sister project links | wikt = Cabo Verde | c = Category:Cape Verde | commonscat = | n = Category:Cape Verde | s = no | q = no | b = no | v = no | voy = Cape Verde}}
+* {{Wikiatlas}}
+* [http://www.governo.cv/ Official website of the Government of Cape Verde]
+* {{dmoz|Regional/Africa/Cape_Verde}}
+* {{CIA World Factbook link|cv|Cape Verde}}
+* [https://www.state.gov/r/pa/ei/bgn/2835.htm Cape Verde] from [[State.gov]]
+* [https://www.bbc.co.uk/news/world-africa-13148486 Country Profile] from [[BBC News]]
+* [https://www.britannica.com/place/Cabo-Verde Cape Verde] entry on ''Encyclopædia Britannica''
+* [https://web.archive.org/web/20081007032146/http://ucblibraries.colorado.edu/govpubs/for/capeverde.htm Cape Verde] from ''UCB Libraries GovPubs''
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=CV Key Development Forecasts for Cape Verde] from [[International Futures]]
+* [https://wits.worldbank.org/CountryProfile/en/Country/CPV/Year/2016/Summary Cape Verde 2016]
+
+<!-- [[Bibliography of Cape Verde]] -->
+<!-- {{wikipedia books link|Cape Verde}} -->
+{{Cape Verde topics}}
+{{Navboxes
+|title = Related articles 
+|list  =
+{{Countries of Africa}}
+{{African Union}}
+{{Community of Portuguese Language Countries|state=collapsed}}
+{{Portuguese overseas empire}}
+}}
+
+{{Coord|15|06|40|N|23|37|00|W|display=title}}
+
+{{Authority control}}
+
+[[Category:Cape Verde| 01]]<!--please leave the empty space as standard-->
+[[Category:Macaronesia]]
+[[Category:West African countries]]
+[[Category:Economic Community of West African States]]
+[[Category:Island countries]]
+[[Category:Islands of Macaronesia]]
+[[Category:Portuguese-speaking countries and territories]]
+[[Category:Republics]]
+[[Category:States and territories established in 1975]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Community of Portuguese Language Countries]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:1975 establishments in Africa]]
+[[Category:1975 establishments in Cape Verde|*]]
+[[Category:Countries in Africa]]

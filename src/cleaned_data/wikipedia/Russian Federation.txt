@@ -1,0 +1,10 @@
+#REDIRECT [[Russia]]
+
+{{Redirect category shell|1=
+{{R from long name}}
+}}
+
+[[Category:Modern history of Russia]]
+[[Category:Post-Soviet states]]
+[[Category:1991 establishments in Russia]]
+[[Category:States and territories established in 1991]]

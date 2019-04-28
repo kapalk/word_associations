@@ -1,0 +1,253 @@
+{{pagebanner|Botswana banner.jpg}}
+
+{{quickbar
+| image=Onkovango_delta_Botswana_Afrika_november_2004.jpg
+| caption=Okavango Delta
+| location=Botswana in its region.svg
+| flag=Flag of Botswana.svg
+| capital=[[Gaborone]]
+| government=Parliamentary republic
+| currency=Pula (BWP)
+| area=600,370km²
+| population=1,639,833 (July 2006 est.)
+| language=English (official), Setswana (official and national)
+| religion=Christian 70%, others including indigenous beliefs 30%
+| electricity=0 kWh
+| callingcode=+267
+| tld=.bw
+| timezone=UTC+02
+}}
+[http://www.botswana-tourism.gov.bw/ '''Botswana'''] is a land-locked country located in [[Southern Africa]] and bordering on [[Namibia]], [[South Africa]], [[Zimbabwe]] and [[Zambia]]. 
+
+Botswana is famous for its wildlife, areas like the [[Chobe National Park]], [[Moremi National Park]] in the [[Okavango Delta]] and the [[Central Kalahari Game Reserve]] have a very high concentration of game. 
+
+The bulk of the Kalahari desert falls within Botswana's borders and Botswana is home to most of the world's San (bushman) population.
+
+==Understand==
+The economy, one of the most robust on the continent, is dominated by diamond mining and tourism.  
+
+As a tourist destination, Botswana has traditionally opted for a high price / low numbers formula, in part as a conservation strategy, and also to differentiate itself from neighbouring tourist countries who follow a mass market tourism policy. However, that isn't to say that Botswana is an expensive high end destination. In many respects costs and quality compare to neighbouring South Africa. However the two jewels in Botswana's tourism crown (the Okavango delta and Chobe National Park) are quite exclusive, although there are budget options.
+
+For independent travellers touring the region Botswana offers an interesting contrast to the poverty of its northern neighbours, and is free from the apartheid hangover that still blights South Africa. Botswana has a long established tourism industry and levels of service are good, hassles are low and tourist numbers minimal away from the main parks, allowing for some magical 'off the beaten path' experiences.
+
+===History===
+Formerly the British protectorate of Bechuanaland, Botswana adopted its new name upon independence on 30 September 1966
+
+===Public Holidays===
+The public holidays in Botswana are:
+*1 Jan '''New Years' Day'''
+*'''Easter weekend''' of "Good Friday", "Easter Saturday", "Easter Sunday" and "Easter Monday"; a four day long weekend in March or April set according to the Western Christian calendar.
+*1 May '''Workers Day'''
+*1 July '''Sir Seretse Khama Day'''
+* <listing name="Mid July">President's Day</listing>
+* <listing name="September 30" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">Botswana Day</listing>
+* <listing name="December 25" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">Christmas Day</listing>
+* <listing name="December 26">Day of Goodwill</listing>
+
+==Regions==
+{{Regionlist|
+
+regionmap=Botswana.png |
+regionmaptext=Regions of Botswana |
+
+region1name=[[Kalahari (Botswana)|Kalahari]] |
+region1color=#C99933 |
+region1items= |
+region1description= The sparsely populated Kalahari Desert and its fringe.|
+
+region2name=[[Okavango-Chobe]] |
+region2color=#996666 |
+region2items= |
+region2description= The northern part of the country with the [[Okavango Delta]] and good game reserves like [[Chobe National Park|Chobe National Park]] and [[Moremi National Park]].|
+
+region3name=[[Southeast (Botswana)|Southeast]]  |
+region3color=#669999  |
+region3items=  |
+region3description=Home to the capital, [[Gaborone]], and most of the country's population.|
+}}
+
+==Cities==
+* [[Gaborone]] 
+* [[Francistown]]
+* [[Ghanzi]]
+* [[Kasane]]
+* [[Maun]]
+<!--Smaller towns and villages, need to be moved off to regions when they're created -->
+* [[Nata]]
+* [[Gweta]]
+* [[Kanye]]
+* [[Tsabong]]
+<!-- I believe there is a maximum of 9!
+* [[Mogapi]]
+* [[Palapye]]
+* [[Serowe]]
+ -->
+
+==Other destinations==
+* [[Okavango Delta]] - A unique geological formation where a delta is formed by a river (the Okavango) flowing into the Kalahari desert instead of the ocean. Part of the Delta is designated as [[Moremi National Park]]
+* [[Central Kalahari Game Reserve]] 
+* [[Chobe National Park]] - A great place to see wildlife, and a good point from which to move on to [[Victoria Falls]].
+* [[Kgalagadi Transfrontier Park]] 
+* [[Nxai Pan National Park]]
+* [[Northern Tuli Game Reserve]] - a unique corner of Africa where nature & culture combine in spectacular wildlife, stunning scenery and fascinating history
+* Khama Rhino Sanctuary [http://www.khamarhinosanctuary.org.bw/home] - a good stop between Gaborone & Maun where you can do a rhino tracking with rangers (Mmupi is one the most experienced rangers)
+
+See also [[African National Parks]]
+
+==Get in== 
+{{VisaRestriction|Entry will be refused to citizens of [[Democratic Republic of the Congo]], [[Guinea]], [[Liberia]], and [[Sierra Leone]], and those who recently visited those countries  due to the current ebola virus outbreak.}}
+
+===Entry requirements===
+
+Nationals of all [[Europe|European Union]] member states, plus [[Angola]], [[Antigua and Barbuda]], [[Argentina]], [[Australia]], the [[Bahamas]], [[Bahrain]], [[Barbados]], [[Belize]], [[Brazil]], [[Brunei]], [[Canada]], [[Chile]], [[Costa Rica]], [[Cuba]], [[Dominica]], the [[Dominican Republic]], the [[Gambia]], [[Grenada]], [[Guyana]], the [[Rome/Vatican|Holy See]], [[Hong Kong]], [[Iceland]], [[Israel]], [[Jamaica]], [[Japan]], [[Kenya]], [[Kiribati]], [[Kuwait]], [[Lesotho]], [[Liechtenstein]], [[Malawi]], [[Malaysia]], [[Maldives]], [[Mauritius]], [[Mexico]], [[Monaco]], [[Mozambique]], [[Namibia]], [[Nauru]], [[New Zealand]], [[Norway]], [[Oman]], [[Papua New Guinea]], [[Paraguay]], [[Peru]], [[Qatar]], [[Russia]], [[Samoa]], [[Saint Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]], [[San Marino]], [[Saudi Arabia]], [[Seychelles]], [[Sierra Leone]], [[Singapore]], [[Solomon Islands]], [[South Africa]], [[South Korea]], [[South Sudan]], [[Swaziland]], [[Switzerland]], [[Tanzania]], [[Tonga]], [[Trinidad and Tobago]], [[Turkey]], [[Tuvalu]], [[Uganda]], [[United Arab Emirates]], [[United States]], [[Uruguay]], [[Vanuatu]], [[Venezuela]], [[Zambia]] and [[Zimbabwe]] may enter Botswana visa-free for up to 90 days within a 12-month period.
+
+For citizens of other nations, a visa must be obtained prior to arrival. As of February 2009, a visa from the Botswana Embassy in the US costs USD107; for more information and a complete list of countries which do/don't require visas, see: [http://www.botswanaembassy.org/page/guidelines-for-completing-a-visa-application].
+
+If you require a visa to enter Botswana, you might be able to apply for one at a British embassy, high commission or consulate in the country where you legally reside if there is no Botswana diplomatic post. For example, the British embassies/consulates in Al Khobar[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null], Almaty[http://www.ukba.homeoffice.gov.uk/countries/kazakhstan/commonwealth-bots/?langname=null], Amman[http://www.ukba.homeoffice.gov.uk/countries/jordan/commonwealth-bots/?langname=null], Belgrade[http://www.ukba.homeoffice.gov.uk/countries/serbia/commonwealth-bots/?langname=null], Damascus, Geneva[http://www.ukba.homeoffice.gov.uk/countries/switzerland/commonwealth-bots/?langname=null], Guatemala City[http://ukinguatemala.fco.gov.uk/en/visiting-uk/visas/countries-issue], Jakarta[http://www.ukba.homeoffice.gov.uk/countries/indonesia/commonwealth-bots/?langname=null], Jeddah[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null], Kiev[http://www.ukba.homeoffice.gov.uk/countries/ukraine/commonwealth-bots/?langname=null], Pristina[http://www.ukba.homeoffice.gov.uk/countries/kosovo/commonwealth-bots/?langname=null], Rabat[http://www.ukba.homeoffice.gov.uk/countries/morocco/commonwealth-bots/?langname=null], Riyadh[http://www.ukba.homeoffice.gov.uk/countries/saudiarabia/commonwealth-bots/?langname=null], Rome[http://www.ukba.homeoffice.gov.uk/countries/italy/commonwealth-bots/?langname=null], Sofia[http://www.ukba.homeoffice.gov.uk/countries/bulgaria/commonwealth-bots/?langname=null] and Zurich[http://www.ukba.homeoffice.gov.uk/countries/switzerland/commonwealth-bots/?langname=null] accept Botswana visa applications (this list is '''not''' exhaustive). British diplomatic posts charge £50 to process a Botswana visa application and an extra £70 if the authorities in Botswana require the visa application to be referred to them. The authorities in Botswana can also decide to charge an additional fee if they correspond with you directly.
+
+===By plane=== 
+
+Botswana's main airport is Sir Seretse Khama in Gaborone. Most flights arriving in Botswana are from [[Johannesburg]] in South Africa, but routes from Cape Town, Harare and Nairobi are also available.  [[Maun]] also has a limited number of international flights (Cape Town, Windhoek). The distance between Gaborone and Maun is more than 1,000km. Maun is very much a tourist attraction spot.
+
+===By train===
+Trains to/from [[South Africa]] have been withdrawn since 1999. A rail link from from Francistown [[Bulawayo]], [[Zimbabwe]] was started in June 2006 [http://www.seat61.com/Botswana.htm].
+
+===By car=== 
+
+There are several entry points by road to Botswana: In the south at [[Gaborone]], providing access from [[Johannesburg]]; in the west providing access from [[Namibia]]; the north providing access from [[Namibia]], [[Zambia]] and [[Zimbabwe]]; and at [[Francistown]] in the east, providing access from [[Harare]]. All road access is good and the primary roads within Botswana are paved and well maintained.
+
+Coming from [[Namibia]], you can either go north to [[Maun]], or south along the Trans-Kalahari Highway to [[Lobatse]].
+
+===By bus=== 
+There is regular bus service from Johannesburg to Gaborone, which takes six hours. There is also service from [[Windhoek]], Namibia via the [[Caprivi Strip]] which will drop you in Chobe National Park, in northern Botswana. There is also bus service from [[Victoria Falls]] in Zimbabwe. See Intercape Mainliner [http://www.intercape.co.za/] for information on service from Namibia and Zimbabwe.  Private shuttles ran until 2004 from Windhoek directly to Maun and in late 2005, such a service was starting up again. Alternatively, there is a public bus that runs from Windhoek to Gaborone every Sunday morning via Ghanzi, where you can catch another public bus that reaches Maun by Sunday evening.
+
+==Get around==
+Very few locals know street names and addresses, and you are likely to have to get directions in terms of landmarks.  Botswana doesn't have a postal delivery system to addresses (just to centralised mail collection points), so even when streets are well-marked, the names may be unfamiliar to residents.
+
+Through a combination of coaches and combies, you can get anywhere in Botswana without any trouble, though public transport is spotty away from big cities and major axes but hitchhiking is popular and very easy. However, hitchhiking should only be done in desperate circumstances, as Botswana driving is often very erratic and it can be a harrowing experience to have a stranger drive you somewhere. It is advisable to arrive at the bus station quite early, as the busses do fill up quickly, and it is not uncommon to spend several hours standing in the aisle waiting for a seat to free up (remember to bring water, as the buses are often not air conditioned). 
+
+===Maps===
+'''Online maps''' for Botswana seem to have errors and omissions. Google is particularly worrisome in that it includes tracks that are actually fences, or are incomplete (eg the bridges haven't been built) - for example if you plot the route from Gaborone to Maun it will suggest you drive via the Central Kalagadi Games Reserve fence, hmmm. Untarred roads present the most uncertainty for the driver, a good option is to look on Google Earth and measure the width of the track, if it is 3 metres wide then it is likely to be a sandy track where you won't get above 20kph.  If it is 15 metres wide it'll be a graded gravel road where you may get up to 100kph.
+'''Paper maps'''.  A good wall map can be purchased from the Dept. of Surveys and Mapping in Gaborone (near the train station) for P80.  Edition 6 (2010) is the latest version.
+
+Finally map reading skills are not high for the Batswana, navigation via landmarks is the norm.
+
+A new system called PlotFind (plotfind.co.bw) was developed for Botswana. It currently contains the addresses (plot numbers) of locations in Gaborone. This system is the best solution for online maps in Gaborone
+
+===By car===
+The roads are paved and well maintained, so travel by car is also not a problem, provided that one keeps a close eye out for the cows, donkeys and goats that spend much time in the middle of the road.
+
+The Trans-Kalahari Highway is an old cattle route, now newly paved and easiy drivable with a 2-wheel drive. It runs from [[Lobatse]] to [[Ghanzi]] in [[Botswana]], making the connection from [[Windhoek]], [[Namibia]] to [[Gaborone]], Botswana. It is a long and uneventful drive, but you get a good feel for the Kalahari Desert. Fuel is available in [[Kang]] at the Kang Ultra Shop, which also offers a respectable selection of food, overnight chalets, and inexpensive camping.
+
+Be aware that the road from Maun to Kasane (through Chobe national park) is an unpaved sandy track, even though some maps show it as a proper road.  You need a 4x4 for this route.  Going via Nata to / from Kasane/ Maun is much quicker and easier.
+
+'''Buying a car'''.  Botswana isn't a bad place to buy a vehicle for a multi-month long trip around southern Africa, which you can then sell at the end. Botswana is considerably cheaper than South Africa and Gaborone is swamped with second-hand Japanese and UK imports. The paperwork is not too daunting and the dealer can do most of it for you.  Websites like [http://want-a-car.co.bw/ Want a Car] can give you a good idea of prices.
+
+Beware of the many corrupt police officers which are posted at check points, as they often try and claim fines of up to Pula 1000,00 for allegedly ignoring a stop sign or other offenses. Be polite, stay calm and respect their (assumed) authority when being pulled over.
+
+Also, the country is divided by many veterinarian fences, which are set up to break the spread of cattle diseases (foot and mouth and so on). There, you are required to surrender all fresh meat products, drive through a disinfectant pit to cleans your tyres and rub your shoes on a disinfectant solution too. Depending on the month and situation, sometimes these posts are not manned, but at times the checks here can be thorough.
+
+===By bus===
+There are many bus companies in Botswana. One of the biggest is Seabalo[http://www.seabelo.bw]. From Gaborone you can travel by bus to any bigger city in Botswana.
+
+===By train===
+Botswana Railways operates Botwana's railways. The main line goes from [[Lobatse]], near the South African border, via [[Gaborone]] to [[Francistown]] at the Zimbabwean border. As of March 2016 the trains are running and have been refurbished on the Lobatse - Francistown route.
+
+==Talk==
+
+The official languages of Botswana are '''English''' and '''[[Tswana phrasebook|Tswana]]'''. [http://en.wikipedia.org/wiki/Kalanga_language Kalanga] is spoken near the Zimbabwe border areas, and is similar to Shona.
+
+The language of business in Botswana is English and most people in urban areas speak it, although in the more rural areas many people do not speak English, particularly the older generations. The primary indigenous tongue is Tswana, and is the first language of the overwhelming majority of the population. It is not difficult to learn basic greetings and such, and using these in conversation will make people very happy.
+
+==See==
+Wildlife is Botswana's main draw. Wildlife parks compose nearly one-fifth of the country. In these parks you will find lions, cheetahs, crocodiles, hippos, elephants, antelope, wild dogs, and hundreds of species of birds. Visitors can take safaris and stay in lodges running the gamut from inexpensive dorms for backpackers with tour buses to $1,000+/night private lodges with your own maid & driver.
+
+Among southern Africa's most impressive&mdash;and popular&mdash;wildlife destinations is the '''Okavango Delta''' where the Okavango River widens into the world's largest inland delta. Lying in the middle of the arid Kalahari, the swamps & water channels attract animals from thousands of kilometers around and triples in size (to 100 000 sq. km.!) during floods in July and August. Nearby '''Chobe National Park''' has a large population of elephants and it's also easy to spot many of Africa's well-known species, especially zebras and lions. The bleak salt pans of '''Makgadikgadi Pans National Park''' attract a large number and variety of birds year-round. Other great game parks include '''Nxai Pan National Park''', '''Mokolodi Nature Reserve''', & '''Gemsbok National Park'''. 
+
+Most of the native tribes in Botswana only dress in traditional outfits and perform rituals for tourists. Nevertheless, for the culture-cravers, the villages of '''D'Kar''' and '''Xai-Xai''' have many offerings, including arts, crafts, and the opportunity to participate in various rituals. '''Tsodilo Hills''' contain one of the largest collections of rock art on the continent.
+
+==Do==
+One of the most interesting ways to get to know a country and its people, and which has become increasingly popular,  is to  '''volunteer'''. As a volunteer you can support Botswana in terms of community development, wildlife conservation or education.
+To get a broad overview of all the organizations that offer volunteer opportunities in Botswana, you can also see [[Volunteering|the volunteering page]].
+==Buy==
+Botswana's currency is the ''pula', often locally symbolised as "P"; its ISO 4217 code is '''BWP''' placed directly before the amount with no intervening space. 
+
+Banknotes circulate in denominations of BWP10, BWP20, BWP50, BWP100 and BWP200. You can find 5, 10, 25, and 50 thebe coins, together with BWP1, BWP2 and BWP5 pieces and 100 thebe equals one pula. In Setswana, pula means "rain" and thebe means "shield." Rough conversions were BWP10.61=USD1,  BWP11.35=€1, BWP13.13=GBP1 and BWP0.78=ZAR1 in Jan 2017.
+
+===Shopping===
+For the independent traveller prices in Botswana compare to neighbouring South Africa. Notable exceptions are petrol and diesel which are about a third cheaper in Botswana, and alcohol, which is about a third more expensive.
+
+==Eat==
+Indigenous Botswana cuisine is similar to the rest of southern Africa and offers little to inspire. Beef is taken seriously and can be of exceptional quality. The braai is a popular cuisine.
+
+==Drink==
+
+The legal drinking/purchasing age of alcoholic beverages is '''18'''.
+
+Throughout Botswana the tap water is safe to drink (this general advise is taken with care, as it varies considerably depending on the area - so make sure you ask locals and travelers alike before drinking it!). Good fruit juice is hard to find (South African 100% juice blends are the norm) although Spar do a range of good juices.  The national beer, St Louis, is often derided by foreigners as being worse than domestic US lagers. Most opt for Namibian or South African imports.
+Bottle stores are widely found in most places, and even regular, slightly bigger supermarkets are allowed to sell booze.
+
+==Sleep==
+Most of the accommodation establishments in Botswana are located near the larger towns and cities, but there are also many secluded game lodges tucked away in the wilderness areas. In the towns it is rare for accommodation to be booked up. For the lodges it is safer to book your accommodation well in advance before travelling to Botswana. This can be done on-line or via travel agents that have the knowledge of the country. As with many safari destinations booking through an agent in your own country may work out cheaper than booking direct - shop around with different agents to get the best price.
+
+As a rule of thumb P400 (US$50) should get you an acceptable en suite room in most of the towns.  In the smaller towns away from the tourist routes quality and prices will be lower.
+
+==Cope==
+===Newspapers===
+Botswana has several English language daily and weekly newspapers.  [http://www.mmegi.bw/ Mmegi], [http://www.gazettebw.com/ Botswana Gazette], [http://www.botswanaguardian.co.bw Botswana Guardian] and [http://www.sundaystandard.info/ Sunday Standard] being the most respected. The Government produces the [http://www.dailynews.gov.bw/ Daily News], which is distributed free and invariably has a picture of the President on the front cover.  For quality international news the South African [http://mg.co.za Mail & Guardian] is available in Gaborone, Pick'n'Pay sells this for a discounted P17, rather than the P24 cover price.
+
+==Contact==
+Botswana uses GSM900 and has three mobile operators, [http://www.orange.co.bw/mobile/coverage.php Orange], [http://www.mascom.bw/home/ Mascom] an MTN offshoot, and [http://www.bemobile.co.bw BEMobile] run by Botswana telecom. Mascom has the worse reputation for customer service. When topping up try and wait for the end of the month when all three operators offer top-up specials.  Coverage is restricted to the towns and highways, out in the bush there is generally nothing.
+
+For internet, internet cafes are present in most towns, and have useable speeds. Wifi is available in the pricier / expat orientated cafes and restaurants, but game lodges tend to be internetless.  In general speeds are noticeably slower in Botswana than South Africa - do any serious downloading before you arrive.
+
+==Learn==
+The University of Botswana [http://www.ub.bw/] is in Gaborone, they participate in several university exchange programmes.
+
+==Stay safe==
+People in Botswana are very friendly and the crime rate is low. There isn't much to worry about on this front. Nevertheless, crime has been on the rise over the past several years, so always be aware of your surroundings. Basic common sense will keep you safe from the predatory wildlife in rural areas. Botswana happens to be one of the safest countries in Africa, no civil war, less corruption, human rights, no natural disasters e.g earthquakes or tsunamis.
+
+=== LGBT travellers ===
+While there are technically laws against homosexuality, they are unenforced and Botswana is among the most tolerant of African nations for the LGBT community.
+
+==Conservation==
+Botswana is an eco-friendly tourist destination.   The country and it's travel board focus on sustainable things for tourists to do.  The fees for Botswana's Safari parks go right back into the parks.
+
+==Stay healthy== 
+Botswana's HIV infection rate, estimated at 24.1%, is the 2nd highest reported in the world. Exercise regular universal precautions when dealing with any bodily fluid and remain aware of this high rate of infection. Take precautions accordingly. Wear rubber gloves when dressing someone else's cut, even if they are a child.
+
+The northern part of Botswana, including Chobe National Park and the Okavango Delta is in a [[malaria]] zone, so it is advisable to take the relevant precautions. Seek medical advice before travelling to these areas.
+
+Water in urban areas is chlorinated, and is drunk from the tap by the local population.  Still, short term visitors with sensitive stomachs may feel more secure drinking bottled water.  Outside of urban areas, the water is untreated and straight from the borehole and poses a slightly higher risk to the traveller. 
+
+{{isPartOf|Southern_Africa}}
+{{outline}}
+{{Countryguide}}
+
+[[WikiPedia:Botswana]]
+[[Dmoz:Africa/Botswana/]]
+[[World66:africa/botswana]]
+
+{{related|African_National_Parks}}
+{{related|African_flora_and_fauna}}
+{{related|Discount_airlines_in_Africa}}
+
+[[wmc:category:Botswana]]
+
+[[ca:Botswana]]
+[[de:Botsuana]]
+[[eo:Bocvano]]
+[[es:Botswana]]
+[[fi:Botswana]]
+[[fr:Botswana]]
+[[hu:Botswana]]
+[[it:Botswana]]
+[[ja:ボツワナ]]
+[[nl:Botswana]]
+[[pt:Botsuana]]
+[[ro:Botswana]]
+[[ru:Ботсвана]]
+[[sv:Botswana]]
+[[zh:博茨瓦纳]]
+[[wts:Category:Botswana]]
+{{title-icons|dotm-icon}}

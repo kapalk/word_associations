@@ -1,0 +1,1278 @@
+{{about|the country in Central America}}
+{{pp-pc1|small=yes}}
+{{more citations needed|date=June 2018}}
+{{Use dmy dates|date=June 2017}}
+{{Coord|15|30|N|90|15|W|display=title}}
+{{Infobox country
+| conventional_long_name = Republic of Guatemala
+| common_name = Guatemala
+| native_name = {{native name|es|República de Guatemala}}
+| image_flag = Flag of Guatemala.svg
+| image_coat = Coat of arms of Guatemala.svg
+| national_motto = {{unbulleted list
+  |"''Libre Crezca Fecundo''"{{sfn|Banco de Guatemala|1996|p=}}<small> (Spanish)<br />({{Lang-en|"Grow Free and Fertile"}})</small>
+}}
+| national_anthem = <br />''[[Himno Nacional de Guatemala]]''<br />({{Lang-en|"National Anthem of Guatemala"}})<br /><center>[[File:Gutemala's national anthem, performed by the U.S. Navy Band.ogg]]</center>
+| other_symbol = ''[[La Granadera]]''<br />({{Lang-en|"The Song of the Grenadier"}})<br />{{center|[[File:La Granadera.ogg]]}}
+| other_symbol_type = March:
+| image_map = Guatemala (orthographic projection).svg
+| map_caption = {{map caption |location_color=dark green) <br/> Claimed area, but not controlled  (light green |region=[[Central America]] |region_color= grey }}
+| image_map2 = Guatemala - Location Map (2013) - GTM - UNOCHA.svg
+| capital = [[Guatemala City]]
+| coordinates = {{Coord|14|38|N|90|30|W|type:city}}
+| largest_city = [[Guatemala City]]
+| official_languages = [[Guatemalan Spanish|Spanish]]
+| ethnic_groups = {{unbulleted list
+|41.5% [[Demographics of Guatemala#Mestizo Guatemalans|Mestizo]]
+|41% [[Demographics of Guatemala#Indigenous Guatemalans|Indigenous peoples]]
+<small>{{unbulleted list
+|(9.1% [[K'iche' people|K'iche']]
+|8.4% [[Kaqchikel people|Kaqchikel]]
+|7.9% [[Mam people|Mam]]
+|6.3% [[Q'eqchi' people|Q'eqchi']]
+|8.6% Other [[Maya peoples|Maya]]
+|0.2% Non-Maya indigenous
+|0.1% Others)}}</small>
+|18% [[Demographics of Guatemala#European Guatemalans|European]]
+}}
+| ethnic_groups_year = 2010
+| demonym = [[Guatemalans|Guatemalan]]<br />Guatemalteco<br />Chapín (informal)
+| government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]
+| leader_title1 = [[President of Guatemala|President]]
+| leader_name1 = [[Jimmy Morales]]<ref name=toma>{{cite news|url=http://elperiodico.com.gt/2016/01/14/pais/minuto-a-minuto-asi-asume-el-nuevo-presidente-de-guatemala/ |title=Así asume el nuevo presidente de Guatemala |newspaper=ElPeriódico |date=14 January 2016 |language=es |location=Guatemala |ref=harv |deadurl=yes |archiveurl=https://web.archive.org/web/20160114232824/http://elperiodico.com.gt/2016/01/14/pais/minuto-a-minuto-asi-asume-el-nuevo-presidente-de-guatemala/ |archivedate=14 January 2016}}</ref>
+| leader_title2 = [[Vice President of Guatemala|Vice President]]
+| leader_name2 = [[Jafeth Cabrera]]
+| leader_title3 = [[List of Presidents of the Congress of the Republic of Guatemala|President of the Congress]]
+| leader_name3 = Álvaro Arzú Escobar
+| leader_title4 = President of the Supreme Court
+| leader_name4 = Néster Vásquez Pimentel
+| legislature = {{nowrap|[[Congress of Guatemala|Congress of the Republic]]}}
+| sovereignty_type = Independence <br />{{nobold|from the [[Spanish American wars of independence|Spanish Empire]]}}
+| established_event1 = Declared
+| established_date1 = 15 September 1821
+| established_event2 = {{nowrap|Declared from the<br />[[First Mexican Empire]]}}
+| established_date2 = 1 July 1823
+| established_event3 = {{nowrap|Current constitution}}
+| established_date3 = 31 May 1985
+| area_km2 = 108,889
+| area_rank = 105th
+| area_sq_mi = 42,042<!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 0.4
+| population_estimate = {{increase}} 17,263,239<ref name=IMF>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=47&pr.y=10&sy=2016&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=258&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a= |title=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=7 March 2019}}</ref>
+| population_estimate_year = 2018
+| population_estimate_rank = 67th
+| population_density_km2 = 129
+| population_density_sq_mi = 348.6
+| population_density_rank = 85th
+| GDP_PPP = $145.249 billion<ref name=IMF/>
+| GDP_PPP_rank = 75th
+| GDP_PPP_year = 2018
+| GDP_PPP_per_capita = $8,413<ref name=IMF/>
+| GDP_PPP_per_capita_rank = 118th
+| GDP_nominal = $79.109 billion<ref name=IMF/>
+| GDP_nominal_rank = 68th
+| GDP_nominal_year = 2018
+| GDP_nominal_per_capita = $4,582<ref name=IMF/>
+| GDP_nominal_per_capita_rank = 103rd
+| Gini = 48.3 <!--number only-->
+| Gini_year = 2014
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=GT |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=7 March 2019}}</ref>
+| Gini_rank = 
+| HDI = 0.640 <!--number only-->
+| HDI_year = 2015<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = {{sfn|United Nations|2011|p=129}}
+| HDI_rank = 128th
+| currency = [[Guatemalan quetzal|Quetzal]]
+| currency_code = GTQ
+| time_zone = [[Central Time Zone|CST]]
+| utc_offset = −6
+| drives_on = right
+| calling_code = [[+502]]
+| cctld = [[.gt]]
+}}
+
+'''Guatemala''' ({{IPAc-en|audio=En-us-Guatemala.ogg|ˌ|ɡ|w|ɑː|t|ə|ˈ|m|ɑː|l|ə}} {{respell|GWAH|tə|MAH|lə}}; {{IPA-es|gwateˈmala|lang}}), officially the '''Republic of Guatemala''' ({{lang-es|República de Guatemala|links=no}}),<!-- {{IPA-es|reˈpuβlika ðe ɣwateˈmala}} --> is a country in [[Central America]] bordered by [[Mexico]] to the north and west, [[Belize]] and the [[Caribbean Sea|Caribbean]] to the northeast, [[Honduras]] to the east, [[El Salvador]] to the southeast and the [[Pacific Ocean]] to the south. With an estimated population of around {{#expr:{{replace|{{UN_Population|Guatemala}}|,||}}/1e6 round 1}} million,{{UN_Population|ref}} it is the most populated country in Central America. Guatemala is a [[representative democracy]]; its capital and largest city is Nueva Guatemala de la Asunción, also known as [[Guatemala City]].
+
+The territory of modern Guatemala once formed the core of the [[Maya civilization]], which extended across [[Mesoamerica]]. Most of the country was [[Spanish conquest of Guatemala|conquered by the Spanish]] in the 16th century, becoming part of the [[viceroyalty]] of [[New Spain]]. Guatemala attained independence in 1821 as part of the [[Federal Republic of Central America]], which dissolved by 1841.
+
+From the mid to late 19th century, Guatemala experienced chronic instability and civil strife. Beginning in the early 20th century, it was ruled by a series of dictators backed by the [[United Fruit Company]] and the United States government. In 1944, authoritarian leader [[Jorge Ubico]] was overthrown by a pro-democratic military coup, initiating a [[Guatemalan Revolution|decade-long revolution]] that led to sweeping social and economic reforms. A [[1954 Guatemalan coup d'état|U.S.-backed military coup]] in 1954 ended the revolution and installed a dictatorship.{{sfn|Blakeley|2009|p=92}}
+
+From 1960 to 1996, Guatemala [[Guatemalan Civil War|endured a bloody civil war]] fought between the US-backed government and [[leftist]] rebels, including [[Guatemalan genocide|genocidal massacres]] of the Maya population perpetrated by the military.{{sfn|Cooper|2008|p=171}}{{sfn|Solano|2012|p=3–15}}{{sfn|Navarro|1999}} Since a [[United Nations]]-negotiated peace accord, Guatemala has witnessed both economic growth and successful democratic elections, though it continues to struggle with high rates of poverty, crime, drug trade, and instability. {{as of|2014}}, Guatemala ranks 31st of 33 Latin American and Caribbean countries in terms of the [[Human Development Index]].<ref>{{Cite web|url=http://hdr.undp.org/en/content/human-development-index-hdi|title=Human Development Index (HDI) {{!}} Human Development Reports|website=hdr.undp.org|access-date=15 January 2017|archive-url=https://web.archive.org/web/20170128091411/http://hdr.undp.org/en/content/human-development-index-hdi|archive-date=28 January 2017|dead-url=no|df=dmy-all}}</ref>
+
+Guatemala's abundance of biologically significant and unique ecosystems includes a large number of endemic species and contributes to [[Mesoamerica]]'s designation as a [[biodiversity hotspot]].{{sfn|Conservation International|2007|p=}}
+
+== Etymology ==
+The name "Guatemala" comes from the [[Nahuatl language|Nahuatl]] word ''Cuauhtēmallān'' [[:nah:Cuauhtēmallān|(nahwiki)]], or "place of many trees", a derivative of the [[K'iche' people|K'iche' Mayan]] word for "many trees"{{sfn|Campbell|1997|p=}}{{sfn|Troika study abroad programs|2006|p=}} or perhaps more specifically for the Cuate/Cuatli tree [[Eysenhardtia]]. This was the name the [[Tlaxcala|Tlaxcaltecan]] soldiers who accompanied [[Pedro de Alvarado]] during the [[Spanish Conquest]] gave to this territory.{{sfn|Rain Forest Wordpress|2013|p=}}
+
+== History ==
+{{Main|History of Guatemala}}
+
+=== Pre-Columbian ===
+The first evidence of human habitation in Guatemala dates back to 12,000 BC. Evidence, such as [[obsidian]] [[arrowhead]]s found in various parts of the country, suggests a human presence as early as 18,000 BC.<ref>{{cite web |url=http://www.authenticmaya.com/ancient_guatemala.htm |title=Ancient Guatemala |publisher=Authentic Maya |author=Mary Esquivel de Villalobos |accessdate=29 April 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070523103423/http://www.authenticmaya.com/ancient_guatemala.htm |archivedate=23 May 2007 |df=dmy-all }}</ref> There is archaeological proof that early Guatemalan settlers were [[hunter-gatherers]]. Pollen samples from [[Petén Basin|Petén]] and the Pacific coast indicate that [[maize]] cultivation had developed by 3500 BC.<ref>{{cite web |url=http://ess.geology.ufl.edu/hodell/ICDP/Leyden.pdf |archiveurl=https://web.archive.org/web/20090206082017/http://ess.geology.ufl.edu/hodell/ICDP/Leyden.pdf |archivedate=6 February 2009 |publisher=University of Florida |title=Pollen Evidence for Climatic Variability and Cultural Disturbance in the Maya Lowlands |author=Barbara Leyden |format=PDF}}</ref> Sites dating back to 6500 BC have been found in the [[Quiché department|Quiché]] region in the Highlands, and [[Sipacate]] and [[Escuintla]] on the central Pacific coast.
+
+Archaeologists divide the [[Pre-Columbian era|pre-Columbian]] history of Mesoamerica into the Preclassic period (2999 BC to 250 AD), the Classic period (250 to 900 AD), and the Postclassic period (900 to 1500 AD).<ref>{{cite web |url=http://weber.ucsd.edu/~dkjordan/arch/mexchron.html |title=Chronological Table of Mesoamerican Archaeology |publisher=Regents of the University of California : Division of Social Sciences |accessdate=29 April 2007 |archive-url=https://web.archive.org/web/20070406020436/http://weber.ucsd.edu/~dkjordan/arch/mexchron.html |archive-date=6 April 2007 |dead-url=no |df=dmy-all }}</ref> Until recently, the Preclassic was regarded as a formative period, with small villages of farmers who lived in huts, and few permanent buildings. However, this notion has been challenged by recent discoveries of monumental architecture from that period, such as an altar in [[La Blanca]], [[San Marcos department|San Marcos]], from 1000 BC; ceremonial sites at Miraflores and [[Naranjo]] from 801 BC; the earliest monumental masks; and the [[Mirador Basin]] cities of [[Nakbé]], Xulnal, [[El Tintal]], Wakná and [[El Mirador]].{{citation needed|date=July 2015}}
+
+[[File:Tikal mayan ruins 2009.jpg|thumb|upright=1.35|Maya city of [[Tikal]]]]
+The Classic period of [[Mesoamerican]] civilization corresponds to the height of the [[Maya civilization]], and is represented by countless sites throughout Guatemala, although the largest concentration is in [[Petén Basin|Petén]]. This period is characterized by urbanisation, the emergence of independent city-states, and contact with other Mesoamerican cultures.<ref>
+{{cite web
+|url=http://www.famsi.org/research/pohl/chronology.html
+|title=John Pohl's MESOAMERICA: CHRONOLOGY: MESOAMERICAN TIMELINE
+|accessdate=3 July 2016
+|archive-url=https://web.archive.org/web/20160708111303/http://www.famsi.org/research/pohl/chronology.html
+|archive-date=8 July 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+This lasted until approximately 900 AD, when the [[Classic Maya collapse|Classic Maya civilization collapsed]].<ref name="Gill 2000">{{cite book|last=Gill|first=Richardson Benedict|year=2000|title=The Great Maya Droughts|url=https://books.google.com/books?id=DRt5RnlBTq0C|publisher=University of New Mexico Press|page=384|isbn=0-8263-2774-5|access-date=6 November 2015|archive-url=https://web.archive.org/web/20160123214943/https://books.google.com/books?id=DRt5RnlBTq0C|archive-date=23 January 2016|dead-url=no|df=dmy-all}}</ref> The Maya abandoned many of the cities of the central lowlands or were killed off by a drought-induced famine.<ref name="Gill 2000" /> The cause of the collapse is debated, but the drought theory is gaining currency, supported by evidence such as lakebeds, ancient pollen, and others.<ref name="Gill 2000" /> A series of prolonged droughts, among other reasons such as overpopulation, in what is otherwise a seasonal desert is thought to have decimated the Maya, who relied on regular rainfall.{{sfn|Foster|2000|p=}} The Post-Classic period is represented by regional kingdoms, such as the [[Itza people|Itza]], [[Kowoj]], [[Yalain]] and [[Kejache]] in Petén, and the [[Mam people|Mam]], [[K'iche' people|Ki'che']], [[Kaqchikel people|Kackchiquel]], [[Chajoma]], [[Tz'utujil people|Tz'utujil]], [[Poqomchi' people|Poqomchi']], [[Q'eqchi' people|Q'eqchi']] and [[Ch'orti' people|Ch'orti']] in the highlands. Their cities preserved many aspects of Maya culture.
+The Maya civilization shares many features with other Mesoamerican civilizations due to the high degree of interaction and [[cultural diffusion]] that characterized the region. Advances such as writing, [[epigraphy]], and the [[Maya calendar|calendar]] did not originate with the Maya; however, their civilization fully developed them. Maya influence can be detected from [[Honduras]], Guatemala, Northern [[El Salvador]] to as far north as central Mexico, more than {{convert|1000|km|mi|abbr=on}} from the [[Geography of Mesoamerica#Maya Region|Maya area]]. Many outside influences are found in [[Maya art]] and architecture, which are thought to be the result of trade and cultural exchange rather than direct external conquest.
+
+=== Colonial era (1519–1821) ===
+{{See also|Spanish conquest of Guatemala|Spanish conquest of Petén}}
+[[File:Alvarado.jpeg|thumb|The ''Conquistador'' [[Pedro de Alvarado]] led the initial Spanish efforts to conquer Guatemala.<ref name="Lovell05p58">Lovell 2005, p. 58.</ref>|alt=Painting of a bearded man in early 16th-century attire including prominent ruff collar, wearing a decorative breastplate, with his right hand resting on his hip and his left hand grasping a cane, or riding crop.]]
+
+After they arrived in the [[New World]], the Spanish started several expeditions to Guatemala, beginning in 1519. Before long, Spanish contact resulted in an epidemic that devastated native populations. [[Hernán Cortés]], who had led the [[Spanish conquest of Mexico]], granted a permit to Captains Gonzalo de Alvarado and his brother, [[Pedro de Alvarado]], to conquer this land. Alvarado at first allied himself with the [[Kaqchikel people|Kaqchikel nation]] to fight against their traditional rivals the [[K'iche' kingdom of Q'umarkaj|K'iche' (Quiché) nation]]. Alvarado later turned against the Kaqchikel, and eventually brought the entire region under Spanish domination.<ref>[http://www.lienzo.ufm.edu/cms/en/home Lienzo de Quauhquechollan] {{Webarchive|url=https://web.archive.org/web/20090724103204/http://www.lienzo.ufm.edu/cms/en/home |date=24 July 2009 }} digital map exhibition on the History of the conquest of Guatemala.</ref>
+
+During the colonial period, Guatemala was an [[Audiencia Real|audiencia]], a [[Captaincy|captaincy-general]] (''[[Captaincy General of Guatemala|Capitanía General de Guatemala]]'') of Spain, and a part of [[New Spain]] (Mexico).{{sfn|Foster|2000|pp=69–71}} The first capital, Villa de Santiago de Guatemala (now known as [[Tecpan Guatemala]]), was founded on 25 July 1524 near [[Iximché]], the Kaqchikel capital city. The capital was moved to [[Ciudad Vieja]] on 22 November 1527, as a result of a Kaqchikel attack on Villa de Santiago de Guatemala.
+
+On 11 September 1541, the new capital was flooded when the lagoon in the [[Volcanic crater|crater]] of the [[Volcán de Agua|Agua Volcano]] collapsed due to heavy rains and earthquakes; the capital was then moved {{convert|4|mi|km|0|order=flip|abbr=on}} to [[Antigua Guatemala|Antigua]] in the Panchoy Valley, now a [[UNESCO]] [[World Heritage Site]]. This city was destroyed by several earthquakes in 1773–1774. The King of Spain authorized moving the capital to its current location in the Ermita Valley, which is named after a [[Catholic church]] dedicated to the [[Virgin Mary|Virgen del Carmen]]. This new capital was founded on 2 January 1776.
+
+=== Independence and the 19th century (1821–1847) ===
+[[File:Independenciacentroamerica2.jpg|thumb|left|[[Criollo people|Criollos]] rejoice upon learning about the declaration of independence from Spain on 15 September 1821.]]
+
+On 15 September 1821, the [[Captaincy General of Guatemala]], formed by [[Chiapas]], Guatemala, [[El Salvador]], Nicaragua, Costa Rica, and Honduras, officially proclaimed its independence from Spain. The Captaincy-general was dissolved two years later.{{sfn|Foster|2000|pp=134–136}} This region was formally a part of the [[New Spain|Viceroyalty of New Spain]] throughout the colonial period, but as a practical matter had been administered separately. It was not until 1825 that Guatemala created its own flag.<ref>{{cite web|url=http://www.guatemalago.com/en/home/flag |title=Flag |publisher=Guatemala Go |date= |accessdate=22 September 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130926191709/http://www.guatemalago.com/en/home/flag |archivedate=26 September 2013 |df=mdy-all }}</ref>
+
+In 1838 the liberal forces of Honduran leader [[Francisco Morazán]] and of Guatemalan [[José Francisco Barrundia]] invaded Guatemala and reached San Sur, where they executed Chúa Alvarez, father-in-law of [[Rafael Carrera]], then a military commander and later the first president of Guatemala. The liberal forces impaled Alvarez's head on a pike as a warning to followers of the Guatemalan [[caudillo]].{{sfn |González Davison |2008 |p = 84-85}} Carrera and his wife Petrona – who had come to confront Morazán as soon as they learned of the invasion and were in [[Mataquescuintla]] – swore they would never forgive Morazán even in his grave; they felt it impossible to respect anyone who would not avenge family members.{{sfn|González Davison|2008|p = 85}}
+
+After sending several envoys, whom Carrera would not receive – and especially not Barrundia whom Carrera did not want to murder in cold blood – Morazán began a scorched-earth offensive, destroying villages in his path and stripping them of assets. The Carrera forces had to hide in the mountains.{{sfn |González Davison|2008|p=86}} Believing Carrera totally defeated, Morazán and Barrundia marched to [[Guatemala City]], and were welcomed as saviors by state governor [[Pedro Valenzuela]] and members of the conservative {{ILL|Aycinena clan|es|Clan Aycinena}}, who proposed to sponsor one of the liberal battalions, while Valenzuela and Barrundia gave Morazán all the Guatemalan resources needed to solve any financial problem he had.{{sfn|González Davison |2008 |p = 87}} The [[criollo people|criollos]] of both parties celebrated until dawn that they finally had a criollo caudillo like Morazán, who was able to crush the peasant rebellion.{{sfn|González Davison|2008 |p = 88}}
+
+[[File:Political Evolution of Central America and the Caribbean 1830 na.png|thumb|The [[Federal Republic of Central America]] (1823–1838) with its capital in Guatemala City.]]
+Morazán used the proceeds to support Los Altos and then replaced Valenzuela with [[Mariano Rivera Paz]], a member of the Aycinena clan, although he did not return to that clan any property confiscated in 1829. In revenge, [[Juan José de Aycinena y Piñol]] voted to dissolve the [[Central American Federation]] in [[San Salvador]] a little later, forcing Morazán to return to El Salvador to fight for his federal mandate. Along the way, Morazán increased repression in eastern Guatemala, as punishment for helping Carrera.{{Sfn |González Davison |2008 |p = 89}} Knowing that Morazán had gone to El Salvador, Carrera tried to take [[Salamá]] with the small force that remained, but was defeated, and lost his brother Laureano in combat. With just a few men left, he managed to escape, badly wounded, to [[Sanarate]].{{sfn |González Davison |2008 |p = 91-92}} After recovering somewhat, he attacked a detachment in [[Jutiapa]] and got a small amount of booty which he gave to the volunteers who accompanied him. He then prepared to attack [[Petapa]] near Guatemala City, where he was victorious, although with heavy casualties.{{sfn |González Davison |2008 |p = 92}}
+
+In September of that year, Carrera attempted an assault on the capital of Guatemala, but the liberal general [[Carlos Salazar Castro]] defeated him in the fields of [[Villa Nueva, Guatemala|Villa Nueva]] and Carrera had to retreat.{{sfn |Hernández de León |1959 |p =20 April}} After unsuccessfully trying to take [[Quetzaltenango]], Carrera found himself both surrounded and wounded. He had to capitulate to Mexican General [[Agustin Guzman]], who had been in Quetzaltenango since [[Vicente Filísola]]'s arrival in 1823. Morazán had the opportunity to shoot Carrera, but did not, because he needed the support of the Guatemalan peasants to counter the attacks of [[Francisco Ferrera]] in [[El Salvador]]. Instead, Morazán left Carrera in charge of a small fort in Mita, without any weapons. Knowing that Morazán was going to attack El Salvador, [[Francisco Ferrera]] gave arms and ammunition to Carrera and convinced him to attack Guatemala City.{{sfn |González Davison |2008 |p = 96}}
+
+Meanwhile, despite insistent advice to definitively crush Carrera and his forces, Salazar tried to negotiate with him diplomatically; he even went as far as to show that he neither feared nor distrusted Carrera by removing the fortifications of the Guatemalan capital, in place since the battle of Villa Nueva.{{sfn|Hernández de León|1959|p =20 April}} Taking advantage of Salazar's good faith and Ferrera's weapons, Carrera took Guatemala City by surprise on 13 April 1839; Salazar, [[Mariano Gálvez]] and Barrundia fled before the arrival of Carrera's militia men. Salazar, in his nightshirt, vaulted roofs of neighboring houses and sought refuge,{{sfn|Hernández de León|1959|p=48}}{{sfn|González Davison|2008|pp=122–127}} reaching the border disguised as a peasant.{{Sfn|Hernández de León|1959|p =48}}{{sfn |González Davison |2008 |pp = 122–127}} With Salazar gone, Carrera reinstated Rivera Paz as head of state.
+
+Between 1838 and 1840 a [[Los Altos, Central America|secessionist movement]] in the city of [[Quetzaltenango]] founded the breakaway state of [[Los Altos (country)|Los Altos]] and sought independence from Guatemala. The most important members of the Liberal Party of Guatemala and liberal enemies of the conservative régime moved to Los Altos, leaving their exile in El Salvador.{{sfn|Hernández de León|1959 |p =?}} The liberals in Los Altos began severely criticizing the Conservative government of Rivera Paz.{{sfn|Hernández de León|1959 |p =?}} Los Altos was the region with the main production and economic activity of the former state of Guatemala. Without Los Altos, conservatives lost many of the resources that had given Guatemala hegemony in Central America.{{sfn|Hernández de León|1959 |p =?}} The government of Guatemala tried to reach to a peaceful solution, but two years of bloody conflict followed.
+
+In 1840, Belgium began to act as an external source of support for Carrera's independence movement, in an effort to exert influence in Central America. The ''Compagnie belge de colonisation'' (Belgian Colonization Company), commissioned by Belgian King [[Leopold I of Belgium|Leopold I]], became the administrator of [[Santo Tomas de Castilla]]{{sfn|Compagnie Belge de Colonisation|1844|p=}} replacing the failed British [[Eastern Coast of Central America Commercial and Agricultural Company]].{{sfn|Compagnie Belge de Colonisation|1844|p=}} Even though the colony eventually crumbled, Belgium continued to support Carrera in the mid-19th century, although Britain continued to be the main business and political partner to Carrera's regime.{{sfn|Woodward|1993|p=498}} Rafael Carrera was elected Guatemalan Governor in 1844.
+
+[[German Guatemalan|Settlers from Germany arrived in the mid-19th century]]. German settlers acquired land and grew coffee plantations in Alta Verapaz and Quetzaltenango.{{citation needed|date=March 2019}}
+
+=== Republic (1847–1851) ===
+On 21 March 1847, Guatemala declared itself an independent republic and Carrera became its first president.
+
+[[File:Guatemala Real 1847 Silver Coin Fonrobert 7236.jpg|thumb|Proclamation Coin 1847 of the independent Republic of Guatemala]]
+
+During the first term as president, Carrera brought the country back from extreme conservatism to a traditional moderation; in 1848, the liberals were able to drive him from office, after the country had been in turmoil for several months.{{sfn|Hernández de León|1930|p=}}{{sfn|Miceli|1974|p=72}} Carrera resigned of his own free will and left for México. The new liberal regime allied itself with the Aycinena family and swiftly passed a law ordering Carrera's execution if he returned to Guatemalan soil.{{sfn|Hernández de León|1930|p=}}
+
+The liberal criollos from [[Quetzaltenango]] were led by general [[Agustín Guzmán]] who occupied the city after Corregidor general [[Mariano Paredes (Guatemala)|Mariano Paredes]] was called to [[Guatemala City]] to take over the presidential office.{{sfn|González Davison|2008|p=270}} They declared on 26 August 1848 that Los Altos was an independent state once again. The new state had the support of [[Doroteo Vasconcelos]]' régime in [[El Salvador]] and the rebel guerrilla army of Vicente and Serapio Cruz, who were sworn enemies of Carrera.{{sfn|González Davison|2008|pp=270–271}} The interim government was led by Guzmán himself and had Florencio Molina and the priest Fernando Davila as his Cabinet members.{{sfn|González Davison|2008|p=271}} On 5 September 1848, the criollos altenses chose a formal government led by Fernando Antonio Martínez.
+
+In the meantime, Carrera decided to return to Guatemala and did so, entering at [[Huehuetenango]], where he met with native leaders and told them that they must remain united to prevail; the leaders agreed and slowly the segregated native communities started developing a new Indian identity under Carrera's leadership.{{sfn|González Davison|2008|p=275}} In the meantime, in the eastern part of Guatemala, the [[Jalapa]] region became increasingly dangerous; former president [[Mariano Rivera Paz]] and rebel leader Vicente Cruz were both murdered there after trying to take over the Corregidor office in 1849.{{sfn|González Davison|2008|p=275}}
+
+When Carrera arrived to [[Chiantla]] in [[Huehuetenango]], he received two altenses emissaries who told him that their soldiers were not going to fight his forces because that would lead to a native revolt, much like that of 1840; their only request from Carrera was to keep the natives under control.{{sfn|González Davison|2008|p=275}} The altenses did not comply, and led by Guzmán and his forces, they started chasing Carrera; the caudillo hid, helped by his native allies and remained under their protection when the forces of [[Miguel Garcia Granados]] arrived from [[Guatemala City]] looking for him.{{sfn|González Davison|2008|p=275}}
+
+On learning that officer [[José Víctor Zavala]] had been appointed as Corregidor in [[Suchitepéquez]], Carrera and his hundred [[jakaltek people|jacalteco]] bodyguards crossed a dangerous jungle infested with [[jaguar]]s to meet his former friend. Zavala not only did not capture him, he agreed to serve under his orders, thus sending a strong message to both liberal and conservatives in Guatemala City that they would have to negotiate with Carrera or battle on two fronts – Quetzaltenango and Jalapa.{{sfn|González Davison|2008|p=278}} Carrera went back to the Quetzaltenango area, while Zavala remained in [[Suchitepéquez]] as a tactical maneuver.{{sfn|González Davison|2008|p=}} Carrera received a visit from a cabinet member of Paredes and told him that he had control of the native population and that he assured Paredes that he would keep them appeased.{{sfn|González Davison|2008|p=278}} When the emissary returned to Guatemala City, he told the president everything Carrera said, and added that the native forces were formidable.{{sfn|González Davison|2008|p=279}}
+
+Guzmán went to [[Antigua Guatemala]] to meet with another group of Paredes emissaries; they agreed that Los Altos would rejoin Guatemala, and that the latter would help Guzmán defeat his enemy and also build a port on the Pacific Ocean.{{sfn|González Davison|2008|p=279}} Guzmán was sure of victory this time, but his plan evaporated when in his absence Carrera and his native allies occupied Quetzaltenango; Carrera appointed Ignacio Yrigoyen as [[Corregidor (position)|Corregidor]] and convinced him that he should work with the K'iche', Q'anjobal and [[Mam people|Mam]] leaders to keep the region under control.{{sfn|González Davison|2008|p=280}} On his way out, Yrigoyen murmured to a friend: "Now he is the king of the Indians, indeed!"{{sfn|González Davison|2008|p=280}}
+
+Guzmán then left for Jalapa, where he struck a deal with the rebels, while [[Luis Batres Juarros]] convinced President Paredes to deal with Carrera. Back in Guatemala City within a few months, Carrera was commander-in-chief, backed by military and political support of the Indian communities from the densely populated western highlands.{{sfn|Weaver|1999|p=138}} During the first presidency, from 1844 to 1848, he brought the country back from excessive conservatism to a moderate regime, and – with the advice of Juan José de Aycinena y Piñol and [[Pedro de Aycinena]] – restored relations with the Church in Rome with a [[Concordat of 1854|Concordat]] ratified in 1854.{{sfn|Calvert|1985|p=36}}
+
+=== Second Carrera government (1851–1865) ===
+[[File:Carrerayturcios 2014-06-22 09-46.jpg|thumb|Captain General [[Rafael Carrera]] after being appointed President for Life in 1854.]]
+
+After Carrera returned from exile in 1849 the president of El Salvador, [[Doroteo Vasconcelos]], granted asylum to the Guatemalan liberals, who harassed the Guatemalan government in several different ways. José Francisco Barrundia established a liberal newspaper for that specific purpose. Vasconcelos supported a rebel faction named "La Montaña" in eastern Guatemala, providing and distributing money and weapons. By late 1850, Vasconcelos was getting impatient at the slow progress of the war with Guatemala and decided to plan an open attack. Under that circumstance, the Salvadorean head of state started a campaign against the conservative Guatemalan regime, inviting [[Honduras]] and [[Nicaragua]] to participate in the alliance; only the [[Honduras|Honduran]] government led by [[Juan Lindo]] accepted.{{sfn|Hernández de León|1930|p=}} In 1851 Guatemala defeated an Allied army from Honduras and El Salvador at the [[Battle of La Arada]].
+
+In 1854 Carrera was declared "supreme and perpetual leader of the nation" for life, with the power to choose his successor. He held that position until he died on 14 April 1865. While he pursued some measures to set up a foundation for economic prosperity to please the conservative landowners, military challenges at home and a three-year war with Honduras, El Salvador, and Nicaragua dominated his presidency.
+
+His rivalry with Gerardo Barrios, President of El Salvador, resulted in open war in 1863. At [[Coatepeque, Quetzaltenango|Coatepeque]] the Guatemalans suffered a severe defeat, which was followed by a truce. Honduras joined with El Salvador, and Nicaragua and Costa Rica with Guatemala. The contest was finally settled in favor of Carrera, who besieged and occupied [[San Salvador]], and dominated Honduras and Nicaragua. He continued to act in concert with the [[Clerical Party]], and tried to maintain friendly relations with European governments. Before he died, Carrera nominated his friend and loyal soldier, Army Marshall [[Vicente Cerna y Cerna]], as his successor.
+
+=== Vicente Cerna y Cerna regime (1865–1871) ===
+[[File:VicenteCerna.jpg|thumb|[[Vicente Cerna y Cerna]] was the president of Guatemala from 1865 to 1871.]]
+{{Further|Vicente Cerna y Cerna}}
+[[Vicente Cerna y Cerna]] was [[president of Guatemala]] from 24 May 1865 to 29 June 1871.<ref>{{cite web
+ |url         = http://www.prensalibre.com/economia/economia_0_718128187.html
+ |title       = Vicente Cerna
+ |author      = prensalibre.com
+ |accessdate  = 5 September 2014
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20150106175325/http://www.prensalibre.com/economia/economia_0_718128187.html
+ |archivedate = 6 January 2015
+ |df          = dmy-all
+}}</ref> Liberal author {{ILL|Alfonso Enrique Barrientos|es}},{{sfn|Barrientos|1948|p=106}} {{Full citation needed|date=July 2015}} described Marshall Cerna's government in the following manner:{{sfn|Barrientos|s.f.|p=106}}{{Full citation needed|date=July 2015}}
+
+{{quote|A conservative and archaic government, badly organized and with worse intentions, was in charge of the country, centralizing all powers in Vicente Cerna, ambitious military man, who not happy with the general rank, had promoted himself to the Army Marshall rank, even though that rank did not exist and it does not exist in the Guatemalan military. The Marshall called himself President of the Republic, but in reality he was the foreman of oppressed and savaged people, cowardly enough that they had not dared to tell the dictator to leave threatening him with a revolution.}}
+
+The State and Church were a single unit, and the conservative régime was strongly allied to the power of [[regular clergy]] of the [[Catholic Church]], who were then among the largest landowners in Guatemala. The tight relationship between church and state had been ratified by the [[Concordat of 1854|Concordat of 1852]], which was the law until Cerna was deposed in 1871.{{sfn|Aycinena|1854|p=2–16}} Even liberal generals like {{ILL|Serapio Cruz|es}} realized that Rafael Carrera's political and military presence made him practically invincible. Thus the generals fought under his command,{{sfn|Hernández de León|1930|p=}} and waited—for a long time—until Carrera's death before beginning their revolt against the tamer Cerna.{{sfn|González Davison|2008|p=428}} During Cerna's presidency, liberal party members were prosecuted and sent into exile; among them, those who started the Liberal Revolution of 1871.{{sfn|Hernández de León|1930|p=}}
+
+In 1871, the merchants guild, Consulado de Comercio, lost their exclusive court privilege. They had major effects on the economics of the time, and therefore land management. From 1839 to 1871, the Consulado held a consistent monopolistic position in the regime.<ref>{{Cite book|url=http://documents.worldbank.org/curated/en/804741468045832887/pdf/28989.pdf|title=Inequality in Latin America: Breaking with History?|last=de Ferranti|first=David|publisher=World Bank|year=2004|isbn=|location=Washington DC, USA|pages=109–122|access-date=10 December 2018|archive-url=https://web.archive.org/web/20170818104239/http://documents.worldbank.org/curated/en/804741468045832887/pdf/28989.pdf|archive-date=18 August 2017|dead-url=no|df=dmy-all}}</ref>
+
+=== Liberal governments (1871–1898) ===
+{{Further|Justo Rufino Barrios}}
+Guatemala's "Liberal Revolution" came in 1871 under the leadership of [[Justo Rufino Barrios]], who worked to modernize the country, improve trade, and introduce new crops and manufacturing. During this era coffee became an important crop for Guatemala.{{sfn|Foster|2000|pp=173–175}} Barrios had ambitions of reuniting Central America and took the country to war in an unsuccessful attempt to attain it, losing his life on the battlefield in 1885 against forces in El Salvador.
+
+[[Manuel Barillas]] was president from 16 March 1886 to 15 March 1892. Manuel Barillas was unique among liberal presidents of Guatemala between 1871 and 1944: he handed over power to his successor peacefully. When election time approached, he sent for the three Liberal candidates to ask them what their government plan would be.{{sfn|De los Ríos|1948|p=78}} Happy with what he heard from general [[José María Reyna Barrios|Reyna Barrios]],{{sfn|De los Ríos|1948|p=78}} Barillas made sure that a huge column of Quetzaltenango and Totonicapán indigenous people came down from the mountains to vote for him. Reyna was elected president. {{sfn|De los Ríos|1948|p = 82}}
+
+[[José María Reina Barrios]] was President between 1892 and 1898. During Barrios's first term in office, the power of the landowners over the rural peasantry increased. He oversaw the rebuilding of parts of [[Guatemala City]] on a grander scale, with wide, Parisian-style avenues. He oversaw Guatemala hosting the first "[[Exposición Centroamericana]]" ("Central American Fair") in 1897. During his second term, Barrios printed [[bond (finance)|bond]]s to fund his ambitious plans, fueling [[monetary inflation]] and the rise of popular opposition to his regime.
+
+His administration also worked on improving the roads, installing national and international telegraphs and introducing electricity to Guatemala City. Completing a transoceanic railway was a main objective of his government, with a goal to attract international investors at a time when the [[Panama Canal]] was not built yet.
+
+=== Manuel Estrada Cabrera regime (1898–1920) ===
+{{Main|Manuel Estrada Cabrera}}
+
+[[File:Manuel Estrada Cabrera.jpg|thumb|[[Manuel Estrada Cabrera]] ruled Guatemala between 1898 and 1920.]]
+After the assassination of general [[José María Reina Barrios]] on 8 February 1898, the Guatemalan cabinet called an emergency meeting to appoint a new successor, but declined to invite Estrada Cabrera to the meeting, even though he was the designated successor to the Presidency. There are two different descriptions of how Cabrera was able to become president. The first states that Cabrera entered the cabinet meeting "with pistol drawn" to assert his entitlement to the presidency,{{sfn|Chapman|2007|p=54}} while the second states that he showed up unarmed to the meeting and demanded the presidency by virtue of being the designated successor.{{sfn|Arévalo Martinez|1945|p=42}}
+
+The first civilian Guatemalan head of state in over 50 years, Estrada Cabrera overcame resistance to his regime by August 1898 and called for elections in September, which he won handily.{{sfn|Arévalo Martinez|1945|p=46}} In 1898 the Legislature convened for the election of President Estrada Cabrera, who triumphed thanks to the large number of soldiers and policemen who went to vote in civilian clothes and to the large number of illiterate family that they brought with them to the polls.{{sfn|Torres Espinoza|2007|p=42}}
+
+One of Estrada Cabrera's most famous and most bitter legacies was allowing the entry of the [[United Fruit Company]] (UFCO) into the Guatemalan economic and political arena. As a member of the [[Liberalism in Latin America|Liberal Party]], he sought to encourage development of the nation's infrastructure of [[highway]]s, [[railroad]]s, and [[sea port]]s for the sake of expanding the export economy. By the time Estrada Cabrera assumed the presidency there had been repeated efforts to construct a railroad from the major port of [[Puerto Barrios]] to the capital, Guatemala City. Due to lack of funding exacerbated by the collapse of the internal coffee trade, the railway fell {{convert|60|mi|km|sigfig=1|order=flip}} short of its goal. Estrada Cabrera decided, without consulting the legislature or judiciary, that striking a deal with the UFCO was the only way to finish the railway.{{sfn|Dosal|1993|p=}} Cabrera signed a contract with UFCO's [[Minor Cooper Keith]] in 1904 that gave the company tax exemptions, land grants, and control of all railroads on the Atlantic side.{{sfn|Chapman|2007|p=}}
+
+Estrada Cabrera often employed brutal methods to assert his authority. Right at the beginning of his first presidential period he started prosecuting his political rivals and soon established a well-organized web of spies. One American ambassador returned to the United States after he learned the dictator had given orders to poison him. Former President [[Manuel Barillas]] was stabbed to death in Mexico City. Estrada Cabrera responded violently to workers' strikes against UFCO. In one incident, when UFCO went directly to Estrada Cabrera to resolve a strike (after the armed forces refused to respond), the president ordered an armed unit to enter a workers' compound. The forces "arrived in the night, firing indiscriminately into the workers' sleeping quarters, wounding and killing an unspecified number."{{sfn|Chapman|2007|p=83}}
+
+In 1906 Estrada faced serious revolts against his rule; the rebels were supported by the governments of some of the other [[Central America]]n nations, but Estrada succeeded in putting them down. Elections were held by the people against the will of Estrada Cabrera and thus he had the president-elect murdered in retaliation. In 1907 Estrada narrowly survived an assassination attempt when a bomb exploded near his carriage.{{sfn|de Aerenlund|2006|p=}} It has been suggested that the extreme despotic characteristics of Estrada did not emerge until after an attempt on his life in 1907.{{sfn|Arévalo Martinez|1945|p=146}}
+
+[[Guatemala City]] was badly damaged in the [[1917 Guatemala earthquake]].
+
+Estrada Cabrera continued in power until forced to resign after new revolts in 1920. By that time his power had declined drastically and he was reliant upon the loyalty of a few generals. While the United States threatened intervention if he was removed through revolution, a bipartisan coalition came together to remove him from the presidency. He was removed from office after the national assembly charged that he was mentally incompetent, and appointed Carlos Herrera in his place on 8 April 1920.{{sfn|Dosal|1993|p=27}}
+
+=== Jorge Ubico regime (1931–1944) ===
+{{Main|Jorge Ubico}}
+The [[Great Depression]] began in 1929 and badly damaged the Guatemalan economy, causing a rise in [[unemployment]], and leading to unrest among workers and laborers. Afraid of a popular revolt, the Guatemalan landed elite lent their support to [[Jorge Ubico]], who had become well known for "efficiency and cruelty" as a provincial governor. Ubico won the election that followed in 1931, in which he was the only candidate.{{sfn|Forster|2001|pp=12–15}}{{sfn|Gleijeses|1991|pp=10–11}} After his election his policies quickly became authoritarian. He replaced the system of debt [[peon]]age with a brutally enforced [[vagrancy (people)|vagrancy]] law, requiring all men of working age who did not own land to work a minimum of 100 days of hard labor.{{sfn|Forster|2001|p=29}} His government used unpaid Indian labor to build roads and railways. Ubico also froze wages at very low levels, and passed a law allowing land-owners complete immunity from prosecution for any action they took to defend their property,{{sfn|Forster|2001|p=29}} an action described by historians as legalizing murder.{{sfn|Gleijeses|1991|p=13}} He greatly strengthened the police force, turning it into one of the most efficient and ruthless in Latin America.{{sfn|Gleijeses|1991|p=17}} He gave them greater authority to shoot and imprison people suspected of breaking the labor laws. These laws created tremendous resentment against him among agricultural laborers.{{sfn|Forster|2001|pp=29–32}} The government became highly militarized; under his rule, every provincial governor was a general in the army.{{sfn|Gleijeses|1991|p=14}}
+
+Ubico continued his predecessor's policy of making massive concessions to the [[United Fruit Company]], often at a cost to Guatemala. He granted the company {{convert|200,000|ha|acre}} of public land in exchange for a promise to build a port, a promise he later waived.{{sfn|Gleijeses|1991|p=22}} Since its entry into Guatemala, the United Fruit Company had expanded its land-holdings by displacing farmers and converting their farmland to [[banana plantation]]s. This process accelerated under Ubico's presidency, with the government doing nothing to stop it.{{sfn|Forster|2001|p=19}} The company received import duty and real estate tax exemptions from the government and controlled more land than any other individual or group. It also controlled the sole railroad in the country, the sole facilities capable of producing electricity, and the port facilities at [[Puerto Barrios]] on the Atlantic coast.{{sfn|Schlesinger|Kinzer|1999|pp=67–71}}
+
+Ubico saw the United States as an ally against the supposed communist threat of Mexico, and made efforts to gain its support. When the US declared war against Germany in 1941, Ubico acted on American instructions and arrested all people in Guatemala of [[German Guatemalan|German descent]].{{sfn|Gleijeses|1991|p=20}} He also permitted the US to establish an air base in Guatemala, with the stated aim of protecting the [[Panama Canal]].{{sfn|Immerman|1982|p=37}} However, Ubico was an admirer of European [[fascist]]s, such as [[Francisco Franco]] and [[Benito Mussolini]],{{sfn|Gleijeses|1991|p=19}} and considered himself to be "another [[Napoleon Bonaparte|Napoleon]]".{{sfn|De los Ríos|1948|p=98}} He occasionally compared himself to [[Adolf Hitler]].{{sfn|Shillington|2002|pp=38–39}} He dressed ostentatiously and surrounded himself with statues and paintings of Napoleon, regularly commenting on the similarities between their appearances. He militarized numerous political and social institutions—including the post office, schools, and symphony orchestras—and placed military officers in charge of many government posts.{{sfn|Streeter2000|p=11–12}}{{sfn|Immerman|1982|p=32}}{{sfn|Grandin|2000|p=195}}{{sfn|Benz|1996|p=16–17}}{{sfn|Loveman|Davies|1997|p=118–120}}
+
+=== Guatemalan Revolution (1944–1954) ===
+{{Main|Guatemalan Revolution}}
+On 1 July 1944 Ubico was forced to resign from the presidency in response to a wave of protests and a [[general strike]] inspired by brutal labor conditions among plantation workers.<ref>{{cite journal|last=Forster|first=Cindy|title=The Time of "Freedom": San Marcos Coffee Workers and the Radicalization of the Guatemalan National Revolution, 1944–1954|journal=Radical History Review|year=1994|volume=58|pages=35–78|doi=10.1215/01636545-1994-58-35}}</ref> His chosen replacement, General [[Juan Federico Ponce Vaides]], was forced out of office on 20 October 1944 by a [[coup d'état]] led by Major [[Francisco Javier Arana]] and Captain [[Jacobo Árbenz Guzmán]]. About 100 people were killed in the coup. The country was then led by a [[military junta]] made up of Arana, Árbenz, and [[Jorge Toriello Garrido]].{{sfn|Forster|2001|pp=89–91}}
+
+[[File:Jacoboarbenz1950.jpg|thumb|Guatemala's democratically elected president [[Jacobo Árbenz]] was overthrown in a coup planned by the [[Central Intelligence Agency|CIA]] to protect the profits of the [[United Fruit Company]].]]
+The junta organized Guatemala's first free election, which the philosophically conservative writer and teacher [[Juan José Arévalo]], who wanted to turn the country into a [[liberalism|liberal]] [[capitalism|capitalist]] society won with a majority of 86%.{{sfn|Streeter|2000|pp=12–15}} His "[[Christian socialism|Christian Socialist]]" policies were inspired to a large extent by the U.S. [[New Deal]] of President [[Franklin D. Roosevelt]] during the [[Great Depression]].<ref name="Chomsky 1985 154–160">{{cite book
+|last=Chomsky
+|first=Noam
+|title=Turning the Tide
+|year=1985
+|publisher=South End Press
+|location=Boston, Massachusetts
+|pages=154–160
+}}</ref> Arévalo built new health centers, increased funding for education, and drafted a more liberal labor law,{{sfn|Streeter|2000|pp=14–15}} while criminalizing unions in workplaces with less than 500 workers,{{sfn|Forster|2001|pp=98–99}} and cracking down on communists.{{sfn|Streeter|2000|pp=15–16}} Although Arévalo was popular among nationalists, he had enemies in the church and the military, and faced at least 25 coup attempts during his presidency.{{sfn|Streeter|2000|pp=16–17}}
+
+Arévalo was constitutionally prohibited from contesting the 1950 elections. The largely free and fair elections were won by [[Jacobo Árbenz Guzmán]], Arévalo's defense minister.{{sfn|Gleijeses|1991|pp=73–84}} Árbenz continued the moderate capitalist approach of Arévalo.{{sfn|Streeter|2000|pp=18–19}} His most important policy was [[Decree 900]], a sweeping agrarian reform bill passed in 1952.{{sfn|Immerman|1982|pp=64–67}}{{sfn|Gleijeses|1991|pp=144–146}} Decree 900 transferred uncultivated land to landless peasants.{{sfn|Immerman|1982|pp=64–67}} Only 1,710 of the nearly 350,000 private land-holdings were affected by the law,{{sfn|Gleijeses|1991|pp=149–164}} which benefited approximately 500,000 individuals, or one-sixth of the population.{{sfn|Gleijeses|1991|pp=149–164}}
+
+=== Coup and civil war (1954–1996) ===
+{{Main|1954 Guatemalan coup d'état|Guatemalan Civil War}}
+{{see also|United States involvement in regime change}}
+Despite their popularity within the country, the reforms of the Guatemalan Revolution were disliked by the United States government, which was predisposed by the [[Cold War]] to see it as communist, and the [[United Fruit Company]] (UFCO), whose hugely profitable business had been affected by the end to brutal labor practices.{{sfn|Streeter|2000|pp=15–16}}{{sfn|Immerman|1982|pp=48–50}} The attitude of the U.S. government was also influenced by a propaganda campaign carried out by the UFCO.{{sfn|Paterson|2009|p=304}}
+
+U.S. President [[Harry Truman]] authorized [[Operation PBFORTUNE]] to topple Árbenz in 1952, with the support of Nicaraguan dictator [[Anastasio Somoza García]],{{sfn|Schlesinger|Kinzer|1999|p=102}} but the operation was aborted when too many details became public.{{sfn|Schlesinger|Kinzer|1999|p=102}}{{sfn|Gleijeses|1991|pp=228–231}} [[Dwight D. Eisenhower]] was elected U.S. President in 1952, promising to take a harder line against communism; the close links that his staff members [[John Foster Dulles]] and [[Allen Dulles]] had to the UFCO also predisposed him to act against Árbenz.{{sfn|Immerman|1982|pp=122–127}} Eisenhower authorized the CIA to carry out Operation PBSUCCESS in August 1953. The CIA armed, funded, and trained a force of 480 men led by [[Carlos Castillo Armas]].{{sfn|Immerman|1982|pp=161–170}}{{sfn|Schlesinger|Kinzer|1999|pp=171–175}} The force invaded Guatemala on 18 June 1954, backed by a heavy campaign of [[psychological warfare]], including bombings of [[Guatemala City]] and an anti-Árbenz radio station claiming to be genuine news.{{sfn|Immerman|1982|pp=161–170}} The invasion force fared poorly militarily, but the psychological warfare and the possibility of a U.S. invasion intimidated the Guatemalan army, which refused to fight. Árbenz resigned on 27 June.{{sfn|Immerman|1982|pp=173–178}}{{sfn|Schlesinger|Kinzer|1999|pp=190–204}}
+
+Following negotiations in [[San Salvador]], Carlos Castillo Armas became President on 7 July 1954.{{sfn|Immerman|1982|pp=173–178}} Elections were held in early October, from which all political parties were barred from participating. Castillo Armas was the only candidate and won the election with 99% of the vote.{{sfn|Immerman|1982|pp=173–178}} Castillo Armas reversed [[Decree 900]] and ruled until 26 July 1957, when he was assassinated by Romeo Vásquez, a member of his personal guard. After the rigged<ref name="Chomsky 1985 154–160" /> election that followed, General [[José Miguel Ramón Ydígoras Fuentes|Miguel Ydígoras Fuentes]] assumed power. He is celebrated for challenging the Mexican president to a gentleman's [[duel]] on the bridge on the south border to end a feud on the subject of illegal fishing by Mexican boats on Guatemala's Pacific coast, two of which were sunk by the Guatemalan Air Force. Ydigoras authorized the training of 5,000 anti-[[Fidel Castro|Castro]] [[Cubans]] in Guatemala. He also provided airstrips in the region of [[Petén (department)|Petén]] for what later became the US-sponsored, failed [[Bay of Pigs Invasion]] in 1961. Ydigoras' government was ousted in 1963 when the Guatemalan Air Force attacked several military bases; the coup was led by his Defense Minister, Colonel [[Enrique Peralta Azurdia]].
+
+In 1963, the junta called an election, which permitted Arevalo to return from exile and run. However a coup from within the military, backed by the [[Kennedy Administration]], prevented the election from taking place, and forestalled a likely victory for Arevalo. The new régime intensified the campaign of terror against the guerrillas that had begun under Ydígoras-Fuentes.<ref>{{cite book|last=McClintock|first=Michael|title=American Connection|year=1987}}</ref>
+
+In 1966, [[Julio César Méndez Montenegro]] was elected president of Guatemala under the banner "Democratic Opening". Mendez Montenegro was the candidate of the Revolutionary Party, a center-left party that had its origins in the post-Ubico era. During this time rightist [[paramilitary]] organizations, such as the "White Hand" (''[[Mano Blanca]]''), and the Anticommunist Secret Army (''Ejército Secreto Anticomunista'') were formed. Those groups were the forerunners of the infamous "[[Death squad|Death Squads]]". Military advisers from the [[Special Forces (United States Army)|United States Army Special Forces]] (Green Berets) were sent to Guatemala to train these troops and help transform the army into a modern counter-insurgency force, which eventually made it the most sophisticated in Central America.<ref>{{cite book|last=Chomsky|first=Noam|title=Turning the Tide|year=1985|publisher=South End Press|location=Boston, Massachusetts}}</ref>
+
+In 1970, Colonel [[Carlos Manuel Arana Osorio]] was elected president. By 1972, members of the guerrilla movement entered the country from Mexico and settled in the Western Highlands. In the [[Guatemalan general election, 1974|disputed election of 1974]], General [[Kjell Eugenio Laugerud García|Kjell Laugerud García]] defeated General [[Efraín Ríos Montt]], a candidate of the Christian Democratic Party, who claimed that he had been cheated out of a victory through fraud.
+
+On 4 February 1976, a major earthquake destroyed several cities and caused more than 25,000 deaths, especially among the poor, whose housing was substandard. The government's failure to respond rapidly to the aftermath of the earthquake and to relieve homelessness gave rise to widespread discontent, which contributed to growing popular unrest. General [[Romeo Lucas García]] assumed power in 1978 in a fraudulent election.
+
+The 1970s saw the rise of two new guerrilla organizations, the Guerrilla Army of the Poor (EGP) and the Organization of the People in Arms (ORPA). They began guerrilla attacks that included urban and rural warfare, mainly against the military and some civilian supporters of the army. The army and the paramilitary forces responded with a brutal counter-insurgency campaign that resulted in tens of thousands of civilian deaths.{{sfn|LaFeber|1993|p=165}} In 1979, the U.S. president, [[Jimmy Carter]], who had until then been providing public support for the government forces, ordered a ban on all military aid to the Guatemalan Army because of its widespread and systematic abuse of human rights.<ref name="Chomsky 1985 154–160" /> However, documents have since come to light that suggest that American aid continued throughout the Carter years, through clandestine channels.<ref>{{cite book
+|last=McClintock
+|first=Michael
+|title=The American Connection Vol II
+|year=1987
+|pages=216–7
+}}</ref>
+
+[[File:Memorial Rio Negro.jpg|thumb|Memorial to the victims of the [[Río Negro massacres]]]]
+On 31 January 1980, a group of indigenous [[K'iche' people|K'iche']] took over the Spanish Embassy to protest army massacres in the countryside. The Guatemalan government armed forces launched an assault that killed almost everyone inside in a [[Burning of the Spanish Embassy|fire that consumed the building]]. The Guatemalan government claimed that the activists set the fire, thus [[Self-immolation|immolating]] themselves.<ref>
+{{cite news
+|url=http://www.time.com/time/magazine/article/0,9171,950248,00.html
+|title=Outright Murder
+|publisher=Time.com
+|date=11 February 1980
+|accessdate=1 June 2010
+|archive-url=https://web.archive.org/web/20100811194151/http://www.time.com/time/magazine/article/0,9171,950248,00.html
+|archive-date=11 August 2010
+|dead-url=no
+|df=dmy-all
+}}
+</ref> However the Spanish ambassador survived the fire and disputed this claim, saying that the Guatemalan police intentionally killed almost everyone inside and set the fire to erase traces of their acts. As a result, the government of Spain broke off diplomatic relations with Guatemala.
+
+This government was overthrown in 1982 and General [[Efraín Ríos Montt]] was named President of the military junta. He continued the bloody campaign of torture, [[forced disappearance]]s, and "[[scorched earth]]" warfare. The country became a [[pariah state]] internationally, although the regime received considerable support from the [[Reagan Administration]],<ref>[https://www.nytimes.com/roomfordebate/2013/05/19/what-guilt-does-the-us-bear-in-guatemala What Guilt Does the U.S. Bear in Guatemala?] {{Webarchive|url=https://web.archive.org/web/20170218104609/http://www.nytimes.com/roomfordebate/2013/05/19/what-guilt-does-the-us-bear-in-guatemala |date=18 February 2017 }} ''[[The New York Times]],'' 19 May 2013. Retrieved 13 July 2014.</ref> and Reagan himself described Ríos Montt as "a man of great personal integrity."<ref>[https://www.democracynow.org/2013/5/15/allan_nairn_after_ros_montt_verdict Allan Nairn: After Ríos Montt Verdict, Time for U.S. to Account for Its Role in Guatemalan Genocide] {{Webarchive|url=https://web.archive.org/web/20161121235338/https://www.democracynow.org/2013/5/15/allan_nairn_after_ros_montt_verdict |date=21 November 2016 }}. ''[[Democracy Now!]]'' 15 May 2013.</ref> Ríos Montt was overthrown by General [[Óscar Humberto Mejía Victores]], who called for an election of a national constitutional assembly to write a new constitution, leading to a free election in 1986, won by [[Marco Vinicio Cerezo Arévalo|Vinicio Cerezo Arévalo]], the candidate of the Christian Democracy Party.
+
+In 1982, the four guerrilla groups, EGP, ORPA, FAR and PGT, merged and formed the [[Guatemalan National Revolutionary Unity|URNG]], influenced by the [[El Salvador|Salvadoran]] guerrilla [[Farabundo Martí National Liberation Front|FMLN]], the [[Nicaragua]]n [[Sandinista National Liberation Front|FSLN]] and [[Cuba]]'s government, in order to become stronger. As a result of the Army's "scorched earth" tactics in the countryside, more than 45,000 Guatemalans fled across the border to Mexico. The Mexican government placed the refugees in camps in [[Chiapas]] and [[Tabasco]].
+
+In 1992, the [[Nobel Peace Prize]] was awarded to [[Rigoberta Menchú]] for her efforts to bring international attention to the government-sponsored [[Guatemalan genocide|genocide against the indigenous population]].<ref>{{cite book
+|last=Burgos-Debray
+|first=Elizabeth
+|title=I, Rigoberta Menchu
+|year=2010
+|publisher=Verso
+}}</ref>
+
+=== 1996–2000 ===
+[[File:Chichicastenango market 2009.JPG|thumb|An outdoor market in [[Chichicastenango]], 2009.]]
+The [[Guatemalan Civil War]] ended in 1996 with a peace accord between the guerrillas and the government, negotiated by the United Nations through intense brokerage by nations such as Norway and Spain. Both sides made major concessions. The guerrilla fighters disarmed and received land to work. According to the U.N.-sponsored [[truth commission]] (the [[Commission for Historical Clarification]]), government forces and state-sponsored, CIA-trained paramilitaries were responsible for over 93% of the human rights violations during the war.<ref name=RightsViolations>{{cite web
+|accessdate=26 December 2006
+|url=http://shr.aaas.org/guatemala/ceh/report/english/conc2.html
+|title=Conclusions: Human rights violations, acts of violence and assignment of responsibility
+|work=Guatemala: Memory of Silence |publisher=Guatemalan Commission for Historical Clarification|archiveurl=https://web.archive.org/web/20061229191511/http://shr.aaas.org/guatemala/ceh/report/english/conc2.html|archivedate=29 December 2006
+}}</ref>
+
+In the last few years, millions of documents related to crimes committed during the civil war have been found abandoned by the former Guatemalan police. The families of over 45,000 Guatemalan activists who [[Forced Disappearance|disappeared]] during the civil war are now reviewing the documents, which have been digitized. This could lead to further legal actions.<ref name=PoliceDocuments>
+{{cite web
+|url=http://www.europapress.es/latam/guatemala/noticia-guatemala-archivos-hallados-2005-podrian-ayudar-esclarecer-crimenes-cometidos-guerra-civil-20120209183355.html
+|title=Los archivos hallados en 2005 podrían ayudar a esclarecer los crímenes cometidos durante la guerra civil
+|language=es
+|publisher=Europapress.es
+|date=9 February 2012
+|accessdate=22 September 2013
+|archive-url=https://web.archive.org/web/20130926034346/http://www.europapress.es/latam/guatemala/noticia-guatemala-archivos-hallados-2005-podrian-ayudar-esclarecer-crimenes-cometidos-guerra-civil-20120209183355.html
+|archive-date=26 September 2013
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+During the first ten years of the civil war, the victims of the state-sponsored terror were primarily students, workers, professionals, and opposition figures, but in the last years they were thousands of mostly rural [[Maya peoples|Maya]] farmers and non-combatants. More than 450 Maya villages were destroyed and over 1 million people became refugees or displaced within Guatemala.
+
+In 1995, the Catholic Archdiocese of Guatemala began the Recovery of Historical Memory (REMHI) project,<ref>{{cite web |last1=Ogle |first1=Kathy |title=Guatemala's REMHI Project: Memory Form Below |url=https://nacla.org/article/guatemala%25E2%2580%2599s-remhi-project-memory-form-below |website=nacla Reporting on the Americas since 1967 |publisher=North American Congress on Latin America |accessdate=9 July 2018 |archive-url=https://web.archive.org/web/20180710102422/https://nacla.org/article/guatemala%25E2%2580%2599s-remhi-project-memory-form-below |archive-date=10 July 2018 |dead-url=no |df=dmy-all }}</ref> known in Spanish as "El Proyecto de la Recuperación de la Memoria Histórica", to collect the facts and history of Guatemala's long civil war and confront the truth of those years. On 24 April 1998, REMHI presented the results of its work in the report "Guatemala: Nunca Más!". This report summarized testimony and statements of thousands of witnesses and victims of repression during the Civil War. "The report laid the blame for 80 per cent of the atrocities at the door of the Guatemalan Army and its collaborators within the social and political elite."<ref name="Stanford, Peter 2008">Stanford, Peter (16 March 2008). "Review of The Art of Political Murder: Who Killed Bishop Gerardi?, by Francisco Goldman". The Independent. London, UK. Retrieved 25 July 2016.</ref>
+
+Catholic Bishop Juan José Gerardi Conedera worked on the Recovery of Historical Memory Project and two days after he announced the release of its report on victims of the Guatemalan Civil War, "Guatemala: Nunca Más!", in April 1998, Bishop Gerardi was attacked in his garage and beaten to death.<ref name="Stanford, Peter 2008"/> In 2001, in the first trial in a civilian court of members of the military in Guatemalan history, three Army officers were convicted of his death and sentenced to 30 years in prison. A priest was convicted as an accomplice and was sentenced to 20 years in prison.<ref>New York Times article by David Gonzalez, June 9, 2001 "Guatemalan Court Sentences 3 Soldiers for 1998 Murder of Bishop" https://www.nytimes.com/2001/06/09/world/guatemalan-court-sentences-3-soldiers-for-1998-murder-of-bishop.html {{Webarchive|url=https://web.archive.org/web/20180710102502/https://www.nytimes.com/2001/06/09/world/guatemalan-court-sentences-3-soldiers-for-1998-murder-of-bishop.html |date=10 July 2018 }}  access date=7-9-2018</ref>
+
+According to the report, ''Recuperación de la Memoria Histórica'' (REMHI), some 200,000 people died. More than one million people were forced to flee their homes and hundreds of villages were destroyed. The Historical Clarification Commission attributed more than 93% of all documented violations of human rights to Guatemala's military government, and estimated that Maya Indians accounted for 83% of the victims. It concluded in 1999 that state actions constituted genocide.<ref>"[http://news.bbc.co.uk/2/hi/entertainment/6216414.stm Gibson film angers Mayan groups] {{Webarchive|url=https://web.archive.org/web/20091128225841/http://news.bbc.co.uk/2/hi/entertainment/6216414.stm |date=28 November 2009 }}". BBC News. 8 December 2006.</ref><ref>"[http://www.ppu.org.uk/genocide/g_guatemala1.html GENOCIDE&nbsp;– GUATEMALA] {{Webarchive|url=https://web.archive.org/web/20040203052222/http://www.ppu.org.uk/genocide/g_guatemala1.html |date=3 February 2004 }}"</ref>
+
+In some areas such as [[Baja Verapaz]], the Truth Commission found that the Guatemalan state engaged in an intentional policy of genocide against particular ethnic groups in the [[Guatemalan Civil War|Civil War]].<ref name=RightsViolations /> In 1999, U.S. president [[Bill Clinton]] said that the United States had been wrong to have provided support to the Guatemalan military forces that took part in these brutal civilian killings.<ref name=Babington1999>
+{{cite news
+|accessdate=21 September 2013
+|title=Clinton: Support for Guatemala Was Wrong
+|author=Babington, Charles
+|work=Washington Post
+|date=11 March 1999
+|pages=Page A1
+|url=https://www.washingtonpost.com/wp-srv/inatl/daily/march99/clinton11.htm
+|archive-url=https://web.archive.org/web/20131019185656/http://www.washingtonpost.com/wp-srv/inatl/daily/march99/clinton11.htm
+|archive-date=19 October 2013
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+=== 2000–2010 ===
+
+Since the peace accords Guatemala has had both economic growth and successive democratic elections, most recently in 2015. In the 2015 elections, [[Jimmy Morales]] of the [[National Convergence Front]] won the presidency. He assumed office on 14 January 2016.
+
+In January 2012 Efrain Rios Montt, the former dictator of Guatemala, appeared in a Guatemalan court on genocide charges. During the hearing, the government presented evidence of over 100 incidents involving at least 1,771 deaths, 1,445 rapes, and the displacement of nearly 30,000 Guatemalans during his 17-month rule from 1982–1983. The prosecution wanted him incarcerated because he was viewed as a flight risk but he remained free on bail, under house arrest and guarded by the Guatemalan National Civil Police (PNC). On 10 May 2013, Rios Montt was found guilty and sentenced to 80 years in prison. It marked the first time that a national court had found a former head of state guilty of genocide.<ref>
+{{cite news
+|url=https://www.nytimes.com/2013/05/11/world/americas/gen-efrain-rios-montt-of-guatemala-guilty-of-genocide.html
+|work=The New York Times
+|first=Elisabeth
+|last=Malkin
+|title=Gen. Efraín Ríos Montt of Guatemala Guilty of Genocide
+|date=10 May 2013
+|access-date=16 February 2017
+|archive-url=https://web.archive.org/web/20170125191753/http://www.nytimes.com/2013/05/11/world/americas/gen-efrain-rios-montt-of-guatemala-guilty-of-genocide.html
+|archive-date=25 January 2017
+|dead-url=no
+|df=dmy-all
+}}
+</ref> The conviction was later overturned, and Montt's trial resumed in January 2015.<ref>[https://www.bbc.com/news/world-latin-america-24833642 Guatemala Rios Montt genocide trial to resume in 2015] {{Webarchive|url=https://web.archive.org/web/20180814110106/https://www.bbc.com/news/world-latin-america-24833642 |date=14 August 2018 }}. ''[[BBC]],'' 6 November 2013.</ref> In August 2015, a Guatemalan court ruled that Rios Montt could stand trial for genocide and crimes against humanity, but that he could not be sentenced due to his age and deteriorating health.<ref>[https://www.theguardian.com/world/2015/aug/25/guatemala-rios-montt-genocide-trial-not-sentenced  Guatemala court: former dictator can be tried for genocide&nbsp;– but not sentenced] {{Webarchive|url=https://web.archive.org/web/20161211150443/https://www.theguardian.com/world/2015/aug/25/guatemala-rios-montt-genocide-trial-not-sentenced |date=11 December 2016 }}. ''[[The Guardian]].'' 25 August 2015.</ref>
+
+Ex-President [[Alfonso Portillo]] was arrested in January 2010 while trying to flee Guatemala. He was acquitted in May 2010, by a panel of judges that threw out some of the evidence and discounted certain witnesses as unreliable.<ref name=icpor>
+{{cite news
+|url=http://www.insightcrime.org/news-analysis/guatemala-to-extradite-portillo-but-real-problem-remains
+|title=Guatemala to Extradite Portillo, but Real Problem Remains
+|author=Steven Dudley
+|date=21 November 2011
+|accessdate=21 July 2016
+|work=InsightCrime
+|archive-url=https://web.archive.org/web/20160731140833/http://www.insightcrime.org/news-analysis/guatemala-to-extradite-portillo-but-real-problem-remains
+|archive-date=31 July 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref> The Guatemalan Attorney-General, [[Claudia Paz y Paz]], called the verdict "a terrible message of injustice," and "a wake up call about the power structures." In its appeal the [[International Commission Against Impunity in Guatemala]] (CICIG), a UN judicial group assisting the Guatemalan government, called the decision's assessment of the meticulously-documented evidence against Portillo Cabrera "whimsical" and said the decision's assertion that the president of Guatemala and his ministers had no responsibility for handling public funds ran counter to the constitution and laws of Guatemala.<ref>
+{{cite web
+|title=PRESS RELEASE 041: CICIG APPEALS ACQUITTAL OF FORMER PRESIDENT PORTILLO AND TWO EX MINISTERS
+|url=http://www.cicig.org/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=466
+|author=CICIS
+|access-date=23 July 2016
+|archive-url=https://web.archive.org/web/20161007061359/http://www.cicig.org/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=466
+|archive-date=7 October 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref> A New York grand jury had indicted Portillo Cabrera in 2009 for embezzlement; following his acquittal on those charges in Guatemala that country's Supreme Court authorized his extradition to the US.<ref>{{cite news
+|title=Guatemalan ex-president extradited to U.S. on money laundering charges
+|location=GUATEMALA CITY
+|author=MIKE MCDONALD
+|date=24 May 2013
+|agency=Reuters
+}}</ref><ref>
+{{cite web
+|url=https://www.justice.gov/sites/default/files/usao-sdny/legacy/2015/03/25/U.S.%20v.%20Alfonso%20Portillo%20Indictment.pdf
+|title=Sealed Indictment: UNITED STATES OF AMERICA -v.- ALFONSO PORTILLO
+|work=UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK
+|access-date=22 July 2016
+|archive-url=https://web.archive.org/web/20160815103722/https://www.justice.gov/sites/default/files/usao-sdny/legacy/2015/03/25/U.S.%20v.%20Alfonso%20Portillo%20Indictment.pdf
+|archive-date=15 August 2016
+|dead-url=no
+|df=dmy-all
+}} (09CRIM1142)
+</ref> The Guatemalan judiciary is deeply corrupt and the selection committee for new nominations has been captured by criminal elements.<ref name=icpor />
+
+=== Pérez Molina government and "La Línea" ===
+{{Main|Otto Pérez Molina}}
+
+Retired general [[Otto Pérez Molina]] was elected president in 2011 along with [[Roxana Baldetti]], the first woman ever elected vice-president in Guatemala; they began their term in office on 14 January 2012. But on 16 April 2015, a United Nations (UN) anti-corruption agency report implicated several high-profile politicians including Baldetti's private secretary, Juan Carlos Monzón, and the director of the Guatemalan Internal Revenue Service (SAT).{{who|date=July 2016}}<ref name=veliz>{{cite news
+|last=Véliz
+|first=Rodrigo
+|title=El Caso SAT: el legado de la inteligencia militar
+|url=http://cmiguate.org/el-caso-sat-el-legado-de-la-inteligencia-militar/
+|date=17 April 2015
+|location=Guatemala
+|newspaper=Centro de Medios Independientes de Guatemala
+|accessdate=22 April 2015
+|archiveurl=https://web.archive.org/web/20150422144047/http://cmiguate.org/el-caso-sat-el-legado-de-la-inteligencia-militar/
+|archivedate=22 April 2015
+|language=es
+|ref=harv
+}}</ref> The revelations provoked more public outrage than had been seen since the presidency of General [[Kjell Eugenio Laugerud García]]. The [[International Commission against Impunity in Guatemala]] (CICIG) worked with the Guatemalan attorney-general to reveal the scam known as "[[La Línea corruption case|La Línea]]", following a year-long investigation that included [[telephone tapping|wire taps]].
+
+Officials received bribes from importers in exchange for discounted import tariffs,<ref name=veliz /> a practice rooted in a long tradition of customs corruption in the country, as a fund-raising tactic of successive military governments for counterinsurgency operations during Guatemala's 36-year-long [[Guatemala Civil War|civil war]].<ref name=linea10junio>{{cite news
+|title=Caso SAT: Así operaba La Línea según el informe de la CICIG
+|url=http://www.elperiodico.com.gt/es/20150610/pais/13566/Caso-SAT-Así-operaba-La-Línea-según-el-informe-de-la-CICIG.htm
+|newspaper=[[El Periódico (Guatemala)|El Periódico]]
+|location=Guatemala
+|accessdate=10 June 2015
+|date=10 June 2015
+|archiveurl=https://web.archive.org/web/20150610184233/http://www.elperiodico.com.gt/es/20150610/pais/13566/Caso-SAT-As%C3%AD-operaba-La-L%C3%ADnea-seg%C3%BAn-el-informe-de-la-CICIG.htm
+|archivedate=10 June 2015
+|language=es
+|ref=harv
+}}</ref><ref name=Solano22abril>{{cite news
+|last=Solano
+|first=Luis
+|title=#Caso SAT ¿La punta del iceberg?
+|url=http://www.albedrio.org/htm/articulos/l/ls-038.html
+|accessdate=25 April 2015
+|location=Guatemala
+|date=22 April 2015
+|newspaper=Albedrío
+|language=es
+|archiveurl=https://web.archive.org/web/20150425212340/http://www.albedrio.org/htm/articulos/l/ls-038.html
+|archivedate=25 April 2015
+|ref=harv
+}}</ref>
+
+A Facebook event using the hashtag ''#RenunciaYa'' (Resign Now) invited citizens to go downtown in [[Guatemala City]] to ask for Baldetti's resignation. Within days, over 10,000 people RSVPed that they would attend. Organisers made clear that no political party or group was behind the event, and instructed protesters at the event to follow the law. They also urged people to bring water, food and sunblock, but not to cover their faces or wear political party colors.<ref name=ollantay21mayo>{{cite news
+|last=Itzamná
+|first=Ollantay
+|title=Guatemala: Indígenas y campesinos indignados exigen la renuncia del Gobierno y plantean un proceso de Asamblea Constituyente popular
+|url=http://www.albedrio.org/htm/articulos/o/oitzamna-070.html
+|date=21 May 2015
+|accessdate=21 May 2015
+|location=Guatemala
+|newspaper=Albedrío
+|archiveurl=https://web.archive.org/web/20150521205503/http://www.albedrio.org/htm/articulos/o/oitzamna-070.html
+|archivedate=21 May 2015
+|language=es
+|ref=harv
+}}</ref> Tens of thousands of people took to the streets of Guatemala City. Baldetti resigned a few days later. She was forced to remain in Guatemala when the United States revoked her visa. The Guatemalan government arraigned her, since it had enough evidence to suspect her involvement in the "La Linea" scandal. The prominence of US Ambassador Todd Robinson in the Guatemalan political scene once the scandal broke led to the suspicion that the US government was behind the investigation, perhaps because it needed an honest government in Guatemala to counter the presence of China and Russia in the region.<ref name=porras2015>
+{{cite news
+|last=Porras Castejón
+|first=Gustavo
+|title=Los Estados Unidos y su nueva forma de colonialismo en la que no hay necesidad de tropas
+|url=http://www.plazapublica.com.gt/content/eeuu-y-su-nueva-forma-de-colonialismo-en-la-que-no-hay-necesidad-de-tropas
+|newspaper=Plaza Pública
+|location=Guatemala
+|date=19 June 2015
+|accessdate=19 June 2015
+|language=es
+|ref=harv
+|archive-url=https://web.archive.org/web/20150924074450/http://www.plazapublica.com.gt/content/eeuu-y-su-nueva-forma-de-colonialismo-en-la-que-no-hay-necesidad-de-tropas
+|archive-date=24 September 2015
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+The UN anti-corruption committee has reported on other cases since then, and more than 20 government officials have stepped down. Some were arrested. Two of those cases involved two former presidential private secretaries: Juan de Dios Rodríguez in the Guatemalan Social Service and Gustave Martínez, who was involved in a bribery scandal at the coal power plant company. {{Interlanguage link multi|Jaguar Energy|es}} Martínez was also Perez Molina's son-in-law.<ref>{{cite news
+|title=Capturan al ex secretario general de la presidencia
+|date=9 July 2015
+|accessdate=9 July 2015
+|newspaper=Emisoras Unidas
+|location=Guatemala
+|url=http://noticias.emisorasunidas.com/node/140914
+|language=es
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150709191641/http://noticias.emisorasunidas.com/node/140914
+|archivedate=9 July 2015
+}}</ref>
+
+Leaders of the political opposition have also been implicated in CICIG investigations: several legislators and members of Libertad Democrática Renovada party (LIDER) were formally accused of bribery-related issues, prompting a large decline in the electoral prospects of its presidential candidate, Manuel Baldizón, who until April had been almost certain to become the next Guatemalan president in the 6 September 2015 presidential elections. Baldizón's popularity steeply declined and he filed accusations with the Organization of American States against CICIG leader Iván Velásquez of international obstruction in Guatemalan internal affairs.<ref>{{cite news
+|url=http://elperiodico.com.gt/2015/07/29/pais/cicig-si-pero-sin-velasquez-dice-baldizon/
+|title=CICIG sí, pero sin Velásquez, dice Baldizón
+|newspaper=ElPeriódico
+|location=Guatemala
+|date=29 July 2015
+|accessdate=29 July 2015
+|language=es
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150729150940/http://elperiodico.com.gt/2015/07/29/pais/cicig-si-pero-sin-velasquez-dice-baldizon/
+|archivedate=29 July 2015
+}}</ref>
+
+CICIG reported its cases so often on Thursdays that Guatemalans coined the term "CICIG Thursdays". But a Friday press conference brought the crisis to its peak: on Friday 21 August 2015, the CICIG and Attorney General Thelma Aldana presented enough evidence to convince the public that both President Pérez Molina and former vice President Baldetti were the actual leaders of "La Línea". Baldetti was arrested the same day and an impeachment was requested for the president. Several cabinet members resigned and the clamor for the president's resignation grew after Perez Molina defiantly assured the nation in a televised message broadcast on 23 August 2015 that he was not going to resign.<ref name=periodico21a>{{cite news
+|url=http://elperiodico.com.gt/2015/08/21/pais/exvicepresidenta-baldetti-capturada-esta-manana-por-tres-delitos/
+|title=Ex vicepresidenta Baldetti capturada esta mañana por tres delitos
+|newspaper=ElPeriódico
+|location=Guatemala
+|date=21 August 2015
+|accessdate=21 August 2015
+|language=es
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150821155710/http://elperiodico.com.gt/2015/08/21/pais/exvicepresidenta-baldetti-capturada-esta-manana-por-tres-delitos/
+|archivedate=21 August 2015
+}}</ref><ref name=eu23a>{{cite news
+|url=http://noticias.emisorasunidas.com/noticias/nacionales/no-renunciare-enfatiza-presidente-perez-molina
+|title=No renunciaré, enfatiza Pérez Molina
+|newspaper=Emisoras Unidas
+|location=Guatemala
+|date=23 August 2015
+|accessdate=23 August 2015
+|language=es
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150824035254/http://noticias.emisorasunidas.com/noticias/nacionales/no-renunciare-enfatiza-presidente-perez-molina
+|archivedate=24 August 2015
+}}</ref>
+
+Thousands of protesters took to the streets again, this time to demand the increasingly isolated president's resignation. Guatemala's Congress named a commission of five legislators to consider whether to remove the president's immunity from prosecution. The Supreme Court approved. A major day of action kicked off early on 27 August, with marches and roadblocks across the country. Urban groups who had spearheaded regular protests since the scandal broke in April, on the 27th sought to unite with the rural and indigenous organizations who orchestrated the road blocks.
+
+The strike in Guatemala City was full of a diverse and peaceful crowd ranging from the indigenous poor to the well-heeled, and it included many students from public and private universities. Hundreds of schools and businesses closed in support of the protests. The ''Comité Coordinador de Asociaciones Agrícolas, Comerciales, Industriales y Financieras'' (CACIF) Guatemala's most powerful business leaders, issued a statement demanding that Pérez Molina step down, and urged Congress to withdraw his immunity from prosecution.<ref name=cacifMolina>
+{{cite news
+|url=http://www.prensalibre.com/economia/cacif-pide-renuncia-inmediata-de-otto-perez-molina
+|title=Cacif pide renuncia inmediata de Otto Pérez Molina
+|newspaper=Prensa Libre
+|location=Guatemala
+|date=21 August 2015
+|accessdate=19 February 2018
+|language=es
+|ref=harv
+|archive-url=https://web.archive.org/web/20180219090623/http://www.prensalibre.com/economia/cacif-pide-renuncia-inmediata-de-otto-perez-molina
+|archive-date=19 February 2018
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+The attorney general's office released its own statement, calling for the president's resignation "to prevent ungovernability that could destabilize the nation." As pressure mounted, the president's former ministers of defence and of the interior, who had been named in the corruption investigation and resigned, abruptly left the country.<ref name=lopez27a>{{cite news
+|url=http://elperiodico.com.gt/2015/08/27/pais/vuelan-dos-exministros-lopez-ambrosio-ayer-a-panama-y-lopez-bonilla-hoy-hacia-la-dominicana/
+|title=Vuelan dos exministros: Lopez Ambrosio ayer a Panamá y López Bonilla hoy hacia la Dominicana
+|newspaper=ElPeriódico
+|location=Guatemala
+|date=27 August 2015
+|accessdate=27 August 2015
+|language=es
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150827162655/http://elperiodico.com.gt/2015/08/27/pais/vuelan-dos-exministros-lopez-ambrosio-ayer-a-panama-y-lopez-bonilla-hoy-hacia-la-dominicana/
+|archivedate=27 August 2015
+}}</ref> Pérez Molina meanwhile had been losing support by the day. The private sector called for his resignation; however, he also managed to get support from entrepreneurs that were not affiliated with the private sector chambers: Mario López Estrada – grand child of former dictator [[Manuel Estrada Cabrera]] and the billionaire owner of cellular phone companies – had some of his executives assume the vacated cabinet positions.<ref>
+{{cite news
+|url=https://nomada.gt/el-multimillonario-rescata-a-opm-a-cambio-de-un-tesoro/
+|newspaper=Nomada
+|title=El multimillonario rescata a OPM a cambio de un tesoro
+|date=27 August 2015
+|accessdate=27 August 2015
+|author=Olmstead, Gladys
+|author2=Medina, Sofía
+|location=Guatemala
+|language=es
+|ref=harv
+|archive-url=https://web.archive.org/web/20160123214943/https://nomada.gt/el-multimillonario-rescata-a-opm-a-cambio-de-un-tesoro/
+|archive-date=23 January 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+The Guatemalan radio station Emisoras Unidas reported exchanging text messages with Perez Molina. Asked whether he planned to resign, he wrote: "I will face whatever is necessary to face, and what the law requires." Some protesters demanded the general election be postponed, both because of the crisis and because it was plagued with accusations of irregularities. Others warned that suspending the vote could lead to an institutional vacuum.<ref>{{cite news
+|url=http://www.guatevision.com/cicig-otto-perez-participo-en-la-liena/
+|title=CICIG: Otto Pérez participó en "La Línea"
+|location=Guatemala
+|date=21 August 2015
+|accessdate=21 August 2015
+|author=Ruano, Jessica
+|newspaper=Guatevisión
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150821185039/http://www.guatevision.com/cicig-otto-perez-participo-en-la-liena/
+|archivedate=21 August 2015
+}}</ref> However, on 2 September 2015 Pérez Molina resigned, a day after Congress impeached him.<ref>
+{{cite web
+|title=Renuncia el presidente Otto Pérez
+|url=http://www.prensalibre.com/guatemala/politica/renuncia-el-presidente-otto-perez
+|website=Prensa Libre
+|date=3 September 2015
+|accessdate=3 September 2015
+|language=es
+|ref=harv
+|archive-url=https://web.archive.org/web/20150905160933/http://www.prensalibre.com/guatemala/politica/renuncia-el-presidente-otto-perez
+|archive-date=5 September 2015
+|dead-url=no
+|df=dmy-all
+}}
+</ref> On 3 September 2015 he was summoned to the Justice Department for his first legal audience for the [[La Linea corruption case]].<ref>
+{{cite news
+|url=http://www.prensalibre.com/guatemala/justicia/perez-molina-se-presentara-ante-el-juez-dice-su-abogado
+|title=Pérez Molina se presentará ante el juez dice su abogado
+|date=3 September 2015
+|accessdate=3 September 2015
+|newspaper=Prensa Libre
+|location=Guatemala
+|ref=harv
+|archive-url=https://web.archive.org/web/20150905160924/http://www.prensalibre.com/guatemala/justicia/perez-molina-se-presentara-ante-el-juez-dice-su-abogado
+|archive-date=5 September 2015
+|dead-url=no
+|df=dmy-all
+}}
+</ref><ref>{{cite news
+|url=http://www.s21.com.gt/nacionales/2015/09/03/tienen-toda-intencion-destruirme-afirma-otto-perez-ya-esta-tribunales
+|title=Tienen toda la intención de destruirme, afirma Otto Perez, ya en tribunales
+|date=3 September 2015
+|accessdate=3 September 2015
+|newspaper=Siglo 21
+|location=Guatemala
+|language=es
+|ref=harv
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20150903154829/http://www.s21.com.gt/nacionales/2015/09/03/tienen-toda-intencion-destruirme-afirma-otto-perez-ya-esta-tribunales
+|archivedate=3 September 2015
+}}</ref>
+
+In June 2016 a United Nations-backed prosecutor described the administration of Pérez Molina as a crime syndicate and outlined another corruption case, this one dubbed ''Cooperacha'' (Kick-in). The head of the Social Security Institute and at least five other ministers pooled funds to buy him luxurious gifts such as motorboats, spending over $4.7 million in three years.<ref>
+{{cite news
+|title=Ex-Guatemala Regime Likened to Organized Crime Syndicate
+|author=Dan Alder
+|date=13 June 2016
+|url=http://www.insightcrime.org/news-briefs/ex-guatemala-regime-likened-to-organized-crime-syndicate
+|work=Insight Crime
+|access-date=19 July 2016
+|archive-url=https://web.archive.org/web/20160721042503/http://www.insightcrime.org/news-briefs/ex-guatemala-regime-likened-to-organized-crime-syndicate
+|archive-date=21 July 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+== Geography ==
+{{more citations needed|section|date=December 2017}}<!--only Biodiversity section has any references-->
+{{Main|Geography of Guatemala}}
+[[File:Un-guatemala.png|thumb|A map of Guatemala.]]
+[[File:Guatemala Köppen.svg|thumb|Köppen climate types of Guatemala]]
+[[File:Quetzaltenango farm highlands 2009.jpg|thumb|The highlands of [[Quetzaltenango]].]]
+
+Guatemala is mountainous with small patches of desert and sand dunes, all hilly valleys, except for the south coast and the vast northern lowlands of [[Petén (department)|Petén]] department. Two mountain chains enter Guatemala from west to east, dividing Guatemala into three major regions: the highlands, where the mountains are located; the Pacific coast, south of the mountains and the Petén region, north of the mountains.
+
+All major cities are located in the highlands and Pacific coast regions; by comparison, Petén is sparsely populated. These three regions vary in climate, elevation, and landscape, providing dramatic contrasts between hot, humid tropical lowlands and colder, drier highland peaks. [[Volcán Tajumulco]], at {{convert|4,220|m|abbr=off}}, is the highest point in the Central American countries.
+
+The rivers are short and shallow in the Pacific drainage basin, larger and deeper in the Caribbean and the [[Gulf of Mexico]] drainage basins. These rivers include the [[Polochic River|Polochic]] and [[Dulce River (Guatemala)|Dulce Rivers]], which drain into [[Lake Izabal]], the [[Motagua River]], the Sarstún, which forms the boundary with Belize, and the [[Usumacinta River]], which forms the boundary between Petén and [[Chiapas]], Mexico.
+
+===Natural disasters===
+{{For|the 2018 volcanic eruption|2018 Volcán de Fuego eruption}}
+[[File:guatemala town volcanic crater.jpg|thumb|A town along the [[Pan-American Highway]] within a volcanic crater.]]
+Guatemala's location between the Caribbean Sea and Pacific Ocean makes it a target for hurricanes such as [[Hurricane Mitch]] in 1998 and [[Hurricane Stan]] in October 2005, which killed more than 1,500 people. The damage was not wind-related, but rather due to significant [[flooding]] and resulting [[mudflow|mudslides]]. The most recent was [[Tropical Storm Agatha (2010)|Tropical Storm Agatha]] in late May 2010, which killed more than 200.
+
+Guatemala's highlands lie along the [[Motagua Fault]], part of the boundary between the [[Caribbean Plate|Caribbean]] and [[North American Plate|North American]] [[tectonic plates]]. This fault has been responsible for several major earthquakes in historic times, including a 7.5 magnitude tremor on 4 February 1976 which killed more than 25,000 people. In addition, the [[Middle America Trench]], a major [[subduction zone]] lies off the Pacific coast. Here, the [[Cocos Plate]] is sinking beneath the Caribbean Plate, producing volcanic activity inland of the coast. Guatemala has 37 volcanoes, four of them active: [[Pacaya]], [[Santiaguito]], [[Volcán de Fuego|Fuego]], and [[Volcán Tacaná|Tacaná]].
+
+Natural disasters have a long history in this geologically active part of the world. For example, two of the three [[Antigua Guatemala#History|moves]] of the capital of Guatemala have been due to volcanic mudflows in 1541 and earthquakes in 1773.
+
+=== Biodiversity ===
+Guatemala has 14 ecoregions ranging from mangrove forests to both ocean littorals with 5 different ecosystems. Guatemala has 252 listed wetlands, including five lakes, 61 lagoons, 100 rivers, and four swamps.<ref>{{cite web|url=http://www.iucn.org/en/news/archive/2001_2005/press/guatemalahumedales.pdf |title=Guatemala presenta su primer inventario de humedales en la historia |accessdate=1 January 2007 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20060406233434/http://www.iucn.org/en/news/archive/2001_2005/press/guatemalahumedales.pdf |archivedate=6 April 2006 |df=mdy-all }}. iucn.org</ref> [[Tikal]] National Park was the first mixed UNESCO [[World Heritage Site]]. Guatemala is a country of distinct [[fauna]]. It has some 1246 known species. Of these, 6.7% are [[endemism|endemic]] and 8.1% are threatened. Guatemala is home to at least 8,682 species of vascular plants, of which 13.5% are endemic. 5.4% of Guatemala is protected under IUCN categories I-V.{{Citation needed|date=June 2009}}
+
+The [[Maya Biosphere Reserve]] in the department of [[Petén (department)|Petén]] has 2,112,940 ha,<ref>{{cite web |url=http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=GUA+01&mode=all |title=MAB Biosphere Reserves Directory |publisher=UNESCO |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20170322234230/http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=GUA+01&mode=all |archive-date=22 March 2017 |dead-url=no |df=dmy-all }}</ref> making it the second-largest forest in Central America after [[Bosawas]].
+
+== Government ==
+
+=== Political system ===
+{{Main|Politics of Guatemala}}
+[[File:El Congreso de la República.JPG|thumb|The [[Congress of the Republic of Guatemala]].]]
+Guatemala is a constitutional democratic republic whereby the [[President of Guatemala]] is both [[head of state]] and [[head of government]], and of a [[multi-party system]]. [[Executive power]] is exercised by the government. [[Legislative power]] is vested in both the government and the [[Congress of the Republic of Guatemala|Congress of the Republic]]. The [[judiciary]] is independent of the executive and the legislature.
+
+On 2 September 2015, [[Otto Pérez Molina]] resigned as President of Guatemala due to [[La Linea corruption case|a corruption scandal]] and was replaced by [[Alejandro Maldonado]] until January 2016.<ref name=Maldonado>{{cite news|url=http://www.prensalibre.com/guatemala/politica/maldonado-aguirre-revela-su-terna-vicepresidencial|title=Maldonado Aguirre revala su terna vicepresidencial|date=3 September 2015|accessdate=3 September 2015|newspaper=Prensa Libre|location=Guatemala|language=es|ref=harv|archive-url=https://web.archive.org/web/20150905174242/http://www.prensalibre.com/guatemala/politica/maldonado-aguirre-revela-su-terna-vicepresidencial|archive-date=5 September 2015|dead-url=no|df=dmy-all}}</ref> Congress appointed former [[Universidad de San Carlos de Guatemala|Universidad de San Carlos]] President [[Alfonso Fuentes Soria]] as the new vice president to replace Maldonado.<ref name=soria>{{cite news|url=http://m.elperiodico.com.gt/2015/09/17/pais/fuentes-soria-electo-vicepresidente/ |title=Fuentes Soria nombrado vicepresidente |newspaper=ElPeriódico |location=Guatemala |date=16 September 2015 |accessdate=16 September 2015 |language=es |ref=harv |deadurl=yes |archiveurl=https://web.archive.org/web/20150917060705/http://m.elperiodico.com.gt/2015/09/17/pais/fuentes-soria-electo-vicepresidente/ |archivedate=17 September 2015}}</ref>
+
+[[Jimmy Morales]] assumed office on 14 January 2016.
+
+=== Foreign relations ===
+{{Further|Foreign relations of Guatemala}}
+
+Guatemala has long claimed all or part of the territory of neighboring Belize. Due to this territorial dispute, Guatemala did not recognize Belize's independence until 6 September 1991,<ref>page 36 ''[https://books.google.com/books?id=tccRqha7894C&pg=PA36&lpg=PA36#v=onepage&q=Guatemala%20recognizes%20Belize's%20independence Encyclopedia of the Inter-American System]'' by George Pope Atkins
+Greenwood Press, Westport, Connecticut (1997)</ref> but the dispute is not resolved. Negotiations are currently under way under the auspices of the [[Organization of American States]] to conclude it.<ref>{{cite web |url=http://www.asil.org/insights/volume/5/issue/20/oas-mediates-belize-guatemala-border-dispute |publisher=American Society of International Law |work=ASIL Insights |title=OAS Mediates in Belize-Guatemala Border Dispute |author=Montserrat Gorina-Ysern |accessdate=29 April 2007 |archive-url=https://web.archive.org/web/20150321110749/http://www.asil.org/insights/volume/5/issue/20/oas-mediates-belize-guatemala-border-dispute |archive-date=21 March 2015 |dead-url=no |df=dmy-all }}</ref><ref>{{cite book |title=Historia General de Guatemala |isbn=84-88622-07-4 |author=Jorge Luján Muñoz, director general. |year=2005 |publisher=Asociación de Amigos del País |location=Guatemala}}</ref>
+
+=== Military ===
+{{Further|Military of Guatemala}}
+
+Guatemala has a modest military, with between 15,000 and 20,000 personnel.<ref>{{cite web|last =|first =|authorlink =|coauthors =|title =Cancelarán 12 mil 109 plazas en el Ejército|work =|publisher =Prensa Libre|date =2 April 2004|url =http://www.prensalibre.com/pl/2004/abril/02/85248.html|doi =|accessdate =|deadurl =yes|archiveurl =https://archive.is/20070710004304/http://www.prensalibre.com/pl/2004/abril/02/85248.html|archivedate =10 July 2007|df =dmy-all}}</ref>
+
+=== Administrative divisions ===
+{{Main|Departments of Guatemala|Municipalities of Guatemala}}
+Guatemala is divided into 22 [[Department (subnational entity)|departments]] ([[Spanish language|Spanish]]: ''departamentos'') and sub-divided into about 335 municipalities ([[Spanish language|Spanish]]: ''municipios'').<ref name=segeplan>{{cite web|accessdate=29 September 2015 |location=Guatemala |website=Secretaría de Planificación y Programación de la Presidencia |url=http://www.segeplan.gob.gt/2.0/index.php?option=com_k2&view=itemlist&task=category&id=14:quetzaltenango&Itemid=333 |title=Municipios de Guatemala |archiveurl=https://web.archive.org/web/20150707074007/http://www.segeplan.gob.gt/2.0/index.php?option=com_k2&view=itemlist&task=category&id=14%3Aquetzaltenango&Itemid=333 |archivedate=7 July 2015 |language=es |ref=harv |deadurl=yes |df=mdy-all }}</ref>
+
+=== Human rights ===
+{{See also|Violence against women in Guatemala|Guatemalan Civil War}}
+
+Killings and [[death squad]]s have been common in Guatemala since the end of the civil war in 1996. They often had ties to Clandestine Security Apparatuses ({{lang|es|Cuerpos Ilegales y Aparatos Clandestinos de Seguridad – CIACS}}), organizations of current and former members of the military involved in organized crime. They had significant influence, now somewhat lessened.<ref name=ic>{{cite web
+|title=Extrajudicial Killings on the Rise in Guatemala
+|author=James Bargent
+|date=4 July 2013
+|work=InsightCrime
+}}</ref> But extrajudicial killings continue.<ref name=yale>
+{{cite web
+|url=http://gsp.yale.edu/case-studies/guatemala/violence-and-genocide-guatemala
+|publisher=Yale University
+|work=Genocide Studies Program
+|title=Violence and Genocide in Guatemala
+|author=Victoria Sanford
+|access-date=22 July 2016
+|archive-url=https://web.archive.org/web/20160828172554/http://gsp.yale.edu/case-studies/guatemala/violence-and-genocide-guatemala
+|archive-date=28 August 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref> In July 2004, the [[Inter-American Court]] condemned the 18 July 1982, massacre of 188 Achi-Maya in Plan de Sanchez, and for the first time in its history, ruled the Guatemalan Army had committed genocide. It was the first ruling by the court against the Guatemalan state for any of the 626 massacres reported in its 1980s scorched-earth campaign.<ref name=yale /> In those massacres, 83% of the victims were Maya and 17% Ladino.<ref name=yale />
+
+{|class="wikitable" style="align:center;"
+!colspan=2 |Extra-Judicial Killings in Guatemala
+|-
+|style="text-align:center;"|2010
+|style="text-align:right;"|5,072
+|-
+|style="text-align:center;"|2011
+|style="text-align:right;"|279
+|-
+|style="text-align:center;"|2012
+|style="text-align:right;"|439
+|-
+|colspan=2|source: Center for Legal Action in Human Rights (CALDH)<ref name=ic />
+|-
+|}
+
+In 2008, Guatemala became the first country to officially recognize [[femicide]], the murder of a female because of her gender, as a crime.<ref name=bbc>{{cite news|url=https://www.bbc.com/news/magazine-34978330|title=Where women are killed by their own families|publisher=bbcnews.com|accessdate=22 December 2015|date=5 December 2015|archive-url=https://web.archive.org/web/20151213010054/http://www.bbc.com/news/magazine-34978330|archive-date=13 December 2015|dead-url=no|df=dmy-all}}</ref> Guatemala has the third-highest femicide rate in the world, after [[El Salvador]] and [[Jamaica]], with around 9.1 murders every 100,000 women from 2007 to 2012.<ref name=bbc />
+
+== Economy ==
+{{Main|Economy of Guatemala}}
+[[File:Guatemala Export Treemap.jpg|thumb|A proportional representation of Guatemala's exports.]]
+[[File:Fields in Quetzaltenango.jpg|thumb|Fields in [[Quetzaltenango]].]]
+[[File:indoor market zunil guatemala.JPG|thumb|An indoor market in the regional city of [[Zunil]].]]
+[[File:Dole Ecuador (3746433687).jpg|thumb|A ship picking up Guatemalan bananas for export.]]
+
+Guatemala is the largest economy in Central America, with a GDP (PPP) per capita of US$5,200. However, Guatemala faces many social problems and is one of the poorest countries in Latin America. The income distribution is highly unequal with more than half of the population below the national poverty line and just over 400,000 (3.2%) unemployed. The CIA World Fact Book considers 54.0% of the population of Guatemala to be living in poverty in 2009.<ref name="cia" /><ref>{{cite web |title=Guatemala: An Assessment of Poverty |url=http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTPA/0,,contentMDK:20207581~menuPK:443285~pagePK:148956~piPK:216618~theSitePK:430367,00.html |publisher=World Bank |accessdate=9 January 2009 |archive-url=https://web.archive.org/web/20100302150027/http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTPA/0,,contentMDK:20207581~menuPK:443285~pagePK:148956~piPK:216618~theSitePK:430367,00.html |archive-date=2 March 2010 |dead-url=no |df=dmy-all }}</ref>
+
+In 2010, the [[Guatemalan economy]] grew by 3%, recovering gradually from the 2009 crisis, as a result of the falling demands from the United States and others [[Central American]] markets and the slowdown in foreign investment in the middle of the [[Global recession of 2009|global recession]].<ref>[http://www.deguate.com/infocentros/ecofin/guatemala/economia/indicadores-economicos/producto-interno-bruto.php El Producto Interno Bruto de Guatemala] {{Webarchive|url=https://web.archive.org/web/20150703215613/http://www.deguate.com/infocentros/ecofin/guatemala/economia/indicadores-economicos/producto-interno-bruto.php |date=3 July 2015 }} ''DeGuate''</ref>
+
+[[Remittance]]s from Guatemalans living in United States now constitute the largest single source of foreign income (two thirds of exports and one tenth of GDP).<ref name="cia" />
+
+Some of Guatemala's main exports are fruits, vegetables, flowers, handicrafts, cloths and others. In the face of a rising demand for [[biofuel]]s, the country is growing and exporting an increasing amount of raw materials for biofuel production, especially [[sugar cane]] and [[palm oil]]. Critics say that this development leads to higher prices for [[staple food]]s like corn, a major ingredient in the Guatemalan diet. As a consequence of the subsidization of US American corn, Guatemala imports nearly half of its corn from the United States that is using 40 percent of its crop harvest for biofuel production.<ref>[https://www.nytimes.com/2013/01/06/science/earth/in-fields-and-markets-guatemalans-feels-squeeze-of-biofuel-demand.html As Biofuel Demands Grows, So Do Guatemala's Hunger Pangs] {{Webarchive|url=https://web.archive.org/web/20130108075322/http://www.nytimes.com/2013/01/06/science/earth/in-fields-and-markets-guatemalans-feels-squeeze-of-biofuel-demand.html |date=8 January 2013 }}. The New York Times. 5 January 2013</ref> The government is considering ways to legalize poppy and marijuana production, hoping to tax production and use tax revenues to fund drug prevention programs and other social projects.<ref>[http://www.voanews.com/content/reu-guatemala-sees-opium-poppies-as-potential-revenue-spinners/1910035.html=Guatemala Sees Opium Poppies as Potential Revenue-spinners]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}. Voice of America. 7 May 2014</ref>
+
+Gross Domestic Product (GDP) in [[purchasing power parity]] (PPP) in 2010 was estimated at US$70.15 billion. The service sector is the largest component of GDP at 63%, followed by the industry sector at 23.8% and the agriculture sector at 13.2% (2010 est.). Mines produce gold, silver, zinc, cobalt and nickel.<ref>Dan Oancea [http://magazine.mining.com/Issues/0901/MiningCentralAmerica.pdf Mining In Central America]. Mining Magazine. January 2009 {{webarchive |url=https://web.archive.org/web/20110516031334/http://magazine.mining.com/Issues/0901/MiningCentralAmerica.pdf |date=16 May 2011 }}</ref> The agricultural sector accounts for about two-fifths of exports, and half of the labor force. Organic coffee, sugar, textiles, fresh vegetables, and bananas are the country's main exports. Inflation was 3.9% in 2010.
+
+The 1996 peace accords that ended the decades-long civil war removed a major obstacle to foreign investment. Tourism has become an increasing source of revenue for Guatemala thanks to the new foreign investment.
+
+In March 2006, Guatemala's congress ratified the [[Dominican Republic-Central America Free Trade Agreement|Dominican Republic&nbsp;– Central American Free Trade Agreement (DR-CAFTA)]] between several Central American nations and the United States.<ref>{{cite web|url=http://web.amnesty.org/report2006/gtm-summary-eng |title="Guatemala Report 2006: Summary Review" |accessdate=15 January 2007 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20070208022731/http://web.amnesty.org/report2006/gtm-summary-eng |archivedate=8 February 2007 |df=mdy-all }} ''Amnesty International'', 2006. Retrieved 26 January 2007.</ref> Guatemala also has [[free trade agreement]]s with [[Taiwan]] and [[Colombia]].
+
+=== Tourism ===
+{{main|Tourism in Guatemala}}
+Tourism has become one of the main drivers of the economy, with tourism estimated at $1.8 billion to the economy in 2008. Guatemala received around two million tourists annually. In recent years, an increase in the number of cruise ships have been visiting Guatemalan seaports, leading to higher tourist numbers.
+
+In its territory there are fascinating Mayan archaeological sites (Tikal in the Peten, Quiriguá in Izabal, Iximche in Tecpan Chimaltenango and Guatemala City). Natural attractions include locations such as Lake Atitlan and Semuc Champey. Historical tourism includes the colonial city of [[Antigua Guatemala]], which is recognized as a UNESCO Cultural Heritage site.
+
+There is a strong interest within the international community for archaeological sites like the city of Tikal. To note, Tikal was built and inhabited in a period where the culture had its greatest literary and artistic expression, and was ruled by a dynasty of 16 kings. The Maya of Tikal built many temples, a ball park, altars and stelae in high and low relief.
+
+Guatemala is visited for its archaeological sites, pre-Hispanic cities as well as tourist-religious centers like the Basilica of Esquipulas in the city of Esquipulas, and the beaches on the Pacific and Atlantic coasts of Guatemala. Other tourist destinations are the national parks and other protected areas such as the Maya Biosphere Reserve.
+
+== Society ==
+
+=== Demographics ===
+{{Main|Demographics of Guatemala}}
+[[File:Guatemala Population Graph.svg|thumb|Guatemala's population (1950–2010).<ref name="WPP 2012" />]]
+[[File:Bevölkerungspyramide Guatemala 2016.png|thumb|Population pyramid 2016]]
+[[File:santiago de atitlan natives 2009.JPG|thumb|[[Tz'utujil people|Tz'utujil]] men in [[Santiago Atitlán]].]]
+Guatemala has a population of {{UN_Population|Guatemala}} ({{UN_Population|Year}} est).{{UN_Population|ref}} With only 885,000 in 1900, this constitutes the fastest population growth in the Western Hemisphere during the 20th century.<ref>{{cite web |url=http://www.populstat.info/Americas/guatemac.htm |title=Population Statistics |publisher=Populstat.info |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20100522101502/http://www.populstat.info/Americas/guatemac.htm |archive-date=22 May 2010 |dead-url=no |df=dmy-all }}</ref>
+
+Guatemala is heavily centralized: transportation, communications, business, politics, and the most relevant urban activity takes place in the capital of Guatemala City,{{citation needed|date=November 2018}} whose urban area has a population of almost 3 million.<ref name="cia" />
+
+The estimated median age in Guatemala is 20 years old, 19.4 for males and 20.7 years for females.<ref name="cia">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/gt.html |title=CIA World Factbook, Guatemala |date=July 2011 |accessdate=22 December 2011 |archive-url=https://web.archive.org/web/20110406120030/https://www.cia.gov/library/publications/the-world-factbook/geos/gt.html |archive-date=6 April 2011 |dead-url=no |df=dmy-all }}</ref> Guatemala is demographically one of the [[Youth in Guatemala|youngest]] countries in the Western Hemisphere, comparable to most of central Africa and Iraq. The proportion of the population below the age of 15 in 2010 was 41.5%, 54.1% were aged between 15 and 65 years of age, and 4.4% were aged 65 years or older.<ref name="WPP 2012">[http://esa.un.org/unpd/wpp/index.htm Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2012 Revision] {{webarchive|url=https://web.archive.org/web/20110506065230/http://esa.un.org/unpd/wpp/index.htm |date=6 May 2011 }}</ref>
+
+[[File:antigua guatemala women 2009.JPG|thumb|Indigenous Guatemalan women in [[Antigua Guatemala]].]]
+A significant number of Guatemalans live outside of their country. The majority of the Guatemalan [[diaspora]] is located in the United States of America, with estimates ranging from 480,665<ref name="US_Census_2000">The [[2000 U.S. Census]] recorded 480,665 Guatemalan-born respondents; see Smith (2006)</ref> to 1,489,426.<ref name="MigrationDC_2006">{{cite web |author=Smith, James |date=April 2006 |url=http://www.migrationdrc.org/research/typesofmigration/global_migrant_origin_database.html |title=DRC Migration, Globalisation and Poverty |access-date=14 July 2007 |archive-url=https://web.archive.org/web/20161227000102/http://www.migrationdrc.org/research/typesofmigration/global_migrant_origin_database.html |archive-date=27 December 2016 |dead-url=yes |df=dmy-all }}</ref> The difficulty in getting accurate counts for Guatemalans abroad is because many of them are refugee claimants awaiting determination of their status.<ref>{{cite web|title=Guatemalans |url=http://www.multiculturalcanada.ca/ecp/content/guatemalans.html |archiveurl=https://archive.is/20080420083039/http://www.multiculturalcanada.ca/ecp/content/guatemalans.html |archivedate=20 April 2008 |work=multiculturalcanada.ca |date=November 2009 |deadurl=yes |df=mdy-all }}</ref> Emigration to the United States of America has led to the growth of Guatemalan communities in California, Delaware, Florida, Illinois, New York, New Jersey, Texas, Rhode Island and elsewhere since the 1970s.<ref>{{cite web |url=http://www.migrationinformation.org/USfocus/display.cfm?ID=385 |title=Migration Information Statistics |publisher=Migrationinformation.org |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20100609031336/http://www.migrationinformation.org/USFocus/display.cfm?ID=385 |archive-date=9 June 2010 |dead-url=no |df=dmy-all }}</ref>
+
+Below are estimates of the number of Guatemalans living abroad for certain countries:
+{|class="wikitable"
+|-
+!Country
+!Count
+!Year
+|-
+|border="1"|{{flagicon|USA}} United States
+|align="right"|480,665<ref name="US_Census_2000" />&nbsp;– 1,489,426<ref name="MigrationDC_2006" />
+|2000–2006
+|-
+|border="1"|{{flagicon|MEX}} Mexico
+|align="right"|23,529<ref name="MigrationDC_2006" />&nbsp;– 190,000
+|2006–2010
+|-
+|border="1"|{{flagicon|CAN}} Canada
+|align="right"|14,253<ref name="MigrationDC_2006" />&nbsp;– 34,665<ref>{{cite web |url=http://www.yorku.ca/cohesion/LARG/PDF/Guatemala-WWD-2002.pdf |title=Guatemala |format=PDF |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20110706213728/http://www.yorku.ca/cohesion/LARG/PDF/Guatemala-WWD-2002.pdf |archive-date=6 July 2011 |dead-url=no |df=dmy-all }}</ref>
+|2006–2010
+|-
+|border="1"|{{flagicon|BLZ}} [[Belize]]
+|align="right"|10,693<ref name="MigrationDC_2006" />
+|2006
+|-
+|-
+|border="1"|{{flagicon|HON}} [[Honduras]]
+|align="right"|5,172<ref name="MigrationDC_2006" />
+|2006
+|-
+|border="1"|{{flagicon|SLV}} [[El Salvador]]
+|align="right"|4,209<ref name="MigrationDC_2006" />
+|2006
+|-
+|border="1"|{{flagicon|ESP}} Spain
+|align="right"|2,491<ref name="MigrationDC_2006" />&nbsp;– 5,000<ref>{{cite web |url=http://www.embajadaguatemala.es/ |title=Embajada de Guatemala en España |publisher=Embajadaguatemala.es |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20100621030609/http://www.embajadaguatemala.es/ |archive-date=21 June 2010 |dead-url=no |df=dmy-all }}</ref>
+|2006–2010
+|-
+|}
+
+=== Ethnic groups ===
+[[File:Idiomasmap Guatemala.svg|thumb|Language map of Guatemala. The "Castilian" areas represent Spanish.]]
+Guatemala is populated by a variety of ethnic, cultural, racial, and linguistic groups. According to the 2010 Census conducted by the [[National Institute of Statistics (Guatemala)|National Institute of Statistics (INE)]], about 41.5% of the population is [[Mestizo]] (also known as ''[[Ladino people|Ladino]]''), reflecting mixed indigenous and European heritage. A similar proportion of Guatemalans (41%) are of full Amerindian ancestry, which is among one of the largest percentage in Latin America, behind only Peru and Bolivia. Most indigenous Guatemalans are of the [[Maya people]], namely [[K'iche' people|K'iche']] (11.0% of the total population), [[Q'eqchi' people|Q'eqchi]] (8.3%), [[Kaqchikel people|Kaqchikel]] (7.8%), [[Mam people|Mam]] (5.2%), and "other [[Maya peoples|Maya]]" (7.6%). Less than 1% are indigenous non-Maya.<ref>National population of the [http://www.ine.gob.gt/index.php/demografia-y-poblacion/42-demografiaypoblacion/207-infodemo2010 National Institute of Statistics (INE)] {{Webarchive|url=https://web.archive.org/web/20100316080509/http://www.ine.gob.gt/index.php/demografia-y-poblacion/42-demografiaypoblacion/207-infodemo2010 |date=16 March 2010 }}. demographic info 2010.</ref>
+
+[[White people|White]] Guatemalans of European descent, also called [[Criollo people|Criollo]], make up 18.5% of the population. Most are descendants of German and Spanish settlers, and others derive from Italians, British, French, Swiss, Belgians, Dutch, Russians and Danish. German settlers are credited with bringing the tradition of Christmas trees to Guatemala.<ref>[http://www.urbanext.uiuc.edu/trees/traditions-world.html History of the Christmas Tree] {{webarchive |url=https://web.archive.org/web/20060905053744/http://www.urbanext.uiuc.edu/trees/traditions-world.html |date=5 September 2006 }}</ref>
+
+The population includes about 110,000 Salvadorans. The [[Garífuna]], descended primarily from Black Africans who lived and intermarried with indigenous peoples from St. Vincent, live mainly in Livingston and [[Puerto Barrios]]. [[Afro-Guatemalan]]s and [[mulatto]]s descended primarily from banana plantation workers. There are also [[Asian people|Asians]], mostly of [[Han Chinese|Chinese]] descent but also [[Arab people|Arabs]] of [[Lebanese people|Lebanese]] and [[Syrian people|Syrian]] descent. A growing [[Koreans|Korean]] community in Guatemala City and in nearby [[Mixco]], numbers about 50,000.<ref>Rodríguez, Luisa (29 August 2004)
+{{cite web
+|url=http://www.prensalibre.com/pl/2004/agosto/29/96392.html
+|archive-url=https://archive.is/20090330000812/http://www.prensalibre.com/pl/2004/agosto/29/96392.html
+|archive-date=30 March 2009
+|title=Guatemala como residencia
+|dead-url=yes
+|accessdate=1 June 2016
+}}. prensalibre.com.</ref>
+
+=== Languages ===
+{{Main|Languages of Guatemala}}
+
+Guatemala's sole official language is Spanish, spoken by 93 percent of the population as either the first or second language.
+
+Twenty-one [[Mayan languages]] are spoken, especially in rural areas, as well as two non-Mayan [[Amerindian]] languages: [[Xinca language|Xinca]], which is indigenous to the country, and [[Garifuna language|Garifuna]], an [[Arawakan]] language spoken on the Caribbean coast. According to the Language Law of 2003, these languages are unrecognized as National Languages.<ref name="Decreto19-2003">{{cite web |accessdate=10 June 2007 |url=http://www.oj.gob.gt/es/QueEsOJ/EstructuraOJ/UnidadesAdministrativas/CentroAnalisisDocumentacionJudicial/cds/CDs%20leyes/2003/Leyes%20en%20PDF/Decretos%202003/Decreto%2019-2003.pdf |title=Ley de Idiomas Nacionales, Decreto Número 19-2003 |format=PDF |language=Spanish |publisher=El Congreso de la República de Guatemala |deadurl=yes |archiveurl=https://web.archive.org/web/20070927235237/http://www.oj.gob.gt/es/QueEsOJ/EstructuraOJ/UnidadesAdministrativas/CentroAnalisisDocumentacionJudicial/cds/CDs%20leyes/2003/Leyes%20en%20PDF/Decretos%202003/Decreto%2019-2003.pdf |archivedate=27 September 2007 |df=dmy-all }}</ref>
+
+There are also significant numbers of [[German language|German]], [[Chinese language|Chinese]], French and [[English language]] speakers.{{Citation needed|date=March 2016}}
+
+=== Indigenous integration and bilingual education ===
+
+Throughout the 20th century there have been many developments in the integration of [[Mayan languages]] into the Guatemalan society and educational system. Originating from political reasons, these processes have aided the revival of some Mayan languages and advanced bilingual education in the country.
+
+In 1945, in order to overcome "the Indian problem", the Guatemalan government founded The Institute Indigents ta National (NH), the purpose of which was to teach literacy to Mayan children in their mother tongue instead of Spanish, to prepare the ground for later assimilation of the latter. The teaching of literacy in the first language, which received support from the UN, significantly advanced in 1952, when the SIL (Summer Institute of Linguistics), located in Dallas, Texas, partnered with the Guatemalan Ministry of Education; within 2 years, numerous written works in Mayan languages had been printed and published, and vast advancement was done in the translation of the New Testament. Further efforts to integrate the indigenous into the Ladino<ref>Heimberger, Janet L. Language and Ethnicity: Multiple Literacies in Context, Language Education in Guatemala. ''Bilingual Research Journal''. Vol. 30, Issue 1, pp. 65–86, 2006.</ref> society were made in the following years, including the invention of a special alphabet to assist Mayan students transition to Spanish, and bilingual education in the Q'eqchi' area. When Spanish became the official language of Guatemala in 1965, the government started several programs, such as the Bilingual [[Castellanización|Castellanizacion]] Program and the Radiophonic Schools, to accelerate the move of Mayan students to Spanish. Unintentionally, the efforts to integrate the indigenous using language, especially the new alphabet, gave institutions tools to use Mayan tongues in schools, and while improving Mayan children's learning, they left them unequipped to learn in a solely Spanish environment. So, an additional expansion of bilingual education took place in 1980, when an experimental program in which children were to be instructed in their mother tongue until they are fluent enough in Spanish was created. The program proved successful when the students of the pilot showed higher academic achievements than the ones in the Spanish-only control schools. In 1987, when the pilot was to finish, bilingual education was made official in Guatemala.
+
+=== Largest cities ===
+{{Largest cities of Guatemala}}
+
+=== Religion ===
+{{Main|Religion in Guatemala}}
+[[File:Catedral Metropolitana, Guatemala City.jpg|thumb|The [[Cathedral of Guatemala City|Catedral Metropolitana]], Guatemala City.]]
+
+[[Christianity]] continues to remain strong and vital for the life of [[Demographics of Guatemala|Guatemalan society]], but its composition has changed over generations of social and political unrest. [[Roman Catholicism]], introduced by the Spanish during the colonial era, remains the largest denomination or church, accounting for 48.4% of the population {{As of|2007|lc=y}}. [[Protestants]], most of them [[Evangelicalism|Evangelical]] (most Protestants are called ''Evangelicos'' in Latin America) in a wide number of different denominations, made up 33.7% of the population at that time, followed by 1.6% in other religions (such as [[Jews in Guatemala|Judaism]], [[Islam in Guatemala|Islam]], and [[Buddhism]]), and 16.1% claiming no religious affiliation. A more recent 2012 survey reveals Catholics at 47.6%, Protestants at 38.2%, other religions at 2.6%, and the non-religious at 11.6%.
+
+Since the 1970s, and particularly since the 1990s, Guatemala has experienced the rapid growth of Evangelical Protestantism, whose adherents currently form more than 38% of the population, and still growing, in different denominations.
+
+Over the past two decades, particularly since the end of the civil war, Guatemala has seen heightened missionary activity. Protestant denominations have grown markedly in recent decades, chiefly [[Evangelicalism|Evangelical]] and [[Pentecostal]] varieties; growth is particularly strong among the ethnic Maya population, with the [[National Evangelical Presbyterian Church of Guatemala]] maintaining 11 indigenous-language presbyteries. [[The Church of Jesus Christ of Latter-day Saints]] has grown from 40,000 members in 1984 to 164,000 in 1998, and continues to expand.<ref>{{cite web |url=https://www.lds.org/church/temples/quetzaltenango-guatemala |title=Quetzaltenango Guatemala |publisher=Lds.org |accessdate=3 February 2015 |archive-url=https://web.archive.org/web/20150203152656/https://www.lds.org/church/temples/quetzaltenango-guatemala |archive-date=3 February 2015 |dead-url=no |df=dmy-all }}</ref><ref>{{cite web|url=http://www.ldschurchtemples.com/quetzaltenango/ |title=Quetzaltenango Guatemala LDS (Mormon) Temple |publisher=Ldschurchtemples.com |accessdate=3 February 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150601200123/http://www.ldschurchtemples.com/quetzaltenango/ |archivedate=1 June 2015 |df=mdy-all }}</ref>
+
+The growth of [[Eastern Orthodoxy|Eastern Orthodox Church]] in Guatemala has been especially strong, with hundreds of thousands of converts in the last five years,<ref name=EOC3>{{cite web |last1=Jackson |first1=Fr. Peter |title=150,000 Converts in Guatemala |work=Interview Transcript |publisher=Ancient Faith Radio |date=13 September 2013 |url=http://www.ancientfaith.com/podcasts/features/150000_converts_in_guatemala/print |accessdate=23 May 2014 |ref=none |archive-url=https://web.archive.org/web/20141013125640/http://www.ancientfaith.com/podcasts/features/150000_converts_in_guatemala/print |archive-date=13 October 2014 |dead-url=no |df=dmy-all }}</ref><ref>{{cite web|title=Orthodox Catholic Church of Guatemala |publisher=Orthodox Metropolis of Mexico |year=2013 |url=http://www.goarchmexico.org/news_121231_4.html |accessdate=23 May 2014 |ref=none |deadurl=yes |archiveurl=https://web.archive.org/web/20140507094816/http://www.goarchmexico.org/guatemala.html |archivedate=7 May 2014 |df=mdy-all }}</ref><ref>{{cite web |last1=Brandow |first1=Jesse |title=Seminarian Witnesses "Explosion" of Orthodox Christianity in Guatemala |publisher=St. Vladimir's Orthodox Theological Seminary |date=27 August 2012 |url=http://www.svots.edu/headlines/seminarian-jesse-brandow-gives-first-hand-account-explosion-orthodox-christianity-guatemal |accessdate=23 May 2014 |ref=none |archive-url=https://web.archive.org/web/20120829214257/http://www.svots.edu/headlines/seminarian-jesse-brandow-gives-first-hand-account-explosion-orthodox-christianity-guatemal |archive-date=29 August 2012 |dead-url=no |df=dmy-all }}</ref>{{Better source|reason=Current sources are only orthodox websites|date=October 2015}} giving the country the highest proportion of Orthodox adherents in the Western Hemisphere.
+
+Traditional [[Maya religion]] persists through the process of [[inculturation]], in which certain practices are incorporated into Catholic ceremonies and worship when they are sympathetic to the meaning of Catholic belief.<ref>[http://www.focolare.org/en/news/2011/07/28/dal-guatemala-il-focolare-scuola-d%E2%80%99inculturazione/ From Guatemala: the focolare, a school of inculturation] {{Webarchive|url=https://web.archive.org/web/20110814111329/http://www.focolare.org/en/news/2011/07/28/dal-guatemala-il-focolare-scuola-d%e2%80%99inculturazione/ |date=14 August 2011 }}. Focolare. 28 July 2011. Retrieved on 2 January 2012.</ref><ref>Duffey, Michael K [http://www.docstoc.com/docs/56028436/Guatemalan-Catholics-and-Mayas-the-future-of-dialogue%28Report%29 Guatemalan Catholics and Mayas: The Future of Dialogue] {{Webarchive|url=https://web.archive.org/web/20120618072213/http://www.docstoc.com/docs/56028436/Guatemalan-Catholics-and-Mayas-the-future-of-dialogue%28Report%29 |date=18 June 2012 }}</ref> Indigenous religious practices are increasing as a result of the cultural protections established under the peace accords. The government has instituted a policy of providing altars at every Maya ruin to facilitate traditional ceremonies.
+
+[[File:San andres xecul church 2009.JPG|thumb|upright=1.35|A church in [[San Andrés Xecul]].]]
+
+Between 1990 and 2012, the PROLADES Corporation made a study of public opinion polls in Guatemala.<ref>[http://www.prolades.com/ The Latin American Socio-Religious Studies Program / Programa Latinoamericano de Estudios Sociorreligiosos (PROLADES)] {{Webarchive|url=https://web.archive.org/web/20150516055634/http://www.prolades.com/ |date=16 May 2015 }} PROLADES Religion in America by country</ref> Its data reveal a relative decline in Catholicism and significant growth of denominations within Evangelical Protestantism, people adhering to no religion, and minority faiths (including indigenous traditions). In 2018, Catholics and Evangelical Protestants found common cause against abortion, in a rare public demonstration of unity.<ref>Justine Benoit, "Guatemala pro-abortionists retreat in face of religious opposition," LA CROIX INTERNATIONAL, September 6, 2018.</ref>
+
+{| class="wikitable" style="text-align:right;"
+!colspan=7 | Religion in Guatemala by Census
+|-
+! Census
+! Roman Catholic
+! Protestantism
+! No religion
+! Other*
+|-
+| November 1978<ref>Archives of Births, Grown Population, and other demographics characters in census of Central America in the decades of 1970 and 1980. Central America population center ([[University of Costa Rica]]). Guatemala 1978 Census.</ref>
+| 82.9%
+| 12.7%
+| 4.4%**
+|
+|-
+| December 1984<ref>[http://cirma.org.gt/library/index.php?title=30027&lang=en&query=@title=Special:GSMSearchPage@process=@field1=encabezamiento@value1=ESTADISTICAS,%20CENSOS%20@mode=advanced&recnum=8&mode=advanced 1984-Census of the Population] {{Webarchive|url=https://web.archive.org/web/20180617043216/http://cirma.org.gt/library/index.php?title=30027&lang=en&query=@title=Special:GSMSearchPage@process=@field1=encabezamiento@value1=ESTADISTICAS,%20CENSOS%20@mode=advanced&recnum=8&mode=advanced |date=17 June 2018 }} CIRMA.</ref>
+| 69.6%
+| 24.7%
+| 4.5%
+| 1.2%
+|-
+| March 1991<ref name="census">{{cite web|url=http://ccp.ucr.ac.cr/bvp/censos/zip/guate/index.htm|title=Demographics Census in Guatemala in the 1990s – X Censo Nacional de Población y V de Habitación Guatemala 1994|publisher=|access-date=6 December 2016|archive-url=https://web.archive.org/web/20170428183534/http://ccp.ucr.ac.cr/bvp/censos/zip/guate/index.htm|archive-date=28 April 2017|dead-url=no|df=dmy-all}}</ref>
+| 63.3%
+| 21.1%
+| 13.9%
+| 1.7%
+|-
+| May 1995<ref name="census" />
+| 65.0%
+| 22.0%
+| 12.0%
+| 1.0%
+|-
+| October 2000 to January 2001<ref>{{cite web|url=http://www.latinobarometro.org/latContents.jsp?CMSID=Datos|title=2000–2001 -Latinobarómetro Database|publisher=|access-date=6 December 2016|archive-url=https://web.archive.org/web/20150705163639/http://www.latinobarometro.org/latContents.jsp?CMSID=Datos|archive-date=5 July 2015|dead-url=no|df=dmy-all}}</ref>
+| 55.1%
+| 25.5%
+| 17.4%
+| 2.0%
+|-
+| February 2002<ref>[http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores] {{Webarchive|url=https://web.archive.org/web/20140314175005/http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores |date=14 March 2014 }} Instituto Nacional de Estadísticas</ref>
+| 57.4%
+| 28.9%
+| 11.6%
+| 2.1%
+|-
+| June 2007<ref>[http://www.thearda.com/internationalData/countries/Country_98_3.asp Guatemala profile – Religious Freendom] {{Webarchive|url=https://web.archive.org/web/20160610033540/http://thearda.com/internationalData/countries/Country_98_3.asp |date=10 June 2016 }} The Association of Religion Data Archives (ARDA).</ref>
+| 48.4%
+| 33.1%
+| 16.1%
+| 1.8%
+|-
+| April to May 2009<ref>[http://www.pewforum.org/2009/12/17/global-restrictions-on-religion/ Global Restrictions on Religion] {{Webarchive|url=https://web.archive.org/web/20161203195151/http://www.pewforum.org/2009/12/17/global-restrictions-on-religion/ |date=3 December 2016 }} Pew Research Center's Forum on Religion & Public Life (2009)</ref>
+| 53.8%
+| 34.1%
+| 10.6%
+| 1.5%
+|-
+| August 2010<ref>[http://www.prolades.com/ The Latin American Socio-Religious Studies Program / Programa Latinoamericano de Estudios Sociorreligiosos (PROLADES)] {{Webarchive|url=https://web.archive.org/web/20150516055634/http://www.prolades.com/ |date=16 May 2015 }} PROLADES Religion in L.A by country (2010)</ref>
+| 47.2%
+| 39.5%
+| 12.3%
+| 1.0%
+|-
+|}
+
+''*Including Judaism, Islam, Mayan religion, etc.''
+''**Including other religions and None/NA.''
+
+=== Immigration ===
+{{main|Immigration to Guatemala}}
+During the colonial era Guatemala received immigrants (settlers) only from Spain. Subsequently, Guatemala received waves of immigration from Europe in the mid 19th century and early 20th century.{{clarify|date=June 2015}} Primarily from Germany, these immigrants installed coffee and cardamom [[fincas]] in [[Alta Verapaz]], [[Zacapa]], [[Quetzaltenango]], [[Baja Verapaz]] and [[Izabal Department|Izabal]]. To a lesser extent people also arrived from Spain, France, Belgium, England, Italy, Sweden, etc.
+
+Many European immigrants to Guatemala were politicians, refugees, and entrepreneurs as well as families looking to settle. Up to 1950 Guatemala was the Central American country that received the most immigrants, behind [[Costa Rica]], and large numbers of immigrants are still received today.{{clarify|date=June 2015}}
+Since the 1890s there have been small communities of Asians (in particular from [[Korea]], China, Japan, [[Singapore]], and the [[Philippines]]) but in recent decades this has been growing. Also, beginning with the [[First World War]], the immigrant population is being strengthened by [[Jewish]] immigration.
+
+During the second half of the twentieth century, Latin American immigration grew in Guatemala, particularly from other [[Central American]] countries, Mexico, Cuba, and Argentina, although most of these immigrants stayed only temporarily before going to their final destinations in the United States.{{citation needed|date=November 2018}}
+
+<center>
+{|class="sortable wikitable"
+|-
+! Place ||Country ||Count ||year
+|- bgcolor="ffffff"
+|1 ||{{SLV}} ||align=right|12,484<ref name="OIM">{{es}} [http://costarica.iom.int/public/pdf/Perfil_Migratorio_Guatemala_2012.pdf Perfil Migratorio de Guatemala] {{webarchive|url=https://web.archive.org/web/20160305082439/http://costarica.iom.int/public/pdf/Perfil_Migratorio_Guatemala_2012.pdf |date=5 March 2016 }} Organización Internacional para las Migraciones (OIM) (2012)</ref>&nbsp;– 50,000<ref>{{es}} [http://www.migracion.gob.gt/index.php/root1/migracion/documentos-internacionales-2/noticias/238-ingreso-masivo-de-salvadore%C3%B1os-en-fiestas-agostinas.html Inmigrantes Ingreso masivo de salvadoreños en Fiestas Agostinas] {{webarchive|url=https://web.archive.org/web/20150929090534/http://www.migracion.gob.gt/index.php/root1/migracion/documentos-internacionales-2/noticias/238-ingreso-masivo-de-salvadore%C3%B1os-en-fiestas-agostinas.html |date=29 September 2015 }} Directorio General de Migración.</ref> ||2002–2013
+|- bgcolor="efefef"
+|2 ||{{MEX}} ||align=right|11,484<ref name="OIM" /> ||2002
+|- bgcolor="ffffff"
+|3 ||{{GER}} ||align=right|10,000<ref>{{cite web|url=http://www.guatemala.diplo.de/Vertretung/guatemala/de/Startseite.html|title=Deutsche Botschaft Guatemala – Startseite<!-- Bot generated title -->|language=de|access-date=2 August 2015|archive-url=https://web.archive.org/web/20160114074457/http://www.guatemala.diplo.de/Vertretung/guatemala/de/Startseite.html|archive-date=14 January 2016|dead-url=yes|df=dmy-all}}</ref> ||2010
+|- bgcolor="efefef"
+|4 ||{{ESP}} ||align=right|9,311<ref>
+{{cite web|title=Embassy of Spain in Guatemala City, Guatemala profile. Guatemala|url=http://www.exteriores.gob.es/Documents/FichasPais/GUATEMALA_FICHA%20PAIS.pdf|publisher=Government of Spain|accessdate=17 April 2015|language=Spanish|archive-url=https://web.archive.org/web/20150417165721/http://www.exteriores.gob.es/Documents/FichasPais/GUATEMALA_FICHA%20PAIS.pdf|archive-date=17 April 2015|dead-url=no|df=dmy-all}}
+</ref> ||2014
+|- bgcolor="efefef"
+|5 ||{{KOR}} ||align=right|6,000<ref>[http://www.prensalibre.com/noticias/comunitario/Colonias-extranjeros-proyectos-Corea-Alemania-colonia_coreana_guatemala-Israelies_0_1136886556.html Prosperan colonias extranjeras en el país] {{Webarchive|url=https://web.archive.org/web/20150924122645/http://www.prensalibre.com/noticias/comunitario/Colonias-extranjeros-proyectos-Corea-Alemania-colonia_coreana_guatemala-Israelies_0_1136886556.html |date=24 September 2015 }} ''Prensa Libre''.</ref> ||2013
+|- bgcolor="ffffff"
+|6 ||{{NIC}} ||align=right|5,604<ref name="OIM" /> ||2002
+|- bgcolor="efefef"
+|7 ||{{HND}} ||align=right|5,491<ref name="OIM" /> ||2002
+|- bgcolor="ffffff"
+|8 ||{{USA}} ||align=right|5,417<ref name="OIM" /> ||2002
+|- bgcolor="ffffff"
+|9 ||{{ITA}} ||align=right|4,071<ref name="Annuario Statistico 2009">{{cite web |url =http://www.esteri.it/MAE/Pubblicazioni/AnnuarioStatistico/Capitolo2_Annuario2009.pdf |title =Annuario Statistico 2009 |accessdate =24 November 2009 |author =Departamento del Interior y Ordenación del Territorio de Italia |format =PDF |pages =121–129 |language =it |archive-url =https://web.archive.org/web/20110517182302/http://www.esteri.it/MAE/Pubblicazioni/AnnuarioStatistico/Capitolo2_Annuario2009.pdf |archive-date =17 May 2011 |dead-url =no |df =dmy-all }}</ref> ||2009
+|- bgcolor="efefef"
+|10 ||{{UK}} ||align=right|2,300<ref>[http://joshuaproject.net/people_groups/11140/GT British in Guatemala] {{Webarchive|url=https://web.archive.org/web/20151117015422/http://joshuaproject.net/people_groups/11140/GT |date=17 November 2015 }} Joshua Project.</ref> ||2015
+|- bgcolor="efefef"
+|11 ||{{BLZ}} ||align=right|950<ref name="OIM" /> ||2002
+|- bgcolor="ffffff"
+|12 ||{{CRI}} ||align=right|906<ref>[http://www.cemla-remesas.org/principios/pdf/perfilpoblacioncr.pdf El perfil de la población de origen costarricense en los Estados Unidos] {{Webarchive|url=https://web.archive.org/web/20160304134824/http://www.cemla-remesas.org/principios/pdf/perfilpoblacioncr.pdf |date=4 March 2016 }} CEMLA.</ref> ||2012
+|- bgcolor="efefe"
+|13 ||{{ISR}} ||align=right|900<ref>''Jewish Virtual Library'' Jacqueline Shields [https://www.jewishvirtuallibrary.org/jsource/vjw/Guatemala.html The virtual Jewish World—Guatemala] {{Webarchive|url=https://web.archive.org/web/20151117023829/https://www.jewishvirtuallibrary.org/jsource/vjw/Guatemala.html |date=17 November 2015 }} [https://www.jewishvirtuallibrary.org/index.html Archived] {{Webarchive|url=https://web.archive.org/web/20151107061736/http://www.jewishvirtuallibrary.org/index.html |date=7 November 2015 }} Retrieved 4 December 2014.</ref> ||2012
+|- bgcolor="ffffff"
+|14 ||{{FRA}} ||align=right|824<ref>{{fr}} [http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/inscription-consulaire-et/article/la-communaute-francaise-inscrite La communauté française inscrite au registre des Français établis hors de France] {{webarchive|url=https://web.archive.org/web/20150703033213/http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/inscription-consulaire-et/article/la-communaute-francaise-inscrite |date=3 July 2015 }}  Ministère français des Affaires étrangères</ref> ||2014
+|- bgcolor="efefef"
+|15 ||{{COL}} ||align=right|757<ref name="OIM" /> ||2002
+|- bgcolor="ffffff"
+|16 ||{{CHI}} ||align=right|273<ref>{{cite web |url=http://www.gobiernodechile.cl/chilenos_exterior/especiales.asp?id_especial=2 |title=Más de 857 mil personas residen fuera de las fronteras de nuestro país |access-date=24 July 2008 |format=ASP |author=Chilenos en el Exterior – Comisión Bicentenario |date=26 December 2005 |publisher=www.gobiernodechile.cl |archive-url=https://web.archive.org/web/20090121192005/http://www.gobiernodechile.cl/chilenos_exterior/especiales.asp?id_especial=2 |archive-date=21 January 2009 |dead-url=no |df=dmy-all }}</ref> ||2005
+|- bgcolor="efefef"
+|  ||Other Countries ||align=right|9,489<ref name="OIM" />||2002
+|-
+|}
+</center>
+
+''* Including immigrants from [[Taiwan]], China, Japan, [[State of Palestine|Palestine]], [[Iraq]], [[Cuba]], [[Venezuela]], Canada, Switzerland, Russia, Belgium, Sweden, among other countries.''
+
+=== Health ===
+
+{{Main|Health in Guatemala}}
+
+Guatemala has among the worst health outcomes in Latin America with some of the highest infant mortality rates, and one of the lowest life expectancies at birth in the region.<ref>World Bank, Poverty and Inequality, 2003, http://econ.worldbank.org/external/default/main?pagePK=64165259&theSitePK=477894&piPK=64165421&menuPK=64166093&entityID=000094946_0302070416252 {{Webarchive|url=https://web.archive.org/web/20140714112129/http://econ.worldbank.org/external/default/main?pagePK=64165259&theSitePK=477894&piPK=64165421&menuPK=64166093&entityID=000094946_0302070416252 |date=14 July 2014 }}</ref> With about 16,000 doctors for its 16 million people, Guatemala has about half the doctor-citizen ratio recommended by the [[World Health Organization|WHO]].<ref>The Healthcare System in Guatemala, blog, 2012, http://naranetacrossing.wordpress.com/2012/09/27/the-healthcare-system-in-guatemala/ {{Webarchive|url=https://web.archive.org/web/20140715011133/http://naranetacrossing.wordpress.com/2012/09/27/the-healthcare-system-in-guatemala/ |date=15 July 2014 }}</ref> Since the end of the [[Guatemalan Civil War]] in 1997, the Ministry of Health has extended healthcare access to 54% of the rural population.<ref name="www-wds.worldbank.org">
+Universal Health Coverage Studies Series (UNICO), UNICO Studies Series No. 19, Christine Lao Pena,
+Improving Access to Health Care Services through the Expansion of Coverage Program (PEC): The Case of Guatemala, p. 7, http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/04/000425962_20130204103631/Rendered/PDF/750010NWP0Box30ge0Program0GUATEMALA.pdf {{Webarchive|url=https://web.archive.org/web/20140714125903/http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/04/000425962_20130204103631/Rendered/PDF/750010NWP0Box30ge0Program0GUATEMALA.pdf |date=14 July 2014 }}
+</ref>
+
+Healthcare has received different levels of support from different political administrations who disagree on how best to manage distribution of services – via a private or a public entity – and the scale of financing that should be made available.<ref name="www-wds.worldbank.org" /> {{As of|2013}}, the Ministry of Health lacked the financial means to monitor or evaluate its programs.<ref name="www-wds.worldbank.org" />
+
+Total healthcare spending, both public and private, has remained constant at between 6.4–7.3% of the GDP.<ref>World Bank Data, http://data.worldbank.org/indicator/SH.XPD.TOTL.ZS/countries/GT?display=graph {{Webarchive|url=https://web.archive.org/web/20140525225147/http://data.worldbank.org/indicator/SH.XPD.TOTL.ZS/countries/GT?display=graph |date=25 May 2014 }}</ref><ref name="who.int">WHO Country data, Guatemala, 2012, http://www.who.int/countries/gtm/en/ {{Webarchive|url=https://web.archive.org/web/20140714113118/http://www.who.int/countries/gtm/en/ |date=14 July 2014 }}</ref> Per-capita average annual healthcare spending was only $368 in 2012.<ref name="who.int" /> Guatemalan patients choose between indigenous treatments or Western medicine when they engage with the health system.<ref>Walter Randolph Adams and John P. Hawkins, ''Health Care in Maya Guatemala: Confronting Medical Pluralism in a Developing Country'' (Norman: University of Oklahoma Press, 2007), 4–10.</ref>{{Main|Education in Guatemala}}
+
+=== Education ===
+74.5% of the population aged 15 and over is literate, the lowest [[literacy]] rate in Central America. Guatemala has a plan to increase literacy over the next 20 years.<ref>[http://stats.uis.unesco.org/unesco/TableViewer/document.aspx?ReportId=121&IF_Language=eng&BR_Country=3200&BR_Region=40520 Education (all levels) profile&nbsp;– Guatemala] {{Webarchive|url=https://web.archive.org/web/20120112213255/http://stats.uis.unesco.org/unesco/TableViewer/document.aspx?ReportId=121&IF_Language=eng&BR_Country=3200&BR_Region=40520 |date=12 January 2012 }}. UNESCO Institute for Statistics. Retrieved on 2 January 2012.</ref>
+
+The government runs a number of public elementary and secondary-level schools, as [[youth in Guatemala]] do not fully participate in education. These schools are free, though the cost of uniforms, books, supplies, and transportation makes them less accessible to the poorer segments of society and significant numbers of poor children do not attend school.<ref>{{cite web|url=https://www.dandc.eu/en/article/poverty-corruption-and-racism-guatemalas-primary-schools-reflect-countrys-social-problems|title=Development + Cooperation: Guatemala's Social Problems - "Free - but still too expensive"|publisher=Development + Cooperation: D+C|accessdate=January 6, 2019|archive-url=https://web.archive.org/web/20190106210451/https://www.dandc.eu/en/article/poverty-corruption-and-racism-guatemalas-primary-schools-reflect-countrys-social-problems|archive-date=6 January 2019|dead-url=no|df=dmy-all}}</ref> Many middle and upper-class children go to private schools. Guatemala has one public university (USAC or [[Universidad de San Carlos de Guatemala]]), and fourteen private ones (see [[List of universities in Guatemala]]). USAC was the first university in Guatemala and one of the first Universities of America.
+
+Organizations such as [[Child Aid]], [[Pueblo a Pueblo]], and [[Common Hope]], which train teachers in villages throughout the Central Highlands region, are working to improve educational outcomes for children. Lack of training for rural teachers is one of the key contributors to Guatemala's low literacy rates.
+
+== Culture ==
+{{Main|Culture of Guatemala}}
+{{refimprove section|date=May 2017}}
+[[File:Vendeuse de souvenirs (Antigua, Guatemala) (6941638140).jpg|thumb|upright|A Guatemalan woman selling souvenirs.]]
+
+Guatemala City is home to many of the nation's libraries and museums, including the National Archives, the National Library, and the Museum of Archeology and Ethnology, which has an extensive collection of Maya artifacts. It also boasts private museums such as the [[Ixchel Museum of Indigenous Textiles and Clothing]] and the [[Museo Popol Vuh]], which focuses on Maya archaeology. Both these museums are housed on the [[Universidad Francisco Marroquín]] campus. Most of the 329 municipalities in the country have at least a small museum.
+
+=== Art ===
+Guatemala has produced many indigenous artists who follow centuries-old Pre-Columbian traditions. Reflecting Guatemala's colonial and post-colonial history, encounters with multiple global art movements also have produced a wealth of artists who have combined the traditional [[Primitivism|primitivist]] or [[Naïve art|naive aesthetic]] with European, North American, and other traditions.
+
+The [[Escuela Nacional de Artes Plásticas "Rafael Rodríguez Padilla"]] is Guatemala's leading art school, and several leading indigenous artists, also graduates of that school, have work in the permanent collection of the [[Museo Nacional de Arte Moderno "Carlos Mérida"|Museo Nacional de Arte Moderno]] in the capital city. Contemporary Guatemalan artists who have gained reputations outside of Guatemala include Dagoberto Vásquez, [[Luis Rolando Ixquiac Xicara]], [[Carlos Mérida]],<ref>{{cite web |url=http://www.latinartmuseum.com/merida.htm |title=retrieved September 28, 2009 |publisher=Latinartmuseum.com |date=1 October 2009 |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20100526201936/http://www.latinartmuseum.com/merida.htm |archive-date=26 May 2010 |dead-url=no |df=dmy-all }}</ref> [[Aníbal López]], [[Roberto González Goyri]], and [[Elmar Rojas|Elmar René Rojas]].<ref>{{cite web |url=http://www.latinartmuseum.com/elmar_rojas.htm |title=Elmar Rojas y la utopia pictorica latinoamercana |publisher=Latinartmuseum.com |accessdate=1 June 2010 |archive-url=https://web.archive.org/web/20100531042052/http://www.latinartmuseum.com/elmar_rojas.htm |archive-date=31 May 2010 |dead-url=no |df=dmy-all }}</ref>
+
+=== Literature ===
+{{Further|Guatemalan literature}}
+
+[[File:Rigoberta Menchu 2009 cropped.jpg|thumb|upright|Author [[Rigoberta Menchú]]]]
+*The [[Guatemala National Prize in Literature]] is a one-time-only award that recognizes an individual writer's body of work. It has been given annually since 1988 by the Ministry of Culture and Sports.
+*[[Miguel Ángel Asturias]] won the [[Nobel Prize in Literature]] in 1967. Among his famous books is ''[[El Señor Presidente]]'', a novel based on the government of [[Manuel Estrada Cabrera]].
+*[[Rigoberta Menchú]], winner of the [[Nobel Peace Prize]] for fighting oppression of indigenous people in Guatemala, is famous for her books ''I, Rigoberta Menchú''<ref>{{cite web
+|url=https://www.amazon.com/dp/1844674185/
+|title=I, Rigoberta Menchu: An Indian Woman in Guatemala Paperback – January 12, 2010
+|work=Amazon.com
+|accessdate=2 July 2016
+}}</ref> and ''Crossing Borders''.<ref>
+{{cite web
+|url=https://www.amazon.com/Crossing-Borders-Rigoberta-Menchu/dp/1859848931
+|title=Crossing Borders Hardcover – August 17, 1998
+|work=Amazon.com
+|accessdate=2 July 2016
+|archive-url=https://web.archive.org/web/20150302025626/http://www.amazon.com/Crossing-Borders-Rigoberta-Menchu/dp/1859848931
+|archive-date=2 March 2015
+|dead-url=no
+|df=dmy-all
+}}
+</ref>
+
+=== Media and news ===
+{{Further|Media of Guatemala}}
+
+Major national newspapers in Guatemala include ''[[Prensa Libre]]'', ''[[El Periódico (Guatemala)|El Periodico]]'' and ''[[Siglo Veintiuno|Siglo21]]''.<ref>{{cite web|url=http://www.prensalibre.com/|title=Prensa Libre – Periódico líder de Guatemala|publisher=|access-date=14 June 2008|archive-url=https://web.archive.org/web/20080614153003/http://www.prensalibre.com/|archive-date=14 June 2008|dead-url=no|df=dmy-all}}</ref><ref>{{Cite web |url=http://www.s21.com.gt/ |title=Archived copy |access-date=3 September 2015 |archive-url=https://web.archive.org/web/20110303144144/http://www.s21.com.gt/ |archive-date=3 March 2011 |dead-url=no |df=dmy-all }}</ref> The ''Guatemala Times'' is a digital English news magazine.<ref>{{cite web |url=http://www.guatemala-times.com/ |title='&#39;The Guatemala Times'&#39; |publisher=Guatemala-times.com |date= |accessdate=22 September 2013 |archive-url=https://web.archive.org/web/20130922033552/http://guatemala-times.com/ |archive-date=22 September 2013 |dead-url=no |df=dmy-all }}</ref> Guatemala also has a few major local channels and radio stations, such as one of Guatemala's major radio stations, ''Emisoras Unidas''.
+
+=== Music ===
+{{Further|Music of Guatemala}}
+Guatemalan music comprises a number of styles and expressions. Guatemalan social change has been empowered by music such as [[nueva cancion]], which blends together histories, present-day issues, and the political values and struggles of common people. The [[Maya civilization|Maya]] had an intense musical practice, as documented by their [[iconography]].<ref>
+{{cite web
+|accessdate=1 June 2016
+|url=https://repositories.lib.utexas.edu/handle/2152/25824
+|publisher=University of Texas ScholarWorks
+|title=Palatial soundscapes : music in Maya court societies
+|author=Bethany Kay Duke
+|archive-url=https://web.archive.org/web/20160914224115/https://repositories.lib.utexas.edu/handle/2152/25824
+|archive-date=14 September 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref><ref>
+{{cite web
+|url=https://bibliolore.org/2014/10/13/mayan-instrument-iconography/
+|work=bibliolore
+|publisher=International Repertory of Music Literature
+|title=Mayan instrument iconography
+|date=13 October 2014
+|accessdate=19 July 2016
+|archive-url=https://web.archive.org/web/20160807124321/https://bibliolore.org/2014/10/13/mayan-instrument-iconography/
+|archive-date=7 August 2016
+|dead-url=no
+|df=dmy-all
+}}
+</ref> Guatemala was also one of the first regions in the New World to be introduced to European music, from 1524 on. Many composers from the Renaissance, baroque, classical, romantic, and contemporary music styles have contributed works of all genres. The [[marimba]], which is like a wooden xylophone,<ref>{{Cite web|url=https://www.nytimes.com/2008/06/29/arts/music/29schw.html|title=The Marimba, Rich and Warm, Makes Itself Heard|last=SCHWEITZER|first=VIVIEN|date=29 June 2008|website=New York Times|archive-url=https://web.archive.org/web/20180105220213/http://www.nytimes.com/2008/06/29/arts/music/29schw.html|archive-date=5 January 2018|dead-url=no|access-date=4 June 2018}}</ref> is the national instrument and its music is widely found in Guatemala.<ref>{{Cite web|url=https://www.thenational.ae/arts-culture/music/also-performing-at-festival-in-the-park-1.715207|title=Also performing at Festival in the Park|last=Saeed|first=Saeed|date=22 March 2018|website=The National|archive-url=https://web.archive.org/web/20180604065041/https://www.thenational.ae/arts-culture/music/also-performing-at-festival-in-the-park-1.715207|archive-date=4 June 2018|dead-url=no|access-date=4 June 2018}}</ref> It has developed a large repertoire of very attractive pieces that have been popular for more than a century.
+
+The ''Historia General de Guatemala'' has published a series of CDs compiling the historical music of Guatemala, in which every style is represented, from the Maya, colonial, independent and republican eras to the present. Many contemporary music groups in Guatemala play [[Caribbean music]], [[Salsa music|salsa]], [[Garifuna music|Garifuna]]-influenced [[punta]], [[Latin pop]], [[Music of Mexico|Mexican regional]], and [[mariachi]].
+
+=== Cuisine ===
+{{Main|Guatemalan cuisine}}
+[[File:091225 tamales.JPG|thumb|Black and red [[tamale]]s in Guatemala]]
+Many traditional foods in Guatemalan cuisine are based on Mayan cuisine and prominently feature [[maize]], [[Chili pepper|chilies]] and [[Black turtle bean|black beans]] as key ingredients. Traditional dishes also include a variety of stews including Kak'ik ''(Kak-ik)'', which is a tomato-based stew with [[Turkey (bird)|turkey]], pepian, and [[cocido]]. Guatemala is also known for its ''[[Mexican street food|antojitos]]'', which include small [[tamale]]s called ''chuchitos'', fried [[Cooking banana|plantains]], and [[Tostada (tortilla)|tostadas]] with [[tomato sauce]], [[guacamole]] or black beans. Certain foods are also commonly eaten on certain days of the week; for example, a popular custom is to eat ''paches'' (a kind of tamale made from potatoes) on Thursday. Certain dishes are also associated with special occasions, such as [[fiambre]] for [[All Saints' Day]] on 1 November, or tamales and ''ponche'' ([[Punch (drink)|fruit punch]]), which are both very common around Christmas.
+
+=== Sports ===
+==== Football ====
+{{Main|Football in Guatemala}}
+[[Association football|Football]] is the most popular sport in Guatemala and its [[Guatemala national football team|national team]] has appeared in 18 editions of the [[CONCACAF Championship]], winning it once, in [[1967 CONCACAF Championship|1967]]. However, the team has failed to qualify to a [[FIFA World Cup]] so far. Established in 1919, the [[National Football Federation of Guatemala]] organizes the country's [[Liga Nacional de Fútbol de Guatemala|national league]] and its lower-level competitions.
+
+==== Futsal ====
+
+[[Futsal]] is probably the most successful [[team sport]] in Guatemala. Its [[Guatemala national futsal team|national team]] won the [[2008 CONCACAF Futsal Championship]] as hosts. It was also the runner-up in [[2012 CONCACAF Futsal Championship|2012]] as hosts and won the bronze medal in [[2016 CONCACAF Futsal Championship|2016]].
+
+Guatemala participated for the first time in the [[FIFA Futsal World Cup]] in [[2000 FIFA Futsal World Cup|2000]], as hosts, and has played in every competition from [[2008 FIFA Futsal World Cup|2008]] onwards. It has never passed the first round. It has also participated in every [[Grand Prix de Futsal]] since [[2009 Grand Prix de Futsal|2009]], reaching the semifinals in [[2014 Grand Prix de Futsal|2014]].
+
+==== Olympics ====
+{{Further|Guatemala at the Olympics}}
+The [[Guatemalan Olympic Committee]] was founded in 1947 and recognized by the [[International Olympic Committee]] that same year. Guatemala participated in the [[Guatemala at the 1952 Summer Olympics|1952 Summer Olympics]], and in every edition since the [[Guatemala at the 1968 Summer Olympics|1968 Summer Olympics]]. It has also appeared in a single [[Winter Olympics]] edition, in [[Guatemala at the 1988 Winter Olympics|1988]].
+
+[[Erick Barrondo]] won the only Olympic medal for Guatemala so far, silver in [[Athletics at the 2012 Summer Olympics – Men's 20 kilometres walk|race walking]] at the [[Guatemala at the 2012 Summer Olympics|2012 Summer Olympics]].
+
+==== Other sports ====
+Guatemala also keeps [[National sports teams of Guatemala|national sports teams]] in several disciplines.
+
+== See also ==
+{{portal|Guatemala|Latin America}}
+* [[Index of Guatemala-related articles]]
+* [[Outline of Guatemala]]
+
+== References ==
+{{reflist|20em}}
+
+== Bibliography ==
+{{refbegin|30em}}
+* {{cite book |last=Aguirre |first=Lily |title=The land of eternal spring: Guatemala, my beautiful country |year=1949 |publisher=Patio Press |page=253 |url=https://books.google.com/books?id=LodnAAAAMAAJ|ref=harv}}
+* {{cite book|first=Rafael|last=Arévalo Martinez|title=¡Ecce Pericles!|publisher= Tipografía Nacional|location=Guatemala|year= 1945|ref=harv|language=Spanish|url=https://www.scribd.com/doc/190285559/Arevalo-Martinez-Ecce-Pericles#scribd}}
+* {{cite book|url=https://archive.org/details/concordatoen00unseguat|last=Aycinena|first=Pedro de|author-link=Pedro de Aycinena|title=Concordato entre la Santa Sede y el presidente de la República de Guatemala|publisher=Imprenta La Paz|year=1854|location=Guatemala|language=Latin, Spanish|ref=harv}}
+* {{cite web|author=Banco de Guatemala |url=http://www.banguat.gob.gt/inc/ver.asp?id=/en/currency%20and%20bills/Monedas%20y%20Billetes%20Translation.htm&e=18108 |title=Ilustraciones de Cada una de las 11 Denominaciones. Anverso y Reverso |website=Banguat.gob.gt |language=Spanish |date=29 December 1996 |accessdate=22 September 2013 |ref=harv |archiveurl=https://web.archive.org/web/20070607011018/http://www.banguat.gob.gt/inc/ver.asp?id=%2Fen%2Fcurrency+and+bills%2FMonedas+y+Billetes+Translation.htm&e=18108 |archivedate=7 June 2007 |deadurl=yes |df=mdy-all }}
+* {{Cite book|title=Guatemalan Journey|last=Benz|first=Stephen Connely|publisher=University of Texas Press|year=1996|isbn=978-0-292-70840-2|ref=harv}}
+*{{cite book |last=Blakeley|first=Ruth|date=2009 |title=State Terrorism and Neoliberalism: The North in the South|url=http://www.routledge.com/books/details/9780415462402/|location= |publisher=[[Routledge]]|page=[https://books.google.com/books?id=rft8AgAAQBAJ&lpg=PP1&pg=PA92#v=onepage 92]|isbn=0415686172|ref=harv}}
+* {{cite book|last=Calvert|first=Peter|title=Guatemala: A Nation in Turmoil|location=Boulder, CO|publisher=Westview Press|year=1985|ref=harv|isbn=978-0-86531-572-3}}
+* {{cite book|last=Campbell|first=Lyle|year=1997|title=American Indian languages: The historical linguistics of Native America|location=New York, NY|publisher=Oxford University Press|ISBN=0-19-509427-1|ref=harv}}
+* {{cite book|last=Chapman|first=Peter|title=Bananas: How the United Fruit Company Shaped the World|publisher =Canongate|location=NY|year= 2007|ref=harv}}
+* {{cite book|title=Colonisation du district de Santo-Thomas de Guatemala par la Communauté de l'Union|author=Compagnie Belge de Colonisation|series=Collection de renseignements publiés ou recueillis par la Compagnie|publisher=Original held and digitised by the British Library|year=1844|language=French|url=https://commons.wikimedia.org/wiki/File:Baie_et_Port_de_Santo_Thomas.jpg|ref=harv}}
+*{{cite web |author=Conservation International|title= Biodiversity Hotspots-Mesoamerica-Overview |website= Conservation International |url= http://www.biodiversityhotspots.org/xp/Hotspots/mesoamerica/|accessdate=1 February 2007|year=2007|archiveurl=https://web.archive.org/web/20080704190529/http://www.biodiversityhotspots.org/xp/hotspots/Mesoamerica|archivedate=4 July 2008 |ref=harv}}
+* {{cite book|first=Allan|last=Cooper|year=2008|title=The Geography of Genocide|publisher=[[University Press of America]]|ISBN=0-7618-4097-4|url=https://books.google.com/books?id=Uyh8kdcuA1kC&lpg=PP1&pg=PA171#v=onepage |page=171|ref=harv}}
+* {{Cite book|last=Cullather|first=Nicholas|title=Secret History: The CIA's Classified Account of its Operations in Guatemala 1952–54|publisher=Stanford University Press|isbn=978-0-8047-5468-2|edition=2nd|year=2006|ref=harv|url=https://books.google.com/books?id=sp3IGB4csCQC}}
+* {{Cite journal|last=Cullather|first=Nicholas|date=23 May 1997|url=http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB4|title=CIA and Assassinations: The Guatemala 1954 Documents|series=National Security Archive Electronic|volume=Briefing Book No. 4|publisher=[[National Security Archive]]|ref=harv}}
+* {{cite book|last=de Aerenlund|first=C.|title=Voyage to an Unknown Land: The saga of an Italian Family from Lombardy to Guatemala |year= 2006|ISBN= 1-4257-0187-6|ref=harv}}
+* {{Cite book|title=Ombres contra Hombres|last=De los Ríos|first=Efraín|publisher=Fondo para Cultura de la Universidad de México, México|year=1948|language=Spanish|ref=harv}}
+* {{cite book|last=Dosal|first=Paul J.|title=Doing Business with the Dictators: A Political History of United Fruit in Guatemala|location= Wilmington, Delaware|publisher=Scholarly Resources Inc.|year=1993|ref=harv}}
+* {{Cite book|last=Forster|first=Cindy |title=The time of freedom: campesino workers in Guatemala's October Revolution|publisher=University of Pittsburgh Press|year=2001|url=https://books.google.com/books?id=5937zVXHZV8C|isbn=978-0-8229-4162-0|ref=harv}}
+* {{cite book|last=Foster|first=Lynn V.|year=2000|title=A Brief History of Central America|location=New York, NY|publisher=Facts On File, Inc.|ISBN=0-8160-3962-3|ref=harv}}
+* {{cite book|last=Gleijeses|first=Piero|authorlink=Piero Gleijeses|title=Shattered hope: the Guatemalan revolution and the United States, 1944–1954 |publisher=Princeton University Press |location=United States|year=1991 |isbn=978-0-691-02556-8 |url=https://books.google.com/books?id=mS7ZVKa6i3AC&pg=PA134|ref=harv}}
+* {{cite book|last=González Davison|first=Fernando|year=2008|title=La montaña infinita; Carrera, caudillo de Guatemala|publisher=Artemis y Edinter|location=Guatemala|isbn=84-89452-81-4|language=Spanish|ref=harv}}
+* {{Cite book|last=Grandin|first=Greg|title=The blood of Guatemala: a history of race and nation|publisher=Duke University Press|year=2000|isbn=978-0-8223-2495-9|ref=harv}}
+* {{cite news|last=Hernández de León|first=Federico|author-link=Federico Hernández de León|title=El capítulo de las efemérides: José Milla y Rafael Carrera|newspaper= Diario La Hora|year=1959|location=Guatemala|language=Spanish|ref=harv}}
+* {{cite book|last=Hernández de León|first=Federico|title=El libro de las efemérides|volume=Tomo III|publisher=Tipografía Sánchez y de Guise|location=Guatemala|year=1930|language=Spanish|ref=harv}}
+* {{Cite book|last=Immerman|first=Richard H.|url=https://books.google.com/books?id=erAkfz6c9HoC|title=The CIA in Guatemala: The Foreign Policy of Intervention|publisher=University of Texas Press|year=1982|isbn=978-0-292-71083-2|ref=harv}}
+* {{cite web|author=Instituto Nacional de Estadística|url=http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores |title=Poblacion de Guatemala (Demografía) |website=Instituto Nacional de Estadística (INE) |location=Guatemala|year=2014|language=Spanish|ref=harv|archiveurl=https://web.archive.org/web/20140314175005/http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores|archivedate=14 March 2014}}
+* {{Cite book|last=LaFeber|first=Walter|title=Inevitable revolutions: the United States in Central America|publisher=W. W. Norton & Company|year=1993|isbn=978-0-393-30964-5|url=https://books.google.com/books?id=RqMp5TsWCqkC|ref=harv}}
+* {{Cite book|last1=Loveman|first1=Brian|last2=Davies|first2=Thomas M.|title=The Politics of antipolitics: the military in Latin America|publisher=Rowman & Littlefield|year=1997|url=https://books.google.com/books?id=U8MAN2Epwh0C|edition=3rd, revised|isbn=978-0-8420-2611-6|ref=harv}}
+* {{cite book|last=McCleary|first=Rachel|title=Dictating Democracy: Guatemala and the End of Violent Revolution|url=https://books.google.com/books?id=zEocngEACAAJ|edition=Illustrated|year=1999|publisher=University Press of Florida|ISBN=978-0-8130-1726-6}}
+* {{cite journal|last=Miceli|first=Keith|title=Rafael Carrera: Defender and Promoter of Peasant Interests in Guatemala, 1837–1848|journal=The Americas|publisher=Academy of American Franciscan History|volume=31|issue=1|year=1974|jstor=980382|ref=harv}}
+*{{cite news |last=Navarro |first= Mireya|date= 26 February 1999 |title= Guatemalan Army Waged 'Genocide,' New Report Finds|url=https://www.nytimes.com/1999/02/26/world/guatemalan-army-waged-genocide-new-report-finds.html|newspaper=[[The New York Times]] |location= |access-date=20 November 2016|ref=harv}}
+*{{cite book|ref=harv|last=Paterson|first=Thomas G.|year=2009|title=American Foreign Relations: A History, Volume 2: Since 1895|publisher=Cengage Learning|isbn=0-547-22569-5}}
+* {{cite web|author=Rain Forest Wordpress|url =http://rainforestcentralamerica.wordpress.com/2013/04/04/guatemala-rainforest-fact/ |title=Guatemala Rainforest Interesting fact &#124; rainforest facts |website=Rainforestcentralamerica.wordpress.com |date=4 April 2013|accessdate=22 September 2013|ref=harv}}
+*{{cite book|ref=harv|last1=Schlesinger|first1=Stephen|last2=Kinzer|first2=Stephen|title=Bitter Fruit: The Story of the American Coup in Guatemala|year=1999|publisher=David Rockefeller Center series on Latin American studies, Harvard University|isbn=978-0-674-01930-0}}
+* {{Cite book|title=Grappling with atrocity: Guatemalan theater in the 1990s|last=Shillington|first=John|publisher=Fairleigh Dickinson University Press|year=2002|isbn=9780838639306|pages=38–39|url=https://books.google.com/books?id=KJyWMjI4pfgC&pg=PA38|ref=harv}}
+* {{cite book|url=http://www.albedrio.org/htm/documentos/EstudioFranjaTransversalNorteCEDFOG.pdf|last=Solano|first=Luis|title=Contextualización histórica de la Franja Transversal del Norte (FTN)|publisher=Centro de Estudios y Documentación de la Frontera Occidental de Guatemala, CEDFOG|year=2012|accessdate=31 October 2014|ref=harv|archiveurl=https://web.archive.org/web/20141113172058/http://www.albedrio.org/htm/documentos/EstudioFranjaTransversalNorteCEDFOG.pdf|archivedate=13 November 2014}}
+* {{Cite book|last=Streeter|first=Stephen M.|title=Managing the counterrevolution: the United States and Guatemala, 1954–1961|publisher=Ohio University Press|year=2000|isbn=978-0-89680-215-5|ref=harv}}
+* {{cite book|last=Torres Espinoza|first=Enrique|title = Enrique Gómez Carrillo, el cronista errante|edition=2nd|publisher = Artemis-Edinter|location=Guatemala|year = 2007|language=Spanish|ref=harv}}
+* {{cite book|last1=Trigger|first1=Bruce G.|last2=Washburn|first2=Wilcomb E.|last3=Adams|first3=Richard E. W.|title=The Cambridge History of the Native Peoples of the Americas|year=2000|ref=harv}}
+* {{cite web|author=Troika study abroad programs|url=http://ccidinc.org/programs/countries.php?country_id_number=3|title=Guatemala|website=Community colleges for international development|year=2006|archiveurl=https://web.archive.org/web/20100918111113/http://ccidinc.org/programs/countries.php?country_id_number=3|archivedate=18 September 2010 |accessdate=12 June 2012|ref=harv}}
+* {{cite web |author=United Nations|url=http://hdr.undp.org/en/media/HDR_2011_EN_Tables.pdf |title=Human Development Report 2011; Statistical annex|year=2011 |website=United Nations online|accessdate=22 December 2011|ref=harv|archiveurl=https://web.archive.org/web/20120111110322/http://hdr.undp.org/en/media/HDR_2011_EN_Tables.pdf|archivedate=11 January 2012}}
+* {{cite journal|first=Frederic S.|last=Weaver|title=Reform and (Counter) Revolution in Post-Independence Guatemala: Liberalism, Conservatism, and Postmodern Controversies|journal=Latin American Perspectives|volume=26|issue= 2|jstor=2634298|date=March 1999 |pages=129–158|ref=harv|doi=10.1177/0094582x9902600207}}
+* {{cite book|first=Douglas R.|last=White|url=http://eclectic.ss.uci.edu/~drwhite/pub/core11Casasola.pdf|title=The Marriage Core of the Elite Network of Colonial Guatemala|year=2002|publisher=University of California, Irvine, School of Social Sciences|location=Irvine, CA|ref=harv|archiveurl=https://web.archive.org/web/20041210031143/http://eclectic.ss.uci.edu/~drwhite/pub/core11Casasola.pdf|dead-url=no|archivedate=10 December 2004}}
+* {{cite book|last1=Woodward|first1=Ralph Lee|title=Rafael Carrera and the Emergence of the Republic of Guatemala, 1821–1871|location=Athens, GA|publisher=University of Georgia Press|year=1993|url=http://muse.jhu.edu/books/9780820343600|isbn=978-0-8203-1448-8|ref=harv}}
+{{refend}}
+
+== Further reading ==
+{{See also|Bibliography of Guatemala}}
+{{refbegin|30em}}
+* {{cite news|newspaper= [[Diario de Centro América]] |title = Interview from Enrique Gómez Carrillo with His Excellency, President Manuel Estrada Cabrera |year = 1898|location=Guatemala|last=Gómez Carrillo|first=Enrique|author-link=Enrique Gómez Carrillo|language=Spanish}}
+* {{cite journal|url=https://www.academia.edu/3681333/The_CIA_and_Jacobo_Arbenz|title=The CIA and Jacobo Arbenz: The story of a disinformation campaign|last=Garcia Ferreira|first=Roberto|journal=Journal of Third World Studies|year=2008|volume=XXV|issue=2|pages=59|location=United States}}
+* {{cite book|last=Koeppel|first=Dan|title=Banana: The Fate of the Fruit That Changed the World|url=https://books.google.com/books?id=Py8O1sDNmEYC|year=2008|publisher=Hudson Street Press|location=New York|page=153}}
+* {{Cite book|last=Krehm|first=William|title=Democracies and Tyrannies of the Caribbean in the 1940's|publisher=COMER Publications|year=1999|isbn=978-1-896266-81-7|url=https://books.google.com/books?id=dAUd1NHWGhIC}}
+* {{cite book|last=Marroquín Rojas|first=Clemente|title=Francisco Morazán y Rafael Carrera|publisher=Piedrasanta|location=Guatemala|year=1971|language=Spanish}}
+* {{cite journal|last=Martínez Peláez|first=Severo|title=Racismo y Análisis Histórico de la Definición del Indio Guatemalteco|publisher=Universitaria|location=Guatemala|year=1988|language=Spanish}}
+* {{cite book|last=Martínez Peláez|first=Severo|title=La patria del criollo; ensayo de interpretación de la realidad colonial guatemalteca|year=1990|location=México|publisher=Ediciones en Marcha|language=Spanish}}
+* {{Cite book|last=McCreery|first=David|url=https://books.google.com/books?id=0mpsg65LOMcC|title=Rural Guatemala, 1760–1940|publisher=Stanford University Press|year=1994|isbn=978-0-8047-2318-3}}
+* {{cite book|last= Mendoza|first=Juan Manuel|title = Biografía de Enrique Gómez Carrillo: su vida, su obra y su época|edition=2nd|publisher = Tipografía Nacional|location=Guatemala|year = 1946|language=Spanish}}
+* {{cite news|url=http://servicios.prensalibre.com/pl/domingo/archivo/revistad/2005/noviembre05/201105/dfondo.shtml|title = Yo, el Supremo|last=Montenegro|first=Gustavo Adolfo|newspaper = Revista Domigo de Prensa Libre|year=2005|accessdate = 20 July 2014|language=Spanish|archiveurl=https://web.archive.org/web/20141006081159/http://servicios.prensalibre.com/pl/domingo/archivo/revistad/2005/noviembre05/201105/dfondo.shtml|archivedate=6 October 2014}}
+* {{cite book|last=Montúfar|first=Lorenzo|first2=Ramón A.|last2=Salazar|publisher=Tipografía Nacional|title=El centenario del general Francisco Morazán|year=1892|location=Guatemala|language=Spanish}}
+* {{Cite book|last=Rabe|first=Stephen G.|title=Eisenhower and Latin America: The Foreign Policy of Anticommunism|publisher=University of North Carolina Press|year=1988|isbn=978-0-8078-4204-1|url=https://books.google.com/books?id=o2SFNdAiB7UC|location=Chapel Hill}}
+* {{cite book|last=Rosa|first=Ramón|author-link=Ramón Rosa|title=Historia del Benemérito Gral. Don Francisco Morazán, ex Presidente de la República de Centroamérica|publisher=Ministerio de Educación Pública, Ediciones Técnicas Centroamericana|location=Tegucigalpa|year=1974|url=http://www.cervantesvirtual.com/obra/historia-del-benemerito-gral-don-francisco-morazan-ex-presidente-de-la-republica-de-centroamerica/|language=Spanish}}
+* {{cite book|first=Terry|last=Rugeley|title=Yucatan's Maya Peasantry and the Origins of the Caste War|location=San Antonio, TX|publisher=University of Texas|year=1996|ISBN=978-0-292-77078-2}}
+* {{cite book|first=Terry|last=Rugeley|title=Maya Wars:  Ethnographic Accounts from Nineteenth Century Yucatan|publisher=University of Oklahoma Press|location=Norman|year=2001|ISBN=978-0-8061-3355-3|url=https://books.google.com/books/about/Maya_Wars.html?id=dildxZvRwxQC}}
+* {{Cite book|title=Guatemala, la historia silenciada (1944–1989)|volume=Tomo 1: Revolución y Liberación|publisher=Fondo Nacional para la Cultura Económica|location=Guatemala|year=2007|last=Sabino|first=Carlos|language=Spanish}}
+* {{cite book|last1=Stephens|first1=John Lloyd|last2=Catherwood|first2=Frederick|url=https://archive.org/details/incidentstravel00cathgoog|title=Incidents of travel in Central America, Chiapas, and Yucatan|publisher=Arthur Hall, Virtue and Co.|year=1854|location=[[London]], England}}
+* {{Cite book|last1=Striffler|first1=Steve|last2=Moberg|first2=Mark|title=Banana wars: power, production, and history in the Americas|publisher=Duke University Press|year=2003|isbn=978-0-8223-3196-4}}
+* {{cite book|first=Arturo|last=Taracena|title=Invención criolla, sueño ladino, pesadilla indigena, Los Altos de Guatemala: de región a Estado, 1740–1871|location=Guatemala|publisher=Biblioteca básica de historia de Guatemala|year=2011|edition=3rd|isbn=978-9929-587-42-7|url=http://www.afehc-historia-centroamericana.org/index.php?action=fi_aff&id=244|language=Spanish|access-date=10 February 2015|archive-url=https://web.archive.org/web/20160109073146/http://www.afehc-historia-centroamericana.org/index.php?action=fi_aff&id=244|archive-date=9 January 2016|dead-url=yes|df=dmy-all}}
+* {{cite book |title=Politics of Latin America: The Power Game |editors=Harry E. Vanden; Gary Prevost |publisher=Oxford University Press |year=2002 |isbn=0-19-512317-4 |chapter=Chapter Ten: Guatemala}}
+{{refend}}
+
+== External links ==
+{{Sister project links|voy=Guatemala}}
+* [https://web.archive.org/web/20130117025729/http://uzonreport.com/?page_id=124 Guatemala After the War 1996–2000, Photographs by Jorge Uzon]
+* [http://www.latitudylongitud.com/ Guatemala Map Search with Longitude and Latitude]
+* [http://www.britannica.com/EBchecked/topic/701217/Guatemala Guatemala&nbsp;– Country Article] Encyclopædia Britannica
+* [https://web.archive.org/web/20090814100556/http://www.guatemala.gob.gt/ Government of Guatemala] {{es icon}}
+* [https://web.archive.org/web/20081210073759/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-g/guatemala.html Chief of State and Cabinet Members]
+* {{CIA World Factbook link|gt|Guatemala}}
+* [https://web.archive.org/web/20080607084913/http://ucblibraries.colorado.edu/govpubs/for/guatemala.htm Guatemala] at ''UCB Libraries GovPubs''.
+* {{dmoz|Regional/Central_America/Guatemala}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1215758.stm Guatemala profile] from the [[BBC News]].
+* {{Wikiatlas|Guatemala}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=GT Key Development Forecasts for Guatemala] from [[International Futures]].
+* [http://www.gwu.edu/~nsarchiv/guatemala/ The National Security Archive: Guatemala Project]
+* [http://www.inguat.gob.gt/ Guatemala Tourism Commission]
+* [http://wits.worldbank.org/CountryProfile/Country/GTM/Year/2012/Summary World Bank Summary Trade Statistics Guatemala]
+
+{{Geographic location
+ |Centre = {{flag|Guatemala}}
+ |N  = {{flagicon|MEX}} [[Yucatán Peninsula]]
+ |NE = {{flag|Belize}}
+ |E  = ''[[Caribbean Sea]]''<br />{{flag|Honduras}}
+ |SE = {{flag|El Salvador}}
+ |S  = ''[[Pacific Ocean]]''
+ |SW = ''[[Pacific Ocean]]''
+ |W  = {{flagicon|MEX}} [[Chiapas]]
+ |NW = {{flagicon|MEX}} [[Tabasco]]
+}}
+
+{{Guatemala topics}}
+{{Navboxes
+|title = Geographic locale
+|list =
+{{Departments of Guatemala}}
+{{Central America topic}}
+{{Countries of North America}}
+}}
+{{Authority control}}
+
+[[Category:Guatemala| ]]<!--please leave the empty space as standard-->
+[[Category:Countries in Central America]]
+[[Category:Former Spanish colonies]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:Spanish-speaking countries and territories]]
+[[Category:States and territories established in 1821]]
+[[Category:1821 establishments in North America]]
+[[Category:Countries in North America]]
+[[Category:Northern Triangle of Central America]]

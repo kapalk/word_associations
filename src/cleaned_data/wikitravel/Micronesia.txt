@@ -1,0 +1,124 @@
+{{pagebanner|Micronesia Banner.jpg}}
+
+'''{{#explode:{{SUBPAGENAME}}| (|0}}''' is the northwestern region of [[Oceania]].
+
+==Regions==
+
+
+{{Regionlist
+| regionmap=Micronesia regions map.png
+| regionmaptext=
+| regionmapsize=470px
+
+| region1name=[[Federated States of Micronesia]]
+| region1color=#85c38b
+| region1items=
+| region1description=
+
+| region2name=[[Kiribati]]
+| region2color=#bc9ab6
+| region2items=
+| region2description=The western third of this sprawling country falls within Micronesia.
+
+| region3name=[[Marshall Islands]]
+| region3color=#cd8d92
+| region3items=
+| region3description=Site of U.S. nuclear tests on Bikini Atoll.
+
+| region4name=[[Nauru]]
+| region4color=#7fada6
+| region4items=
+| region4description=An island of phosphate. The world’s smallest independent republic. 
+
+| region5name=[[Northern Mariana Islands]]
+| region5color=#d07a6f
+| region5items=
+| region5description=
+
+| region6name=[[Palau]]
+| region6color=#7fc9ce
+| region6items=
+| region6description=A beautiful nation with a lake full of jellyfish, and much more.
+
+}}
+
+
+{{regionlist
+
+| regionmap=
+| regionmaptext=
+| regionmapsize=
+
+| region7name=[[Guam]] ([[USA]])
+| region7color=#dab86a
+| region7items=
+| region7description=
+
+| region8name=[[Midway Islands]] ([[USA]])
+| region8color=#90b5c9
+| region8items=
+| region8description=
+
+| region9name=[[Wake Island]] ([[USA]])
+| region9color=#f3f7a1
+| region9items=
+| region9description=
+
+}}
+==Cities==
+
+==Other destinations==
+
+==Understand==
+
+==Talk==
+
+==Get in==
+
+==Get around==
+
+==See==
+
+===Itineraries===
+
+==Do==
+
+
+
+==Buy==
+
+
+==Eat==
+
+==Drink==
+
+==Sleep==
+
+==Stay safe==
+
+===Consulates===
+
+* [[Image:sp-flag.png|20px]] <listing name="Spain (Honorary Consulate)" alt="" directions="" address="Kaselehlie St., Pretrick Bldg. no. 2, Kolonia, Pohnpei" phone="+691 320 2876" email="mendez_linda@cnifsm.net" fax="" url="" hours="" price=""></listing>
+
+==Get out==
+
+
+{{IsPartOf|Oceania}}
+{{outline}}
+{{regionguide}}
+
+
+[[de:Mikronesien]]
+[[eo:Mikronezio]]
+[[fr:Micronésie]]
+[[it:Micronesia]]
+[[ja:ミクロネシア]]
+[[nl:Micronesië]]
+[[pt:Micronésia]]
+[[sv:Mikronesien]]
+[[wts:Category:Micronesia]]
+
+
+[[WikiPedia:Micronesia]]
+
+{{disamb}}

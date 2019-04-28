@@ -1,0 +1,441 @@
+{{pagebanner|Uzbekistan Banner.jpg}}
+
+{{quickbar
+| image=Registan sunset.jpg
+| caption=Registan, Samarkand 
+| location=Uzbekistan in its region.svg
+| flag=Flag of Uzbekistan.svg
+| capital=[[Tashkent]]
+| government=Republic; Authoritarian rule
+| currency=Uzbek Som (UZS)
+| area=''total:'' 447,400 km<sup>2</sup><br />''water:'' 22,000 km<sup>2</sup><br />''land:'' 425,400 km<sup>2</sup>
+| population=25,563,441
+| language=Uzbek 74.3%, [[Russian]] 14.2%, Tajik 4.4%, other 7.1%
+| religion=Muslim 88% (mostly Sunnis), Eastern Orthodox 9%, other 3%
+| electricity=220V 50Hz
+| callingcode=998
+| tld=.uz
+| timezone=UTC+5
+}}
+
+
+'''Uzbekistan''' is within the [[South-Central Asia]]n Union and has borders with other member states of [[Afghanistan]], [[Kazakhstan]], [[Kyrgyzstan]], [[Tajikistan]] and [[Turkmenistan]].  It is doubly landlocked, but includes the southern shoreline of the Aral Sea.
+
+==Understand==
+
+The meaning of the name ''Uzbek'' is disputed. One version is that it is derived from Turkic  'uz/öz' ('good' or 'true') and 'bek' ('guardian').
+ 
+===History===
+Uzbekistan is rich in history. Samarkand was conquered by Alexander the Great. Islam was introduced by Arabs in the 8th-9th century. The most famous leader to come from Uzbekistan is Tamerlane who was born in Shahrisabz south of Samarkand. Russia conquered Uzbekistan in the late 19th century. Stiff resistance to the Red Army after World War I was eventually suppressed and a socialist republic set up in 1924. During the Soviet era, intensive production of "white gold" (cotton) and grain led to overuse of age agrochemicals and the depletion of water supplies, which have left the land poisoned and the Aral Sea and certain rivers more than half dry.
+
+Uzbekistan gained independence in 1991, following the break up of the Soviet Union. The country is nominally a democracy, however, from 1991 to 2016 the country was run by President Islam Karimov, whose security services are widely believed to have killed several hundred protesters in [[Andijan]] in 2005 and have been responsible for some severe breaches of the most basic human rights (torture and killings).  Karimov passed away in September 2016, and the country has since been locked in political tensions as individuals are now eager to improve the Uzbek economy and ease its isolated position from the rest of the world. 
+
+The country is extremely wealthy in natural resources, yet very little wealth falls into the hands of the locals.
+
+===Climate===
+Mostly midlatitude desert, long, hot summers, mild winters; semiarid grassland in east.
+
+===Geography===
+Uzbekistan measures 1450 km West to East and 930 km North to South.
+
+Mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo) and Zarafshon; Ferghana Valley in east surrounded by mountainous [[Tajikistan]] and [[Kyrgyzstan]]; shrinking [[Aral Sea]] in west.
+
+* '''Syr Darya''' crosses the Ferghana Valley and runs on the North East edge of the Kizil Kum Desert. It is 2212 km long (3019 km including its source Naryn). In antiquity, it was called ''Jaxartes''. Syr Darya flows into the (smaller) Northern part of the [[Aral Sea]].
+* '''Amu Darya''' rises in the Hindukush and has a length of 2540 km. It was called ''Oxus'' in antiquity. It can be a rapid river in spring and is called ''Dsaihun'' (suffering from rabies) in Arabic. The river has changed its course several times. [[Konye Urgench]] in [[Turkmenistan]], the capital of the old empire of Chwarezm, was situated on the banks of the Amu Darya. Today the distance between the river and the old city is about 40 km. Amu Darya flows into the (bigger) Southern part of the [[Aral Sea]].
+
+===Holidays===
+{{ramadandates}}
+
+Jan 1  New Year (''Yangi Yil Bayrami'')
+
+Mar 8 International Women's Day (''Xalqaro Xotin-Qizlar Kuni'')
+
+Mar 21 Navroz [http://www.roxanatour.com/uzbekistan/tour/navruz-in-uzbekistan.html] (Persian New Year) (''Navro'z Bayrami'')  
+
+May 9  Remembrance Day, Peace Day or Liberation Day  (''Xotira va Qadirlash Kuni''), remembering that Uzbek troups participated in the Soviet army and that 500.000 Uzbek soldiers were killed in World War II.
+ 
+Sep 1  Independence Day (''Mustaqillik Kuni''), remembering the proclamation of independence from the Soviet Union in 1991
+
+Oct 1  Teachers' Day (''O'qituvchi va Murabbiylar Kuni'')
+
+Dec 8  Constitution Day (''Konstitutsiya Kuni''), remembering the proclamation of the first constitution of independent Uzbekistan in 1992.
+
+Holidays in accordance with the lunar year: the dates of these holidays vary according to the lunar calendar.
+* ''Kurban Kait'' (Qurbon Hayit) 
+* '''Ramadan''' (''Ramazon Hayit''), (Islamic fasting month)
+
+==Regions==
+
+{{Regionlist
+| regionmap=Uzbekistan regions map.png
+| regionmaptext=
+| regionmapsize=400px
+
+| region1name=[[Ferghana Valley (Uzbekistan)|Ferghana Valley]]
+| region1color=#d39f76
+| region1items=
+| region1description=The most fertile and populous part of the country, but also its most unstable with different ethnic groups like Uzbek and Kyrgyz having disputes.
+
+| region2name=[[Northern Uzbekistan]]
+| region2color=#c0bb9f
+| region2items=
+| region2description=Geographically dominated by the vast red sands of the seemingly endless Kyzylkum Desert and politically dominated by Qaraqalpaqstan, the vast autonomous republic of the Qaraqalpaqs, Uzbekistan's North is most notable in travel circles for the ancient Silk Road city of Khiva, and for the dying Aral Sea.
+
+| region3name=[[Samarkand through Bukhara]]
+| region3color=#d0b065
+| region3items=
+| region3description=This is truly the heart of the [[Silk Road]], the passage along the Zeravshan River valley through Central Asia's most important historical cities of [[Samarkand]] and [[Bukhara]] and heavily populated mainly with Ethnic Tajiks.
+
+| region4name=[[Southern Uzbekistan]]
+| region4color=#bbcd83
+| region4items=
+| region4description=The one mountainous part of the country, where Uzbekistan meets the mighty Pamir Mountains, is heavily ethnic Tajik.
+
+| region5name=[[Tashkent Region]]
+| region5color=#969cce
+| region5items=
+| region5description=The political and economic center of the country, surrounding the capital, [[Tashkent]].
+
+}}
+
+==Cities== 
+* [[Tashkent]] &mdash; the modern capital and largest city.
+* [[Ferghana]] &mdash; Center of the Ferghana valley and one of the important industrial cities.
+* [[Andijan]] &mdash; Uzbekistan's fourth largest city, right in the heart of the vibrant but combustible Ferghana Valley.
+* [[Bukhara]] &mdash; a legendary Silk Road capital, 2,500 years old, the historical center of which is a [[UNESCO World Heritage list|UNESCO World Heritage site]] filled with magnificent examples of monumental, medieval Islamic and Central Asian architecture.
+* [[Khiva]], site of the [[Itchan Kala]]
+* [[Namangan]] &mdash; the third largest city, at the northern edge of the Ferghana Valley.
+* [[Nukus]] &mdash; the capital of Qaraqalpaqstan on the Amu Darya, surrounded by a region devastated by the environmental degradation wrought by the drying of the Aral Sea.
+* [[Samarkand]] &mdash; the nation's second largest city, the whole of which is a UNESCO World Heritage site, home to the most famous Silk Road attraction of them all, the Registan.
+* [[Shakhrisabz]] &mdash; a small city, whose historical center is a UNESCO World Heritage site for its impressive monuments from the Timurid Dynasty.
+* [[Termez]] &mdash; the southernmost city near the border with [[Afghanistan]], named by Alexander the Great's forces for the intense temperatures they found here (''thermos'' = hot).
+
+Several of these were once great trading cities on the [[Silk Road]].
+
+==Other destinations== 
+*[[Aral Sea]] &mdash; a lesson in the perils of environmental degradation, the drying of the Aral Sea has ravaged a region roughly the size of [[Germany]] with disease, birth defects, agricultural and economic devastation, and one-time cargo ships lying on their side in the dust.
+
+==Get in== 
+
+From July 2018 there is an e-visa system for most countries [http://evisa.mfa.uz/evisa_en/ Uzbek e.visa].  20 US dollars.
+
+From 10 February 2018, citizens of Israel, Indonesia, the Republic of Korea, Malaysia, Singapore, Turkey and Japan can visit Uzbekistan without visas for the period of 30 days.
+
+From 15 July 2018, citizens of the 102 countries are allowed to stay up to 5 days in Uzbekistan without a visa if they are transiting through the international airports of Uzbekistan but for now(10.09.2018) your both tickets should be purchased from Uzbekistan Airways otherwise you will be rejected. To obtain a transit visa, airlines should provide information about a tourist in advance to Border security of State Security Service and Uzbekistan Airlines is the only which does so. If you fly with another airlines you have to check with your airlines before check-in if they provide such information.   
+
+Visas are required for everyone apart from passport holders of CIS countries.  A 'Letter of Invitation' (LOI) is no longer required by citizens of Austria, Belgium, Czech Republic, Canada, France, Germany, Italy, Japan, Latvia, Malaysia, Spain, Switzerland, United Kingdom, and United States, but is still required for most others under the [http://mfa.uz/en/consular/ simplified visa procedure]. (As of April 2017, letters of invitation were required.) Update: Since July 2017, Uzbekistan offers a full online process for certain citizens that wish to apply for a visa. The eVisa can be applied or on the [https://e-visa.gov.uz/main governments website]. You can find detailed description as well as a lot of usefull information regarding the Uzbekistan eVisa on [https://www.uzbekistanvisa.org this website].
+Uzbekistan has an agreement with other embassies such as Georgian embassy , Russian embassy and Kazakhastan embassy wich can issue visas in some cases under request.
+
+To apply for a visa complete the application form from [http://evisa.mfa.uz/ here], print out the resulting pdf and take to your printed form, together with some photos and a photocopy of your passport to your nearest Uzbek embassy. They will then ask the MFA in Tashkent for permission to issue a visa, which takes 7-14 days. Once this permission is granted you can pick up your visa.  To avoid 2 trips to the embassy you can get an LOI in advance (by email) and once approval has been granted you can pick up your visa from your chosen embassy in only 1 visit - this is handy for people travelling who want to pick up a visa 'on the go'. A [https://globalconnect.uz/letter-of-invitation-to-uzbekistan LOI] can be obtained from travel companies (sometimes a hotel booking is required) or from many hotels (ask in advance). The LOI will typically cost US$30-40 for a short stay. Do inform the LOI issuing agency if you require single or double entry visa as this needs to be stated in the LOI. For the latest information see the website of the Ministry of Foreign Affairs [http://mfa.uz/en/].
+
+In the UK, you need to submit 2 copies of a visa application with passport photos attached, a printed confirmation of your visa payment (a bank transfer to the consul's bank account), your passport, and photocopies of your passport. Contrary to the advice on their [[uzbekembassy.org/e/visas_for_tourists/|website]], you do not need to send every photocopied page, including blank pages. Simply sending the pages that have passport stamps is enough. 
+
+Within 3 days of entrance to the country, you need to make registration, an official statement, indicating the address you are staying at. If you stay at reasonable hotels, they will do it by default, however if you stay at a house, you will face a lot of bureaucratic paperworks in order to register yourself.  Border officials often do not ask for these if you are friendly but they could and the fines can be stiff.  If you are, say, travelling by bicycle and cannot make it to a registered hotel every night, just try to register when you can and avoid large gaps.  Most immigrations officials will understand that you tried.  An overwhelming number of foreigners who experience registration repercussions do so in Tashkent.  Many of these cases involve an attempt to do something obviously illegal such as purchase registration slips from hotels, who in turn call the police.  If you are concerned, just avoid Tashkent.
+
+When you enter Uzbekistan expect fairly lengthy immigration and passport procedures, but these are fairly painless. In particular you will be asked to declare all the money you are bringing into the country - don't worry about this - declare everything you have and make sure you have less money when you leave. The Uzbek govt don't want precious foreign currency leaving the country. Also ensure that this declaration is made in duplicate and to keep one copy of the declaration form with you, duly signed and stamped by the customs official as this will be required at the time of departure as a proof of money that you brought in. The rest of the declaration sections is straightforward - apart from a confusingly-worded "Availability of baggage" option to answer 'Yes' or 'No' to. If you have any hand or hold luggage you can mark this 'Yes'. ***UPDATE 2018***: As of 2018, there is no customs check if arriving by plane. Customs doesn't check how much money you bring in any longer. There is still a $2000 limit but customs also doesn't check when you depart either so the limit doesn't matter unless you make it hard for yourself by voluntarily declaring you have more than $2000.
+
+''Travel permits'' are required for the mountain areas near the border to [[Tajikistan]] and [[Kyrgyzstan]], including great parts of the ''Ugam-Chatkal National Park'' and ''Zaamin National Park''.
+
+===By plane===
+
+[[Tashkent]], ({{IATA|TAS}}, {{ICAO|UTTT}}), is the main international airport of Uzbekistan. The airport itself is reasonably modern and has various international carriers operating as well as the national '''Uzbekistan Airways''' [http://www.uzairways.com/index.aspx].  Though the airport infrastructure is good, the staff is not.  Expect pointless bureaucracy and an unhelpful attitude from most of them.  Baggage claim and customs procedures can be time-consuming - allow two hours.
+
+There are airports at [[Andijan]], [[Bukhara]], [[Ferghana]], [[Karshi]], [[Namangan]], [[Nukus]], [[Samarkand]], [[Tashkent]], [[Termez]] and [[Urgench]].
+
+===By train=== 
+
+Usable passenger services only exist to [[Kazakhstan]] and via Kazakhstan to [[Russia]] and [[Ukraine]]. These include the following trains:
+
+* Tashkent - Moscow (3 times weekly): Train 6 ''Uzbekistan'' leaves [[Moscow]] on Mon, Wed and Fri at 23:15 and arrives in [[Tashkent]] at 22:35 on Wed, Fri and Sun. The distance from [[Moscow]] to [[Tashkent]] by rail is 3,369 km.
+
+* Tashkent - Ufa (3 times weekly)
+
+* Tashkent - Celjabinsk (once weekly)
+
+* Tashkent - Kharkov (once weekly)- This train is suspended since war broke out in Eastern Ukraine.
+
+* Tashkent - Saratov (every 4 days)
+
+* Nukus - Tashkent - Almaty (once weekly)
+
+There are also railway lines linking Uzbekistan to [[Turkmenistan]] and [[Tajikistan]]. However, service to [[Turkmenistan]] is suspended.
+
+Note that the train cars are very old, built during the former Soviet Union. The equipment is outdated and mostly on the life support, there are no showers, the toilets are small and dirty, and there is no air conditioning. Even the undocumented Uzbek workers in Moscow typically fly home instead of taking a train. Only consider this option if you have taken the regional trains in Russia and know what you're getting into.
+
+===By car===
+
+There are roads from surrounding countries but the borders may not be open and there have been security problems. There is a risk of land mines in some border areas.
+
+===From Afghanistan===
+
+The Friendship Bridge, 10 km south of [[Termiz]], links [[Afghanistan]] with [[Uzbekistan]].
+
+===From Kazakhstan===
+
+There are three main border crossings between [[Kazakhstan]] and [[Uzbekistan]] :
+
+* ''Gisht Kuprik (Chernyaevka)'' between [[Shymkent]] and [[Tashkent]] is the main road crossing between [[Kazakhstan]] and [[Uzbekistan]] . A shared taxi or marschrutka from Kolos bus stop at [[Shymkent]] to the border costs about US$ 4. The trip takes about 1 hour. The border is open 7am to 9pm (Tashkent time). You will have to walk over the border and to take a taxi from the border to [[Tashkent]], which will cost about UZS 6000. There are reports of waiting times up to 5 or 6 hours at the border. 
+
+* There is another crossing between ''Beyneu'' in Western [[Kazakhstan]] and ''Kungrad'' in [[Uzbekistan]].  
+
+* And another crossing that allows vehicles through at ''Chinaz'' in [[Uzbekistan]].  This is a good option if you are looking to avoid Tashkent.  Very disorganized border, but friendly.
+
+===From Kyrgyzstan===
+
+* Busses from ''[[Bishkek]]'' to [[Uzbekistan]] stop at ''Gisht Kuprik (Chernyaevka)'' border. You will have to take a taxi from the border to [[Tashkent]] for UZS 6000. A transit visum for [[Kazakhstan]] is required. 
+* You can take a taxi or minibus from ''Jalal Abad'' to ''Khanabad'' (20som) and walk over the border.
+* You can take a taxi (50som) or minibus (5 som) from ''Osh'' to ''Dustlyk (Dostyk)'' and a shared taxi from there to [[Andijan]] in [[Uzbekistan]]
+
+===From Tajikistan===
+It is about 55 km from [[Dushanbe]] to the border at ''Denau''. Taxis depart from Zarnisar Bazaar in [[Dushanbe]]. A seat in a taxi will cost about 8TJS and the trip will take about 90 minutes. There are Miníbusses from the border to the town of Denau. From there you will have to take a shared taxi to [[Samarkand]].
+
+You will have to take a shared taxi from [[Penjikent]] to the Tajik-Uzbek border (5 TJS, 22 km) and another one from the border to [[Samarkand]] (about 50 km).
+
+===By bus=== 
+
+When land borders are open, buses run to all neighbouring countries.
+
+===By boat===
+
+Apart from the southern section of the inland Aral sea, Uzbekistan is land-locked.
+
+==Get around==
+===By train===
+The main line Tashkent - Samarkand - Bukhara is served by two express trains named "Registon" and "Sharq": The "Registon" brings you from Tashkent in less than 4 hours to Samarkand and the "Sharq" makes the 600-km-journey Tashkent - Bukhara (with intermediate stop in Samarkand) in about 7,5 hours. A daily overnight train from Tashkent to Bukhara offers the possibility to travel during the night and win one day. Comfortable sleeping cars allow a good sleep.
+
+Recently a new train "Afrosiob" started operating on Tashkent - Samarkand line.  This Talgo-250-type train makes a respective distance in 2 hours time.  Unlike to ordinary local trains, there are 3 classes in "Afrosiob": economy class - 36 persons per carriage room, in business and VIP. Economy class costs 46 thousand soums (roughtly $25 at official rate), business class - 65 thousand soums and VIP - 80 thousand soums. You may also expect some free drinks and snacks.  It is planned to extend the "Afrosiob" line to Bukhara and, subsequently, to Khiva by 2014-2015.
+
+Overnight trains also run from Tashkent and Samarkand to Urgench (3 times weekly) and to Nukus - Kungrad (2 times weekly), so it's also possible to travel to Khiva (30 kilometers from Urgench, taxi/bus available) or to the Aral lake (Moynaq, 70 km from Kungrad) by train.
+
+There are three types of trains:
+*'''fast trains (tezyurar poyezd)''' or express trains (train nos 1 to 149)
+*'''high-speed trains (yuqori tezlikdagi poyezd)''' (train nos 151 to 169), and
+*'''passenger trains (yo'lovchi tashuvchi poyezd)''' (train nos 171 to 699).
+
+There are four types of sleepers:
+*'''soft wagon (alohida xonali vagon)''' - 2 berth compartments
+*'''kupeli vagon''' - 4 berth compartments
+*'''platskart vagon''' - benches in a large car
+*'''umumiy vagon''' - don't take that one
+
+===By shared taxi===
+The second best option, and an experience. Don't be put off - these are pretty safe as far as the people go, the roads are a different story - when they exist!  But for getting between Nukus and Khiva, or Khiva to Urgench to Bukhara, this is the only realistic way to go.
+
+The taxi driver will have a destination city - so at the ranks ask around for the city you're headed to.  If you match, you then negotiate a rate.  Ask around beforehand, you can quite easily get ripped off, because each passenger negotiates separately with the driver, so he can charge locals normal rates and take you for all you have. Rates are roughly $3 for a shared journey of about 200 km and about $10-15 to travel from Tashkent to Bukhara by shared taxi. These rates can vary based on time of day or year.
+
+Once you've done that, you wait. The car only leaves when full, or when the driver gets bored enough.  If possible, get thr front passenger seat - 'only a lemon takes the middle seat'.  Don't be polite about this - you do NOT want that middle seat.  When it's 50C+ in the middle of the desert, with no airconditioning (you pay extra for a car with that), you want to be as close to a window as possible, and with only one person sweating against you!
+
+Also, the roads are slow and sometimes barely existent - dirt tracks with potholes.  It takes 6-8 hours from Urgench to Bukhara if you're lucky.  Still, the car will probably make it - when you do this section you'll understand why you don't want to risk the bus.
+
+===By bus===
+Bus travel is only for the truly adventurous and not for anyone in a hurry in Uzbekistan.  But City buses faultlessly pure and many city buses of the Mersedes-Benz brand (European quality). If you do travel any distance on a bus in Uzbekistan, take toilet paper with you and be careful what you eat at stops along the way.
+
+===Others===
+You can travel by private taxi, minibus, or normal bus. While there are official taxis, most cars will become taxis if you wave them down. Meters are rare, so negotiate the price beforehand.
+===By car===
+Drive on the right. International driving permit required. Minimum age: 17. Speed limit: 60 to 80 km/h in urban areas, 90 km/h on highways.
+
+There are several paved highways with two lanes in Uzbekistan: 
+* '''AH5''' from Gishtkuprik/Chernyavka on the border to [[Kazakhstan]] via [[Tashkent]], Syrdaria, [[Samarkand]], Navoi and [[Bukhara]] to Alat on the border to [[Turkmenistan]] (680 km), 
+* '''AH7''' from the border to [[Kyrgysztan]] via Andijon, [[Tashkent]] and Syrdaria to Xovos/Khavast on the border to [[Tajikistan]] (530 km), 
+* '''AH62''' from Gishtkuprik/Chernyavka on the border to [[Kazakhstan]] via [[Tashkent]], Syrdaria, [[Samarkand]] and Guzar to [[Termez]] on the border to [[Afghanistan]] (380 km), 
+* '''AH63''' from Oazis on the border to [[Kazakhstan]] in the North West of Uzbekistan via Nukus and [[Bukhara]] to Guzar (950 km paved road, 240 km unpaved)
+* '''AH65''' from Uzun on the border to [[Tajikistan]] to [[Termez]] on the border to [[Afghanistan]] (180 km)
+
+===Urban transport===
+
+During the day the metro (underground train) is the good option. After 12 midnight you are recommended to use taxi services. It is better to call the taxi (car-service) to pick you up in advance. Some car-services can serve the foreign speaking tourists. You can get more information in the hotel.
+
+==Talk== 
+The majority of citizens are ethnic Uzbeks and most speak '''[[Uzbek phrasebook|Uzbek]]''' - the official language -  as their first language. Uzbek is a Turkic language influenced by Persian, Arabic and Russian, and is written using the Latin script.
+
+[[Russian phrasebook|Russian]] is widely spoken, being the native language of around 14% of the population and spoken by most as a second language, especially in urban areas.
+
+There are also significant numbers of ethnic Tajiks and Kazakhs in Uzbekistan, often speaking their native tongue as a first language. In Samarkand and Bukhara, for instance, one is just as likely to hear [[Tajik phrasebook|Tajik]] being spoken as Uzbek.
+
+In the semi-autonomous region of Karalkalpakstan in western Uzbekistan, the ethnic Karalkalpaks speak their own language, which is related to Kazakh. Many Karalkalpaks also speak Russian.
+
+In the cities, more and more people understand English, especially those in the hotel and catering trades.
+
+==See==
+===Architecture===
+
+Uzbekistan has preserved a rich architectural heritage. The construction of monumental buildings was seen as a matter of prestige, emphasizing the power of the ruling dynasty, leading families and higher clergy. The external appearance of towns was determined to a great extent by their fortifications. The walls were flanked at regular intervals by semicircular towers and the entrances to towns were marked by ''darwazas'' (gates). These gates usually had a high vault and a gallery for lookout and were flanked by two mighty towers. The doors were closed at night and in case of danger. Along the main streets were rows of shops, specialized in different goods and many skilled craftsmen had their workshops in these stalls. The most important covered markets are called ''tag'', ''tim'' or ''bazaars' (shopping passages) and ''charsu'' (crossroads, literally "four directions"). In big cities the ''ark'' (fortress) was the administrative center. It contained the emir's palace, chancellery, treasury, arsenal and the jail for high-ranking prisoners. The towns also had large public centers, consisting of a ''maydan'' (open square) surrounded by large buildings for civil or religious purposes. 
+
+====Religious buildings====
+
+* The '''Friday Mosque (Masjid-i Juma)''' is located in the town. It had a spacious courtyard with a surrounding gallery and a ''maqbara'' (screened-off enclosure) in the main axis. A typical example is the ''Kalan Mosque'' at ''Bukhara''. 
+* The '''Oratory Mosque (Namazgah)''' is situated outside of the town. Prayers at two important Muslim festivals were conducted in public. The worshippers gathered in an open space in front of the building where the ''minbar'' (imam's pulpit) stood.
+* The '''Neighbourhood Mosque''' was smaller in size and consisted of a covered hall with the ''mihrab'' and an exterior gallery with columns. They were built from donations of the inhabitants of the neighbourhood and are often richly decorated. An example of this type is the ''Baland (Boland) Mosque'' at ''Bukhara''.
+* The '''Madrasa''' is an institition for higher education of ''ulama'' (Islamic scholars). The madrasa has a courtyard with two or four aywand (arched portals) on the axes which were used as classrooms in the summer, a row of cells on one or two floors, ''darskhana'' (lecture rooms) in two or four corners and a mosque for daily prayer. The main facade has a high portal with two or four minaret-like towers at the corners of the building. Madrasas from the 16th and 17th cent. which have been preserved are ''Madar-Khan'', ''Abdullah Khan'', ''Kukaldash'', ''Nadir Devan Begi'' and ''Abdul Aziz Khan'' at ''Bukhara'', ''Sher-Dor'' and ''Tilla-Kari'' at ''Samarkand'', ''Kukaldash'' and ''Baraq Khan'' in ''Tashkent'', ''Said Ataliq'' at ''Denau'' and ''Mir Rajab Dotha'' at ''Kanibadam''. Madrasas built in the 18th and 19th cent. include ''Narbuta Bi'' at ''Kokand'', ''Qutlugh Murad Inaq'', ''Khojamberdybii'', ''Khoja Moharram'', ''Musa Tura'' and ''Allah-Quli Khan'' in ''Khiva''.
+* The '''Khanaqah''' was originally a guest house for travelling Sufis near the residence of their ''pir'' (spiritual masters). Under the Timurids they became meeting places of the followers of a Sufi order, attended by representatives of the ruling elite and often a ''zikr-khana'' (room for exposition and Sufi rites) was added. Examples of khanaqas from the 16th and 17th cent include ''Zaynuddin'', ''Fayzabad'', ''Bahaudin'' and ''Nadi Divan-Begi'' at ''Bukhara'', ''Mulla Mir'' near ''Ramitan'', ''Qasim Shaiykh'' at ''Karmana'' and ''Imam Bahra'' near ''Khatirchi''.
+* '''Memorial buildings''' were erected in the 14th and 15th cent for ''Temur'' and his family, e.g. ''Gur-Amir'' and ''Shah-i Zinda'' at Samarkand and at ''Shakrizabs''. In the 16th and 17th cent. fewer mausoleums were built. An example from this period is the ''Qafal Shashi Mausoleum'' in ''Tashkent''. Monumental buildings were often erected near holy tombs. At ''Bukhara'' a monumental kanaqah was built near the founder of the Naqshbandi order, ''Bahauddein'' and at ''Char Bakr'', the family necropolis of the powerful Juybari shaykhs. From the 16th cent. onwards mauseoleums for rulers were no longer built. The rulers were interred in madrasas, the ''Shaybanids'' of ''Samarkand'' in the ''Abu Said Mausoleum'' on the ''Registan'', ''Ubaydullah Khan'' from ''Bukhara'' in the ''Mir-i Arab Madrasa'' and ''Abdul Aziz Khan'' in the ''Abdul Aziz Madrasa''.
+
+====Civic architecture====
+* '''Market buildings (Charsu, Tim, Taq)''' form the very heart of an oriental town. The ''charsu'' is a building covered by a central dome, standing at the crossroads, surrounded by shops and workshops covered by small domes. The ''tim'' is a trading passage and the ''taq'' a domed building on a smaller scale built at the intersection of major streets. At ''Bukhara'' the ''Taq-i Zargaran (Goldsmiths' Dome)'' has an octagonal central space covered by a dome set on 32 intersecting arches. Shops and workshops around the central space are toppes by small domes. 
+* '''Caravanserais''' played an important role along the trade routes. According to the traditional plan a caravanserai is a rectangular building with a large courtyard, galleries for animals and baggage, lodgings for the travellers and a mosque. The outer walls were high and thick, the entrance was well guarded and at the corners there were towers for defense. The best example is at ''Rabat al-Malik''. A small number of caravanserais have survived, partly in ruins, e.g. the caravanserai near the ''Qaraul Bazar'' on the road from ''Bukhara'' to ''Karshi'', the ''Abdullah Khan caravanserai'' on the road from ''Karshi'' to ''Termez''.
+* '''Bathhouses''' from the 16th and 17th cent. have been preserved at ''Samarkand'', ''Sahrh-i Sabz'', ''Bukhara'' and ''Tashkent''. They are heated by a system of channels under the floor, distributing the heat uniformly through the whole building. Some of them have rooms for disrobing, hot and cold rooms, a massage room or a water closet. Bathhouses are covered with domes which give them their characteristic external appearance.
+
+====Architectural Ensembles====
+* The '''Pay-i Kalan (Pedestal of the Great''' at ''Bukhara'',
+* The '''Kosh Madrasa''' at ''Bukhara'',
+* The '''Lab-i Hauz''' at ''Bukhara'',
+* The '''Registan''' at ''Samarkand''
+* The '''Char-Bakr Complex''' at Sumitan, outside of ''Bukhara''
+
+===Nature Reserves===
+*<see name="Jeyran Ecological Centre" alt="" address="" directions="40 km from Bukhara " phone="" url="" hours="" price="" lat="" long="">The ''jeyran'' (Central Asian gazelle) was hunted in the last century by men in jeeps and helicopters. Today, the Uzbekistan jeyran is included in the Red Book of Endangered Species). The Jeyran ecological centre was founded about 1985 and is the only one of its kind in Central Asia. At the beginning 42 jeyrans were brought here, but today 700 unique animals live here in a fenced area of 5000 hectares. Besides jeyrans, ''Prezhevalskiy horses'' and ''koulans'' are bred in the reserve.</see>
+*<see name="Kitab State Geological Reserve" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long=""></see>
+*<see name="Kyzylkum Tugai and Sand Reserve" alt="" address="" directions="in the north-west of Bukhara Province" phone="" url="" hours="" price="" lat="" long="">The reserve was founded in 1971. It covers the flood-lands of the  Amu Darya river and the sand-dune desert near-by. The riverside vegetation occupies an area of 3177 hectares and the sand area is 2544 hectares. The best time to visit the reserve is spring. According to ornithologists  there are 190 species of birds in the reserve, including herons, river terns, wild ducks, sandpipers NS turtle-doves. The reserve has a lush flora of poplars, silver oleasters and riverside willows. Deer, wild boars, wolves, jackals, foxes, hares and reed cats live on the tugai woods and zhe population of jeyrans is being restored. </see>
+*<see name="Nuratau-Kyzylkum Biospheric Reserve" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">The Nuratau-Kyzylkum Biospheric Reserve is being implemented by the government of Uzbekistan, Global Ecology Fund and UN Development Program and co-financed by German Union of Nature Protection. The reserve lies between the desert and mountain systems of Central Asia. It consists of the southern part of the Kyzylkum Desert, lakes Aydarkul and Tuzgan and the mountain ridges of Nuratau and Koitash. The existing ''Nurata Reserve'' and ''Arnasay Ornithological Reserve'' on Lake Tuzgan will be integrated into the new Nuratau-Kyzylkum Biospheric Reserve. Among the animals integtrated in the Red Book of Endagered Species are the ''Severtsev ram'' or Kyzylkum ram, golden eagle, bearded and black griffon-vulture. In the reserve are  rare sorts of walnut-trees, Central Asian juniper, Bukhara almond-trees, pistachio-trees, wild vines, apricot-trees, apple-trees and various sorts of dog-roses. Nuratau-Kyzylkum Biospheric Reserve will be included in the UNESCO global list of biosphere reserves. The experiences will be used in founding biosphere reserves in the Central Kyzylkum Desert, Southern Ustyurt Desert and the tugai woods of the river Amu Darya. 
+</see>
+*<see name="Ugam-Chatkal National Park" alt="" address="" directions="in the spurs of the Western Tien Shan, about 80 km from Tashkent" phone="" url="" hours="" price="" lat="" long="">Ugam-Chatkal National Park is one of the oldest nature reserves in Uzbekistan, founded in 1947. The Western Tien Shan is the natural habitat to 44 species of mammals, 230 species of birds and 1168 species of plants including several endemic plants. In the National Park live white-claw bears, wolves, Tien Shan foxes, red marmots, stone-martens, Turkestan lynx, snow leopards, wild boars, badgers,  Siberian roes, mountain goats and Tien Shan wild rams as well as  wild turkeys, mountain partridges, golden eagles, bearded and eagle vultures. The slopes of the Pskem ridge are covered with walnut-trees, wild fruit trees and wild bushes. The banks of the river are occupied by archa (Central Asian juniper). The ''Chimgan-Charvak-Beldersay Resort Zone'', covering an area 100,000 hectares, has three health-recreation complexes: 'Charvak', 'Chimgan' and 'Beldersay'.</see>
+
+==Do==
+*<do name="Camel trekking" alt="" address="" directions="in the yurt camps at Lake Aidarkul or Ayaz-Quala" phone="" url="" hours="" price="" lat="" long=""></do>
+*<do name="Bird watching" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long=""></do>
+*<do name="Trekking" alt="" address="" directions="in the Ugam Chatkal National Park" phone="" url="" hours="" price="" lat="" long=""></do>
+*<do name="Rafting" alt="" address="" directions="in the Chatkal or Syr-Darya Rivers " phone="" url="" hours="" price="" lat="" long=""></do>
+*<do name="Skiing" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long=""></do>
+
+==Buy==
+Uzbekistan had for a long time found itself in the curious position of having a large current account surplus (from the sale of gas) ''and'' a black market / parallel exchange rate (the Uzbek som isn't freely convertible). 
+
+However as of September 2017, the government has partly liberalised the exchange rate system, with the official rate changing from US$1: UZS4,200 to US$1: UZS8,100, better than the black market rate of around UZS7,700.
+
+However, it is early days, and travelers should still bring cash for their entire trip. U.S. Dollars are best but Euros are also easy to change. It remains to be seen if informal money changers disappear, or whether a black market will continue. You may still hear prices quoted in dollars but it is important to ask if these represent the bank or "official" rate or the market or "black market" rate. 
+
+The most popular note is still the 1000 som, so be prepared to carry around stacks of money. Money changers can be found at the entrances to most bazaars, on major tourist streets, mobile phone stores or small grocery shops. Hotels can also usually arrange transfers, although this rate may be less-than-ideal. Usually some negotiation is recommended for exchanging, although you generally won't save more than a few percentage points.
+
+ATMs exist. Some are empty, while others dispense som at the official bank rate. Far more useful are the couple of dollar ATMs that exist in Samarkand and Tashkent. Banks and some stores will do dollar advances with a commission that ranges from 1 to 4 percent. 
+
+The amount of cash is declared both entering and leaving the country. Make sure the amount held when exiting is less than with entering or prepare for questions from customs officials. An ATM or bank slip may help.
+
+Prices on the street and in craft stores tend to be flexible. Be ready to bargain. Prices in big department stores and grocery stores are fixed.
+
+Bazaars are the best place to observe the daily life of the locals. The ''Oloy bozori'' is one of the oldest and most famous bazaars of Central Asia. You will find beautiful rugs, silk, spices, handicrafts and traditional clothes in the ''Eski Juva'' and ''ChorSu'' bazaars in the Old City of Tashkent.
+
+Typical souvenirs are:
+* '''babaichik''', figurines,
+* '''tubeteika''', traditional Uzbek caps and
+* '''Shiljait''', Shilajit means "Conqueror of mountains and destroyer of weakness". It is used in Ayurvedic medicine as an herbal rejuvenator, nerve tonic and natural stimulator.
+*<buy name="" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">'''World class collection of Art''' at the Nukus Museum-Savitsky Collection.</buy>
+
+==Eat==
+When you go to restaurants, always ask for menu or price if they do not provide one. While some of the well-established restaurants are surprisingly good value by Western standard, some of the random or less popular restaurants try to take advantage of tourists by ripping off up to 5 times of normal price. 
+* '''Osh (Plov)''' is the national dish. It's made of rice, carrots, onions, and mutton, and you will eat it if you go to Uzbekistan. Each region has its own way of cooking plov, so you should taste it in different places. According to the legend plov was invented by the cooks of ''Alexander the Great''. Plov can also be made with peas, carrots, raisins, dried apricots, pumpkins or quinces. Often spices as peppers, crushed or dried tomatoes are added. 
+
+* '''Chuchvara''' - similar to ravioli and stuffed with mutton and onions (aka 'pelmeni' in Russian).
+
+* '''Manti''' - lamb and onion filled dumpling-like food, often with onions, peppers and mutton fat.
+
+* '''Somsa''', which are pastry pockets filled with beef, mutton, pumpkin or potatoes. In spring time "green somsas" are made from so-called "yalpiz" a kind of grass which grows in the mountains and in rural parts of regions. And the amazing thing is people just pick them up for free and make tasty somsas. You can find somsas being cooked and sold on the streets. 
+
+* '''Lagman''' - thick soup with meat, potatoes, spices, vegetables and pasta. By right, it should include 50 ingredients. Often carrot, red beet, cabbage, radish, garlic, tomatoes, peppers and onions are added. The noodles should be very thin. 
+
+* '''Shashlik''' - grilled meat. Usually served only with onions. Veal or mutton is marinated in salt, peppers and vinegar and eight to ten pieces of meat are grilled on a spit over the open fire.
+
+* '''Bread''' - Uzbeks eat lots of bread (in uzbek its called ''non''). Round bread is called ''lepioshka''. You can buy it anywhere, while in the bazar it costs around 400 sum. Samarkand is very famous for the bread. The characteristic Samarkand bread ''obi-non'' is traditionally baked in clay furnaces. Bread is served to every meal. 
+
+*<eat name="Mastava" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">rice soup with pieces of onion, carrots, tomatoes, peas and eventually wild plums</eat>
+*<eat name="Shurpa" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="">soup of mutton (sometimes beef), vegetables</eat>
+*<eat name="Beshbarmak" alt="" address="" directions="" phone="" url="" hours="" price="" lat="" long="a speciality of the nomad kazakhs, made of boiled meat of sheep or beef, pieces of liver, served with opnions, potatoes and noodles">a speciality of the nomad Kazakhs, boiled meat of sheep or ox and pieces of liver, served with onions, potatoes and noodles</eat>
+
+Being an historic crossroads and part of numerous empires, Uzbek food is very eclectic in its origins. Indian, Iranian, Arab, Russian, and Chinese influences are present in this unique cuisine.
+
+==Drink==
+Tea, particularly green tea, is a national drink of Uzbekistan. Vodka is also famous though, as a result of more than a century of Russian domination of the land.  
+* '''Tea''' is served virtually everywhere: home, office, cafes, etc. Uzbek people drink ''black tea'' in winter and ''green tea'' in summer, instead of water. If tea is served in the traditional manner, the server will pour tea into a cup from the teapot and then pour the tea back into the teapot. This action is repeated three times. These repetitions symbolize loy (clay) which seals thirst, moy (grease) which isolates from the cold and the danger and tchai (tea or water) which extinguishes the fire. If you are being served tea in an Uzbek home, the host will attempt at all times to make sure your cup is always filled. If the host stops filling your cup, it probably means that it is time for you to leave, but this occurs really rarely, because Uzbeks are very hospitable. The left hand is considered impure. The tea and the cups are given and taken by the right hand.
+A mind-numbing variety of brands of wine and '''vodka''' are available almost everywhere. 
+* '''Wine''' produced in Uzbekistan has won numerous international prestigious awards for a high quality. There's nothing to wonder about, since sun in this country shines almost every day. Although Uzbekistan is predominately Muslim, for the most part the Islam practiced there tends to be more cultural than religious.
+* '''Beer''' is available in every shop and is treated as soft drink and does not require any license to sell. There are special licensed shops selling Vodka, Wine and other Drinks. Russian made vodka is available in only few shops.
+* '''Kimiz''' is an alcoholic, prepared from mares' milk. 
+
+Visitors should consider tap water to be unsafe to drink in regions, while in capital of Uzbekistan the water is safe for drinking. In any case drinking bottled water is advised.
+
+===Nightlife===
+In Tashkent there are various night (dance) clubs and restaurants. They usually work till late night/early morning. Take enough cash because drinks and snacks are much more expensive than in daytime restaurants.
+Also you can find overnight Uzbek "chill-out" restaurants where you enjoy traditional food lying on large wooden sofas (tapchans/suri).
+It is not recommended to hang out on the street or parks after 11 p.m. Even if you do not face problems with criminals you definitely attract unwanted interest of local police (militsiya) patrolling the area.
+
+==Sleep==
+===Hotels===
+There are many hotels in the country. In [[Tashkent]] there are various types of hotels you can stay, it can cost you US$60 and more depending on how much you're willing to pay for your pleasure in hotel.
+
+=== Yurt stays===
+* ''Nurata Yurt Camp'', about 500 km (7 hours drive) from [[Tashkent]], 250 km /3 hours drive) from [[Samarkand]] and [[Buchara]], near Aydakul Lake, US$ 60 per person incl. full board and camel trip. The Yurts can accommodate 8 to 10 people.
+* ''Ayaz Kala Yurt Camp'', about 100 km from [[Khiva]], 70 km from [[Urgench]], 450 km from [[Buchara]] and 150 km from Nukus. phone 2210770, 2210707, 3505909, fax 53243-61. Access from [[Khiva]] and [[Urgench]] is via a pontoon bridge over the Amu Darya River. The yurts are on a hill about 30 meters high, near the archaeological site of Ayaz Kala. The ancient fortresses of Ayaz Kala are nearby. US$ 60 per person incl. three meals. The yurts can accomodate 20 to 25 persons.
+* ''Aydar Yurt Camp'', in the Navoi region in the center of the Kyzyl Kum desert, 10 km from Lake Aydar Kul, approx. N 41.030407, E 66.01324. The Aydar Yurt Camp is famous for camel safaris.
+
+==Learn== 
+
+==Stay safe== 
+
+The areas of Uzbekistan bordering Afghanistan should be avoided for all but essential travel.  Extreme caution should also be exercised in areas of the Ferghana Valley bordering Tajikistan and Kyrgyzstan.  There have been a number of security incidents in this region, as well as several exchanges of gunfire across the Uzbek/Kyrgyz border. Some border areas are also mined. Travellers should therefore avoid these areas and cross only at authorized border crossing points. If visiting mountainous border villages near Tajikistan that don't have official border crossings, one almost always has to register at the local police office, regardless of the nationality. There is a penalty for not doing that. It is also advised to generally not to wander alone along the border during official national holidays, especially Novruz.
+
+For the most part, Uzbekistan is generally safe for visitors, perhaps the by-product of a police state.  There are many anecdotal (and a significant number of documented) reports of an increase in street crime, especially in the larger towns, particularly Tashkent.  This includes an increase in violent crime.  Information on crime is largely available only through word of mouth - both among locals and through the expat community - as the state-controlled press rarely, if ever, reports street crime.  As economic conditions in Uzbekistan continue to deteriorate, street crime is increasing.
+
+{{warningbox|If you are LGBT, stay out of Uzbekistan.  Violence happens towards LGBT in Uzbekistan all the time and police either join in on the violence or turn a blind eye to violence towards LGBT. No businesses are LGBT friendly. '''Uzbekistan imposes criminal punishment as high as the 3-years of imprisonment for homosexuality'''.}}
+
+Normal precautions should be taken, as one would in virtually any country.  Especially in the cities (few travellers will spend much time overnight in the small villages), be careful after dark, avoid unlighted areas, and don't walk alone.  Even during the day, refrain from openly showing significant amounts of cash.  Men should keep wallets in a front pocket and women should keep purses in front of them with a strap around an arm.  Avoid wearing flashy or valuable jewellery which can easily be snatched.
+
+Scams are not unheard of.  One of the most common (and one that is not limited to Uzbekistan) involves a stranger coming up to the victim and saying they have found cash lying on the street.  They will then try to enlist you in a complicated scheme that will result in you "splitting" the cash - of course only after you have put up some of your own.  The entire scenario is ludicrous, but apparently enough greedy foreigners fall for it that it continues.  If someone comes up to you with the "found cash" routine, tell them straight away that you are not interested (in whatever language you choose) and walk away.
+
+Also beware of locals you don't know who offer to show you the "night life."  This should be completely avoided, though some visitors seem to leave their common sense at home.
+
+While all of these precautions should be observed during travel virtually anywhere in the world, for some reason many tourists in Uzbekistan seem to lower their guard.  They should not.
+
+It is also possible that you will be asked by police (Militsiya) for documents.  This doesn't happen often, but it can, and they have a legal right to do so.  By law, you should carry your passport and visa with you in Uzbekistan, as well as the registration (''propiska''), though in practice, it is better to make a color scan of the first two pages of your passport and your Uzbek visa before you arrive.  Carry the colour copies with you when you're walking around, and keep the original documents in the hotel safe.  The scanned documents will almost always suffice. If not, make it clear to the Militsiya officer that he will have to come to your hotel to see the originals.  Unless they have something out of the norm in mind (such as a bribe) they will almost always give you a big smile and tell you to go along.  Always be polite with the Militsiya, but also be firm.  While almost all of them take bribes, they take them from locals.  For the most part, they understand that going too far with a foreigner will only cause them problems, especially if the foreigner is neither being abusive nor quaking with fear.
+
+There is a new decree saying that it is '''prohibited''' in Tashkent to stay at night clubs and such establishments after 23:00, so you better leave before this time unless you want to deal with the local police. 
+
+One note about locals offering to show you around:  It is common for younger Uzbeks (usually male) who speak English to try and "meet" foreigners at local hotels and offer to serve as interpreters and guides.  This is done in daylight and in the open, often in or near some of the smaller but better hotels.  This can be rewarding for both the local and the visitor.  The local is usually trying to improve their English or French (occasionally other languages, but usually English) and to make a few dollars/euros.  If you are approached by a clean-cut person offering such services, and you are interested, question them about their background, what they are proposing to do for you and how much they want to charge you (anywhere between $10-$25 a day is realistic depending on their services and how long they spend with you).  Most of the legitimate offers will be from young people who have studied in the West on exchange programs and/or studied at the University of World Diplomacy and/or Languages in Tashkent.  If everything seems to fit, their language skills are good and they seem eager and polite, but not pushy, you may want to consider this.  They should offer to show you museums, historical sites, cafés, bazaars, cultural advice, generally how to get around, etc.  They should ask you what you want to see and/or do.  Often this works out well.  However, for your and their protection, do not attempt to engage in political discussions of any type. 
+
+Again, if they are proposing "night life" (or related) services, do NOT take up their offers.
+
+==Stay healthy==
+Uzbekistan has not implemented a no-smoking policy in bars and restaurants, unlike many Western countries.  Consequently, enclosed spaces can be very unpleasant for non-smokers, especially in the cold weather.
+
+Fruits and vegetables should be peeled before consumption.
+Avoid drinking Uzbek (locally produced) vodka. Most Uzbek Vodkas can even be dangerous for your health.
+
+==Respect==
+In Uzbekistan, and in Central Asia in general, elderly people are greatly respected. Always treat the elderly with great respect and be deferent to them in all situations.
+Also be polite with women. Traditionally it is not welcomed to flirt openly with women. If you are a man and there is an option to address a man with a question instead of a woman, do so.
+
+==Contact==
+
+Cell phone or mobile connection works in most parts of Uzbekistan and the services are cheap. There are several popular cell/mobile service providers in Uzbekistan - Ucell [http://www.Ucell.uz], Beeline, Perfectum Mobile, UMS. A foreigner can get a SIM card only after showing his passport and registration in the mobile service providers regional main offices. For activating the cell phone connection a person has to be registered. All other vendors are not allowed to sell to foreigners and refuse it.
+
+You can find Internet cafés in most of the cities. Speeds can sometimes be fast but generally speed is relatively slow.
+
+==Further Reading==
+
+Colin Thubron, The Lost Heart of Asia, 1994, Penguin
+{{isPartOf|Central_Asia}}
+{{outline}}
+{{countryguide}}
+
+
+
+[[de:Usbekistan]]
+[[eo:Uzbekio]]
+[[es:Uzbekistán]]
+[[fi:Uzbekistan]]
+[[fr:Ouzbékistan]]
+[[hi:उज़्बेकिस्तान]]
+[[hu:Üzbegisztán]]
+[[it:Uzbekistan]]
+[[ja:ウズベキスタン]]
+[[nl:Oezbekistan]]
+[[pl:Uzbekistan]]
+[[pt:Uzbequistão]]
+[[ru:Узбекистан]]
+[[sv:Uzbekistan]]
+[[zh:烏茲別克]]
+[[wts:Category:Uzbekistan]]
+
+
+[[WikiPedia:Uzbekistan]]
+[[Dmoz:Asia/Uzbekistan/]]
+[[World66:asia/centralasia/uzbekistan]]

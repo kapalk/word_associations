@@ -1,0 +1,13 @@
+venv/*
+
+wa_venv/*
+
+.ipynb_checkpoints/*
+
+.idea/*
+
+*/__pycache__/*
+
+*.pyc
+
+src/cleaned_data/.cache/*
